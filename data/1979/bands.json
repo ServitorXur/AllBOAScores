@@ -1,0 +1,422 @@
+[
+  {
+    "id": "hamilton-h-s",
+    "name": "Hamilton H.S.",
+    "city": null,
+    "state": "WI"
+  },
+  {
+    "id": "oskaloosa-h-s",
+    "name": "Oskaloosa H.S.",
+    "city": null,
+    "state": "IA"
+  },
+  {
+    "id": "wisconsin-lutheran-h-s",
+    "name": "Wisconsin Lutheran H.S.",
+    "city": null,
+    "state": "WI"
+  },
+  {
+    "id": "sun-prairie-h-s",
+    "name": "Sun Prairie H.S.",
+    "city": null,
+    "state": "WI"
+  },
+  {
+    "id": "crystal-lake-h-s",
+    "name": "Crystal Lake H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "chesaning-h-s",
+    "name": "Chesaning H.S.",
+    "city": null,
+    "state": "MI"
+  },
+  {
+    "id": "conant-h-s",
+    "name": "Conant H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "bridgeport-h-s",
+    "name": "Bridgeport H.S.",
+    "city": null,
+    "state": "MI"
+  },
+  {
+    "id": "herscher-h-s",
+    "name": "Herscher H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "rock-falls-h-s",
+    "name": "Rock Falls H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "bishop-mcnamara-h-s",
+    "name": "Bishop McNamara H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "wauwatosa-east-h-s",
+    "name": "Wauwatosa East H.S.",
+    "city": null,
+    "state": "WI"
+  },
+  {
+    "id": "webster-city-h-s",
+    "name": "Webster City H.S.",
+    "city": null,
+    "state": "IA"
+  },
+  {
+    "id": "monticello-h-s",
+    "name": "Monticello H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "lake-park-h-s",
+    "name": "Lake Park H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "verona-h-s",
+    "name": "Verona H.S.",
+    "city": null,
+    "state": "WI"
+  },
+  {
+    "id": "kosciusko-h-s",
+    "name": "Kosciusko H.S.",
+    "city": null,
+    "state": "MS"
+  },
+  {
+    "id": "carroll-h-s",
+    "name": "Carroll H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "oregon-h-s",
+    "name": "Oregon H.S.",
+    "city": null,
+    "state": "WI"
+  },
+  {
+    "id": "haworth-h-s",
+    "name": "Haworth, H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
+    "id": "pearl-h-s",
+    "name": "Pearl H.S.",
+    "city": null,
+    "state": "MS"
+  },
+  {
+    "id": "vicksburg-h-s",
+    "name": "Vicksburg H.S.",
+    "city": null,
+    "state": "MS"
+  },
+  {
+    "id": "jackson-central-merry-h-s",
+    "name": "Jackson Central-Merry H.S.",
+    "city": null,
+    "state": "TN"
+  },
+  {
+    "id": "tate-h-s",
+    "name": "Tate H.S.",
+    "city": null,
+    "state": "FL"
+  },
+  {
+    "id": "fairfield-h-s",
+    "name": "Fairfield H.S.",
+    "city": null,
+    "state": "AL"
+  },
+  {
+    "id": "carthage-h-s",
+    "name": "Carthage H.S.",
+    "city": null,
+    "state": "MS"
+  },
+  {
+    "id": "newton-h-s",
+    "name": "Newton H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "plano-h-s",
+    "name": "Plano H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "union-h-s",
+    "name": "Union H.S.",
+    "city": null,
+    "state": "OK"
+  },
+  {
+    "id": "princeton-h-s",
+    "name": "Princeton H.S.",
+    "city": null,
+    "state": "MN"
+  },
+  {
+    "id": "hilliard-h-s",
+    "name": "Hilliard H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "windber-h-s",
+    "name": "Windber H.S.",
+    "city": null,
+    "state": "PA"
+  },
+  {
+    "id": "sylva-webster-h-s",
+    "name": "Sylva-Webster H.S.",
+    "city": null,
+    "state": "NC"
+  },
+  {
+    "id": "marlington-h-s",
+    "name": "Marlington H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "wilmot-h-s",
+    "name": "Wilmot H.S.",
+    "city": null,
+    "state": "WI"
+  },
+  {
+    "id": "grafton-h-s",
+    "name": "Grafton H.S.",
+    "city": null,
+    "state": "WI"
+  },
+  {
+    "id": "hanover-h-s",
+    "name": "Hanover H.S.",
+    "city": null,
+    "state": "PA"
+  },
+  {
+    "id": "tunstall-h-s",
+    "name": "Tunstall H.S.",
+    "city": null,
+    "state": "VA"
+  },
+  {
+    "id": "hall-h-s",
+    "name": "Hall H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "falls-church-h-s",
+    "name": "Falls Church H.S.",
+    "city": null,
+    "state": "VA"
+  },
+  {
+    "id": "independence-h-s",
+    "name": "Independence H.S.",
+    "city": null,
+    "state": "CA"
+  },
+  {
+    "id": "los-altos-h-s",
+    "name": "Los Altos H.S.",
+    "city": null,
+    "state": "CA"
+  },
+  {
+    "id": "flushing-h-s",
+    "name": "Flushing H.S.",
+    "city": null,
+    "state": "MI"
+  },
+  {
+    "id": "chesterton-h-s",
+    "name": "Chesterton H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
+    "id": "durand-area-h-s",
+    "name": "Durand Area H.S.",
+    "city": null,
+    "state": "MI"
+  },
+  {
+    "id": "columbus-grove-h-s",
+    "name": "Columbus Grove H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "new-philadelphia-h-s",
+    "name": "New Philadelphia H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "cardinal-stritch-h-s",
+    "name": "Cardinal Stritch H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "stapelton-local-h-s",
+    "name": "Stapelton Local H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "lexington-h-s",
+    "name": "Lexington H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "westerville-south-h-s",
+    "name": "Westerville South H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "norwin-h-s",
+    "name": "Norwin H.S.",
+    "city": null,
+    "state": "PA"
+  },
+  {
+    "id": "benedictine-h-s",
+    "name": "Benedictine H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "fremont-ross-h-s",
+    "name": "Fremont Ross H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "norton-h-s",
+    "name": "Norton H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "northern-h-s",
+    "name": "Northern H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "port-huron-northern-h-s",
+    "name": "Port Huron Northern H.S.",
+    "city": null,
+    "state": "MI"
+  },
+  {
+    "id": "northmont-h-s",
+    "name": "Northmont H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "centerville-h-s",
+    "name": "Centerville H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "plymouth-canton-h-s",
+    "name": "Plymouth-Canton H.S.",
+    "city": null,
+    "state": "MI"
+  },
+  {
+    "id": "elyria-h-s",
+    "name": "Elyria H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "benjamin-russell-h-s",
+    "name": "Benjamin Russell H.S.",
+    "city": null,
+    "state": "AL"
+  },
+  {
+    "id": "gadsden-city-h-s",
+    "name": "Gadsden City H.S.",
+    "city": null,
+    "state": "AL"
+  },
+  {
+    "id": "daleville-h-s",
+    "name": "Daleville H.S.",
+    "city": null,
+    "state": "AL"
+  },
+  {
+    "id": "fort-walton-h-s",
+    "name": "Fort Walton H.S.",
+    "city": null,
+    "state": "FL"
+  },
+  {
+    "id": "south-cobb-h-s",
+    "name": "South Cobb H.S.",
+    "city": null,
+    "state": "GA"
+  },
+  {
+    "id": "fultondale-h-s",
+    "name": "Fultondale H.S.",
+    "city": null,
+    "state": "AL"
+  },
+  {
+    "id": "geneva-h-s",
+    "name": "Geneva H.S.",
+    "city": null,
+    "state": "AL"
+  },
+  {
+    "id": "dothan-h-s",
+    "name": "Dothan H.S.",
+    "city": null,
+    "state": "AL"
+  },
+  {
+    "id": "lake-brantley-h-s",
+    "name": "Lake Brantley H.S.",
+    "city": null,
+    "state": "FL"
+  }
+]

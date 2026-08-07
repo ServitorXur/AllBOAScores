@@ -1,0 +1,222 @@
+[
+  {
+    "id": "2004-regional-championship-at-louisville-ky",
+    "season": 2004,
+    "name": "Regional Championship at Louisville, KY",
+    "type": "Regional",
+    "venue": "Papa John's Cardinal Stadium",
+    "date": "2004-09-18",
+    "city": "Louisville",
+    "state": "KY"
+  },
+  {
+    "id": "2004-regional-championship-at-louisville-kentucky",
+    "season": 2004,
+    "name": "Regional Championship at Louisville, Kentucky",
+    "type": "Regional",
+    "venue": "Papa John's Cardinal Stadium",
+    "date": "2004-09-18",
+    "city": "Louisville",
+    "state": "KY"
+  },
+  {
+    "id": "2004-regional-championship-at-massillon-oh",
+    "season": 2004,
+    "name": "Regional Championship at Massillon, OH",
+    "type": "Regional",
+    "venue": "Paul Brown Tiger Stadium",
+    "date": "2004-09-18",
+    "city": "Massillon",
+    "state": "OH"
+  },
+  {
+    "id": "2004-2004-9-25mif",
+    "season": 2004,
+    "name": "2004.9.25mif",
+    "type": "Regional",
+    "venue": "Silverdome",
+    "date": "2004-09-25",
+    "city": "Launceston",
+    "state": "TAS"
+  },
+  {
+    "id": "2004-2004-9-25mip",
+    "season": 2004,
+    "name": "2004.9.25mip",
+    "type": "Regional",
+    "venue": "Silverdome",
+    "date": "2004-09-25",
+    "city": "Launceston",
+    "state": "TAS"
+  },
+  {
+    "id": "2004-regional-championship-at-murfreesboro-tn",
+    "season": 2004,
+    "name": "Regional Championship at Murfreesboro, TN",
+    "type": "Regional",
+    "venue": "Middle Tennessee State Univ.",
+    "date": "2004-09-25",
+    "city": "Murfreesboro",
+    "state": "TN"
+  },
+  {
+    "id": "2004-regional-championship-at-huntsville-tx",
+    "season": 2004,
+    "name": "Regional Championship at Huntsville, TX",
+    "type": "Regional",
+    "venue": "Sam Houston State University",
+    "date": "2004-10-02",
+    "city": "Huntsville",
+    "state": "TX"
+  },
+  {
+    "id": "2004-regional-championship-at-youngstown-oh",
+    "season": 2004,
+    "name": "Regional Championship at Youngstown, OH",
+    "type": "Regional",
+    "venue": "Youngstown State University",
+    "date": "2004-10-02",
+    "city": "Youngstown",
+    "state": "OH"
+  },
+  {
+    "id": "2004-regional-championship-at-arlington-texas",
+    "season": 2004,
+    "name": "Regional Championship at Arlington, Texas",
+    "type": "Regional",
+    "venue": "University of Texas at Arlington",
+    "date": "2004-10-09",
+    "city": "Arlington",
+    "state": "TX"
+  },
+  {
+    "id": "2004-regional-championship-at-la-joya-tx",
+    "season": 2004,
+    "name": "Regional Championship at La Joya, TX",
+    "type": "Regional",
+    "venue": "Coyote Stadium - Oct. 9",
+    "date": "2004-10-09",
+    "city": "La Joya",
+    "state": "TX"
+  },
+  {
+    "id": "2004-regional-championship-at-la-joya-texas",
+    "season": 2004,
+    "name": "Regional Championship at La Joya, Texas",
+    "type": "Regional",
+    "venue": "Coyote Stadium - Oct. 9",
+    "date": "2004-10-09",
+    "city": "La Joya",
+    "state": "TX"
+  },
+  {
+    "id": "2004-regional-championship-at-piscataway-nj",
+    "season": 2004,
+    "name": "Regional Championship at Piscataway, NJ",
+    "type": "Regional",
+    "venue": "Rutgers University",
+    "date": "2004-10-09",
+    "city": "Piscataway",
+    "state": "NJ"
+  },
+  {
+    "id": "2004-2004-10-16mof",
+    "season": 2004,
+    "name": "2004.10.16mof",
+    "type": "Regional",
+    "venue": "Edward Jones Dome",
+    "date": "2004-10-16",
+    "city": "Saint Louis",
+    "state": "MO"
+  },
+  {
+    "id": "2004-2004-10-16mop",
+    "season": 2004,
+    "name": "2004.10.16mop",
+    "type": "Regional",
+    "venue": "Edward Jones Dome October 15 and16, 2004",
+    "date": "2004-10-16",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "2004-regional-championship-at-st-petersburg-fl",
+    "season": 2004,
+    "name": "Regional Championship at St. Petersburg, FL",
+    "type": "Regional",
+    "venue": "Tropicana Field",
+    "date": "2004-10-16",
+    "city": "Saint Petersburg",
+    "state": "FL"
+  },
+  {
+    "id": "2004-2004-10-23gaf",
+    "season": 2004,
+    "name": "2004.10.23gaf",
+    "type": "Super Regional",
+    "venue": "Georgia Dome",
+    "date": "2004-10-23",
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  {
+    "id": "2004-2004-10-23gap",
+    "season": 2004,
+    "name": "2004.10.23gap",
+    "type": "Super Regional",
+    "venue": "Georgia Dome",
+    "date": "2004-10-23",
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  {
+    "id": "2004-regional-championship-at-las-vegas-nv",
+    "season": 2004,
+    "name": "Regional Championship at Las Vegas, NV",
+    "type": "Regional",
+    "venue": "UNLV - Sam Boyd Stadium",
+    "date": "2004-10-23",
+    "city": "Las Vegas",
+    "state": "NV"
+  },
+  {
+    "id": "2004-regional-championship-at-san-antonio-tx",
+    "season": 2004,
+    "name": "Regional Championship at San Antonio, TX",
+    "type": "Regional",
+    "venue": "Alamodome",
+    "date": "2004-10-29",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "2004-regional-championship-at-indianapolis-in",
+    "season": 2004,
+    "name": "Regional Championship at Indianapolis, IN",
+    "type": "Regional",
+    "venue": "RCA Dome",
+    "date": "2004-10-30",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  {
+    "id": "2004-regional-championship-at-indianapolis-indiana",
+    "season": 2004,
+    "name": "Regional Championship at Indianapolis, Indiana",
+    "type": "Regional",
+    "venue": "RCA Dome - Oct. 30",
+    "date": "2004-10-30",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  {
+    "id": "2004-grand-national-championships-at-indianapolis-in",
+    "season": 2004,
+    "name": "Grand National Championships at Indianapolis, IN",
+    "type": "Grand National",
+    "venue": "RCA Dome",
+    "date": "2004-11-06",
+    "city": "Indianapolis",
+    "state": "IN"
+  }
+]

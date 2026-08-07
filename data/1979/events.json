@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1979-summer-national-championship-at-whitewater-wi",
+    "season": 1979,
+    "name": "Summer National Championship at Whitewater, WI",
+    "type": "National",
+    "venue": "Warhawk Stadium",
+    "date": "1979-06-15",
+    "city": "Whitewater",
+    "state": "WI"
+  },
+  {
+    "id": "1979-northern-regional-championship-at-toledo-oh",
+    "season": 1979,
+    "name": "Northern Regional Championship at Toledo, OH",
+    "type": "Regional",
+    "venue": "University of Toledo",
+    "date": "1979-10-06",
+    "city": "Toledo",
+    "state": "OH"
+  },
+  {
+    "id": "1979-southern-regional-championship-at-gonzalez-fl",
+    "season": 1979,
+    "name": "Southern Regional Championship at Gonzalez, FL",
+    "type": "Regional",
+    "venue": "Tate H.S.",
+    "date": "1979-11-10",
+    "city": "Cantonment",
+    "state": "FL"
+  }
+]

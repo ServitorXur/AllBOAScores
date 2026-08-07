@@ -1,0 +1,182 @@
+[
+  {
+    "id": "2002-regional-championship-at-louisville-ky",
+    "season": 2002,
+    "name": "Regional Championship at Louisville, KY",
+    "type": "Regional",
+    "venue": "Kentucky Fair and Expo Center",
+    "date": "2002-09-21",
+    "city": "Louisville",
+    "state": "KY"
+  },
+  {
+    "id": "2002-2002-9-28ohtlf",
+    "season": 2002,
+    "name": "2002.9.28ohtlf",
+    "type": "Regional",
+    "venue": "University of Toledo",
+    "date": "2002-09-28",
+    "city": "Toledo",
+    "state": "OH"
+  },
+  {
+    "id": "2002-regional-championship-at-johnson-city-tn",
+    "season": 2002,
+    "name": "Regional Championship at Johnson City, TN",
+    "type": "Regional",
+    "venue": "ETSU Mini Dome",
+    "date": "2002-09-28",
+    "city": "Johnson City",
+    "state": "TN"
+  },
+  {
+    "id": "2002-regional-championship-at-toledo-oh",
+    "season": 2002,
+    "name": "Regional Championship at Toledo, OH",
+    "type": "Regional",
+    "venue": "University of Toledo",
+    "date": "2002-09-28",
+    "city": "Toledo",
+    "state": "OH"
+  },
+  {
+    "id": "2002-regional-championship-at-daytona-beach-fl",
+    "season": 2002,
+    "name": "Regional Championship at Daytona Beach, FL",
+    "type": "Regional",
+    "venue": "Municipal Stadium",
+    "date": "2002-10-05",
+    "city": "Daytona Beach",
+    "state": "FL"
+  },
+  {
+    "id": "2002-regional-championship-at-daytona-fl",
+    "season": 2002,
+    "name": "Regional Championship at Daytona, FL",
+    "type": "Regional",
+    "venue": "Municipal Stadium",
+    "date": "2002-10-05",
+    "city": "San Jose",
+    "state": "CA"
+  },
+  {
+    "id": "2002-regional-championship-at-huntsville-tx",
+    "season": 2002,
+    "name": "Regional Championship at Huntsville, TX",
+    "type": "Regional",
+    "venue": "Sam Houston State University",
+    "date": "2002-10-05",
+    "city": "Huntsville",
+    "state": "TX"
+  },
+  {
+    "id": "2002-regional-championship-at-massillon-oh",
+    "season": 2002,
+    "name": "Regional Championship at Massillon, OH",
+    "type": "Regional",
+    "venue": "Paul Brown Tiger Stadium",
+    "date": "2002-10-12",
+    "city": "Massillon",
+    "state": "OH"
+  },
+  {
+    "id": "2002-regional-championship-at-st-louis-mo",
+    "season": 2002,
+    "name": "Regional Championship at St. Louis, MO",
+    "type": "Regional",
+    "venue": "Edward Jones Dome",
+    "date": "2002-10-12",
+    "city": "Saint Louis",
+    "state": "MO"
+  },
+  {
+    "id": "2002-regional-championship-at-arlington-tx",
+    "season": 2002,
+    "name": "Regional Championship at Arlington, TX",
+    "type": "Regional",
+    "venue": "University of Texas at Arlington",
+    "date": "2002-10-19",
+    "city": "Arlington",
+    "state": "TX"
+  },
+  {
+    "id": "2002-regional-championship-at-arlington-texas",
+    "season": 2002,
+    "name": "Regional Championship at Arlington, Texas",
+    "type": "Regional",
+    "venue": "University of Texas at Arlington",
+    "date": "2002-10-19",
+    "city": "Arlington",
+    "state": "TX"
+  },
+  {
+    "id": "2002-regional-championship-at-hempstead-ny",
+    "season": 2002,
+    "name": "Regional Championship at Hempstead, NY",
+    "type": "Regional",
+    "venue": "James M. Shuart Stadium",
+    "date": "2002-10-19",
+    "city": "Hempstead",
+    "state": "NY"
+  },
+  {
+    "id": "2002-regional-championship-at-youngstown-oh",
+    "season": 2002,
+    "name": "Regional Championship at Youngstown, OH",
+    "type": "Regional",
+    "venue": "University of Youngstown",
+    "date": "2002-10-26",
+    "city": "Youngstown",
+    "state": "OH"
+  },
+  {
+    "id": "2002-grand-national-championships-at-indianapolis-in",
+    "season": 2002,
+    "name": "Grand National Championships at Indianapolis, IN",
+    "type": "Grand National",
+    "venue": "RCA DOME",
+    "date": "2002-11-01",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  {
+    "id": "2002-regional-championship-at-atlanta-ga",
+    "season": 2002,
+    "name": "Regional Championship at Atlanta, GA",
+    "type": "Regional",
+    "venue": "Georgia Dom",
+    "date": "2002-11-02",
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  {
+    "id": "2002-regional-championship-at-san-antonio-tx",
+    "season": 2002,
+    "name": "Regional Championship at San Antonio, TX",
+    "type": "Regional",
+    "venue": "Alamodome",
+    "date": "2002-11-02",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "2002-regional-championship-at-indianapolis-in",
+    "season": 2002,
+    "name": "Regional Championship at Indianapolis, IN",
+    "type": "Regional",
+    "venue": "RCA Dome",
+    "date": "2002-11-09",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  {
+    "id": "2002-regional-championship-at-las-vegas-nv",
+    "season": 2002,
+    "name": "Regional Championship at Las Vegas, NV",
+    "type": "Regional",
+    "venue": "University of Nevada, Las Vegas",
+    "date": "2002-11-09",
+    "city": "Las Vegas",
+    "state": "NV"
+  }
+]

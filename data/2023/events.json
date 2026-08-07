@@ -1,0 +1,322 @@
+[
+  {
+    "id": "2023-2023-bands-of-america-kentucky-regional-championship-presented-by-yamaha",
+    "season": 2023,
+    "name": "2023 Bands of America Kentucky Regional Championship, presented by Yamaha",
+    "type": "Regional",
+    "venue": "University of Louisville, L&N Federal Credit Union Stadium",
+    "date": "2023-09-16",
+    "city": "Louisville",
+    "state": "KY"
+  },
+  {
+    "id": "2023-2023-bands-of-america-wisconsin-regional-championship-presented-by-yamaha",
+    "season": 2023,
+    "name": "2023 Bands of America Wisconsin Regional Championship, presented by Yamaha",
+    "type": "Regional",
+    "venue": "University of Wisconsin - Whitewater, Perkins Stadium",
+    "date": "2023-09-16",
+    "city": "Whitewater",
+    "state": "WI"
+  },
+  {
+    "id": "2023-2023-bands-of-america-austin-regional-championship-presented-by-yamaha",
+    "season": 2023,
+    "name": "2023 Bands of America Austin Regional Championship, presented by Yamaha",
+    "type": "Regional",
+    "venue": "Kelly Reeves Athletic Complex",
+    "date": "2023-09-23",
+    "city": "Austin",
+    "state": "TX"
+  },
+  {
+    "id": "2023-2023-bands-of-america-central-ohio-regional-championship-presented-by-yamaha",
+    "season": 2023,
+    "name": "2023 Bands of America Central Ohio Regional Championship, presented by Yamaha",
+    "type": "Regional",
+    "venue": null,
+    "date": "2023-09-23",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "2023-2023-bands-of-america-chattanooga-regional-championship-presented-by-yamaha",
+    "season": 2023,
+    "name": "2023 Bands of America Chattanooga Regional Championship, presented by Yamaha",
+    "type": "Regional",
+    "venue": "Finley Stadium",
+    "date": "2023-09-23",
+    "city": "Campbellsville",
+    "state": "KY"
+  },
+  {
+    "id": "2023-2023-bands-of-america-new-mexico-regional-championship-presented-by-yamaha",
+    "season": 2023,
+    "name": "2023 Bands of America New Mexico Regional Championship, presented by Yamaha",
+    "type": "Regional",
+    "venue": "Aggie Memorial Stadium - New Mexico State University",
+    "date": "2023-09-23",
+    "city": "Las Cruces",
+    "state": "NM"
+  },
+  {
+    "id": "2023-2023-bands-of-america-iowa-regional-championship-presented-by-yamaha",
+    "season": 2023,
+    "name": "2023 Bands of America Iowa Regional Championship, presented by Yamaha",
+    "type": "Regional",
+    "venue": "Northwest High School Stadium",
+    "date": "2023-09-30",
+    "city": "Pasadena",
+    "state": "MD"
+  },
+  {
+    "id": "2023-2023-bands-of-america-north-houston-regional-championship-presented-by-yamaha",
+    "season": 2023,
+    "name": "2023 Bands of America North Houston Regional Championship, presented by Yamaha",
+    "type": "Regional",
+    "venue": "Woodforest Bank Stadium",
+    "date": "2023-09-30",
+    "city": "Prattville",
+    "state": "AL"
+  },
+  {
+    "id": "2023-2023-bands-of-america-south-texas-regional-championship-presented-by-yamaha",
+    "season": 2023,
+    "name": "2023 Bands of America South Texas Regional Championship, presented by Yamaha",
+    "type": "Regional",
+    "venue": "Veterans Memorial Stadium",
+    "date": "2023-09-30",
+    "city": "Yuma",
+    "state": "AZ"
+  },
+  {
+    "id": "2023-2023-bands-of-america-west-texas-regional-championship-presented-by-yamaha",
+    "season": 2023,
+    "name": "2023 Bands of America West Texas Regional Championship, presented by Yamaha",
+    "type": "Regional",
+    "venue": "Astound Broadband Stadium",
+    "date": "2023-09-30",
+    "city": "Tulsipur",
+    "state": null
+  },
+  {
+    "id": "2023-2023-bands-of-america-arizona-regional-championship-presented-by-yamaha",
+    "season": 2023,
+    "name": "2023 Bands of America Arizona Regional Championship, presented by Yamaha",
+    "type": "Regional",
+    "venue": "Northern Arizona University",
+    "date": "2023-10-07",
+    "city": "Flagstaff",
+    "state": "AZ"
+  },
+  {
+    "id": "2023-2023-bands-of-america-dallas-mid-cities-regional-championship-presented-by",
+    "season": 2023,
+    "name": "2023 Bands of America Dallas Mid-Cities Regional Championship, presented by",
+    "type": "Regional",
+    "venue": "Pennington Field at HEB Stadium",
+    "date": "2023-10-07",
+    "city": "Bedford",
+    "state": "TX"
+  },
+  {
+    "id": "2023-2023-bands-of-america-memphis-regional-championship-presented-by-yamaha",
+    "season": 2023,
+    "name": "2023 Bands of America Memphis Regional Championship, presented by Yamaha",
+    "type": "Regional",
+    "venue": "Simmons Bank Liberty Stadium",
+    "date": "2023-10-07",
+    "city": "Columbia",
+    "state": "MO"
+  },
+  {
+    "id": "2023-2023-bands-of-america-northwest-ohio-regional-championship-presented-by",
+    "season": 2023,
+    "name": "2023 Bands of America Northwest Ohio Regional Championship, presented by",
+    "type": "Regional",
+    "venue": "Glass Bowl Stadium - University of Toledo",
+    "date": "2023-10-07",
+    "city": "Toledo",
+    "state": "OH"
+  },
+  {
+    "id": "2023-2023-bands-of-america-west-houston-regional-championship-presented-by",
+    "season": 2023,
+    "name": "2023 Bands of America West Houston Regional Championship, presented by",
+    "type": "Regional",
+    "venue": "Legacy Stadium - Katy ISD",
+    "date": "2023-10-07",
+    "city": "Katy",
+    "state": "TX"
+  },
+  {
+    "id": "2023-2023-bands-of-america-west-houston-regional-championship-presented-by-yamaha",
+    "season": 2023,
+    "name": "2023 Bands of America West Houston Regional Championship, presented by Yamaha",
+    "type": "Regional",
+    "venue": "Legacy Stadium - Katy ISD",
+    "date": "2023-10-07",
+    "city": "Katy",
+    "state": "TX"
+  },
+  {
+    "id": "2023-2023-bands-of-america-carolina-regional-championship",
+    "season": 2023,
+    "name": "2023 Bands of America Carolina Regional Championship,",
+    "type": "Regional",
+    "venue": "Brooks Stadium - Coastal Carolina University",
+    "date": "2023-10-14",
+    "city": "Conway",
+    "state": "SC"
+  },
+  {
+    "id": "2023-2023-bands-of-america-carolina-regional-championship-presented-by",
+    "season": 2023,
+    "name": "2023 Bands of America Carolina Regional Championship, presented by",
+    "type": "Regional",
+    "venue": "Brooks Stadium - Coastal Carolina University",
+    "date": "2023-10-14",
+    "city": "Conway",
+    "state": "SC"
+  },
+  {
+    "id": "2023-2023-bands-of-america-north-texas-regional-championship",
+    "season": 2023,
+    "name": "2023 Bands of America North Texas Regional Championship,",
+    "type": "Regional",
+    "venue": "Prosper ISD Children's Health Stadium",
+    "date": "2023-10-14",
+    "city": "Prosper",
+    "state": "TX"
+  },
+  {
+    "id": "2023-2023-bands-of-america-north-texas-regional-championship-presented-by",
+    "season": 2023,
+    "name": "2023 Bands of America North Texas Regional Championship, presented by",
+    "type": "Regional",
+    "venue": "Prosper ISD Children's Health Stadium",
+    "date": "2023-10-14",
+    "city": "Prosper",
+    "state": "TX"
+  },
+  {
+    "id": "2023-2023-bands-of-america-indianapolis-super-regional-championship-presented-by",
+    "season": 2023,
+    "name": "2023 Bands of America Indianapolis Super Regional Championship, presented by",
+    "type": "Super Regional",
+    "venue": "Lucas Oil Stadium",
+    "date": "2023-10-20",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  {
+    "id": "2023-2023-bands-of-america-ballad-health-east-tennessee-regional-championship",
+    "season": 2023,
+    "name": "2023 Bands of America Ballad Health East Tennessee Regional Championship,",
+    "type": "Regional",
+    "venue": "East Tennessee State University Ballad Health Athletic Center",
+    "date": "2023-10-21",
+    "city": "Johnson City",
+    "state": "TN"
+  },
+  {
+    "id": "2023-2023-bands-of-america-mid-atlantic-regional-championship-presented-by",
+    "season": 2023,
+    "name": "2023 Bands of America Mid-Atlantic Regional Championship, presented by",
+    "type": "Regional",
+    "venue": "SECU Stadium - University of Maryland",
+    "date": "2023-10-21",
+    "city": "Baltimore",
+    "state": "MD"
+  },
+  {
+    "id": "2023-2023-bands-of-america-mid-atlantic-regional-championship-presented-by-yamaha",
+    "season": 2023,
+    "name": "2023 Bands of America Mid-Atlantic Regional Championship, presented by Yamaha",
+    "type": "Regional",
+    "venue": "SECU Stadium - University of Maryland",
+    "date": "2023-10-21",
+    "city": "Baltimore",
+    "state": "MD"
+  },
+  {
+    "id": "2023-2023-bands-of-america-orlando-regional-championship-presented-by-yamaha",
+    "season": 2023,
+    "name": "2023 Bands of America Orlando Regional Championship, presented by Yamaha",
+    "type": "Regional",
+    "venue": "Camping World Stadium",
+    "date": "2023-10-21",
+    "city": "Orlando",
+    "state": "FL"
+  },
+  {
+    "id": "2023-2023-bands-of-america-st-louis-super-regional-presented-by-yamaha",
+    "season": 2023,
+    "name": "2023 Bands of America St. Louis Super Regional, presented by Yamaha",
+    "type": "Super Regional",
+    "venue": "The Dome at America's Center",
+    "date": "2023-10-27",
+    "city": "St. Louis",
+    "state": "MO"
+  },
+  {
+    "id": "2023-2023-bands-of-america-new-jersey-regional-championship-presented-by",
+    "season": 2023,
+    "name": "2023 Bands of America New Jersey Regional Championship, presented by",
+    "type": "Regional",
+    "venue": "SHI Stadium, Rutgers University",
+    "date": "2023-10-28",
+    "city": "Piscataway",
+    "state": "NJ"
+  },
+  {
+    "id": "2023-2023-bands-of-america-southern-california-regional-championship",
+    "season": 2023,
+    "name": "2023 Bands of America Southern California Regional Championship,",
+    "type": "Regional",
+    "venue": "Ramona High School Stadium",
+    "date": "2023-10-28",
+    "city": "Riverside",
+    "state": "CA"
+  },
+  {
+    "id": "2023-2023-bands-of-america-san-antonio-super-regional-presented-by-yamaha",
+    "season": 2023,
+    "name": "2023 Bands of America San Antonio Super Regional, presented by Yamaha",
+    "type": "Super Regional",
+    "venue": "Alamodome",
+    "date": "2023-11-03",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "2023-2023-bands-of-america-southeastern-regional-championship-presented-by-yamaha",
+    "season": 2023,
+    "name": "2023 Bands of America Southeastern Regional Championship, presented by Yamaha",
+    "type": "Regional",
+    "venue": "Veterans Memorial Stadium - Troy University",
+    "date": "2023-11-04",
+    "city": "Troy",
+    "state": "NY"
+  },
+  {
+    "id": "2023-2023-bands-of-america-utah-regional-championship-presented-by-yamaha",
+    "season": 2023,
+    "name": "2023 Bands of America Utah Regional Championship, presented by Yamaha",
+    "type": "Regional",
+    "venue": "Greater Zion Stadium, Utah Tech University",
+    "date": "2023-11-04",
+    "city": "Provo",
+    "state": "UT"
+  },
+  {
+    "id": "2023-2023-bands-of-america-grand-national-championships-presented-by-yamaha",
+    "season": 2023,
+    "name": "2023 Bands of America Grand National Championships, presented by Yamaha",
+    "type": "Grand National",
+    "venue": "Lucas Oil Stadium",
+    "date": "2023-11-09",
+    "city": "Indianapolis",
+    "state": "IN"
+  }
+]

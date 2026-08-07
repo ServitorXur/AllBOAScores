@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1988-summer-national-championship-at-whitewater-wi",
+    "season": 1988,
+    "name": "Summer National Championship at Whitewater, WI",
+    "type": "National",
+    "venue": "Warhawk Stadium",
+    "date": "1988-06-18",
+    "city": "Whitewater",
+    "state": "WI"
+  },
+  {
+    "id": "1988-regional-championship-at-akron-oh",
+    "season": 1988,
+    "name": "Regional Championship at Akron, OH",
+    "type": "Regional",
+    "venue": "University of Akron",
+    "date": "1988-10-01",
+    "city": "Akron",
+    "state": "OH"
+  },
+  {
+    "id": "1988-regional-championship-at-normal-il",
+    "season": 1988,
+    "name": "Regional Championship at Normal, IL",
+    "type": "Regional",
+    "venue": "Illinois State University",
+    "date": "1988-10-08",
+    "city": "Normal",
+    "state": "IL"
+  },
+  {
+    "id": "1988-regional-championship-at-morgantown-wv",
+    "season": 1988,
+    "name": "Regional Championship at Morgantown, WV",
+    "type": "Regional",
+    "venue": "West Virginia University",
+    "date": "1988-10-15",
+    "city": "Morgantown",
+    "state": "WV"
+  },
+  {
+    "id": "1988-regional-championship-at-hattiesburg-ms",
+    "season": 1988,
+    "name": "Regional Championship at Hattiesburg, MS",
+    "type": "Regional",
+    "venue": "University of Southern Mississippi",
+    "date": "1988-10-22",
+    "city": "Hattiesburg",
+    "state": "MS"
+  },
+  {
+    "id": "1988-western-regional-championship-at-stockton-ca",
+    "season": 1988,
+    "name": "Western Regional Championship at Stockton, CA",
+    "type": "Regional",
+    "venue": "University of the Pacific",
+    "date": "1988-10-29",
+    "city": "Stockton",
+    "state": "CA"
+  },
+  {
+    "id": "1988-regional-championship-at-houston-tx",
+    "season": 1988,
+    "name": "Regional Championship at Houston, TX",
+    "type": "Regional",
+    "venue": "Rice University Stadium",
+    "date": "1988-11-05",
+    "city": "Houston",
+    "state": "TX"
+  },
+  {
+    "id": "1988-southwest-regional-championship-at-houston-tx",
+    "season": 1988,
+    "name": "Southwest Regional Championship at Houston, TX",
+    "type": "Regional",
+    "venue": "Rice University",
+    "date": "1988-11-05",
+    "city": "Houston",
+    "state": "TX"
+  },
+  {
+    "id": "1988-grand-national-championship-at-pontiac-mi",
+    "season": 1988,
+    "name": "Grand National Championship at Pontiac, MI",
+    "type": "Grand National",
+    "venue": "Pontiac Silverdome",
+    "date": "1988-11-11",
+    "city": "Pontiac",
+    "state": "MI"
+  }
+]

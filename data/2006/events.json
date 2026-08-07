@@ -1,0 +1,172 @@
+[
+  {
+    "id": "2006-regional-championship-at-murfreesboro-tn",
+    "season": 2006,
+    "name": "Regional Championship at Murfreesboro, TN",
+    "type": "Regional",
+    "venue": "Middle Tennessee State University",
+    "date": "2006-09-30",
+    "city": "Murfreesboro",
+    "state": "TN"
+  },
+  {
+    "id": "2006-regional-championship-at-youngstown-oh",
+    "season": 2006,
+    "name": "Regional Championship at Youngstown, OH",
+    "type": "Regional",
+    "venue": "Youngstown State University",
+    "date": "2006-09-30",
+    "city": "Youngstown",
+    "state": "OH"
+  },
+  {
+    "id": "2006-regional-championship-at-arlington-tx",
+    "season": 2006,
+    "name": "Regional Championship at Arlington, TX",
+    "type": "Regional",
+    "venue": "University of Texas",
+    "date": "2006-10-07",
+    "city": "Fort Worth",
+    "state": "TX"
+  },
+  {
+    "id": "2006-regional-championship-at-ypsilanti-mi",
+    "season": 2006,
+    "name": "Regional Championship at Ypsilanti, MI",
+    "type": "Regional",
+    "venue": "Rynearson Stadium - Oct. 7",
+    "date": "2006-10-07",
+    "city": "Ypsilanti",
+    "state": "MI"
+  },
+  {
+    "id": "2006-regional-championship-at-flagstaff-az",
+    "season": 2006,
+    "name": "Regional Championship at Flagstaff, AZ",
+    "type": "Regional",
+    "venue": "Northern Arizona University",
+    "date": "2006-10-14",
+    "city": "Flagstaff",
+    "state": "AZ"
+  },
+  {
+    "id": "2006-regional-championship-at-houston-pearland-tx",
+    "season": 2006,
+    "name": "Regional Championship at Houston (Pearland), TX",
+    "type": "Regional",
+    "venue": "Pearland Stadium (The RIG)",
+    "date": "2006-10-14",
+    "city": "Houston",
+    "state": "TX"
+  },
+  {
+    "id": "2006-regional-championship-at-houston-tx",
+    "season": 2006,
+    "name": "Regional Championship at Houston, TX",
+    "type": "Regional",
+    "venue": "Pearland Stadium (The RIG)",
+    "date": "2006-10-14",
+    "city": "Houston",
+    "state": "TX"
+  },
+  {
+    "id": "2006-regional-championship-at-st-petersburg-fl",
+    "season": 2006,
+    "name": "Regional Championship at St. Petersburg, FL",
+    "type": "Regional",
+    "venue": "Tropicana Field",
+    "date": "2006-10-14",
+    "city": "Saint Petersburg",
+    "state": "FL"
+  },
+  {
+    "id": "2006-regional-championship-at-st-louis-mo",
+    "season": 2006,
+    "name": "Regional Championship at St. Louis, MO",
+    "type": "Regional",
+    "venue": "Edward Jones Dome",
+    "date": "2006-10-21",
+    "city": "Saint Louis",
+    "state": "MO"
+  },
+  {
+    "id": "2006-regional-championship-at-towson-md",
+    "season": 2006,
+    "name": "Regional Championship at Towson, MD",
+    "type": "Regional",
+    "venue": "Johnny Unitas Stadium",
+    "date": "2006-10-21",
+    "city": "Towson",
+    "state": "MD"
+  },
+  {
+    "id": "2006-super-regional-championship-at-st-louis-mo",
+    "season": 2006,
+    "name": "Super Regional Championship at St. Louis, MO",
+    "type": "Super Regional",
+    "venue": "Edward Jones Dome",
+    "date": "2006-10-21",
+    "city": "Saint Louis",
+    "state": "MO"
+  },
+  {
+    "id": "2006-regional-championship-at-los-angeles-ca",
+    "season": 2006,
+    "name": "Regional Championship at Los Angeles, CA",
+    "type": "Regional",
+    "venue": "Los Angeles Memorial Coliseum",
+    "date": "2006-10-28",
+    "city": "Los Angeles",
+    "state": "CA"
+  },
+  {
+    "id": "2006-super-regional-championship-at-atlanta-georgia",
+    "season": 2006,
+    "name": "Super Regional Championship at Atlanta, Georgia",
+    "type": "Super Regional",
+    "venue": "Georgia Dome",
+    "date": "2006-10-28",
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  {
+    "id": "2006-regional-championship-at-indianapolis-in",
+    "season": 2006,
+    "name": "Regional Championship at Indianapolis, IN",
+    "type": "Regional",
+    "venue": "RCA Dome",
+    "date": "2006-11-04",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  {
+    "id": "2006-regional-championship-at-san-antonio-tx",
+    "season": 2006,
+    "name": "Regional Championship at San Antonio, TX",
+    "type": "Regional",
+    "venue": "Alamodome",
+    "date": "2006-11-04",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "2006-grand-national-championships-at-indianapolis-indiana",
+    "season": 2006,
+    "name": "Grand National Championships at Indianapolis, Indiana",
+    "type": "Grand National",
+    "venue": "RCA Dome",
+    "date": "2006-11-09",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  {
+    "id": "2006-grand-national-championship-at-indianapolis-indiana",
+    "season": 2006,
+    "name": "Grand National Championship at Indianapolis, Indiana",
+    "type": "Grand National",
+    "venue": "RCA Dome",
+    "date": "2006-11-10",
+    "city": "Indianapolis",
+    "state": "IN"
+  }
+]

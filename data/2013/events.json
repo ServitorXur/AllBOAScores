@@ -1,0 +1,172 @@
+[
+  {
+    "id": "2013-kettering-regional-championship-at-kettering-oh",
+    "season": 2013,
+    "name": "Kettering Regional Championship at Kettering, OH",
+    "type": "Regional",
+    "venue": "Roush Stadium -‐ 9/21",
+    "date": "2013-09-21",
+    "city": "Dayton",
+    "state": "OH"
+  },
+  {
+    "id": "2013-monroeville-regional-championship-at-monroeville-pa",
+    "season": 2013,
+    "name": "Monroeville Regional Championship at Monroeville, PA",
+    "type": "Regional",
+    "venue": null,
+    "date": "2013-09-21",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "2013-austin-regional-championship-at-austin-tx",
+    "season": 2013,
+    "name": "Austin Regional Championship at Austin, TX",
+    "type": "Regional",
+    "venue": "Kelly Reeves Athletic Complex -‐ September 28",
+    "date": "2013-09-28",
+    "city": "Austin",
+    "state": "TX"
+  },
+  {
+    "id": "2013-toledo-regional-championship-at-toledo-oh",
+    "season": 2013,
+    "name": "Toledo Regional Championship at Toledo, OH",
+    "type": "Regional",
+    "venue": "Glass Bowl Stadium -‐ September 28",
+    "date": "2013-09-28",
+    "city": "Toledo",
+    "state": "OH"
+  },
+  {
+    "id": "2013-conroe-regional-championship-at-conroe-tx",
+    "season": 2013,
+    "name": "Conroe Regional Championship at Conroe, TX",
+    "type": "Regional",
+    "venue": "Woodforest Bank Stadium -‐ October 5",
+    "date": "2013-10-05",
+    "city": "Conroe",
+    "state": "TX"
+  },
+  {
+    "id": "2013-muncie-regional-championship-at-muncie-in",
+    "season": 2013,
+    "name": "Muncie Regional Championship at Muncie, IN",
+    "type": "Regional",
+    "venue": "Schuemann Stadium -‐ October 5",
+    "date": "2013-10-05",
+    "city": "Muncie",
+    "state": "IN"
+  },
+  {
+    "id": "2013-dallas-ft-worth-regional-championship-at-dallas-ft-worth-tx",
+    "season": 2013,
+    "name": "Dallas -‐ Ft. Worth Regional Championship at Dallas -‐ Ft. Worth, TX",
+    "type": "Regional",
+    "venue": "Allen Eagle Stadium -‐ October 12",
+    "date": "2013-10-12",
+    "city": "Dallas",
+    "state": "NC"
+  },
+  {
+    "id": "2013-hillsboro-regional-championship-at-hillsboro-or",
+    "season": 2013,
+    "name": "Hillsboro Regional Championship at Hillsboro, OR",
+    "type": "Regional",
+    "venue": "Hillsboro Stadium -‐ October 12",
+    "date": "2013-10-12",
+    "city": "Hillsboro",
+    "state": "OR"
+  },
+  {
+    "id": "2013-powder-springs-regional-championship-at-powder-springs-ga",
+    "season": 2013,
+    "name": "Powder Springs Regional Championship at Powder Springs, GA",
+    "type": "Regional",
+    "venue": null,
+    "date": "2013-10-19",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "2013-st-louis-super-regional-championship-at-st-louis-mo",
+    "season": 2013,
+    "name": "St. Louis Super Regional Championship at St. Louis, MO",
+    "type": "Super Regional",
+    "venue": "Edward Jones Dome -‐ October 18-‐19",
+    "date": "2013-10-19",
+    "city": "Saint Louis",
+    "state": "MO"
+  },
+  {
+    "id": "2013-winston-salem-super-regional-championship-at-winston-salem-nc",
+    "season": 2013,
+    "name": "Winston-‐Salem Super Regional Championship at Winston-‐Salem, NC",
+    "type": "Super Regional",
+    "venue": "Bowman Gray Stadium -‐ October 18-‐19",
+    "date": "2013-10-19",
+    "city": "Winston-Salem",
+    "state": "NC"
+  },
+  {
+    "id": "2013-atlanta-super-regional-championship-at-atlanta-ga",
+    "season": 2013,
+    "name": "Atlanta Super Regional Championship at Atlanta, GA",
+    "type": "Super Regional",
+    "venue": "Georgia Dome -‐ October 25-‐26",
+    "date": "2013-10-26",
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  {
+    "id": "2013-towson-regional-championship-at-towson-md",
+    "season": 2013,
+    "name": "Towson Regional Championship at Towson, MD",
+    "type": "Regional",
+    "venue": "Towson University -‐ October 26",
+    "date": "2013-10-26",
+    "city": "Towson",
+    "state": "MD"
+  },
+  {
+    "id": "2013-san-antonio-super-regional-championship-at-san-antonio-tx",
+    "season": 2013,
+    "name": "San Antonio Super Regional Championship at San Antonio, TX",
+    "type": "Super Regional",
+    "venue": "Alamodome -‐ November 1-‐2",
+    "date": "2013-11-02",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "2013-indianapolis-super-regional-championship-at-indianapolis-in",
+    "season": 2013,
+    "name": "Indianapolis Super Regional Championship at Indianapolis, IN",
+    "type": "Super Regional",
+    "venue": "Lucas Oil Stadium -‐ November 8-‐9",
+    "date": "2013-11-09",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  {
+    "id": "2013-long-beach-regional-championship-at-long-beach-ca",
+    "season": 2013,
+    "name": "Long Beach Regional Championship at Long Beach, CA",
+    "type": "Regional",
+    "venue": "Veterans Memorial Stadium -‐ November 9",
+    "date": "2013-11-09",
+    "city": "Long Beach",
+    "state": "CA"
+  },
+  {
+    "id": "2013-grand-national-championship-at-indianapolis-in",
+    "season": 2013,
+    "name": "Grand National Championship at Indianapolis, IN",
+    "type": "Grand National",
+    "venue": "Lucas Oil Stadium -‐ November 14",
+    "date": "2013-11-14",
+    "city": "Indianapolis",
+    "state": "IN"
+  }
+]

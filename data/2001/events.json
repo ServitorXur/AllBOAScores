@@ -1,0 +1,152 @@
+[
+  {
+    "id": "2001-regional-championship-at-louisville",
+    "season": 2001,
+    "name": "Regional Championship at Louisville",
+    "type": "Regional",
+    "venue": "Cardinal Staduim",
+    "date": "2001-09-22",
+    "city": "Louisville",
+    "state": "KY"
+  },
+  {
+    "id": "2001-regional-championship-at-toledo",
+    "season": 2001,
+    "name": "Regional Championship at Toledo",
+    "type": "Regional",
+    "venue": "University of Toledo Glass Bowl • 9/22/01",
+    "date": "2001-09-22",
+    "city": "Toledo",
+    "state": "OH"
+  },
+  {
+    "id": "2001-regional-championship-at-johnson-city",
+    "season": 2001,
+    "name": "Regional Championship at Johnson City",
+    "type": "Regional",
+    "venue": "East Tennessee State University • 9/29/2001",
+    "date": "2001-09-29",
+    "city": "Johnson City",
+    "state": "TN"
+  },
+  {
+    "id": "2001-regional-championship-at-orlando",
+    "season": 2001,
+    "name": "Regional Championship at Orlando",
+    "type": "Regional",
+    "venue": "Citrus Bowl",
+    "date": "2001-09-29",
+    "city": "Orlando",
+    "state": "FL"
+  },
+  {
+    "id": "2001-regional-championship-at-las-vegas",
+    "season": 2001,
+    "name": "Regional Championship at Las Vegas",
+    "type": "Regional",
+    "venue": "Sam Boyd Stadium - Las Vegas, NV",
+    "date": "2001-10-06",
+    "city": "Las Vegas",
+    "state": "NV"
+  },
+  {
+    "id": "2001-regional-championship-at-san-antonio-tx",
+    "season": 2001,
+    "name": "Regional Championship at San Antonio, TX",
+    "type": "Regional",
+    "venue": "Alamodome",
+    "date": "2001-10-06",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "2001-regional-championship-at-hempstead",
+    "season": 2001,
+    "name": "Regional Championship at Hempstead",
+    "type": "Regional",
+    "venue": "Hofstra University",
+    "date": "2001-10-13",
+    "city": "Hempstead",
+    "state": "NY"
+  },
+  {
+    "id": "2001-regional-championship-at-st-louis",
+    "season": 2001,
+    "name": "Regional Championship at St. Louis",
+    "type": "Regional",
+    "venue": "The Dome at America Center • October 13, 2001",
+    "date": "2001-10-13",
+    "city": "St. Louis",
+    "state": "MO"
+  },
+  {
+    "id": "2001-regional-championship-at-arlington-tx",
+    "season": 2001,
+    "name": "Regional Championship at Arlington, TX",
+    "type": "Regional",
+    "venue": "University of Texas - Maverick Stadium",
+    "date": "2001-10-20",
+    "city": "Arlington",
+    "state": "TX"
+  },
+  {
+    "id": "2001-regional-championship-at-massillon",
+    "season": 2001,
+    "name": "Regional Championship at Massillon",
+    "type": "Regional",
+    "venue": "Paul Brown Tiger Stadium • October 20, 2001",
+    "date": "2001-10-20",
+    "city": "Massillon",
+    "state": "OH"
+  },
+  {
+    "id": "2001-regional-championship-at-atlanta",
+    "season": 2001,
+    "name": "Regional Championship at Atlanta",
+    "type": "Regional",
+    "venue": "Georgia Dome • October 27, 2001",
+    "date": "2001-10-27",
+    "city": "Brunswick",
+    "state": "GA"
+  },
+  {
+    "id": "2001-regional-championship-at-morgantown-wv",
+    "season": 2001,
+    "name": "Regional Championship at Morgantown, WV",
+    "type": "Regional",
+    "venue": "Mountaineer Stadium",
+    "date": "2001-10-27",
+    "city": "Morgantown",
+    "state": "WV"
+  },
+  {
+    "id": "2001-regional-championship-at-houston-tx",
+    "season": 2001,
+    "name": "Regional Championship at Houston, TX",
+    "type": "Regional",
+    "venue": "Rice University",
+    "date": "2001-11-03",
+    "city": "Houston",
+    "state": "TX"
+  },
+  {
+    "id": "2001-regional-championship-at-indianapolis",
+    "season": 2001,
+    "name": "Regional Championship at Indianapolis",
+    "type": "Regional",
+    "venue": "RCA Dome • November 3, 2001",
+    "date": "2001-11-03",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  {
+    "id": "2001-grand-national-championships",
+    "season": 2001,
+    "name": "Grand National Championships",
+    "type": "Grand National",
+    "venue": "RCA Dome • Indianapolis, IN • November 8, 2001",
+    "date": "2001-11-08",
+    "city": "Indianapolis",
+    "state": "IN"
+  }
+]

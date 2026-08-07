@@ -1,0 +1,2156 @@
+[
+  {
+    "id": "mcdowell-h-s",
+    "name": "McDowell H.S.",
+    "city": null,
+    "state": "PA"
+  },
+  {
+    "id": "herscher-h-s",
+    "name": "Herscher H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "east-central-h-s",
+    "name": "East Central H.S.",
+    "city": null,
+    "state": "IA"
+  },
+  {
+    "id": "murray-h-s",
+    "name": "Murray H.S.",
+    "city": null,
+    "state": "KY"
+  },
+  {
+    "id": "lebanon-h-s",
+    "name": "Lebanon H.S.",
+    "city": null,
+    "state": "PA"
+  },
+  {
+    "id": "lake-park-h-s",
+    "name": "Lake Park H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "downers-grove-south-h-s",
+    "name": "Downers Grove South H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "carroll-h-s",
+    "name": "Carroll H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "george-rogers-clark-h-s",
+    "name": "George Rogers Clark H.S.",
+    "city": null,
+    "state": "KY"
+  },
+  {
+    "id": "greenwood-h-s",
+    "name": "Greenwood H.S.",
+    "city": null,
+    "state": "MS"
+  },
+  {
+    "id": "morton-h-s",
+    "name": "Morton H.S.",
+    "city": null,
+    "state": "MS"
+  },
+  {
+    "id": "union-h-s",
+    "name": "Union H.S.",
+    "city": null,
+    "state": "OK"
+  },
+  {
+    "id": "independence-h-s",
+    "name": "Independence H.S.",
+    "city": null,
+    "state": "CA"
+  },
+  {
+    "id": "new-philadelphia-h-s",
+    "name": "New Philadelphia H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "lexington-h-s",
+    "name": "Lexington H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "norwin-h-s",
+    "name": "Norwin H.S.",
+    "city": null,
+    "state": "PA"
+  },
+  {
+    "id": "norton-h-s",
+    "name": "Norton H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "northmont-h-s",
+    "name": "Northmont H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "centerville-h-s",
+    "name": "Centerville H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "norwell-h-s",
+    "name": "Norwell H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
+    "id": "robinson-h-s",
+    "name": "Robinson H.S.",
+    "city": null,
+    "state": "VA"
+  },
+  {
+    "id": "milton-h-s",
+    "name": "Milton H.S.",
+    "city": null,
+    "state": "FL"
+  },
+  {
+    "id": "sprayberry-h-s",
+    "name": "Sprayberry H.S.",
+    "city": null,
+    "state": "GA"
+  },
+  {
+    "id": "lone-oak-h-s",
+    "name": "Lone Oak H.S.",
+    "city": null,
+    "state": "KY"
+  },
+  {
+    "id": "union-city-h-s",
+    "name": "Union City H.S.",
+    "city": null,
+    "state": "TN"
+  },
+  {
+    "id": "south-san-antonio-h-s",
+    "name": "South San Antonio H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "macarthur-h-s",
+    "name": "MacArthur H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "roosevelt-h-s",
+    "name": "Roosevelt H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "stephen-f-austin-h-s",
+    "name": "Stephen F. Austin H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "seminole-h-s",
+    "name": "Seminole H.S.",
+    "city": null,
+    "state": "FL"
+  },
+  {
+    "id": "marshall-county-h-s",
+    "name": "Marshall County H.S.",
+    "city": null,
+    "state": "KY"
+  },
+  {
+    "id": "brunswick-h-s",
+    "name": "Brunswick H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "ben-davis-h-s",
+    "name": "Ben Davis H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
+    "id": "klein-forest-h-s",
+    "name": "Klein Forest H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "beechwood-h-s",
+    "name": "Beechwood H.S.",
+    "city": null,
+    "state": "KY"
+  },
+  {
+    "id": "altavista-h-s",
+    "name": "Altavista H.S.",
+    "city": null,
+    "state": "VA"
+  },
+  {
+    "id": "trinity-h-s",
+    "name": "Trinity H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "boiling-springs-h-s",
+    "name": "Boiling Springs H.S.",
+    "city": null,
+    "state": "SC"
+  },
+  {
+    "id": "campbell-h-s",
+    "name": "Campbell H.S.",
+    "city": null,
+    "state": "GA"
+  },
+  {
+    "id": "fort-mill-h-s",
+    "name": "Fort Mill H.S.",
+    "city": null,
+    "state": "SC"
+  },
+  {
+    "id": "bassett-h-s",
+    "name": "Bassett H.S.",
+    "city": null,
+    "state": "VA"
+  },
+  {
+    "id": "lafayette-h-s",
+    "name": "Lafayette H.S.",
+    "city": null,
+    "state": "KY"
+  },
+  {
+    "id": "westfield-h-s",
+    "name": "Westfield H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "klein-h-s",
+    "name": "Klein H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "broken-arrow-h-s",
+    "name": "Broken Arrow H.S.",
+    "city": null,
+    "state": "OK"
+  },
+  {
+    "id": "mceachern-h-s",
+    "name": "McEachern H.S.",
+    "city": null,
+    "state": "GA"
+  },
+  {
+    "id": "marian-catholic-h-s",
+    "name": "Marian Catholic H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "milford-h-s",
+    "name": "Milford H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "center-grove-h-s",
+    "name": "Center Grove H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
+    "id": "clinton-h-s",
+    "name": "Clinton H.S.",
+    "city": null,
+    "state": "MS"
+  },
+  {
+    "id": "miamisburg-h-s",
+    "name": "Miamisburg H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "springboro-h-s",
+    "name": "Springboro H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "marietta-h-s",
+    "name": "Marietta H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "elizabeth-forward-h-s",
+    "name": "Elizabeth Forward H.S.",
+    "city": null,
+    "state": "PA"
+  },
+  {
+    "id": "william-mason-h-s",
+    "name": "William Mason H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "halls-h-s",
+    "name": "Halls H.S.",
+    "city": null,
+    "state": "TN"
+  },
+  {
+    "id": "oswego-h-s",
+    "name": "Oswego H.S.",
+    "city": null,
+    "state": "NY"
+  },
+  {
+    "id": "george-washington-h-s",
+    "name": "George Washington H.S.",
+    "city": null,
+    "state": "WV"
+  },
+  {
+    "id": "mead-h-s",
+    "name": "Mead H.S.",
+    "city": null,
+    "state": "WA"
+  },
+  {
+    "id": "tomball-h-s",
+    "name": "Tomball H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "lawrence-central-h-s",
+    "name": "Lawrence Central H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
+    "id": "west-genesee-h-s",
+    "name": "West Genesee H.S.",
+    "city": null,
+    "state": "NY"
+  },
+  {
+    "id": "tippecanoe-h-s",
+    "name": "Tippecanoe H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
+    "id": "kings-h-s",
+    "name": "Kings H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "plymouth-canton-ed-park",
+    "name": "Plymouth-Canton Ed. Park",
+    "city": null,
+    "state": "MI"
+  },
+  {
+    "id": "north-hardin-h-s",
+    "name": "North Hardin H.S.",
+    "city": null,
+    "state": "KY"
+  },
+  {
+    "id": "brentwood-h-s",
+    "name": "Brentwood H.S.",
+    "city": null,
+    "state": "TN"
+  },
+  {
+    "id": "mcgavock-h-s",
+    "name": "McGavock H.S.",
+    "city": null,
+    "state": "TN"
+  },
+  {
+    "id": "oak-ridge-h-s",
+    "name": "Oak Ridge H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "brazoswood-h-s",
+    "name": "Brazoswood H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "mountain-crest-h-s",
+    "name": "Mountain Crest H.S.",
+    "city": null,
+    "state": "UT"
+  },
+  {
+    "id": "ferndale-h-s",
+    "name": "Ferndale H.S.",
+    "city": null,
+    "state": "WA"
+  },
+  {
+    "id": "west-allegheny-h-s",
+    "name": "West Allegheny H.S.",
+    "city": null,
+    "state": "PA"
+  },
+  {
+    "id": "coronado-h-s",
+    "name": "Coronado H.S.",
+    "city": null,
+    "state": "AZ"
+  },
+  {
+    "id": "kiski-area-h-s",
+    "name": "Kiski Area H.S.",
+    "city": null,
+    "state": "PA"
+  },
+  {
+    "id": "jenison-h-s",
+    "name": "Jenison H.S.",
+    "city": null,
+    "state": "MI"
+  },
+  {
+    "id": "lakeland-h-s",
+    "name": "Lakeland H.S.",
+    "city": null,
+    "state": "MI"
+  },
+  {
+    "id": "victor-j-andrew-h-s",
+    "name": "Victor J. Andrew H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "lassiter-h-s",
+    "name": "Lassiter H.S.",
+    "city": null,
+    "state": "GA"
+  },
+  {
+    "id": "summerville-h-s",
+    "name": "Summerville H.S.",
+    "city": null,
+    "state": "CA"
+  },
+  {
+    "id": "oak-grove-h-s",
+    "name": "Oak Grove H.S.",
+    "city": null,
+    "state": "CA"
+  },
+  {
+    "id": "american-fork-h-s",
+    "name": "American Fork H.S.",
+    "city": null,
+    "state": "UT"
+  },
+  {
+    "id": "clear-lake-h-s",
+    "name": "Clear Lake H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "westlake-h-s",
+    "name": "Westlake H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "shelby-county-h-s",
+    "name": "Shelby County H.S.",
+    "city": null,
+    "state": "KY"
+  },
+  {
+    "id": "cary-h-s",
+    "name": "Cary H.S.",
+    "city": null,
+    "state": "NC"
+  },
+  {
+    "id": "castle-h-s",
+    "name": "Castle H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
+    "id": "franklin-h-s",
+    "name": "Franklin H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
+    "id": "smithfield-selma-h-s",
+    "name": "Smithfield Selma H.S.",
+    "city": null,
+    "state": "NC"
+  },
+  {
+    "id": "pearland-h-s",
+    "name": "Pearland H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "the-colony-h-s",
+    "name": "The Colony H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "bellbrook-h-s",
+    "name": "Bellbrook H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "western-brown-h-s",
+    "name": "Western Brown H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "northwestern-h-s",
+    "name": "Northwestern H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "carmel-h-s",
+    "name": "Carmel H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
+    "id": "meade-county-h-s",
+    "name": "Meade County H.S.",
+    "city": null,
+    "state": "KY"
+  },
+  {
+    "id": "newman-smith-h-s",
+    "name": "Newman Smith H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "gateway-h-s",
+    "name": "Gateway H.S.",
+    "city": null,
+    "state": "PA"
+  },
+  {
+    "id": "east-coweta-h-s",
+    "name": "East Coweta H.S.",
+    "city": null,
+    "state": "GA"
+  },
+  {
+    "id": "westland-h-s",
+    "name": "Westland H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "irmo-h-s",
+    "name": "Irmo H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "parkway-west-h-s",
+    "name": "Parkway West H.S.",
+    "city": null,
+    "state": "MO"
+  },
+  {
+    "id": "l-d-bell-h-s",
+    "name": "L.D. Bell H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "winston-churchill-h-s",
+    "name": "Winston Churchill H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "martin-h-s",
+    "name": "Martin H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "mt-juliet-h-s",
+    "name": "Mt. Juliet H.S.",
+    "city": null,
+    "state": "TN"
+  },
+  {
+    "id": "ooltewah-h-s",
+    "name": "Ooltewah H.S.",
+    "city": null,
+    "state": "TN"
+  },
+  {
+    "id": "father-ryan-h-s",
+    "name": "Father Ryan H.S.",
+    "city": null,
+    "state": "TN"
+  },
+  {
+    "id": "paulding-county-h-s",
+    "name": "Paulding County H.S.",
+    "city": null,
+    "state": "GA"
+  },
+  {
+    "id": "blackhawk-h-s",
+    "name": "Blackhawk H.S.",
+    "city": null,
+    "state": "PA"
+  },
+  {
+    "id": "west-carteret-h-s",
+    "name": "West Carteret H.S.",
+    "city": null,
+    "state": "NC"
+  },
+  {
+    "id": "onate-h-s",
+    "name": "Onate H.S.",
+    "city": null,
+    "state": "NM"
+  },
+  {
+    "id": "jackson-academy",
+    "name": "Jackson Academy",
+    "city": null,
+    "state": "MS"
+  },
+  {
+    "id": "louisville-male-h-s",
+    "name": "Louisville Male H.S.",
+    "city": null,
+    "state": "KY"
+  },
+  {
+    "id": "buckeye-h-s",
+    "name": "Buckeye H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "farmington-harrison-h-s",
+    "name": "Farmington-Harrison H.S.",
+    "city": null,
+    "state": "MI"
+  },
+  {
+    "id": "deer-lakes-h-s",
+    "name": "Deer Lakes H.S.",
+    "city": null,
+    "state": "PA"
+  },
+  {
+    "id": "gilbert-h-s",
+    "name": "Gilbert H.S.",
+    "city": null,
+    "state": "AZ"
+  },
+  {
+    "id": "fountain-valley-h-s",
+    "name": "Fountain Valley H.S.",
+    "city": null,
+    "state": "CA"
+  },
+  {
+    "id": "john-w-north-h-s",
+    "name": "John W. North H.S.",
+    "city": null,
+    "state": "CA"
+  },
+  {
+    "id": "pomona-h-s",
+    "name": "Pomona H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "eastern-h-s",
+    "name": "Eastern H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
+    "id": "reeths-puffer-h-s",
+    "name": "Reeths-Puffer H.S.",
+    "city": null,
+    "state": "MI"
+  },
+  {
+    "id": "moore-h-s",
+    "name": "Moore H.S.",
+    "city": null,
+    "state": "OK"
+  },
+  {
+    "id": "robstown-h-s",
+    "name": "Robstown H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "lewisville-h-s",
+    "name": "Lewisville H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "harlingen-south-h-s",
+    "name": "Harlingen South H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "cypress-creek-h-s",
+    "name": "Cypress Creek H.S.",
+    "city": null,
+    "state": "FL"
+  },
+  {
+    "id": "broken-arrow-sr-h-s",
+    "name": "Broken Arrow Sr. H.S.",
+    "city": null,
+    "state": "OK"
+  },
+  {
+    "id": "thousand-oaks-h-s",
+    "name": "Thousand Oaks H.S.",
+    "city": null,
+    "state": "CA"
+  },
+  {
+    "id": "olympia-h-s",
+    "name": "Olympia H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "loveland-h-s",
+    "name": "Loveland H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "indian-hill-h-s",
+    "name": "Indian Hill H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "mercer-county-h-s",
+    "name": "Mercer County H.S.",
+    "city": null,
+    "state": "KY"
+  },
+  {
+    "id": "pepperell-h-s",
+    "name": "Pepperell H.S.",
+    "city": null,
+    "state": "GA"
+  },
+  {
+    "id": "upland-h-s",
+    "name": "Upland H.S.",
+    "city": null,
+    "state": "CA"
+  },
+  {
+    "id": "seguin-h-s",
+    "name": "Seguin H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "james-bowie-h-s",
+    "name": "James Bowie H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "haltom-h-s",
+    "name": "Haltom H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "mabank-h-s",
+    "name": "Mabank H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "cypress-falls-h-s",
+    "name": "Cypress Falls H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "lake-central-h-s",
+    "name": "Lake Central H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
+    "id": "avon-h-s",
+    "name": "Avon H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
+    "id": "limestone-community-h-s",
+    "name": "Limestone Community H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "normal-west-h-s",
+    "name": "Normal West H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "rock-hill-h-s",
+    "name": "Rock Hill H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "herndon-h-s",
+    "name": "Herndon H.S.",
+    "city": null,
+    "state": "VA"
+  },
+  {
+    "id": "the-woodlands-h-s",
+    "name": "The Woodlands H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "paul-laurence-dunbar-h-s",
+    "name": "Paul Laurence Dunbar H.S.",
+    "city": null,
+    "state": "KY"
+  },
+  {
+    "id": "harrison-h-s",
+    "name": "Harrison H.S.",
+    "city": null,
+    "state": "GA"
+  },
+  {
+    "id": "cleveland-h-s",
+    "name": "Cleveland H.S.",
+    "city": null,
+    "state": "TN"
+  },
+  {
+    "id": "tarpon-springs-h-s",
+    "name": "Tarpon Springs H.S.",
+    "city": null,
+    "state": "FL"
+  },
+  {
+    "id": "east-lake-h-s",
+    "name": "East Lake H.S.",
+    "city": null,
+    "state": "FL"
+  },
+  {
+    "id": "green-valley-h-s",
+    "name": "Green Valley H.S.",
+    "city": null,
+    "state": "NV"
+  },
+  {
+    "id": "davis-h-s",
+    "name": "Davis H.S.",
+    "city": null,
+    "state": "UT"
+  },
+  {
+    "id": "coppell-h-s",
+    "name": "Coppell H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "whitesboro-h-s",
+    "name": "Whitesboro H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "colleyville-heritage-h-s",
+    "name": "Colleyville Heritage H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "richland-h-s",
+    "name": "Richland H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "blue-valley-h-s",
+    "name": "Blue Valley H.S.",
+    "city": null,
+    "state": "KS"
+  },
+  {
+    "id": "sycamore-h-s",
+    "name": "Sycamore H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "novi-h-s",
+    "name": "Novi H.S.",
+    "city": null,
+    "state": "MI"
+  },
+  {
+    "id": "beaver-area-h-s",
+    "name": "Beaver Area H.S.",
+    "city": null,
+    "state": "PA"
+  },
+  {
+    "id": "hidalgo-h-s",
+    "name": "Hidalgo H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "del-valle-h-s",
+    "name": "Del Valle H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "dorman-h-s",
+    "name": "Dorman H.S.",
+    "city": null,
+    "state": "SC"
+  },
+  {
+    "id": "north-penn-h-s",
+    "name": "North Penn H.S.",
+    "city": null,
+    "state": "PA"
+  },
+  {
+    "id": "irondale-h-s",
+    "name": "Irondale H.S.",
+    "city": null,
+    "state": "MN"
+  },
+  {
+    "id": "greeneview-h-s",
+    "name": "Greeneview H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "fort-zumwalt-north-h-s",
+    "name": "Fort Zumwalt North H.S.",
+    "city": null,
+    "state": "MO"
+  },
+  {
+    "id": "keller-h-s",
+    "name": "Keller H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "james-madison-h-s",
+    "name": "James Madison H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "connally-h-s",
+    "name": "Connally H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "smithson-valley-h-s",
+    "name": "Smithson Valley H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "judson-h-s",
+    "name": "Judson H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "owasso-h-s",
+    "name": "Owasso H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "collinsville-h-s",
+    "name": "Collinsville H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "bourbon-county-h-s",
+    "name": "Bourbon County H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "wheaton-warrenville-south-h-s",
+    "name": "Wheaton-Warrenville South H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "rancho-buena-vista-h-s",
+    "name": "Rancho Buena Vista H.S.",
+    "city": null,
+    "state": "CA"
+  },
+  {
+    "id": "martinsville-h-s",
+    "name": "Martinsville H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "tates-creek-h-s",
+    "name": "Tates Creek H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "francis-howell-h-s",
+    "name": "Francis Howell H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "harlingen-h-s",
+    "name": "Harlingen H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "king-philip-regional-h-s",
+    "name": "King Philip Regional H.S.",
+    "city": null,
+    "state": "MA"
+  },
+  {
+    "id": "naperville-north-h-s",
+    "name": "Naperville North H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "ayala-h-s",
+    "name": "Ayala H.S.",
+    "city": null,
+    "state": "CO"
+  },
+  {
+    "id": "corona-del-sol-h-s",
+    "name": "Corona Del Sol H.S.",
+    "city": null,
+    "state": "AZ"
+  },
+  {
+    "id": "walton-h-s",
+    "name": "Walton H.S.",
+    "city": null,
+    "state": "GA"
+  },
+  {
+    "id": "scotland-h-s",
+    "name": "Scotland H.S.",
+    "city": null,
+    "state": "NC"
+  },
+  {
+    "id": "bellevue-west-h-s",
+    "name": "BELLEVUE WEST H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "parkway-south-h-s",
+    "name": "PARKWAY SOUTH H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "grandville-h-s",
+    "name": "GRANDVILLE H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "eastview-h-s",
+    "name": "EASTVIEW H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "kettering-fairmont-h-s",
+    "name": "Kettering Fairmont H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "ronald-reagan-h-s",
+    "name": "Ronald Reagan H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "cedar-park-h-s",
+    "name": "Cedar Park H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "broken-arrow-senior-h-s",
+    "name": "Broken Arrow Senior H.S.",
+    "city": null,
+    "state": "OK"
+  },
+  {
+    "id": "parkway-central-h-s",
+    "name": "Parkway Central H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "lindbergh-h-s",
+    "name": "Lindbergh H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "oakville-senior-h-s",
+    "name": "Oakville Senior H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "desert-vista-h-s",
+    "name": "Desert Vista H.S.",
+    "city": null,
+    "state": "AZ"
+  },
+  {
+    "id": "hart-county-h-s",
+    "name": "Hart County H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "the-king-s-academy",
+    "name": "The King's Academy",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "brenham-h-s",
+    "name": "Brenham H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "hebron-h-s",
+    "name": "Hebron H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "victoria-memorial-h-s",
+    "name": "Victoria-Memorial H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "lincoln-way-east-h-s",
+    "name": "Lincoln Way East H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "walled-lake-central-h-s",
+    "name": "Walled Lake Central H.S.",
+    "city": null,
+    "state": "MI"
+  },
+  {
+    "id": "white-knoll-h-s",
+    "name": "White Knoll H.S.",
+    "city": null,
+    "state": "SC"
+  },
+  {
+    "id": "clayton-h-s",
+    "name": "Clayton H.S.",
+    "city": null,
+    "state": "NC"
+  },
+  {
+    "id": "kennesaw-mountain-h-s",
+    "name": "Kennesaw Mountain H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "bel-air-h-s",
+    "name": "Bel Air H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "palo-verde-h-s",
+    "name": "Palo Verde H.S.",
+    "city": null,
+    "state": "NV"
+  },
+  {
+    "id": "covina-h-s",
+    "name": "Covina H.S.",
+    "city": null,
+    "state": "CA"
+  },
+  {
+    "id": "chantilly-h-s",
+    "name": "Chantilly H.S.",
+    "city": null,
+    "state": "VA"
+  },
+  {
+    "id": "mesquite-h-s",
+    "name": "Mesquite H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "westmoore-h-s",
+    "name": "Westmoore H.S.",
+    "city": null,
+    "state": "OK"
+  },
+  {
+    "id": "muscle-shoals-h-s",
+    "name": "Muscle Shoals H.S.",
+    "city": null,
+    "state": "AL"
+  },
+  {
+    "id": "mclean-h-s",
+    "name": "McLean H.S.",
+    "city": null,
+    "state": "VA"
+  },
+  {
+    "id": "whitnall-h-s",
+    "name": "Whitnall H.S.",
+    "city": null,
+    "state": "WI"
+  },
+  {
+    "id": "glenbard-west-h-s",
+    "name": "Glenbard West H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "blue-valley-west-h-s",
+    "name": "Blue Valley West H.S.",
+    "city": null,
+    "state": "KS"
+  },
+  {
+    "id": "davenport-central-h-s",
+    "name": "Davenport Central H.S.",
+    "city": null,
+    "state": "IA"
+  },
+  {
+    "id": "gallatin-county-h-s",
+    "name": "Gallatin County H.S.",
+    "city": null,
+    "state": "KY"
+  },
+  {
+    "id": "campbell-county-h-s",
+    "name": "Campbell County H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "waubonsie-valley-h-s",
+    "name": "Waubonsie Valley H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "south-lyon-h-s",
+    "name": "South Lyon H.S.",
+    "city": null,
+    "state": "MI"
+  },
+  {
+    "id": "timber-creek-h-s",
+    "name": "Timber Creek H.S.",
+    "city": null,
+    "state": "FL"
+  },
+  {
+    "id": "jenks-h-s",
+    "name": "Jenks H.S.",
+    "city": null,
+    "state": "OK"
+  },
+  {
+    "id": "marcus-h-s",
+    "name": "Marcus H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "south-brunswick-h-s",
+    "name": "South Brunswick H.S.",
+    "city": null,
+    "state": "NJ"
+  },
+  {
+    "id": "west-johnston-h-s",
+    "name": "West Johnston H.S.",
+    "city": null,
+    "state": "NC"
+  },
+  {
+    "id": "westminster-h-s",
+    "name": "Westminster H.S.",
+    "city": null,
+    "state": "MD"
+  },
+  {
+    "id": "chippewa-h-s",
+    "name": "Chippewa H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "menomonie-h-s",
+    "name": "Menomonie H.S.",
+    "city": null,
+    "state": "WI"
+  },
+  {
+    "id": "firestone-h-s",
+    "name": "Firestone H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "collins-hill-h-s",
+    "name": "Collins Hill H.S.",
+    "city": null,
+    "state": "GA"
+  },
+  {
+    "id": "centennial-h-s",
+    "name": "Centennial H.S.",
+    "city": null,
+    "state": "TN"
+  },
+  {
+    "id": "gibson-county-h-s",
+    "name": "Gibson County H.S.",
+    "city": null,
+    "state": "TN"
+  },
+  {
+    "id": "william-s-hart-h-s",
+    "name": "William S. Hart H.S.",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "sierra-vista-h-s",
+    "name": "Sierra Vista H.S.",
+    "city": null,
+    "state": "NV"
+  },
+  {
+    "id": "la-cueva-h-s",
+    "name": "La Cueva H.S.",
+    "city": null,
+    "state": "NM"
+  },
+  {
+    "id": "central-crossing-h-s",
+    "name": "Central Crossing H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "mid-carolina-h-s",
+    "name": "Mid-Carolina H.S.",
+    "city": null,
+    "state": "SC"
+  },
+  {
+    "id": "creekview-h-s",
+    "name": "Creekview H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "navasota-h-s",
+    "name": "Navasota H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "w-charles-akins-h-s",
+    "name": "W. Charles Akins H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "cape-fear-h-s",
+    "name": "Cape Fear H.S.",
+    "city": null,
+    "state": "NC"
+  },
+  {
+    "id": "americas-h-s",
+    "name": "Americas H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "william-h-taft-h-s",
+    "name": "William H. Taft H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "united-h-s",
+    "name": "United H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "john-b-alexander-h-s",
+    "name": "John B. Alexander H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "st-thomas-more-catholic-h-s",
+    "name": "St. Thomas More Catholic H.S.",
+    "city": null,
+    "state": "LA"
+  },
+  {
+    "id": "carlton-j-kell-h-s",
+    "name": "Carlton J. Kell H.S.",
+    "city": null,
+    "state": "GA"
+  },
+  {
+    "id": "godwin-heights-h-s",
+    "name": "Godwin Heights H.S.",
+    "city": null,
+    "state": "MI"
+  },
+  {
+    "id": "pike-h-s",
+    "name": "Pike H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
+    "id": "karns-h-s",
+    "name": "Karns H.S.",
+    "city": null,
+    "state": "TN"
+  },
+  {
+    "id": "clear-brook-h-s",
+    "name": "Clear Brook H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "crestwood-h-s",
+    "name": "Crestwood H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "sharyland-h-s",
+    "name": "Sharyland H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "croatan-h-s",
+    "name": "Croatan H.S.",
+    "city": null,
+    "state": "NC"
+  },
+  {
+    "id": "thomas-jefferson-h-s",
+    "name": "Thomas Jefferson H.S.",
+    "city": null,
+    "state": "IA"
+  },
+  {
+    "id": "wentzville-holt-h-s",
+    "name": "Wentzville Holt H.S.",
+    "city": null,
+    "state": "MO"
+  },
+  {
+    "id": "kickapoo-h-s",
+    "name": "Kickapoo H.S.",
+    "city": null,
+    "state": "MO"
+  },
+  {
+    "id": "bridgewater-raritan-h-s",
+    "name": "Bridgewater-Raritan H.S.",
+    "city": null,
+    "state": "NJ"
+  },
+  {
+    "id": "frostproof-h-s",
+    "name": "Frostproof H.S.",
+    "city": null,
+    "state": "FL"
+  },
+  {
+    "id": "york-h-s",
+    "name": "York H.S.",
+    "city": null,
+    "state": "VA"
+  },
+  {
+    "id": "dutch-fork-h-s",
+    "name": "Dutch Fork H.S.",
+    "city": null,
+    "state": "SC"
+  },
+  {
+    "id": "lamar-consolidated-h-s",
+    "name": "Lamar Consolidated H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "metamora-township-h-s",
+    "name": "Metamora Township H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "carlisle-h-s",
+    "name": "Carlisle H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "waynesville-h-s",
+    "name": "Waynesville H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "columbus-north-h-s",
+    "name": "Columbus North H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
+    "id": "daviess-county-h-s",
+    "name": "Daviess County H.S.",
+    "city": null,
+    "state": "KY"
+  },
+  {
+    "id": "barren-county-h-s",
+    "name": "Barren County H.S.",
+    "city": null,
+    "state": "KY"
+  },
+  {
+    "id": "fox-chapel-area-h-s",
+    "name": "Fox Chapel Area H.S.",
+    "city": null,
+    "state": "PA"
+  },
+  {
+    "id": "hendrickson-h-s",
+    "name": "Hendrickson H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "cameron-yoe-h-s",
+    "name": "Cameron Yoe H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "waller-h-s",
+    "name": "Waller H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "mansfield-h-s",
+    "name": "Mansfield H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "edmond-north-h-s",
+    "name": "Edmond North H.S.",
+    "city": null,
+    "state": "OK"
+  },
+  {
+    "id": "putnam-city-h-s",
+    "name": "Putnam City H.S.",
+    "city": null,
+    "state": "OK"
+  },
+  {
+    "id": "wakefield-h-s",
+    "name": "Wakefield H.S.",
+    "city": null,
+    "state": "NC"
+  },
+  {
+    "id": "casa-grande-union-h-s",
+    "name": "Casa Grande Union H.S.",
+    "city": null,
+    "state": "AZ"
+  },
+  {
+    "id": "mountain-pointe-h-s",
+    "name": "Mountain Pointe H.S.",
+    "city": null,
+    "state": "AZ"
+  },
+  {
+    "id": "rosemount-h-s",
+    "name": "Rosemount H.S.",
+    "city": null,
+    "state": "MN"
+  },
+  {
+    "id": "putnam-city-north-h-s",
+    "name": "Putnam City North H.S.",
+    "city": null,
+    "state": "OK"
+  },
+  {
+    "id": "southaven-h-s",
+    "name": "Southaven H.S.",
+    "city": null,
+    "state": "MS"
+  },
+  {
+    "id": "o-fallon-township-h-s",
+    "name": "O'Fallon Township H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "odessa-h-s",
+    "name": "Odessa H.S.",
+    "city": null,
+    "state": "MO"
+  },
+  {
+    "id": "fort-zumwalt-west-h-s",
+    "name": "Fort Zumwalt West H.S.",
+    "city": null,
+    "state": "MO"
+  },
+  {
+    "id": "skiatook-h-s",
+    "name": "Skiatook H.S.",
+    "city": null,
+    "state": "OK"
+  },
+  {
+    "id": "knox-h-s",
+    "name": "Knox H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
+    "id": "jeffersonville-h-s",
+    "name": "Jeffersonville H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
+    "id": "fred-j-page-h-s",
+    "name": "Fred J. Page H.S.",
+    "city": null,
+    "state": "TN"
+  },
+  {
+    "id": "columbia-central-h-s",
+    "name": "Columbia Central H.S.",
+    "city": null,
+    "state": "TN"
+  },
+  {
+    "id": "seven-lakes-h-s",
+    "name": "Seven Lakes H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "calloway-county-h-s",
+    "name": "Calloway County H.S.",
+    "city": null,
+    "state": "KY"
+  },
+  {
+    "id": "ravenwood-h-s",
+    "name": "Ravenwood H.S.",
+    "city": null,
+    "state": "TN"
+  },
+  {
+    "id": "christian-county-h-s",
+    "name": "Christian County H.S.",
+    "city": null,
+    "state": "KY"
+  },
+  {
+    "id": "mars-h-s",
+    "name": "Mars H.S.",
+    "city": null,
+    "state": "PA"
+  },
+  {
+    "id": "harbor-creek-h-s",
+    "name": "Harbor Creek H.S.",
+    "city": null,
+    "state": "PA"
+  },
+  {
+    "id": "boswell-h-s",
+    "name": "Boswell H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "ryan-h-s",
+    "name": "Ryan H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "saginaw-h-s",
+    "name": "Saginaw H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "winnsboro-h-s",
+    "name": "Winnsboro H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "air-academy-h-s",
+    "name": "Air Academy H.S.",
+    "city": null,
+    "state": "CO"
+  },
+  {
+    "id": "basha-h-s",
+    "name": "Basha H.S.",
+    "city": null,
+    "state": "AZ"
+  },
+  {
+    "id": "millennium-h-s",
+    "name": "Millennium H.S.",
+    "city": null,
+    "state": "AZ"
+  },
+  {
+    "id": "desert-ridge-h-s",
+    "name": "Desert Ridge H.S.",
+    "city": null,
+    "state": "AZ"
+  },
+  {
+    "id": "desert-mountain-h-s",
+    "name": "Desert Mountain H.S.",
+    "city": null,
+    "state": "AZ"
+  },
+  {
+    "id": "deer-valley-h-s",
+    "name": "Deer Valley H.S.",
+    "city": null,
+    "state": "AZ"
+  },
+  {
+    "id": "tucson-h-s",
+    "name": "Tucson H.S.",
+    "city": null,
+    "state": "AZ"
+  },
+  {
+    "id": "the-woodlands-college-park-h-s",
+    "name": "The Woodlands College Park H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "pasadena-memorial-h-s",
+    "name": "Pasadena Memorial H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "spring-woods-h-s",
+    "name": "Spring Woods H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "william-b-travis-h-s",
+    "name": "William B. Travis H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "rice-h-s",
+    "name": "Rice H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "texas-city-h-s",
+    "name": "Texas City H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "south-forsyth-h-s",
+    "name": "South Forsyth H.S.",
+    "city": null,
+    "state": "GA"
+  },
+  {
+    "id": "greer-h-s",
+    "name": "Greer H.S.",
+    "city": null,
+    "state": "SC"
+  },
+  {
+    "id": "j-w-mitchell-h-s",
+    "name": "J.W.Mitchell H.S.",
+    "city": null,
+    "state": "FL"
+  },
+  {
+    "id": "east-carteret-h-s",
+    "name": "East Carteret H.S.",
+    "city": null,
+    "state": "NC"
+  },
+  {
+    "id": "blue-springs-h-s",
+    "name": "Blue Springs H.S.",
+    "city": null,
+    "state": "MO"
+  },
+  {
+    "id": "champlin-park-h-s",
+    "name": "Champlin Park H.S.",
+    "city": null,
+    "state": "MN"
+  },
+  {
+    "id": "waseca-h-s",
+    "name": "Waseca H.S.",
+    "city": null,
+    "state": "MN"
+  },
+  {
+    "id": "jonesboro-h-s",
+    "name": "Jonesboro H.S.",
+    "city": null,
+    "state": "AR"
+  },
+  {
+    "id": "howell-north-h-s",
+    "name": "Howell North H.S.",
+    "city": null,
+    "state": "MO"
+  },
+  {
+    "id": "stillwater-h-s",
+    "name": "Stillwater H.S.",
+    "city": null,
+    "state": "OK"
+  },
+  {
+    "id": "eureka-h-s",
+    "name": "Eureka H.S.",
+    "city": null,
+    "state": "MO"
+  },
+  {
+    "id": "west-springfield-h-s",
+    "name": "West Springfield H.S.",
+    "city": null,
+    "state": "VA"
+  },
+  {
+    "id": "calvert-hall-college-h-s",
+    "name": "Calvert Hall College H.S.",
+    "city": null,
+    "state": "MD"
+  },
+  {
+    "id": "east-irondequoit-central-school",
+    "name": "East Irondequoit Central School",
+    "city": null,
+    "state": "NY"
+  },
+  {
+    "id": "central-bucks-h-s-west",
+    "name": "Central Bucks H.S. West",
+    "city": null,
+    "state": "PA"
+  },
+  {
+    "id": "susquehannock-h-s",
+    "name": "Susquehannock H.S.",
+    "city": null,
+    "state": "PA"
+  },
+  {
+    "id": "new-milford-h-s",
+    "name": "New Milford H.S.",
+    "city": null,
+    "state": "CT"
+  },
+  {
+    "id": "briar-woods-h-s",
+    "name": "Briar Woods H.S.",
+    "city": null,
+    "state": "VA"
+  },
+  {
+    "id": "powhatan-h-s",
+    "name": "Powhatan H.S.",
+    "city": null,
+    "state": "VA"
+  },
+  {
+    "id": "vista-murrieta-h-s",
+    "name": "Vista Murrieta H.S.",
+    "city": null,
+    "state": "CA"
+  },
+  {
+    "id": "amador-valley-h-s",
+    "name": "Amador Valley H.S.",
+    "city": null,
+    "state": "CA"
+  },
+  {
+    "id": "great-oak-h-s",
+    "name": "Great Oak H.S.",
+    "city": null,
+    "state": "CA"
+  },
+  {
+    "id": "royal-h-s",
+    "name": "Royal H.S.",
+    "city": null,
+    "state": "CA"
+  },
+  {
+    "id": "forsyth-central-h-s",
+    "name": "Forsyth Central H.S.",
+    "city": null,
+    "state": "GA"
+  },
+  {
+    "id": "barbara-goleman-h-s",
+    "name": "Barbara Goleman H.S.",
+    "city": null,
+    "state": "FL"
+  },
+  {
+    "id": "ryle-h-s",
+    "name": "Ryle H.S.",
+    "city": null,
+    "state": "KY"
+  },
+  {
+    "id": "fuquay-varina-h-s",
+    "name": "Fuquay-Varina H.S.",
+    "city": null,
+    "state": "NC"
+  },
+  {
+    "id": "havelock-h-s",
+    "name": "Havelock H.S.",
+    "city": null,
+    "state": "NC"
+  },
+  {
+    "id": "bradwell-institute",
+    "name": "Bradwell Institute",
+    "city": null,
+    "state": "GA"
+  },
+  {
+    "id": "wicksburg-h-s",
+    "name": "Wicksburg H.S.",
+    "city": null,
+    "state": "AL"
+  },
+  {
+    "id": "naperville-central-h-s",
+    "name": "Naperville Central H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "woodlan-jr-sr-h-s",
+    "name": "Woodlan Jr.-Sr. H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
+    "id": "vista-ridge-h-s",
+    "name": "Vista Ridge H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "rampart-h-s",
+    "name": "Rampart H.S.",
+    "city": null,
+    "state": "CO"
+  },
+  {
+    "id": "central-hardin",
+    "name": "Central Hardin",
+    "city": null,
+    "state": "KY"
+  },
+  {
+    "id": "marion-county-h-s",
+    "name": "Marion County H.S.",
+    "city": null,
+    "state": "KY"
+  },
+  {
+    "id": "wright-city-h-s",
+    "name": "Wright City H.S.",
+    "city": null,
+    "state": "MO"
+  },
+  {
+    "id": "tarpon-srings-h-s",
+    "name": "Tarpon Srings H.S.",
+    "city": null,
+    "state": "FL"
+  },
+  {
+    "id": "cypress-falls",
+    "name": "Cypress Falls",
+    "city": null,
+    "state": "TX"
+  }
+]

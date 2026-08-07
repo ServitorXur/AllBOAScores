@@ -1,0 +1,192 @@
+[
+  {
+    "id": "2014-louisville-regional-championship-at-louisville-ky",
+    "season": 2014,
+    "name": "Louisville Regional Championship at Louisville, KY",
+    "type": "Regional",
+    "venue": "Papa John's Cardinal Stadium -‐ 9/20",
+    "date": "2014-09-20",
+    "city": "Louisville",
+    "state": "KY"
+  },
+  {
+    "id": "2014-monroeville-regional-championship-at-monroeville-pa",
+    "season": 2014,
+    "name": "Monroeville Regional Championship at Monroeville, PA",
+    "type": "Regional",
+    "venue": null,
+    "date": "2014-09-20",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "2014-austin-regional-championship-at-austin-tx",
+    "season": 2014,
+    "name": "Austin Regional Championship at Austin, TX",
+    "type": "Regional",
+    "venue": "Kelly Reeves Athletic Complex -‐ 9/27",
+    "date": "2014-09-27",
+    "city": "Austin",
+    "state": "TX"
+  },
+  {
+    "id": "2014-dayton-regional-championship-at-dayton-oh",
+    "season": 2014,
+    "name": "Dayton Regional Championship at Dayton, OH",
+    "type": "Regional",
+    "venue": "Welcome Stadium -‐ 9/27",
+    "date": "2014-09-27",
+    "city": "Dayton",
+    "state": "OH"
+  },
+  {
+    "id": "2014-powder-springs-regional-championship-at-powder-springs-ga",
+    "season": 2014,
+    "name": "Powder Springs Regional Championship at Powder Springs, GA",
+    "type": "Regional",
+    "venue": "Walter H. Cantrell Stadium -‐ 9/27",
+    "date": "2014-09-27",
+    "city": "Powder Springs",
+    "state": "GA"
+  },
+  {
+    "id": "2014-denton-regional-championship-at-denton-tx",
+    "season": 2014,
+    "name": "Denton Regional Championship at Denton, TX",
+    "type": "Regional",
+    "venue": "Apogee Stadium -‐ 10/4",
+    "date": "2014-10-04",
+    "city": "Denton",
+    "state": "TX"
+  },
+  {
+    "id": "2014-toledo-regional-championship-at-toledo-oh",
+    "season": 2014,
+    "name": "Toledo Regional Championship at Toledo, OH",
+    "type": "Regional",
+    "venue": "Glass Bowl Stadium -‐ 10/4",
+    "date": "2014-10-04",
+    "city": "Toledo",
+    "state": "OH"
+  },
+  {
+    "id": "2014-conroe-regional-championship-at-conroe-tx",
+    "season": 2014,
+    "name": "Conroe Regional Championship at Conroe, TX",
+    "type": "Regional",
+    "venue": "Woodforest Bank Stadium -‐ 10/11",
+    "date": "2014-10-11",
+    "city": "Conroe",
+    "state": "TX"
+  },
+  {
+    "id": "2014-jacksonville-regional-championship-at-jacksonville-al",
+    "season": 2014,
+    "name": "Jacksonville Regional Championship at Jacksonville, AL",
+    "type": "Regional",
+    "venue": "Burgess Snow Field -‐ 10/11",
+    "date": "2014-10-11",
+    "city": "Jacksonville",
+    "state": "FL"
+  },
+  {
+    "id": "2014-winston-salem-regional-championship-at-winston-salem-nc",
+    "season": 2014,
+    "name": "Winston-‐Salem Regional Championship at Winston-‐Salem, NC",
+    "type": "Regional",
+    "venue": "Wake Forest University -‐ 10/11",
+    "date": "2014-10-11",
+    "city": "Winston Salem",
+    "state": "NC"
+  },
+  {
+    "id": "2014-st-louis-super-regional-championship-at-st-louis-mo",
+    "season": 2014,
+    "name": "St. Louis Super Regional Championship at St. Louis, MO",
+    "type": "Super Regional",
+    "venue": "Edward Jones Dome -‐ 10/17-‐18",
+    "date": "2014-10-18",
+    "city": "Saint Louis",
+    "state": "MO"
+  },
+  {
+    "id": "2014-tacoma-regional-championship-at-tacoma-wa",
+    "season": 2014,
+    "name": "Tacoma Regional Championship at Tacoma, WA",
+    "type": "Regional",
+    "venue": "Tacoma Dome -‐ 10/18",
+    "date": "2014-10-18",
+    "city": "Tacoma",
+    "state": "WA"
+  },
+  {
+    "id": "2014-indianapolis-super-regional-championship-at-indianapolis-in",
+    "season": 2014,
+    "name": "Indianapolis Super Regional Championship at Indianapolis, IN",
+    "type": "Super Regional",
+    "venue": "Lucas Oil Stadium -‐ 10/25",
+    "date": "2014-10-25",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  {
+    "id": "2014-newark-regional-championship-at-newark-de",
+    "season": 2014,
+    "name": "Newark Regional Championship at Newark, DE",
+    "type": "Regional",
+    "venue": "Delaware Stadium -‐ 10/25",
+    "date": "2014-10-25",
+    "city": "Dover",
+    "state": "DE"
+  },
+  {
+    "id": "2014-atlanta-super-regional-championship-at-atlanta-ga",
+    "season": 2014,
+    "name": "Atlanta Super Regional Championship at Atlanta, GA",
+    "type": "Super Regional",
+    "venue": "Georgia Dome -‐ 10-‐31-‐11/1",
+    "date": "2014-11-01",
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  {
+    "id": "2014-san-antonio-super-regional-championship-at-san-antonio-tx",
+    "season": 2014,
+    "name": "San Antonio Super Regional Championship at San Antonio, TX",
+    "type": "Super Regional",
+    "venue": "The Alamodome -‐ 10/31-‐11/1",
+    "date": "2014-11-01",
+    "city": "San Antonio",
+    "state": null
+  },
+  {
+    "id": "2014-st-george-regional-championship-at-st-george-ut",
+    "season": 2014,
+    "name": "St. George Regional Championship at St. George, UT",
+    "type": "Regional",
+    "venue": null,
+    "date": "2014-11-01",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "2014-long-beach-regional-championship-at-long-beach-ca",
+    "season": 2014,
+    "name": "Long Beach Regional Championship at Long Beach, CA",
+    "type": "Regional",
+    "venue": "Veterans Memorial Stadium -‐ 11/8",
+    "date": "2014-11-08",
+    "city": "Long Beach",
+    "state": "CA"
+  },
+  {
+    "id": "2014-grand-national-championships",
+    "season": 2014,
+    "name": "Grand National Championships",
+    "type": "Grand National",
+    "venue": "Lucas Oil Stadium -‐ Indianapolis, IN",
+    "date": "2014-11-13",
+    "city": "Indianapolis",
+    "state": "IN"
+  }
+]

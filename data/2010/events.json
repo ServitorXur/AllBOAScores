@@ -1,0 +1,192 @@
+[
+  {
+    "id": "2010-regional-championship-at-louisville-kentucky",
+    "season": 2010,
+    "name": "Regional Championship at Louisville, Kentucky",
+    "type": "Regional",
+    "venue": "Papa John's Cardinal Stadium",
+    "date": "2010-09-25",
+    "city": "Louisville",
+    "state": "KY"
+  },
+  {
+    "id": "2010-regional-championship-at-norwin-pa",
+    "season": 2010,
+    "name": "Regional Championship at Norwin, PA",
+    "type": "Regional",
+    "venue": "Norwin H.S.",
+    "date": "2010-09-25",
+    "city": "Toowoomba",
+    "state": "QLD"
+  },
+  {
+    "id": "2010-regional-championship-at-arlington-tx",
+    "season": 2010,
+    "name": "Regional Championship at Arlington, TX",
+    "type": "Regional",
+    "venue": "Maverick Stadium",
+    "date": "2010-10-02",
+    "city": "Arlington",
+    "state": "TX"
+  },
+  {
+    "id": "2010-regional-championship-at-kettering-ohio",
+    "season": 2010,
+    "name": "Regional Championship at Kettering, Ohio",
+    "type": "Regional",
+    "venue": "Roush Stadium",
+    "date": "2010-10-02",
+    "city": "Dayton",
+    "state": "OH"
+  },
+  {
+    "id": "2010-regional-championship-at-jacksonville-al",
+    "season": 2010,
+    "name": "Regional Championship at Jacksonville, AL",
+    "type": "Regional",
+    "venue": "Burgess - Snow Field",
+    "date": "2010-10-09",
+    "city": "Jacksonville",
+    "state": "FL"
+  },
+  {
+    "id": "2010-regional-championship-at-jacksonville-alabama",
+    "season": 2010,
+    "name": "Regional Championship at Jacksonville, Alabama",
+    "type": "Regional",
+    "venue": "Burgess-Snow Field",
+    "date": "2010-10-09",
+    "city": "Jacksonville",
+    "state": "AL"
+  },
+  {
+    "id": "2010-regional-championship-at-pontiac-mi",
+    "season": 2010,
+    "name": "Regional Championship at Pontiac, MI",
+    "type": "Regional",
+    "venue": "Silverdome",
+    "date": "2010-10-09",
+    "city": "City of Pontiac",
+    "state": "MI"
+  },
+  {
+    "id": "2010-regional-championship-at-the-woodlands-tx",
+    "season": 2010,
+    "name": "Regional Championship at The Woodlands, TX",
+    "type": "Regional",
+    "venue": "Woodforest Bank Stadium",
+    "date": "2010-10-09",
+    "city": "Spring",
+    "state": "TX"
+  },
+  {
+    "id": "2010-regional-championship-at-akron-oh",
+    "season": 2010,
+    "name": "Regional Championship at Akron, OH",
+    "type": "Regional",
+    "venue": "InfoCision Stadium, University of Akron",
+    "date": "2010-10-16",
+    "city": "Akron",
+    "state": "OH"
+  },
+  {
+    "id": "2010-regional-championship-at-akron-ohio",
+    "season": 2010,
+    "name": "Regional Championship at Akron, Ohio",
+    "type": "Regional",
+    "venue": "InfoCision Stadium, University of Akron",
+    "date": "2010-10-16",
+    "city": "Akron",
+    "state": "OH"
+  },
+  {
+    "id": "2010-regional-championship-at-st-louis-missouri",
+    "season": 2010,
+    "name": "Regional Championship at St. Louis, Missouri",
+    "type": "Regional",
+    "venue": "Edward Jones Dome",
+    "date": "2010-10-16",
+    "city": "Saint Louis",
+    "state": "MO"
+  },
+  {
+    "id": "2010-regional-championship-at-hemet-ca",
+    "season": 2010,
+    "name": "Regional Championship at Hemet, CA",
+    "type": "Regional",
+    "venue": "West Valley High School",
+    "date": "2010-10-23",
+    "city": "Hemet",
+    "state": "CA"
+  },
+  {
+    "id": "2010-regional-championship-at-towson-maryland",
+    "season": 2010,
+    "name": "Regional Championship at Towson, Maryland",
+    "type": "Regional",
+    "venue": "Johnny Unitas Stadium",
+    "date": "2010-10-23",
+    "city": "Towson",
+    "state": "MD"
+  },
+  {
+    "id": "2010-regional-championship-at-atlanta-georgia",
+    "season": 2010,
+    "name": "Regional Championship at Atlanta, Georgia",
+    "type": "Regional",
+    "venue": "Georgia Dome",
+    "date": "2010-10-30",
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  {
+    "id": "2010-super-regional-championship-at-atlanta-georgia",
+    "season": 2010,
+    "name": "Super Regional Championship at Atlanta, Georgia",
+    "type": "Super Regional",
+    "venue": "Georgia Dome",
+    "date": "2010-10-30",
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  {
+    "id": "2010-super-regional-championship-at-san-antonio-texas",
+    "season": 2010,
+    "name": "Super Regional Championship at San Antonio, Texas",
+    "type": "Super Regional",
+    "venue": "Alamodome",
+    "date": "2010-10-30",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "2010-regional-championship-at-indianapolis-in",
+    "season": 2010,
+    "name": "Regional Championship at Indianapolis, IN",
+    "type": "Regional",
+    "venue": "Lucas Oil Stadium",
+    "date": "2010-11-06",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  {
+    "id": "2010-regional-championship-at-st-george-ut",
+    "season": 2010,
+    "name": "Regional Championship at St. George, UT",
+    "type": "Regional",
+    "venue": "Dixie State College - Nevember 6",
+    "date": "2010-11-06",
+    "city": "St. George",
+    "state": "UT"
+  },
+  {
+    "id": "2010-grand-national-championships-at-indianapolis-indiana",
+    "season": 2010,
+    "name": "Grand National Championships at Indianapolis, Indiana",
+    "type": "Grand National",
+    "venue": "Lucas Oil Stadium - Thursday, November 11",
+    "date": "2010-11-11",
+    "city": "Indianapolis",
+    "state": "IN"
+  }
+]

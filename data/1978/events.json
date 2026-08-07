@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1978-summer-national-championship-at-whitewater-wi",
+    "season": 1978,
+    "name": "Summer National Championship at Whitewater, WI",
+    "type": "National",
+    "venue": "Warhawk Stadium",
+    "date": "1978-06-16",
+    "city": "Whitewater",
+    "state": "WI"
+  },
+  {
+    "id": "1978-southern-regional-championship-at-jackson-ms",
+    "season": 1978,
+    "name": "Southern Regional Championship at Jackson, MS",
+    "type": "Regional",
+    "venue": "Newell Field",
+    "date": "1978-11-04",
+    "city": "Jackson",
+    "state": "MS"
+  }
+]

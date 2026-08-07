@@ -1,0 +1,212 @@
+[
+  {
+    "id": "2015-clarksville-regional-championship-at-clarksville-tn",
+    "season": 2015,
+    "name": "Clarksville Regional Championship at Clarksville, TN",
+    "type": "Regional",
+    "venue": "Austin Peay State University -‐ 9/19",
+    "date": "2015-09-19",
+    "city": "Clarksville",
+    "state": "TN"
+  },
+  {
+    "id": "2015-monroeville-regional-championship-at-monroeville-pa",
+    "season": 2015,
+    "name": "Monroeville Regional Championship at Monroeville, PA",
+    "type": "Regional",
+    "venue": null,
+    "date": "2015-09-19",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "2015-austin-regional-championship-at-austin-tx",
+    "season": 2015,
+    "name": "Austin Regional Championship at Austin, TX",
+    "type": "Regional",
+    "venue": "Kelly Reeves Athletic Complex -‐ 9/26",
+    "date": "2015-09-26",
+    "city": "Austin",
+    "state": "TX"
+  },
+  {
+    "id": "2015-bowling-green-regional-championship-at-bowling-green-oh",
+    "season": 2015,
+    "name": "Bowling Green Regional Championship at Bowling Green, OH",
+    "type": "Regional",
+    "venue": "Bowling Green State University -‐ 9/26",
+    "date": "2015-09-26",
+    "city": "Bowling Green",
+    "state": "OH"
+  },
+  {
+    "id": "2015-mcallen-regional-championship-at-mcallen-tx",
+    "season": 2015,
+    "name": "McAllen Regional Championship at McAllen, TX",
+    "type": "Regional",
+    "venue": "McAllen Veterans Memorial Stadium -‐ 9/26",
+    "date": "2015-09-26",
+    "city": "McAllen",
+    "state": "TX"
+  },
+  {
+    "id": "2015-conroe-regional-championship-at-conroe-tx",
+    "season": 2015,
+    "name": "Conroe Regional Championship at Conroe, TX",
+    "type": "Regional",
+    "venue": "Woodforest Bank Stadium -‐ 10/3",
+    "date": "2015-10-03",
+    "city": "Conroe",
+    "state": "TX"
+  },
+  {
+    "id": "2015-dayton-regional-championship-at-dayton-oh",
+    "season": 2015,
+    "name": "Dayton Regional Championship at Dayton, OH",
+    "type": "Regional",
+    "venue": "Welcome Stadium -‐ 10/3",
+    "date": "2015-10-03",
+    "city": "Dayton",
+    "state": "OH"
+  },
+  {
+    "id": "2015-powder-springs-regional-championship-at-powder-springs-ga",
+    "season": 2015,
+    "name": "Powder Springs Regional Championship at Powder Springs, GA",
+    "type": "Regional",
+    "venue": null,
+    "date": "2015-10-03",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "2015-arlington-regional-championship-at-arlington-tx",
+    "season": 2015,
+    "name": "Arlington Regional Championship at Arlington, TX",
+    "type": "Regional",
+    "venue": "University of Texas -‐ Arlington -‐ 10/10",
+    "date": "2015-10-10",
+    "city": "Arlington",
+    "state": "TX"
+  },
+  {
+    "id": "2015-jacksonville-regional-championship-at-jacksonville-al",
+    "season": 2015,
+    "name": "Jacksonville Regional Championship at Jacksonville, AL",
+    "type": "Regional",
+    "venue": "Jacksonville State University -‐ 10/10",
+    "date": "2015-10-10",
+    "city": "Jacksonville",
+    "state": "AL"
+  },
+  {
+    "id": "2015-winston-salem-regional-championship-at-winston-salem-nc",
+    "season": 2015,
+    "name": "Winston-‐Salem Regional Championship at Winston-‐Salem, NC",
+    "type": "Regional",
+    "venue": "Wake Forest University -‐ 10/10",
+    "date": "2015-10-10",
+    "city": "Winston Salem",
+    "state": "NC"
+  },
+  {
+    "id": "2015-st-louis-super-regional-championship-at-st-louis-mo",
+    "season": 2015,
+    "name": "St. Louis Super Regional Championship at St. Louis, MO",
+    "type": "Super Regional",
+    "venue": "Edward Jones Dome -‐ 10/17",
+    "date": "2015-10-16",
+    "city": "Saint Louis",
+    "state": "MO"
+  },
+  {
+    "id": "2015-newark-regional-championship-at-newark-de",
+    "season": 2015,
+    "name": "Newark Regional Championship at Newark, DE",
+    "type": "Regional",
+    "venue": "The University of Delaware -‐ 10/17",
+    "date": "2015-10-17",
+    "city": "Newark",
+    "state": "DE"
+  },
+  {
+    "id": "2015-indianapolis-super-regional-championship-at-indianapolis-in",
+    "season": 2015,
+    "name": "Indianapolis Super Regional Championship at Indianapolis, IN",
+    "type": "Super Regional",
+    "venue": "Lucas Oil Stadium -‐ 10/23-‐24",
+    "date": "2015-10-23",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  {
+    "id": "2015-long-beach-regional-championship-at-long-beach-ca",
+    "season": 2015,
+    "name": "Long Beach Regional Championship at Long Beach, CA",
+    "type": "Regional",
+    "venue": "Veterans Memorial Stadium -‐ 10/24",
+    "date": "2015-10-24",
+    "city": "Long Beach",
+    "state": "CA"
+  },
+  {
+    "id": "2015-atlanta-super-regional-championship-at-atlanta-ga",
+    "season": 2015,
+    "name": "Atlanta Super Regional Championship at Atlanta, GA",
+    "type": "Super Regional",
+    "venue": "Georgia Dome -‐ 10/31",
+    "date": "2015-10-30",
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  {
+    "id": "2015-san-antonio-regional-championship-at-san-antonio-tx",
+    "season": 2015,
+    "name": "San Antonio Regional Championship at San Antonio, TX",
+    "type": "Regional",
+    "venue": "Alamodome -‐ 10/31",
+    "date": "2015-10-30",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "2015-san-antonio-super-regional-championship-at-san-antonio-tx",
+    "season": 2015,
+    "name": "San Antonio Super Regional Championship at San Antonio, TX",
+    "type": "Super Regional",
+    "venue": "Alamodome -‐ 10/30-‐31",
+    "date": "2015-10-30",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "2015-st-george-regional-championship-at-st-george-ut",
+    "season": 2015,
+    "name": "St. George Regional Championship at St. George, UT",
+    "type": "Regional",
+    "venue": "Dixie State University -‐ 10/31",
+    "date": "2015-10-31",
+    "city": "Saint George",
+    "state": "UT"
+  },
+  {
+    "id": "2015-american-canyon-regional-championship-at-american-canyon-ca",
+    "season": 2015,
+    "name": "American Canyon Regional Championship at American Canyon, CA",
+    "type": "Regional",
+    "venue": null,
+    "date": "2015-11-07",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "2015-grand-national-championships",
+    "season": 2015,
+    "name": "Grand National Championships",
+    "type": "Grand National",
+    "venue": "Lucas Oil Stadium -‐ Indianapolis, IN",
+    "date": "2015-11-12",
+    "city": "Indianapolis",
+    "state": "IN"
+  }
+]

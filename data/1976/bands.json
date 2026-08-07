@@ -1,0 +1,122 @@
+[
+  {
+    "id": "hamilton-h-s",
+    "name": "Hamilton H.S.",
+    "city": null,
+    "state": "WI"
+  },
+  {
+    "id": "northampton-h-s",
+    "name": "Northampton H.S.",
+    "city": null,
+    "state": "PA"
+  },
+  {
+    "id": "angola-h-s",
+    "name": "Angola H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
+    "id": "oskaloosa-h-s",
+    "name": "Oskaloosa H.S.",
+    "city": null,
+    "state": "IA"
+  },
+  {
+    "id": "wisconsin-lutheran-h-s",
+    "name": "Wisconsin Lutheran H.S.",
+    "city": null,
+    "state": "WI"
+  },
+  {
+    "id": "sturgis-h-s",
+    "name": "Sturgis H.S.",
+    "city": null,
+    "state": "MI"
+  },
+  {
+    "id": "madison-mayohan-h-s",
+    "name": "Madison-Mayohan H.S.",
+    "city": null,
+    "state": "NC"
+  },
+  {
+    "id": "sun-prairie-h-s",
+    "name": "Sun Prairie H.S.",
+    "city": null,
+    "state": "WI"
+  },
+  {
+    "id": "mcdowell-h-s",
+    "name": "McDowell H.S.",
+    "city": null,
+    "state": "PA"
+  },
+  {
+    "id": "champaign-central-h-s",
+    "name": "Champaign Central H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "glenbrook-h-s",
+    "name": "Glenbrook H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "crystal-lake-h-s",
+    "name": "Crystal Lake H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "chesaning-h-s",
+    "name": "Chesaning H.S.",
+    "city": null,
+    "state": "MI"
+  },
+  {
+    "id": "dundee-h-s",
+    "name": "Dundee H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "koscuisko-h-s",
+    "name": "Koscuisko H.S.",
+    "city": null,
+    "state": "MS"
+  },
+  {
+    "id": "conant-h-s",
+    "name": "Conant H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "bridgeport-h-s",
+    "name": "Bridgeport H.S.",
+    "city": null,
+    "state": "MI"
+  },
+  {
+    "id": "live-oak-h-s",
+    "name": "Live Oak H.S.",
+    "city": null,
+    "state": "CA"
+  },
+  {
+    "id": "herscher-h-s",
+    "name": "Herscher H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "rock-falls-h-s",
+    "name": "Rock Falls H.S.",
+    "city": null,
+    "state": "IL"
+  }
+]

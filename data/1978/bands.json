@@ -1,0 +1,278 @@
+[
+  {
+    "id": "hamilton-h-s",
+    "name": "Hamilton H.S.",
+    "city": null,
+    "state": "WI"
+  },
+  {
+    "id": "oskaloosa-h-s",
+    "name": "Oskaloosa H.S.",
+    "city": null,
+    "state": "IA"
+  },
+  {
+    "id": "wisconsin-lutheran-h-s",
+    "name": "Wisconsin Lutheran H.S.",
+    "city": null,
+    "state": "WI"
+  },
+  {
+    "id": "sun-prairie-h-s",
+    "name": "Sun Prairie H.S.",
+    "city": null,
+    "state": "WI"
+  },
+  {
+    "id": "mcdowell-h-s",
+    "name": "McDowell H.S.",
+    "city": null,
+    "state": "PA"
+  },
+  {
+    "id": "crystal-lake-h-s",
+    "name": "Crystal Lake H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "dundee-h-s",
+    "name": "Dundee H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "conant-h-s",
+    "name": "Conant H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "bridgeport-h-s",
+    "name": "Bridgeport H.S.",
+    "city": null,
+    "state": "MI"
+  },
+  {
+    "id": "live-oak-h-s",
+    "name": "Live Oak H.S.",
+    "city": null,
+    "state": "CA"
+  },
+  {
+    "id": "herscher-h-s",
+    "name": "Herscher H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "rock-falls-h-s",
+    "name": "Rock Falls H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "east-central-h-s",
+    "name": "East Central H.S.",
+    "city": null,
+    "state": "IA"
+  },
+  {
+    "id": "webster-city-h-s",
+    "name": "Webster City H.S.",
+    "city": null,
+    "state": "IA"
+  },
+  {
+    "id": "monticello-h-s",
+    "name": "Monticello H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "lake-park-h-s",
+    "name": "Lake Park H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "verona-h-s",
+    "name": "Verona H.S.",
+    "city": null,
+    "state": "WI"
+  },
+  {
+    "id": "kosciusko-h-s",
+    "name": "Kosciusko H.S.",
+    "city": null,
+    "state": "MS"
+  },
+  {
+    "id": "william-fremd-h-s",
+    "name": "William Fremd H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "carroll-h-s",
+    "name": "Carroll H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "watseka-h-s",
+    "name": "Watseka H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "oregon-h-s",
+    "name": "Oregon H.S.",
+    "city": null,
+    "state": "WI"
+  },
+  {
+    "id": "mcguffey-h-s",
+    "name": "McGuffey H.S.",
+    "city": null,
+    "state": "PA"
+  },
+  {
+    "id": "davis-county-h-s",
+    "name": "Davis County H.S.",
+    "city": null,
+    "state": "IA"
+  },
+  {
+    "id": "reed-city-h-s",
+    "name": "Reed City, H.S.",
+    "city": null,
+    "state": "MI"
+  },
+  {
+    "id": "brownsburg-h-s",
+    "name": "Brownsburg H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
+    "id": "clarkston-h-s",
+    "name": "Clarkston H.S.",
+    "city": null,
+    "state": "MI"
+  },
+  {
+    "id": "jefferson-city-h-s",
+    "name": "Jefferson City H.S.",
+    "city": null,
+    "state": "MO"
+  },
+  {
+    "id": "wauwatosa-h-s",
+    "name": "Wauwatosa H.S.",
+    "city": null,
+    "state": "WI"
+  },
+  {
+    "id": "george-rogers-clark-h-s",
+    "name": "George Rogers Clark H.S.",
+    "city": null,
+    "state": "KY"
+  },
+  {
+    "id": "haworth-h-s",
+    "name": "Haworth, H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
+    "id": "pearl-h-s",
+    "name": "Pearl H.S.",
+    "city": null,
+    "state": "MS"
+  },
+  {
+    "id": "vicksburg-h-s",
+    "name": "Vicksburg H.S.",
+    "city": null,
+    "state": "MS"
+  },
+  {
+    "id": "stratford-h-s",
+    "name": "Stratford H.S.",
+    "city": null,
+    "state": "SC"
+  },
+  {
+    "id": "jackson-central-merry-h-s",
+    "name": "Jackson Central-Merry H.S.",
+    "city": null,
+    "state": "TN"
+  },
+  {
+    "id": "greenwood-h-s",
+    "name": "Greenwood H.S.",
+    "city": null,
+    "state": "MS"
+  },
+  {
+    "id": "tate-h-s",
+    "name": "Tate H.S.",
+    "city": null,
+    "state": "FL"
+  },
+  {
+    "id": "opelika-h-s",
+    "name": "Opelika H.S.",
+    "city": null,
+    "state": "AL"
+  },
+  {
+    "id": "theodore-h-s",
+    "name": "Theodore H.S.",
+    "city": null,
+    "state": "AL"
+  },
+  {
+    "id": "morton-h-s",
+    "name": "Morton H.S.",
+    "city": null,
+    "state": "MS"
+  },
+  {
+    "id": "fairfield-h-s",
+    "name": "Fairfield H.S.",
+    "city": null,
+    "state": "AL"
+  },
+  {
+    "id": "booneville-h-s",
+    "name": "Booneville H.S.",
+    "city": null,
+    "state": "MS"
+  },
+  {
+    "id": "winona-h-s",
+    "name": "Winona H.S.",
+    "city": null,
+    "state": "MS"
+  },
+  {
+    "id": "poplarville-h-s",
+    "name": "Poplarville H.S.",
+    "city": null,
+    "state": "MS"
+  },
+  {
+    "id": "carthage-h-s",
+    "name": "Carthage H.S.",
+    "city": null,
+    "state": "MS"
+  },
+  {
+    "id": "iuka-h-s",
+    "name": "Iuka H.S.",
+    "city": null,
+    "state": "MS"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1992-regional-championship-at-indianapolis-in",
+    "season": 1992,
+    "name": "Regional Championship at Indianapolis, IN",
+    "type": "Regional",
+    "venue": "Indianapolis Hoosier Dome",
+    "date": "1992-09-26",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  {
+    "id": "1992-regional-championship-at-toledo-oh",
+    "season": 1992,
+    "name": "Regional Championship at Toledo, OH",
+    "type": "Regional",
+    "venue": "University of Toledo Glass Bowl",
+    "date": "1992-10-03",
+    "city": "Toledo",
+    "state": "OH"
+  },
+  {
+    "id": "1992-regional-championship-at-morgantown-wv",
+    "season": 1992,
+    "name": "Regional Championship at Morgantown, WV",
+    "type": "Regional",
+    "venue": "University of West Virginia",
+    "date": "1992-10-10",
+    "city": "Morgantown",
+    "state": "WV"
+  },
+  {
+    "id": "1992-regional-championship-at-houston-tx",
+    "season": 1992,
+    "name": "Regional Championship at Houston, TX",
+    "type": "Regional",
+    "venue": "Rice University Stadium",
+    "date": "1992-10-17",
+    "city": "Houston",
+    "state": "TX"
+  },
+  {
+    "id": "1992-regional-championship-at-johnson-city-tn",
+    "season": 1992,
+    "name": "Regional Championship at Johnson City, TN",
+    "type": "Regional",
+    "venue": "East Tennessee State University",
+    "date": "1992-10-17",
+    "city": "Johnson City",
+    "state": "TN"
+  },
+  {
+    "id": "1992-regional-championship-at-denton-tx",
+    "season": 1992,
+    "name": "Regional Championship at Denton, TX",
+    "type": "Regional",
+    "venue": "University of North Texas",
+    "date": "1992-10-24",
+    "city": "Denton",
+    "state": "TX"
+  },
+  {
+    "id": "1992-regional-championship-at-hattiesburg-ms",
+    "season": 1992,
+    "name": "Regional Championship at Hattiesburg, MS",
+    "type": "Regional",
+    "venue": "University of Southern Mississippi",
+    "date": "1992-10-31",
+    "city": "Hattiesburg",
+    "state": "MS"
+  },
+  {
+    "id": "1992-grand-national-championship-at-indianapolis-in",
+    "season": 1992,
+    "name": "Grand National Championship at Indianapolis, IN",
+    "type": "Grand National",
+    "venue": "Indianapolis Hoosier Dome",
+    "date": "1992-11-06",
+    "city": "Indianapolis",
+    "state": "IN"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "id": "2016-mcallen-regional-championship-at-mcallen-tx",
+    "season": 2016,
+    "name": "McAllen Regional Championship at McAllen, TX",
+    "type": "Regional",
+    "venue": "1 Lopez Early College HS",
+    "date": "2016-09-17",
+    "city": "McAllen",
+    "state": "TX"
+  },
+  {
+    "id": "2016-monroeville-regional-championship-at-monroeville-pa",
+    "season": 2016,
+    "name": "Monroeville Regional Championship at Monroeville, PA",
+    "type": "Regional",
+    "venue": null,
+    "date": "2016-09-17",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "2016-powder-springs-regional-championship-at-powder-springs-ga",
+    "season": 2016,
+    "name": "Powder Springs Regional Championship at Powder Springs, GA",
+    "type": "Regional",
+    "venue": null,
+    "date": "2016-09-17",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "2016-powder-springs-regional-championship-at-powder-springs-georgia",
+    "season": 2016,
+    "name": "Powder Springs Regional Championship at Powder Springs, Georgia",
+    "type": "Regional",
+    "venue": null,
+    "date": "2016-09-17",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "2016-austin-regional-championship-at-austin-tx",
+    "season": 2016,
+    "name": "Austin Regional Championship at Austin, TX",
+    "type": "Regional",
+    "venue": "Kelly Reeves Athletic Complex -‐ September 24",
+    "date": "2016-09-24",
+    "city": "Austin",
+    "state": "TX"
+  },
+  {
+    "id": "2016-clarksville-regional-championship-at-clarksville-tn",
+    "season": 2016,
+    "name": "Clarksville Regional Championship at Clarksville, TN",
+    "type": "Regional",
+    "venue": "Governors Stadium -‐ September 24",
+    "date": "2016-09-24",
+    "city": "Clarksville",
+    "state": "TN"
+  },
+  {
+    "id": "2016-dayton-regional-championship-at-dayton-oh",
+    "season": 2016,
+    "name": "Dayton Regional Championship at Dayton, OH",
+    "type": "Regional",
+    "venue": "Welcome Stadium -‐ September 24",
+    "date": "2016-09-24",
+    "city": "Dayton",
+    "state": "OH"
+  },
+  {
+    "id": "2016-conroe-regional-championship-at-conroe-tx",
+    "season": 2016,
+    "name": "Conroe Regional Championship at Conroe, TX",
+    "type": "Regional",
+    "venue": "Woodforest Bank Stadium -‐ October 1",
+    "date": "2016-10-01",
+    "city": "Conroe",
+    "state": "TX"
+  },
+  {
+    "id": "2016-jacksonville-regional-championship-at-jacksonville-al",
+    "season": 2016,
+    "name": "Jacksonville Regional Championship at Jacksonville, AL",
+    "type": "Regional",
+    "venue": "Jacksonville State University -‐ October 1",
+    "date": "2016-10-01",
+    "city": "Jacksonville",
+    "state": "AL"
+  },
+  {
+    "id": "2016-toledo-regional-championship-at-toledo-oh",
+    "season": 2016,
+    "name": "Toledo Regional Championship at Toledo, OH",
+    "type": "Regional",
+    "venue": "University of Toledo -‐ October 1",
+    "date": "2016-10-01",
+    "city": "Toledo",
+    "state": "OH"
+  },
+  {
+    "id": "2016-plano-regional-championship-at-plano-tx",
+    "season": 2016,
+    "name": "Plano Regional Championship at Plano, TX",
+    "type": "Regional",
+    "venue": "John Clark Stadium -‐ October 8",
+    "date": "2016-10-08",
+    "city": "Plano",
+    "state": "TX"
+  },
+  {
+    "id": "2016-newark-regional-championship-at-newark-de",
+    "season": 2016,
+    "name": "Newark Regional Championship at Newark, DE",
+    "type": "Regional",
+    "venue": "University of Delaware -‐ October 15",
+    "date": "2016-10-15",
+    "city": "Newark",
+    "state": "DE"
+  },
+  {
+    "id": "2016-winston-salem-regional-championship-at-winston-salem-nc",
+    "season": 2016,
+    "name": "Winston-‐Salem Regional Championship at Winston-‐Salem, NC",
+    "type": "Regional",
+    "venue": "Wake Forest University -‐ October 15",
+    "date": "2016-10-15",
+    "city": "Winston Salem",
+    "state": "NC"
+  },
+  {
+    "id": "2016-st-louis-super-regional-championship-at-st-louis-mo",
+    "season": 2016,
+    "name": "St. Louis Super Regional Championship at St. Louis, MO",
+    "type": "Super Regional",
+    "venue": "The Dome at America's Center -‐ October 21-‐22",
+    "date": "2016-10-21",
+    "city": "St. Louis",
+    "state": "MO"
+  },
+  {
+    "id": "2016-san-jose-regional-championship-at-san-jose-ca",
+    "season": 2016,
+    "name": "San Jose Regional Championship at San Jose, CA",
+    "type": "Regional",
+    "venue": null,
+    "date": "2016-10-22",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "2016-atlanta-super-regional-championship-at-atlanta-ga",
+    "season": 2016,
+    "name": "Atlanta Super Regional Championship at Atlanta, GA",
+    "type": "Super Regional",
+    "venue": "Georgia Dome -‐ October 29",
+    "date": "2016-10-29",
+    "city": "Winder",
+    "state": "GA"
+  },
+  {
+    "id": "2016-long-beach-regional-championship-at-long-beach-ca",
+    "season": 2016,
+    "name": "Long Beach Regional Championship at Long Beach, CA",
+    "type": "Regional",
+    "venue": "Long Beach City College -‐ October 29",
+    "date": "2016-10-29",
+    "city": "Long Beach",
+    "state": "NY"
+  },
+  {
+    "id": "2016-st-george-regional-championship-at-st-george-ut",
+    "season": 2016,
+    "name": "St. George Regional Championship at St. George, UT",
+    "type": "Regional",
+    "venue": "Dixie State University -‐ October 29",
+    "date": "2016-10-29",
+    "city": "Saint George",
+    "state": "UT"
+  },
+  {
+    "id": "2016-indianapolis-super-regional-championship-at-indianapolis-in",
+    "season": 2016,
+    "name": "Indianapolis Super Regional Championship at Indianapolis, IN",
+    "type": "Super Regional",
+    "venue": "Lucas Oil Stadium -‐ November 4-‐5",
+    "date": "2016-11-04",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  {
+    "id": "2016-san-antonio-super-regional-championship-at-san-antonio-tx",
+    "season": 2016,
+    "name": "San Antonio Super Regional Championship at San Antonio, TX",
+    "type": "Super Regional",
+    "venue": "Alamodome -‐ November 4-‐5",
+    "date": "2016-11-04",
+    "city": "Magliano Alfieri",
+    "state": null
+  },
+  {
+    "id": "2016-grand-national-championships-at-indianapolis-in",
+    "season": 2016,
+    "name": "Grand National Championships at Indianapolis, IN",
+    "type": "Grand National",
+    "venue": "Lucas Oil Stadium -‐ November 10",
+    "date": "2016-11-10",
+    "city": "Indianapolis",
+    "state": "IN"
+  }
+]

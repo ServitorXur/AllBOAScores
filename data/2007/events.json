@@ -1,0 +1,182 @@
+[
+  {
+    "id": "2007-regional-championship-at-oxford-oh",
+    "season": 2007,
+    "name": "Regional Championship at Oxford, OH",
+    "type": "Regional",
+    "venue": "Yager Stadium, Miami University",
+    "date": "2007-09-15",
+    "city": "Oxford",
+    "state": "MS"
+  },
+  {
+    "id": "2007-regional-championship-at-ypsilanti-michigan",
+    "season": 2007,
+    "name": "Regional Championship at Ypsilanti, Michigan",
+    "type": "Regional",
+    "venue": "Rynearson",
+    "date": "2007-09-15",
+    "city": "Ypsilanti",
+    "state": "MI"
+  },
+  {
+    "id": "2007-regional-championship-at-clarksville-tn",
+    "season": 2007,
+    "name": "Regional Championship at Clarksville, TN",
+    "type": "Regional",
+    "venue": "Austin Peay State University",
+    "date": "2007-10-06",
+    "city": "Clarksville",
+    "state": "TN"
+  },
+  {
+    "id": "2007-regional-championship-at-houston-tx",
+    "season": 2007,
+    "name": "Regional Championship at Houston, TX",
+    "type": "Regional",
+    "venue": "Pearland Stadium",
+    "date": "2007-10-06",
+    "city": "Houston",
+    "state": "TX"
+  },
+  {
+    "id": "2007-regional-championship-at-youngstown-oh",
+    "season": 2007,
+    "name": "Regional Championship at Youngstown, OH",
+    "type": "Regional",
+    "venue": "Stambaugh Stadium",
+    "date": "2007-10-06",
+    "city": "Youngstown",
+    "state": "OH"
+  },
+  {
+    "id": "2007-regional-championship-at-arlington-tx",
+    "season": 2007,
+    "name": "Regional Championship at Arlington, TX",
+    "type": "Regional",
+    "venue": "Univ. of Texas, Maverick Stadium",
+    "date": "2007-10-13",
+    "city": "Arlington",
+    "state": "TX"
+  },
+  {
+    "id": "2007-regional-championship-at-el-paso-tx",
+    "season": 2007,
+    "name": "Regional Championship at El Paso, TX",
+    "type": "Regional",
+    "venue": "Eagle Stadium",
+    "date": "2007-10-13",
+    "city": "El Paso",
+    "state": "TX"
+  },
+  {
+    "id": "2007-regional-championship-at-st-petersburg-fl",
+    "season": 2007,
+    "name": "Regional Championship at St. Petersburg, FL",
+    "type": "Regional",
+    "venue": "Tropicana Field",
+    "date": "2007-10-13",
+    "city": "Saint Petersburg",
+    "state": "FL"
+  },
+  {
+    "id": "2007-super-regional-championship-at-st-louis-missouri",
+    "season": 2007,
+    "name": "Super Regional Championship at St. Louis, Missouri",
+    "type": "Super Regional",
+    "venue": "Edward Jones Dome",
+    "date": "2007-10-19",
+    "city": "Saint Louis",
+    "state": "MO"
+  },
+  {
+    "id": "2007-regional-championship-at-towson-md",
+    "season": 2007,
+    "name": "Regional Championship at Towson, MD",
+    "type": "Regional",
+    "venue": "Unitas Stadium",
+    "date": "2007-10-20",
+    "city": "Towson",
+    "state": "MD"
+  },
+  {
+    "id": "2007-regional-championship-at-atlanta-ga",
+    "season": 2007,
+    "name": "Regional Championship at Atlanta, GA",
+    "type": "Regional",
+    "venue": "Georgia Dome",
+    "date": "2007-10-27",
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  {
+    "id": "2007-regional-championship-at-hempstead-ny",
+    "season": 2007,
+    "name": "Regional Championship at Hempstead, NY",
+    "type": "Regional",
+    "venue": "James M. Shuart",
+    "date": "2007-10-27",
+    "city": "Hempstead",
+    "state": "NY"
+  },
+  {
+    "id": "2007-regional-championship-at-flagstaff-az",
+    "season": 2007,
+    "name": "Regional Championship at Flagstaff, AZ",
+    "type": "Regional",
+    "venue": "J. Lawrence Walkup Skydome",
+    "date": "2007-11-03",
+    "city": "Flagstaff",
+    "state": "AZ"
+  },
+  {
+    "id": "2007-regional-championship-at-indianapolis-in",
+    "season": 2007,
+    "name": "Regional Championship at Indianapolis, IN",
+    "type": "Regional",
+    "venue": "RCA Dome",
+    "date": "2007-11-03",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  {
+    "id": "2007-regional-championship-at-san-antonio-tx",
+    "season": 2007,
+    "name": "Regional Championship at San Antonio, TX",
+    "type": "Regional",
+    "venue": "Alamodome",
+    "date": "2007-11-03",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "2007-regional-championship-at-los-angeles-ca",
+    "season": 2007,
+    "name": "Regional Championship at Los Angeles, CA",
+    "type": "Regional",
+    "venue": "Weingart Stadium",
+    "date": "2007-11-10",
+    "city": "Monterey Park",
+    "state": "CA"
+  },
+  {
+    "id": "2007-regional-championship-at-monterey-park-ca",
+    "season": 2007,
+    "name": "Regional Championship at Monterey Park, CA",
+    "type": "Regional",
+    "venue": "Weingart Stadium",
+    "date": "2007-11-10",
+    "city": "Monterey Park",
+    "state": "CA"
+  },
+  {
+    "id": "2007-grand-national-championships-at-indianapolis-indiana",
+    "season": 2007,
+    "name": "Grand National Championships at Indianapolis, Indiana",
+    "type": "Grand National",
+    "venue": "RCA Dome",
+    "date": "2007-11-15",
+    "city": "Indianapolis",
+    "state": "IN"
+  }
+]

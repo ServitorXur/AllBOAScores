@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1998-regional-championship-at-toledo-oh",
+    "season": 1998,
+    "name": "Regional Championship at Toledo, OH",
+    "type": "Regional",
+    "venue": "The Glass Bowl",
+    "date": "1998-09-26",
+    "city": "Toledo",
+    "state": "OH"
+  },
+  {
+    "id": "1998-regional-championship-at-morgantown-wv",
+    "season": 1998,
+    "name": "Regional Championship at Morgantown, WV",
+    "type": "Regional",
+    "venue": "West Virginia University",
+    "date": "1998-10-03",
+    "city": "Morgantown",
+    "state": "WV"
+  },
+  {
+    "id": "1998-regional-championship-at-orlando-fl",
+    "season": 1998,
+    "name": "Regional Championship at Orlando, FL",
+    "type": "Regional",
+    "venue": "Citrus Bowl",
+    "date": "1998-10-03",
+    "city": "Orlando",
+    "state": "FL"
+  },
+  {
+    "id": "1998-regional-championship-at-hempstead-ny",
+    "season": 1998,
+    "name": "Regional Championship at Hempstead, NY",
+    "type": "Regional",
+    "venue": "Hofstra University",
+    "date": "1998-10-10",
+    "city": "Hempstead",
+    "state": "NY"
+  },
+  {
+    "id": "1998-regional-championship-at-san-antonio-tx",
+    "season": 1998,
+    "name": "Regional Championship at San Antonio, TX",
+    "type": "Regional",
+    "venue": "Alamodome",
+    "date": "1998-10-10",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "1998-regional-championship-at-cincinnati-oh",
+    "season": 1998,
+    "name": "Regional Championship at Cincinnati, OH",
+    "type": "Regional",
+    "venue": "University of Cincinnati",
+    "date": "1998-10-17",
+    "city": "Cincinnati",
+    "state": "OH"
+  },
+  {
+    "id": "1998-regional-championship-at-st-louis-mo",
+    "season": 1998,
+    "name": "Regional Championship at St. Louis, MO",
+    "type": "Regional",
+    "venue": "Trans World Dome",
+    "date": "1998-10-17",
+    "city": "Saint Louis",
+    "state": "MO"
+  },
+  {
+    "id": "1998-regional-championship-at-las-vegas-nv",
+    "season": 1998,
+    "name": "Regional Championship at Las Vegas, NV",
+    "type": "Regional",
+    "venue": "UNLV",
+    "date": "1998-10-24",
+    "city": "Las Vegas",
+    "state": "NV"
+  },
+  {
+    "id": "1998-regional-championship-at-indianapolis-in",
+    "season": 1998,
+    "name": "Regional Championship at Indianapolis, IN",
+    "type": "Regional",
+    "venue": "RCA Dome",
+    "date": "1998-10-31",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  {
+    "id": "1998-regional-championship-at-johnson-city-tn",
+    "season": 1998,
+    "name": "Regional Championship at Johnson City, TN",
+    "type": "Regional",
+    "venue": "East Tennessee State University",
+    "date": "1998-10-31",
+    "city": "Johnson City",
+    "state": "TN"
+  },
+  {
+    "id": "1998-regional-championship-at-atlanta-ga",
+    "season": 1998,
+    "name": "Regional Championship at Atlanta, GA",
+    "type": "Regional",
+    "venue": "Georgia Dome",
+    "date": "1998-11-07",
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  {
+    "id": "1998-regional-championship-at-houston-tx",
+    "season": 1998,
+    "name": "Regional Championship at Houston, TX",
+    "type": "Regional",
+    "venue": "Rice University",
+    "date": "1998-11-07",
+    "city": "Houston",
+    "state": "TX"
+  },
+  {
+    "id": "1998-grand-national-championship-at-indianapolis-in",
+    "season": 1998,
+    "name": "Grand National Championship at Indianapolis, IN",
+    "type": "Grand National",
+    "venue": "RCA Dome",
+    "date": "1998-11-12",
+    "city": "Indianapolis",
+    "state": "IN"
+  }
+]

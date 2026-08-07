@@ -1,0 +1,172 @@
+[
+  {
+    "id": "2005-regional-championship-at-oxford-oh",
+    "season": 2005,
+    "name": "Regional Championship at Oxford, OH",
+    "type": "Regional",
+    "venue": "Yager Stadium",
+    "date": "2005-09-17",
+    "city": "Oxford",
+    "state": "OH"
+  },
+  {
+    "id": "2005-regional-championship-at-oxford-ohio",
+    "season": 2005,
+    "name": "Regional Championship at Oxford, Ohio",
+    "type": "Regional",
+    "venue": "Yager Stadium",
+    "date": "2005-09-17",
+    "city": "Oxford",
+    "state": "OH"
+  },
+  {
+    "id": "2005-regional-championship-at-bowling-green-kentucky",
+    "season": 2005,
+    "name": "Regional Championship at Bowling Green, Kentucky",
+    "type": "Regional",
+    "venue": "Western KY Univ.",
+    "date": "2005-09-24",
+    "city": "Bowling Green",
+    "state": "KY"
+  },
+  {
+    "id": "2005-regional-championship-at-massillon-ohio",
+    "season": 2005,
+    "name": "Regional Championship at Massillon, Ohio",
+    "type": "Regional",
+    "venue": "Paul Brown Tiger Stadium",
+    "date": "2005-09-24",
+    "city": "Massillon",
+    "state": "OH"
+  },
+  {
+    "id": "2005-regional-championship-at-houston-texas",
+    "season": 2005,
+    "name": "Regional Championship at Houston, Texas",
+    "type": "Regional",
+    "venue": "Rice University",
+    "date": "2005-10-01",
+    "city": "Houston",
+    "state": "TX"
+  },
+  {
+    "id": "2005-regional-championship-at-la-joya-tx",
+    "season": 2005,
+    "name": "Regional Championship at La Joya, TX",
+    "type": "Regional",
+    "venue": "Coyote Stadium",
+    "date": "2005-10-01",
+    "city": "La Joya",
+    "state": "TX"
+  },
+  {
+    "id": "2005-regional-championship-at-long-beach-ca",
+    "season": 2005,
+    "name": "Regional Championship at Long Beach, CA",
+    "type": "Regional",
+    "venue": "Long Beach City College",
+    "date": "2005-10-08",
+    "city": "Long Beach",
+    "state": "CA"
+  },
+  {
+    "id": "2005-regional-championship-at-arlington-texas",
+    "season": 2005,
+    "name": "Regional Championship at Arlington, Texas",
+    "type": "Regional",
+    "venue": "University of Texas at Arlington",
+    "date": "2005-10-15",
+    "city": "Arlington",
+    "state": "TX"
+  },
+  {
+    "id": "2005-regional-championship-at-pontiac-mi",
+    "season": 2005,
+    "name": "Regional Championship at Pontiac, MI",
+    "type": "Regional",
+    "venue": "Silverdome",
+    "date": "2005-10-15",
+    "city": "City of Pontiac",
+    "state": "MI"
+  },
+  {
+    "id": "2005-regional-championship-at-flagstaff-az",
+    "season": 2005,
+    "name": "Regional Championship at Flagstaff, AZ",
+    "type": "Regional",
+    "venue": "NAU Skydome",
+    "date": "2005-10-22",
+    "city": "Flagstaff",
+    "state": "AZ"
+  },
+  {
+    "id": "2005-regional-championship-at-st-louis-mo",
+    "season": 2005,
+    "name": "Regional Championship at St. Louis, MO",
+    "type": "Regional",
+    "venue": "Edward Jones Dome",
+    "date": "2005-10-22",
+    "city": "Saint Louis",
+    "state": "MO"
+  },
+  {
+    "id": "2005-regional-championship-at-indianapolis-in",
+    "season": 2005,
+    "name": "Regional Championship at Indianapolis, IN",
+    "type": "Regional",
+    "venue": "RCA Dome",
+    "date": "2005-10-29",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  {
+    "id": "2005-regional-championship-at-st-petersburg-fl",
+    "season": 2005,
+    "name": "Regional Championship at St. Petersburg, FL",
+    "type": "Regional",
+    "venue": "Tropicana Field",
+    "date": "2005-10-29",
+    "city": "Saint Petersburg",
+    "state": "FL"
+  },
+  {
+    "id": "2005-regional-championship-at-st-petersburg-florida",
+    "season": 2005,
+    "name": "Regional Championship at St. Petersburg, Florida",
+    "type": "Regional",
+    "venue": "Tropicana Field",
+    "date": "2005-10-29",
+    "city": "Saint Petersburg",
+    "state": "FL"
+  },
+  {
+    "id": "2005-regional-championship-at-atlanta-ga",
+    "season": 2005,
+    "name": "Regional Championship at Atlanta, GA",
+    "type": "Regional",
+    "venue": "Georgia Dome",
+    "date": "2005-11-05",
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  {
+    "id": "2005-regional-championship-at-san-antonio-tx",
+    "season": 2005,
+    "name": "Regional Championship at San Antonio, TX",
+    "type": "Regional",
+    "venue": "Alamodome",
+    "date": "2005-11-05",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "2005-grand-nationals-championship-at-indianapolis-in",
+    "season": 2005,
+    "name": "Grand Nationals Championship at Indianapolis, IN",
+    "type": "Grand National",
+    "venue": "RCA Dome",
+    "date": "2005-11-10",
+    "city": "Indianapolis",
+    "state": "IN"
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "id": "2012-louisville-regional-championship-at-louisville-kentucky",
+    "season": 2012,
+    "name": "Louisville Regional Championship at Louisville, Kentucky",
+    "type": "Regional",
+    "venue": "Papa John's Cardinal Stadium -‐ September 22",
+    "date": "2012-09-22",
+    "city": "Louisville",
+    "state": "KY"
+  },
+  {
+    "id": "2012-louisville-regional-finals-championship-at-louisville-kentucky",
+    "season": 2012,
+    "name": "Louisville Regional Finals Championship at Louisville, Kentucky",
+    "type": "Regional",
+    "venue": "Papa John's Cardinal Stadium -‐ 09/22",
+    "date": "2012-09-22",
+    "city": "Louisville",
+    "state": "KY"
+  },
+  {
+    "id": "2012-monroeville-regional-championship-at-monroeville-pa",
+    "season": 2012,
+    "name": "Monroeville Regional Championship at Monroeville, PA",
+    "type": "Regional",
+    "venue": "Antimarion Stadium -‐ September 22",
+    "date": "2012-09-22",
+    "city": "Monroeville",
+    "state": "PA"
+  },
+  {
+    "id": "2012-denton-championship-at-denton-tx",
+    "season": 2012,
+    "name": "Denton Championship at Denton, TX",
+    "type": "Championship",
+    "venue": "Apogee Stadium -‐ September 29",
+    "date": "2012-09-29",
+    "city": "Denton",
+    "state": "TX"
+  },
+  {
+    "id": "2012-kettering-regional-championship-at-kettering-ohio",
+    "season": 2012,
+    "name": "Kettering Regional Championship at Kettering, Ohio",
+    "type": "Regional",
+    "venue": "Roush Stadium -‐ September 29",
+    "date": "2012-09-29",
+    "city": "Kettering",
+    "state": "OH"
+  },
+  {
+    "id": "2012-conroe-regional-championship-at-conroe-tx",
+    "season": 2012,
+    "name": "Conroe Regional Championship at Conroe, TX",
+    "type": "Regional",
+    "venue": "Woodforest Bank Stadium -‐ October 6",
+    "date": "2012-10-06",
+    "city": "Conroe",
+    "state": "TX"
+  },
+  {
+    "id": "2012-pontiac-regional-championship-at-pontiac-mi",
+    "season": 2012,
+    "name": "Pontiac Regional Championship at Pontiac, MI",
+    "type": "Regional",
+    "venue": "Pontiac Silverdome -‐ October 6",
+    "date": "2012-10-06",
+    "city": "Pontiac",
+    "state": "MI"
+  },
+  {
+    "id": "2012-akron-regional-championship-at-akron-oh",
+    "season": 2012,
+    "name": "Akron Regional Championship at Akron, OH",
+    "type": "Regional",
+    "venue": "InfoCision Stadium -‐ October 13",
+    "date": "2012-10-13",
+    "city": "Akron",
+    "state": "OH"
+  },
+  {
+    "id": "2012-jacksonville-regional-championship-at-jacksonville-al",
+    "season": 2012,
+    "name": "Jacksonville Regional Championship at Jacksonville, AL",
+    "type": "Regional",
+    "venue": "Paul Snow Stadium -‐ October 13",
+    "date": "2012-10-13",
+    "city": "Jacksonville",
+    "state": "FL"
+  },
+  {
+    "id": "2012-indianapolis-super-regional-championship-at-indianapolis-in",
+    "season": 2012,
+    "name": "Indianapolis Super Regional Championship at Indianapolis, IN",
+    "type": "Super Regional",
+    "venue": "Lucas Oil Stadium -‐ October 19-‐20",
+    "date": "2012-10-20",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  {
+    "id": "2012-st-louis-super-regional-championship-at-st-louis-mo",
+    "season": 2012,
+    "name": "St. Louis Super Regional Championship at St. Louis, MO",
+    "type": "Super Regional",
+    "venue": "Edward Jones Dome -‐ October 19-‐20",
+    "date": "2012-10-20",
+    "city": "Saint Louis",
+    "state": "MO"
+  },
+  {
+    "id": "2012-atlanta-super-regional-championship-at-atlanta-ga",
+    "season": 2012,
+    "name": "Atlanta Super Regional Championship at Atlanta, GA",
+    "type": "Super Regional",
+    "venue": "Georgia Dome -‐ October 27",
+    "date": "2012-10-27",
+    "city": "Winder",
+    "state": "GA"
+  },
+  {
+    "id": "2012-glendora-regional-championship-at-glendora-ca",
+    "season": 2012,
+    "name": "Glendora Regional Championship at Glendora, CA",
+    "type": "Regional",
+    "venue": "Citrus College -‐ October 27",
+    "date": "2012-10-27",
+    "city": "Glendora",
+    "state": "CA"
+  },
+  {
+    "id": "2012-towson-regional-championship-at-towson-md",
+    "season": 2012,
+    "name": "Towson Regional Championship at Towson, MD",
+    "type": "Regional",
+    "venue": "Johnny Unitas Stadium -‐ October 27",
+    "date": "2012-10-27",
+    "city": "Towson",
+    "state": "MD"
+  },
+  {
+    "id": "2012-st-george-regional-championship-at-st-george-ut",
+    "season": 2012,
+    "name": "St. George Regional Championship at St. George, UT",
+    "type": "Regional",
+    "venue": null,
+    "date": "2012-11-03",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "2012-indianapolis-grand-national-championship-at-indianapolis-in",
+    "season": 2012,
+    "name": "Indianapolis Grand National Championship at Indianapolis, IN",
+    "type": "Grand National",
+    "venue": "Lucas Oil Stadium -‐ November 8",
+    "date": "2012-11-08",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  {
+    "id": "2012-san-antonio-super-regional-championship-at-san-antonio-tx",
+    "season": 2012,
+    "name": "San Antonio Super Regional Championship at San Antonio, TX",
+    "type": "Super Regional",
+    "venue": "Alamodome -‐ November 2-‐3",
+    "date": "2012-12-02",
+    "city": "San Antonio",
+    "state": "TX"
+  }
+]

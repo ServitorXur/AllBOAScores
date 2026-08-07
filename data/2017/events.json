@@ -1,0 +1,222 @@
+[
+  {
+    "id": "2017-canton-regional-championship-at-canton-oh",
+    "season": 2017,
+    "name": "Canton Regional Championship at Canton, OH",
+    "type": "Regional",
+    "venue": "Tom Benson Hall of Fame Stadium",
+    "date": "2017-09-16",
+    "city": "Canton",
+    "state": "OH"
+  },
+  {
+    "id": "2017-powder-springs-regional-championship-at-powder-springs-ga",
+    "season": 2017,
+    "name": "Powder Springs Regional Championship at Powder Springs, GA",
+    "type": "Regional",
+    "venue": "McEachern H.S.",
+    "date": "2017-09-16",
+    "city": "Powder Springs",
+    "state": "GA"
+  },
+  {
+    "id": "2017-austin-regional-championship-at-austin-tx",
+    "season": 2017,
+    "name": "Austin Regional Championship at Austin, TX",
+    "type": "Regional",
+    "venue": "Kelly Reeves Athletic Complex",
+    "date": "2017-09-23",
+    "city": "Austin",
+    "state": "TX"
+  },
+  {
+    "id": "2017-clarksville-regional-championship-at-clarksville-tn",
+    "season": 2017,
+    "name": "Clarksville Regional Championship at Clarksville, TN",
+    "type": "Regional",
+    "venue": "Austin Peay State University",
+    "date": "2017-09-23",
+    "city": "Clarksville",
+    "state": "TN"
+  },
+  {
+    "id": "2017-toledo-regional-championship-at-toledo-oh",
+    "season": 2017,
+    "name": "Toledo Regional Championship at Toledo, OH",
+    "type": "Regional",
+    "venue": "University of Toledo",
+    "date": "2017-09-23",
+    "city": "Toledo",
+    "state": "OH"
+  },
+  {
+    "id": "2017-dallas-ft-worth-regional-championship-at-dallas-ft-worth-tx",
+    "season": 2017,
+    "name": "Dallas/Ft. Worth Regional Championship at Dallas/Ft. Worth, TX",
+    "type": "Regional",
+    "venue": "Dragon Stadium -‐ September 30",
+    "date": "2017-09-30",
+    "city": "Dallas",
+    "state": "NC"
+  },
+  {
+    "id": "2017-mcallen-regional-championship-at-mcallen-tx",
+    "season": 2017,
+    "name": "McAllen Regional Championship at McAllen, TX",
+    "type": "Regional",
+    "venue": "Veterans Memorial Stadium -‐ September 30",
+    "date": "2017-09-30",
+    "city": "McAllen",
+    "state": "TX"
+  },
+  {
+    "id": "2017-conroe-regional-championship-at-conroe-tx",
+    "season": 2017,
+    "name": "Conroe Regional Championship at Conroe, TX",
+    "type": "Regional",
+    "venue": "Woodforest Bank Stadium",
+    "date": "2017-10-07",
+    "city": "Conroe",
+    "state": "TX"
+  },
+  {
+    "id": "2017-dayton-regional-championship-at-dayton-oh",
+    "season": 2017,
+    "name": "Dayton Regional Championship at Dayton, OH",
+    "type": "Regional",
+    "venue": "Welcome Stadium",
+    "date": "2017-10-07",
+    "city": "Dayton",
+    "state": "OH"
+  },
+  {
+    "id": "2017-jacksonville-regional-championship-at-jacksonville-al",
+    "season": 2017,
+    "name": "Jacksonville Regional Championship at Jacksonville, AL",
+    "type": "Regional",
+    "venue": "Jacksonville State University",
+    "date": "2017-10-07",
+    "city": "Jacksonville",
+    "state": "AL"
+  },
+  {
+    "id": "2017-newark-regional-championship-at-newark-de",
+    "season": 2017,
+    "name": "Newark Regional Championship at Newark, DE",
+    "type": "Regional",
+    "venue": "University of Delaware",
+    "date": "2017-10-07",
+    "city": "Newark",
+    "state": "DE"
+  },
+  {
+    "id": "2017-midland-regional-championship-at-midland-tx",
+    "season": 2017,
+    "name": "Midland Regional Championship at Midland, TX",
+    "type": "Regional",
+    "venue": "Grande Communications Stadium",
+    "date": "2017-10-14",
+    "city": "Midland",
+    "state": "TX"
+  },
+  {
+    "id": "2017-winston-salem-regional-championship-at-winston-salem-nc",
+    "season": 2017,
+    "name": "Winston-‐Salem Regional Championship at Winston-‐Salem, NC",
+    "type": "Regional",
+    "venue": "BB&T Stadium -‐ October 14",
+    "date": "2017-10-14",
+    "city": "Salem",
+    "state": "TN"
+  },
+  {
+    "id": "2017-st-louis-super-regional-championship-at-st-louis-mo",
+    "season": 2017,
+    "name": "St. Louis Super Regional Championship at St. Louis, MO",
+    "type": "Super Regional",
+    "venue": "The Dome at America's Center -‐ October 20-‐21",
+    "date": "2017-10-20",
+    "city": "St. Louis",
+    "state": "MO"
+  },
+  {
+    "id": "2017-indianapolis-super-regional-championship-at-indianapolis-in",
+    "season": 2017,
+    "name": "Indianapolis Super Regional Championship at Indianapolis, IN",
+    "type": "Super Regional",
+    "venue": "Lucas Oil Stadium -‐ October 21-‐22",
+    "date": "2017-10-21",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  {
+    "id": "2017-atlanta-super-regional-championship-at-atlanta-ga",
+    "season": 2017,
+    "name": "Atlanta Super Regional Championship at Atlanta, GA",
+    "type": "Super Regional",
+    "venue": "Mercedes-Benz Stadium",
+    "date": "2017-10-28",
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  {
+    "id": "2017-downey-regional-championship-at-downey-ca",
+    "season": 2017,
+    "name": "Downey Regional Championship at Downey, CA",
+    "type": "Regional",
+    "venue": "Warren H.S.",
+    "date": "2017-10-28",
+    "city": "Norlina",
+    "state": "NC"
+  },
+  {
+    "id": "2017-san-jose-regional-championship-at-san-jose-ca",
+    "season": 2017,
+    "name": "San Jose Regional Championship at San Jose, CA",
+    "type": "Regional",
+    "venue": "CEFCU Stadium -‐ October 28",
+    "date": "2017-10-28",
+    "city": "San Jose",
+    "state": "CA"
+  },
+  {
+    "id": "2017-san-antonio-super-regional-championship-at-san-antonio-tx",
+    "season": 2017,
+    "name": "San Antonio Super Regional Championship at San Antonio, TX",
+    "type": "Super Regional",
+    "venue": "Alamodome",
+    "date": "2017-11-03",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "2017-st-george-regional-championship-at-st-george-ut",
+    "season": 2017,
+    "name": "St. George Regional Championship at St. George, UT",
+    "type": "Regional",
+    "venue": null,
+    "date": "2017-11-04",
+    "city": null,
+    "state": null
+  },
+  {
+    "id": "2017-grand-national-championships-indianapolis-in",
+    "season": 2017,
+    "name": "Grand National Championships - Indianapolis, IN",
+    "type": "Grand National",
+    "venue": "Lucas Oil Stadium",
+    "date": "2017-11-09",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  {
+    "id": "2017-grand-national-championships-indiananapolis-in",
+    "season": 2017,
+    "name": "Grand National Championships - Indiananapolis, IN",
+    "type": "Grand National",
+    "venue": "Lucas Oil Stadium",
+    "date": "2017-11-11",
+    "city": "Indianapolis",
+    "state": "IN"
+  }
+]

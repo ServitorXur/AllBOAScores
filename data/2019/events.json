@@ -1,0 +1,242 @@
+[
+  {
+    "id": "2019-louisville-regional-championship-at-louisville-ky",
+    "season": 2019,
+    "name": "Louisville Regional Championship at Louisville, KY",
+    "type": "Regional",
+    "venue": "Cardinal Stadium at the University of Louisville",
+    "date": "2019-09-21",
+    "city": "Louisville",
+    "state": "KY"
+  },
+  {
+    "id": "2019-south-texas-regional-championship-at-mcallen-tx",
+    "season": 2019,
+    "name": "South Texas Regional Championship at McAllen, TX",
+    "type": "Regional",
+    "venue": "DQ Fan Field, McAllen Veterans Memorial Stadium",
+    "date": "2019-09-21",
+    "city": "McAllen",
+    "state": "TX"
+  },
+  {
+    "id": "2019-toledo-regional-championship-at-toledo-oh",
+    "season": 2019,
+    "name": "Toledo Regional Championship at Toledo, OH",
+    "type": "Regional",
+    "venue": "The Glass Bowl, University of Toledo",
+    "date": "2019-09-21",
+    "city": "Toledo",
+    "state": "OH"
+  },
+  {
+    "id": "2019-austin-regional-championship-at-austin-tx",
+    "season": 2019,
+    "name": "Austin Regional Championship at Austin, TX",
+    "type": "Regional",
+    "venue": "Kelly Reeves Athletic Complex",
+    "date": "2019-09-28",
+    "city": "Austin",
+    "state": "TX"
+  },
+  {
+    "id": "2019-cedar-falls-regional-championship-at-cedar-falls-ia",
+    "season": 2019,
+    "name": "Cedar Falls Regional Championship at Cedar Falls, IA",
+    "type": "Regional",
+    "venue": "UNI Dome at University of Northern Iowa",
+    "date": "2019-09-28",
+    "city": "Cedar Falls",
+    "state": "IA"
+  },
+  {
+    "id": "2019-flagstaff-regional-championship-at-flagstaff-az",
+    "season": 2019,
+    "name": "Flagstaff Regional Championship at Flagstaff, AZ",
+    "type": "Regional",
+    "venue": "Walkup Skydome at Northern Arizona University",
+    "date": "2019-09-28",
+    "city": "Flagstaff",
+    "state": "AZ"
+  },
+  {
+    "id": "2019-obetz-regional-championship-at-obetz-oh",
+    "season": 2019,
+    "name": "Obetz Regional Championship at Obetz, OH",
+    "type": "Regional",
+    "venue": "Fortress Obetz",
+    "date": "2019-09-28",
+    "city": "Columbus",
+    "state": "OH"
+  },
+  {
+    "id": "2019-bedford-regional-championship-at-bedford-tx",
+    "season": 2019,
+    "name": "Bedford Regional Championship at Bedford, TX",
+    "type": "Regional",
+    "venue": "Pennington Field",
+    "date": "2019-10-05",
+    "city": "Bedford",
+    "state": "TX"
+  },
+  {
+    "id": "2019-college-park-regional-championship-at-college-park-md",
+    "season": 2019,
+    "name": "College Park Regional Championship at College Park, MD",
+    "type": "Regional",
+    "venue": "University of Maryland",
+    "date": "2019-10-05",
+    "city": "College Park",
+    "state": "MD"
+  },
+  {
+    "id": "2019-houston-regional-championship-at-houston-tx",
+    "season": 2019,
+    "name": "Houston Regional Championship at Houston, TX",
+    "type": "Regional",
+    "venue": "Legacy Stadium",
+    "date": "2019-10-05",
+    "city": "Houston",
+    "state": "TX"
+  },
+  {
+    "id": "2019-katy-regional-championship-at-katy-tx",
+    "season": 2019,
+    "name": "Katy Regional Championship at Katy, TX",
+    "type": "Regional",
+    "venue": "Legacy Stadium",
+    "date": "2019-10-05",
+    "city": "Katy",
+    "state": "TX"
+  },
+  {
+    "id": "2019-muncie-regional-championship-at-muncie-in",
+    "season": 2019,
+    "name": "Muncie Regional Championship at Muncie, IN",
+    "type": "Regional",
+    "venue": "Scheumann Stadium at Ball State University",
+    "date": "2019-10-05",
+    "city": "Muncie",
+    "state": "IN"
+  },
+  {
+    "id": "2019-johnson-city-regional-championship-at-johnson-city-tn",
+    "season": 2019,
+    "name": "Johnson City Regional Championship at Johnson City, TN",
+    "type": "Regional",
+    "venue": "Mini Dome at East Tennessee State University",
+    "date": "2019-10-12",
+    "city": "Johnson City",
+    "state": "TN"
+  },
+  {
+    "id": "2019-midland-regional-championship-at-midland-tx",
+    "season": 2019,
+    "name": "Midland Regional Championship at Midland, TX",
+    "type": "Regional",
+    "venue": "Grande Communications Stadium",
+    "date": "2019-10-12",
+    "city": "Midland",
+    "state": "TX"
+  },
+  {
+    "id": "2019-orlando-regional-championship-at-orlando-fl",
+    "season": 2019,
+    "name": "Orlando Regional Championship at Orlando, FL",
+    "type": "Regional",
+    "venue": "Camping World Stadium",
+    "date": "2019-10-12",
+    "city": "Orlando",
+    "state": "FL"
+  },
+  {
+    "id": "2019-st-louis-super-regional-championship-at-st-louis-mo",
+    "season": 2019,
+    "name": "St. Louis Super Regional Championship at St. Louis, MO",
+    "type": "Super Regional",
+    "venue": "The Dome at America's Center",
+    "date": "2019-10-18",
+    "city": "St. Louis",
+    "state": "MO"
+  },
+  {
+    "id": "2019-waco-regional-championship-at-waco-tx",
+    "season": 2019,
+    "name": "Waco Regional Championship at Waco, TX",
+    "type": "Regional",
+    "venue": "McLane Stadium at Baylor University",
+    "date": "2019-10-19",
+    "city": "Waco",
+    "state": "TX"
+  },
+  {
+    "id": "2019-indianapolis-super-regional-championship-at-indianapolis-in",
+    "season": 2019,
+    "name": "Indianapolis Super Regional Championship at Indianapolis, IN",
+    "type": "Super Regional",
+    "venue": "Lucas Oil Stadium",
+    "date": "2019-10-25",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  {
+    "id": "2019-lynchburg-regional-championship-at-lynchburg-va",
+    "season": 2019,
+    "name": "Lynchburg Regional Championship at Lynchburg, VA",
+    "type": "Regional",
+    "venue": "Williams Stadium at Liberty University",
+    "date": "2019-10-26",
+    "city": "Lynchburg",
+    "state": "VA"
+  },
+  {
+    "id": "2019-powder-springs-regional-championship-at-powder-springs-ga",
+    "season": 2019,
+    "name": "Powder Springs Regional Championship at Powder Springs, GA",
+    "type": "Regional",
+    "venue": "McEachern H.S.",
+    "date": "2019-10-26",
+    "city": "Powder Springs",
+    "state": "GA"
+  },
+  {
+    "id": "2019-san-antonio-super-regional-championship-at-san-antonio-tx",
+    "season": 2019,
+    "name": "San Antonio Super Regional Championship at San Antonio, TX",
+    "type": "Super Regional",
+    "venue": "The Alamodome",
+    "date": "2019-11-01",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "2019-bakersfield-regional-championship-at-bakersfield-ca",
+    "season": 2019,
+    "name": "Bakersfield Regional Championship at Bakersfield, CA",
+    "type": "Regional",
+    "venue": "Memorial Stadium, Bakersfield College",
+    "date": "2019-11-02",
+    "city": "Bakersfield",
+    "state": "CA"
+  },
+  {
+    "id": "2019-st-george-regional-championship-at-st-george-ut",
+    "season": 2019,
+    "name": "St. George Regional Championship at St. George, UT",
+    "type": "Regional",
+    "venue": "Dixie University Stadium",
+    "date": "2019-11-09",
+    "city": "Saint George",
+    "state": "UT"
+  },
+  {
+    "id": "2019-grand-national-championships-at-indianapolis-in",
+    "season": 2019,
+    "name": "Grand National Championships at Indianapolis, IN",
+    "type": "Grand National",
+    "venue": "Lucas Oil Stadium",
+    "date": "2019-11-14",
+    "city": "Indianapolis",
+    "state": "IN"
+  }
+]

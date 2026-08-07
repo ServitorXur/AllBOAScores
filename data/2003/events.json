@@ -1,0 +1,152 @@
+[
+  {
+    "id": "2003-regional-championship-at-louisville-ky",
+    "season": 2003,
+    "name": "Regional Championship at Louisville, KY",
+    "type": "Regional",
+    "venue": "Kentucky Fair & Expo Center",
+    "date": "2003-09-20",
+    "city": "Louisville",
+    "state": "KY"
+  },
+  {
+    "id": "2003-regional-championship-at-pontiac-mi",
+    "season": 2003,
+    "name": "Regional Championship at Pontiac, MI",
+    "type": "Regional",
+    "venue": "Silverdome",
+    "date": "2003-09-27",
+    "city": "City of Pontiac",
+    "state": "MI"
+  },
+  {
+    "id": "2003-regional-championship-at-johnson-city-tn",
+    "season": 2003,
+    "name": "Regional Championship at Johnson City, TN",
+    "type": "Regional",
+    "venue": "East Tennessee State University - 10.4",
+    "date": "2003-10-04",
+    "city": "Johnson City",
+    "state": "TN"
+  },
+  {
+    "id": "2003-regional-championship-at-massillon-oh",
+    "season": 2003,
+    "name": "Regional Championship at Massillon, OH",
+    "type": "Regional",
+    "venue": "Paul Brown Tiger",
+    "date": "2003-10-04",
+    "city": "Massillon",
+    "state": "OH"
+  },
+  {
+    "id": "2003-regional-championship-at-houston-tx",
+    "season": 2003,
+    "name": "Regional Championship at Houston, TX",
+    "type": "Regional",
+    "venue": "Rice University",
+    "date": "2003-10-11",
+    "city": "Houston",
+    "state": "TX"
+  },
+  {
+    "id": "2003-regional-championship-at-st-louis-mo",
+    "season": 2003,
+    "name": "Regional Championship at St. Louis, MO",
+    "type": "Regional",
+    "venue": "Edward Jones Dome",
+    "date": "2003-10-11",
+    "city": "Saint Louis",
+    "state": "MO"
+  },
+  {
+    "id": "2003-regional-championship-at-arlington-tx",
+    "season": 2003,
+    "name": "Regional Championship at Arlington , TX",
+    "type": "Regional",
+    "venue": "University of Texas at Arlington",
+    "date": "2003-10-18",
+    "city": "Arlington",
+    "state": "TX"
+  },
+  {
+    "id": "2003-regional-championship-at-youngstown-oh",
+    "season": 2003,
+    "name": "Regional Championship at Youngstown, OH",
+    "type": "Regional",
+    "venue": "Stambaugh",
+    "date": "2003-10-18",
+    "city": "Youngstown",
+    "state": "OH"
+  },
+  {
+    "id": "2003-regional-championship-at-atlanta-ga",
+    "season": 2003,
+    "name": "Regional Championship at Atlanta, GA",
+    "type": "Regional",
+    "venue": "Georgia Dome",
+    "date": "2003-10-25",
+    "city": "Atlanta",
+    "state": "GA"
+  },
+  {
+    "id": "2003-regional-championship-at-bridgeport-ct",
+    "season": 2003,
+    "name": "Regional Championship at Bridgeport, CT",
+    "type": "Regional",
+    "venue": "John F. Kennedy Stadium",
+    "date": "2003-10-25",
+    "city": "Bridgeport",
+    "state": "CT"
+  },
+  {
+    "id": "2003-regional-championship-at-phoenix-az",
+    "season": 2003,
+    "name": "Regional Championship at Phoenix, AZ",
+    "type": "Regional",
+    "venue": "Bank One Ballpark",
+    "date": "2003-11-01",
+    "city": "Phoenix",
+    "state": "AZ"
+  },
+  {
+    "id": "2003-regional-championship-at-san-antonio-tx",
+    "season": 2003,
+    "name": "Regional Championship at San Antonio, TX",
+    "type": "Regional",
+    "venue": "Alamodome",
+    "date": "2003-11-01",
+    "city": "San Antonio",
+    "state": "TX"
+  },
+  {
+    "id": "2003-regional-championship-at-indianapolis-in",
+    "season": 2003,
+    "name": "Regional Championship at Indianapolis, IN",
+    "type": "Regional",
+    "venue": "RCA Dome",
+    "date": "2003-11-08",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  {
+    "id": "2003-grand-national-championships-at-indianapolis-in",
+    "season": 2003,
+    "name": "Grand National Championships at Indianapolis, IN",
+    "type": "Grand National",
+    "venue": "RCA Dome",
+    "date": "2003-11-13",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  {
+    "id": "2003-2003-finals",
+    "season": 2003,
+    "name": "2003.finals",
+    "type": "Grand National",
+    "venue": "RCA Dome",
+    "date": "2003-11-15",
+    "city": "RCA Dome",
+    "state": "IN"
+  }
+]

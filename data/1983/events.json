@@ -1,0 +1,52 @@
+[
+  {
+    "id": "1983-summer-national-championship-at-whitewater-wi",
+    "season": 1983,
+    "name": "Summer National Championship at Whitewater, WI",
+    "type": "National",
+    "venue": "Warhawk Stadium",
+    "date": "1983-06-17",
+    "city": "Whitewater",
+    "state": "WI"
+  },
+  {
+    "id": "1983-northeastern-regional-championship-at-pittsburgh-pa",
+    "season": 1983,
+    "name": "Northeastern Regional Championship at Pittsburgh, PA",
+    "type": "Regional",
+    "venue": "Penn Hills High School",
+    "date": "1983-10-08",
+    "city": "Pittsburgh",
+    "state": "PA"
+  },
+  {
+    "id": "1983-midwest-regional-championship-at-indianapolis-in",
+    "season": 1983,
+    "name": "Midwest Regional Championship at Indianapolis, IN",
+    "type": "Regional",
+    "venue": "Lawrence Central High School",
+    "date": "1983-10-22",
+    "city": "Indianapolis",
+    "state": "IN"
+  },
+  {
+    "id": "1983-southwestern-regional-championship-at-houston-tx",
+    "season": 1983,
+    "name": "Southwestern Regional Championship at Houston, TX",
+    "type": "Regional",
+    "venue": "Rice University",
+    "date": "1983-10-29",
+    "city": "Houston",
+    "state": "TX"
+  },
+  {
+    "id": "1983-grand-national-championship-at-johnson-city-tn",
+    "season": 1983,
+    "name": "Grand National Championship at Johnson City, TN",
+    "type": "Grand National",
+    "venue": "East Tennessee State University",
+    "date": "1983-11-04",
+    "city": "Johnson City",
+    "state": "TN"
+  }
+]

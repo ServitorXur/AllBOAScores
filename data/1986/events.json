@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1986-summer-national-championship-at-whitewater-wi",
+    "season": 1986,
+    "name": "Summer National Championship at Whitewater, WI",
+    "type": "National",
+    "venue": "Warhawk Stadium",
+    "date": "1986-06-20",
+    "city": "Whitewater",
+    "state": "WI"
+  },
+  {
+    "id": "1986-regional-championship-at-jonesboro-ar",
+    "season": 1986,
+    "name": "Regional Championship at Jonesboro, AR",
+    "type": "Regional",
+    "venue": "Arkansas State University",
+    "date": "1986-10-04",
+    "city": "Jonesboro",
+    "state": "AR"
+  },
+  {
+    "id": "1986-regional-championship-at-conroe-tx",
+    "season": 1986,
+    "name": "Regional Championship at Conroe, TX",
+    "type": "Regional",
+    "venue": "Conroe I.S.D. Stadium",
+    "date": "1986-10-11",
+    "city": "Conroe",
+    "state": "TX"
+  },
+  {
+    "id": "1986-regional-championship-at-corvallis-or",
+    "season": 1986,
+    "name": "Regional Championship at Corvallis, OR",
+    "type": "Regional",
+    "venue": "Oregon State University",
+    "date": "1986-10-18",
+    "city": "Corvallis",
+    "state": "OR"
+  },
+  {
+    "id": "1986-regional-championship-at-morgantown-wv",
+    "season": 1986,
+    "name": "Regional Championship at Morgantown, WV",
+    "type": "Regional",
+    "venue": "West Virginia University",
+    "date": "1986-10-18",
+    "city": "Morgantown",
+    "state": "WV"
+  },
+  {
+    "id": "1986-regional-championship-at-akron-oh",
+    "season": 1986,
+    "name": "Regional Championship at Akron, OH",
+    "type": "Regional",
+    "venue": "Rubber Bowl",
+    "date": "1986-11-01",
+    "city": "Akron",
+    "state": "OH"
+  },
+  {
+    "id": "1986-grand-national-championship-at-indianapolis-in",
+    "season": 1986,
+    "name": "Grand National Championship at Indianapolis, IN",
+    "type": "Grand National",
+    "venue": "Indianapolis Hoosier Dome",
+    "date": "1986-11-07",
+    "city": "Indianapolis",
+    "state": "IN"
+  }
+]

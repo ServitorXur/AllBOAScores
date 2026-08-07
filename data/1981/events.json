@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1981-summer-national-championship-at-whitewater-wi",
+    "season": 1981,
+    "name": "Summer National Championship at Whitewater, WI",
+    "type": "National",
+    "venue": "Warhawk Stadium",
+    "date": "1981-06-19",
+    "city": "Whitewater",
+    "state": "WI"
+  },
+  {
+    "id": "1981-eastern-regional-championship-at-harrisonburg-va",
+    "season": 1981,
+    "name": "Eastern Regional Championship at Harrisonburg, VA",
+    "type": "Regional",
+    "venue": "James Madison University",
+    "date": "1981-10-03",
+    "city": "Harrisonburg",
+    "state": "VA"
+  },
+  {
+    "id": "1981-northern-regional-championship-at-toledo-oh",
+    "season": 1981,
+    "name": "Northern Regional Championship at Toledo, OH",
+    "type": "Regional",
+    "venue": "University of Toledo",
+    "date": "1981-10-10",
+    "city": "Toledo",
+    "state": "OH"
+  },
+  {
+    "id": "1981-midwest-regional-championship-at-ft-wayne-in",
+    "season": 1981,
+    "name": "Midwest Regional Championship at Ft. Wayne, IN",
+    "type": "Regional",
+    "venue": "Northrop High School",
+    "date": "1981-10-24",
+    "city": "Fort Wayne",
+    "state": "IN"
+  },
+  {
+    "id": "1981-southwestern-regional-championship-at-houston-tx",
+    "season": 1981,
+    "name": "Southwestern Regional Championship at Houston, TX",
+    "type": "Regional",
+    "venue": "Rice University",
+    "date": "1981-10-31",
+    "city": "Houston",
+    "state": "TX"
+  },
+  {
+    "id": "1981-grand-national-championship-at-johnson-city-tn",
+    "season": 1981,
+    "name": "Grand National Championship at Johnson City, TN",
+    "type": "Grand National",
+    "venue": "Tennessee State University",
+    "date": "1981-11-07",
+    "city": "Johnson City",
+    "state": "TN"
+  }
+]

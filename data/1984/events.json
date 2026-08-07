@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1984-summer-national-championship-at-whitewater-wi",
+    "season": 1984,
+    "name": "Summer National Championship at Whitewater, WI",
+    "type": "National",
+    "venue": "Warhawk Stadium",
+    "date": "1984-06-15",
+    "city": "Whitewater",
+    "state": "WI"
+  },
+  {
+    "id": "1984-regional-championship-at-joliet-il",
+    "season": 1984,
+    "name": "Regional Championship at Joliet, IL",
+    "type": "Regional",
+    "venue": "Memorial Stadium",
+    "date": "1984-10-06",
+    "city": "Joliet",
+    "state": "IL"
+  },
+  {
+    "id": "1984-regional-championship-at-columbus-oh",
+    "season": 1984,
+    "name": "Regional Championship at Columbus, OH",
+    "type": "Regional",
+    "venue": "Franklin County Stadium",
+    "date": "1984-10-13",
+    "city": "Columbus",
+    "state": "OH"
+  },
+  {
+    "id": "1984-regional-championship-at-pittsburgh-pa",
+    "season": 1984,
+    "name": "Regional Championship at Pittsburgh, PA",
+    "type": "Regional",
+    "venue": "Latrobe High School",
+    "date": "1984-10-20",
+    "city": "Pittsburgh",
+    "state": "PA"
+  },
+  {
+    "id": "1984-regional-championship-at-east-tennessee-state-university",
+    "season": 1984,
+    "name": "Regional Championship at East Tennessee State University",
+    "type": "Regional",
+    "venue": "ETSU Mini Dome",
+    "date": "1984-10-27",
+    "city": "Johnson City",
+    "state": "TN"
+  },
+  {
+    "id": "1984-grand-national-championship-at-indianapolis-in",
+    "season": 1984,
+    "name": "Grand National Championship at Indianapolis, IN",
+    "type": "Grand National",
+    "venue": "The Hoosier Dome",
+    "date": "1984-11-16",
+    "city": "Indianapolis",
+    "state": "IN"
+  }
+]
