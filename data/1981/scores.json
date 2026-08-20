@@ -6,6 +6,7 @@
     "round": "Prelims",
     "class": "A",
     "placement": 23,
+    "placementOverall": 23,
     "total": 7.5,
     "captions": {
       "Inv Mus": 9.5,
@@ -28,6 +29,7 @@
     "round": "Prelims",
     "class": "A",
     "placement": 20,
+    "placementOverall": null,
     "total": 50.55,
     "captions": {
       "Inv Mus": 8.6,
@@ -52,6 +54,7 @@
     "round": "Prelims",
     "class": "A",
     "placement": 14,
+    "placementOverall": null,
     "total": 59.55,
     "captions": {
       "Inv Mus": 10.3,
@@ -76,6 +79,7 @@
     "round": "Prelims",
     "class": "A",
     "placement": 24,
+    "placementOverall": null,
     "total": 34.95,
     "captions": {
       "Inv Mus": 8.4,
@@ -100,6 +104,7 @@
     "round": "Prelims",
     "class": "A",
     "placement": 9,
+    "placementOverall": null,
     "total": 68.35,
     "captions": {
       "Inv Mus": 13.1,
@@ -124,6 +129,7 @@
     "round": "Prelims",
     "class": "A",
     "placement": 26,
+    "placementOverall": null,
     "total": 31.6,
     "captions": {
       "Inv Mus": 7.6,
@@ -148,6 +154,7 @@
     "round": "Prelims",
     "class": "A",
     "placement": 8,
+    "placementOverall": null,
     "total": 71.8,
     "captions": {
       "Inv Mus": 11.2,
@@ -172,6 +179,7 @@
     "round": "Prelims",
     "class": "A",
     "placement": 15,
+    "placementOverall": null,
     "total": 59.25,
     "captions": {
       "Inv Mus": 11,
@@ -196,6 +204,7 @@
     "round": "Prelims",
     "class": "A",
     "placement": 22,
+    "placementOverall": null,
     "total": 46.5,
     "captions": {
       "Inv Mus": 9.2,
@@ -220,6 +229,7 @@
     "round": "Prelims",
     "class": "A",
     "placement": 18,
+    "placementOverall": null,
     "total": 54.05,
     "captions": {
       "Inv Mus": 10,
@@ -244,6 +254,7 @@
     "round": "Prelims",
     "class": "A",
     "placement": 11,
+    "placementOverall": null,
     "total": 66,
     "captions": {
       "Inv Mus": 11.1,
@@ -268,6 +279,7 @@
     "round": "Prelims",
     "class": "A",
     "placement": 2,
+    "placementOverall": null,
     "total": 84.45,
     "captions": {
       "Inv Mus": 16.9,
@@ -292,6 +304,7 @@
     "round": "Prelims",
     "class": "A",
     "placement": 10,
+    "placementOverall": null,
     "total": 66.4,
     "captions": {
       "Inv Mus": 11.4,
@@ -316,6 +329,7 @@
     "round": "Prelims",
     "class": "A",
     "placement": 7,
+    "placementOverall": null,
     "total": 73.3,
     "captions": {
       "Inv Mus": 13.5,
@@ -340,6 +354,7 @@
     "round": "Prelims",
     "class": "A",
     "placement": 19,
+    "placementOverall": null,
     "total": 52.65,
     "captions": {
       "Inv Mus": 10.5,
@@ -364,6 +379,7 @@
     "round": "Prelims",
     "class": "AA",
     "placement": 17,
+    "placementOverall": null,
     "total": 55.15,
     "captions": {
       "Inv Mus": 11.3,
@@ -388,6 +404,7 @@
     "round": "Prelims",
     "class": "AA",
     "placement": 6,
+    "placementOverall": null,
     "total": 73.6,
     "captions": {
       "Inv Mus": 12.4,
@@ -412,6 +429,7 @@
     "round": "Prelims",
     "class": "AA",
     "placement": 13,
+    "placementOverall": null,
     "total": 64.1,
     "captions": {
       "Inv Mus": 12.1,
@@ -436,6 +454,7 @@
     "round": "Prelims",
     "class": "AA",
     "placement": 5,
+    "placementOverall": null,
     "total": 80,
     "captions": {
       "Inv Mus": 16,
@@ -460,6 +479,7 @@
     "round": "Prelims",
     "class": "AA",
     "placement": 3,
+    "placementOverall": null,
     "total": 83.1,
     "captions": {
       "Inv Mus": 14.9,
@@ -484,6 +504,7 @@
     "round": "Prelims",
     "class": "AA",
     "placement": 4,
+    "placementOverall": null,
     "total": 82,
     "captions": {
       "Inv Mus": 13.7,
@@ -508,6 +529,7 @@
     "round": "Prelims",
     "class": "AA",
     "placement": 25,
+    "placementOverall": null,
     "total": 34.85,
     "captions": {
       "Inv Mus": 9.6,
@@ -532,6 +554,7 @@
     "round": "Prelims",
     "class": "AAA",
     "placement": 21,
+    "placementOverall": null,
     "total": 49.5,
     "captions": {
       "Inv Mus": 9.9,
@@ -556,6 +579,7 @@
     "round": "Prelims",
     "class": "AAA",
     "placement": 1,
+    "placementOverall": null,
     "total": 86.3,
     "captions": {
       "Inv Mus": 16.5,
@@ -580,6 +604,7 @@
     "round": "Prelims",
     "class": "AAA",
     "placement": 12,
+    "placementOverall": null,
     "total": 65.35,
     "captions": {
       "Inv Mus": 13.8,
@@ -604,6 +629,7 @@
     "round": "Prelims",
     "class": "OPEN",
     "placement": 16,
+    "placementOverall": null,
     "total": 56.6,
     "captions": {
       "Inv Mus": 12.9,
@@ -628,6 +654,7 @@
     "round": "Finals",
     "class": "A",
     "placement": 8,
+    "placementOverall": null,
     "total": 65.35,
     "captions": {
       "Inv Mus": 12.2,
@@ -652,6 +679,7 @@
     "round": "Finals",
     "class": "AA",
     "placement": 3,
+    "placementOverall": null,
     "total": 80.05,
     "captions": {
       "Inv Mus": 16.1,
@@ -676,6 +704,7 @@
     "round": "Finals",
     "class": "AA",
     "placement": 7,
+    "placementOverall": null,
     "total": 67.65,
     "captions": {
       "Inv Mus": 15,
@@ -700,6 +729,7 @@
     "round": "Finals",
     "class": "AAA",
     "placement": 1,
+    "placementOverall": null,
     "total": 88.4,
     "captions": {
       "Inv Mus": 17.3,
@@ -724,6 +754,7 @@
     "round": "Finals",
     "class": "A",
     "placement": 9,
+    "placementOverall": null,
     "total": 61.2,
     "captions": {
       "Inv Mus": 13.1,
@@ -748,6 +779,7 @@
     "round": "Finals",
     "class": "A",
     "placement": 2,
+    "placementOverall": null,
     "total": 85.65,
     "captions": {
       "Inv Mus": 17.8,
@@ -772,6 +804,7 @@
     "round": "Finals",
     "class": "AAA",
     "placement": 9,
+    "placementOverall": null,
     "total": 61.2,
     "captions": {
       "Inv Mus": 11,
@@ -796,6 +829,7 @@
     "round": "Finals",
     "class": "A",
     "placement": 12,
+    "placementOverall": null,
     "total": 56.55,
     "captions": {
       "Inv Mus": 9.9,
@@ -820,6 +854,7 @@
     "round": "Finals",
     "class": "A",
     "placement": 11,
+    "placementOverall": null,
     "total": 60.6,
     "captions": {
       "Inv Mus": 13.7,
@@ -844,6 +879,7 @@
     "round": "Finals",
     "class": "AA",
     "placement": 6,
+    "placementOverall": null,
     "total": 71.25,
     "captions": {
       "Inv Mus": 17,
@@ -868,6 +904,7 @@
     "round": "Finals",
     "class": "A",
     "placement": 5,
+    "placementOverall": null,
     "total": 71.6,
     "captions": {
       "Inv Mus": 18,
@@ -892,6 +929,7 @@
     "round": "Finals",
     "class": "AA",
     "placement": 4,
+    "placementOverall": null,
     "total": 79.7,
     "captions": {
       "Inv Mus": 18.3,
@@ -916,6 +954,7 @@
     "round": "Finals",
     "class": "Unknown",
     "placement": 1,
+    "placementOverall": 1,
     "total": 89.7,
     "captions": {
       "Inv Mus": 17.2,
@@ -940,6 +979,7 @@
     "round": "Finals",
     "class": "Unknown",
     "placement": 2,
+    "placementOverall": 2,
     "total": 78.4,
     "captions": {
       "Inv Mus": 17,
@@ -964,6 +1004,7 @@
     "round": "Finals",
     "class": "Unknown",
     "placement": 3,
+    "placementOverall": 3,
     "total": 74.85,
     "captions": {
       "Inv Mus": 17.5,
@@ -988,6 +1029,7 @@
     "round": "Finals",
     "class": "Unknown",
     "placement": 4,
+    "placementOverall": 4,
     "total": 73.9,
     "captions": {
       "Inv Mus": 14.7,
@@ -1012,6 +1054,7 @@
     "round": "Finals",
     "class": "Unknown",
     "placement": 5,
+    "placementOverall": 5,
     "total": 72.85,
     "captions": {
       "Inv Mus": 15.8,
@@ -1036,6 +1079,7 @@
     "round": "Finals",
     "class": "Unknown",
     "placement": 6,
+    "placementOverall": 6,
     "total": 72.8,
     "captions": {
       "Inv Mus": 15.9,
@@ -1060,6 +1104,7 @@
     "round": "Finals",
     "class": "Unknown",
     "placement": 7,
+    "placementOverall": 7,
     "total": 71.85,
     "captions": {
       "Inv Mus": 14.9,
@@ -1084,6 +1129,7 @@
     "round": "Finals",
     "class": "Unknown",
     "placement": 8,
+    "placementOverall": 8,
     "total": 66.55,
     "captions": {
       "Inv Mus": 16.3,
@@ -1108,6 +1154,7 @@
     "round": "Finals",
     "class": "Unknown",
     "placement": 9,
+    "placementOverall": 9,
     "total": 60.8,
     "captions": {
       "Inv Mus": 15.1,
@@ -1132,6 +1179,7 @@
     "round": "Finals",
     "class": "Unknown",
     "placement": 10,
+    "placementOverall": 10,
     "total": 60.05,
     "captions": {
       "Inv Mus": 14.3,
@@ -1156,6 +1204,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 1,
+    "placementOverall": 1,
     "total": 89.25,
     "captions": {
       "Inv Mus": 16.2,
@@ -1180,6 +1229,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 2,
+    "placementOverall": 2,
     "total": 82.8,
     "captions": {
       "Inv Mus": 15.8,
@@ -1204,6 +1254,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 3,
+    "placementOverall": 3,
     "total": 78.95,
     "captions": {
       "Inv Mus": 12,
@@ -1228,6 +1279,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 4,
+    "placementOverall": 4,
     "total": 77.2,
     "captions": {
       "Inv Mus": 14.6,
@@ -1252,6 +1304,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 5,
+    "placementOverall": 5,
     "total": 76.9,
     "captions": {
       "Inv Mus": 14.7,
@@ -1276,6 +1329,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 6,
+    "placementOverall": 6,
     "total": 76.25,
     "captions": {
       "Inv Mus": 12.8,
@@ -1300,6 +1354,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 7,
+    "placementOverall": 7,
     "total": 75.85,
     "captions": {
       "Inv Mus": 14.1,
@@ -1324,6 +1379,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 8,
+    "placementOverall": 8,
     "total": 75.2,
     "captions": {
       "Inv Mus": 14.5,
@@ -1348,6 +1404,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 9,
+    "placementOverall": 9,
     "total": 67.9,
     "captions": {
       "Inv Mus": 13.3,
@@ -1372,6 +1429,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 10,
+    "placementOverall": 10,
     "total": 63.45,
     "captions": {
       "Inv Mus": 9.8,
@@ -1396,6 +1454,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 11,
+    "placementOverall": 11,
     "total": 63.25,
     "captions": {
       "Inv Mus": 12.5,
@@ -1420,6 +1479,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 12,
+    "placementOverall": 12,
     "total": 62.15,
     "captions": {
       "Inv Mus": 12.2,
@@ -1444,6 +1504,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 1,
+    "placementOverall": 13,
     "total": 9.3,
     "captions": {
       "Inv Mus": 8.7,
@@ -1466,6 +1527,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 14,
+    "placementOverall": 14,
     "total": 59.25,
     "captions": {
       "Inv Mus": 11.8,
@@ -1490,6 +1552,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 15,
+    "placementOverall": 15,
     "total": 56.85,
     "captions": {
       "Inv Mus": 8.4,
@@ -1514,6 +1577,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 16,
+    "placementOverall": 16,
     "total": 7.5,
     "captions": {
       "Inv Mus": 9.2,
@@ -1536,6 +1600,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 17,
+    "placementOverall": 17,
     "total": 51.65,
     "captions": {
       "Inv Mus": 8.6,
@@ -1559,6 +1624,7 @@
     "round": "Finals",
     "class": "Unknown",
     "placement": 1,
+    "placementOverall": 1,
     "total": 87.1,
     "captions": {
       "Inv Mus": 17.3,
@@ -1583,6 +1649,7 @@
     "round": "Finals",
     "class": "Unknown",
     "placement": 2,
+    "placementOverall": 2,
     "total": 86.7,
     "captions": {
       "Inv Mus": 18.3,
@@ -1607,6 +1674,7 @@
     "round": "Finals",
     "class": "Unknown",
     "placement": 3,
+    "placementOverall": 3,
     "total": 85.05,
     "captions": {
       "Inv Mus": 17.4,
@@ -1631,6 +1699,7 @@
     "round": "Finals",
     "class": "Unknown",
     "placement": 4,
+    "placementOverall": 4,
     "total": 73.6,
     "captions": {
       "Inv Mus": 16.8,
@@ -1655,6 +1724,7 @@
     "round": "Finals",
     "class": "Unknown",
     "placement": 5,
+    "placementOverall": 5,
     "total": 73,
     "captions": {
       "Inv Mus": 14.9,
@@ -1679,6 +1749,7 @@
     "round": "Finals",
     "class": "Unknown",
     "placement": 6,
+    "placementOverall": 6,
     "total": 72.4,
     "captions": {
       "Inv Mus": 17.1,
@@ -1703,6 +1774,7 @@
     "round": "Finals",
     "class": "Unknown",
     "placement": 7,
+    "placementOverall": 7,
     "total": 71.95,
     "captions": {
       "Inv Mus": 16.2,
@@ -1727,6 +1799,7 @@
     "round": "Finals",
     "class": "Unknown",
     "placement": 8,
+    "placementOverall": 8,
     "total": 70.6,
     "captions": {
       "Inv Mus": 15.5,
@@ -1751,6 +1824,7 @@
     "round": "Finals",
     "class": "Unknown",
     "placement": 9,
+    "placementOverall": 9,
     "total": 66.2,
     "captions": {
       "Inv Mus": 13.7,
@@ -1775,6 +1849,7 @@
     "round": "Finals",
     "class": "Unknown",
     "placement": 10,
+    "placementOverall": 10,
     "total": 65.7,
     "captions": {
       "Inv Mus": 13.8,
@@ -1799,6 +1874,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 30,
+    "placementOverall": null,
     "total": 9.8,
     "captions": {
       "Inv Mus": 10.8,
@@ -1821,6 +1897,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 1,
+    "placementOverall": 1,
     "total": 88.35,
     "captions": {
       "Inv Mus": 16.7,
@@ -1845,6 +1922,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 2,
+    "placementOverall": 2,
     "total": 86.65,
     "captions": {
       "Inv Mus": 17.6,
@@ -1869,6 +1947,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 3,
+    "placementOverall": 3,
     "total": 85.1,
     "captions": {
       "Inv Mus": 17.4,
@@ -1893,6 +1972,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 4,
+    "placementOverall": 4,
     "total": 51.2,
     "captions": {
       "Inv Mus": 15.5,
@@ -1916,6 +1996,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 5,
+    "placementOverall": 5,
     "total": 78.65,
     "captions": {
       "Inv Mus": 13.2,
@@ -1940,6 +2021,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 6,
+    "placementOverall": 6,
     "total": 78.15,
     "captions": {
       "Inv Mus": 15.6,
@@ -1964,6 +2046,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 7,
+    "placementOverall": 7,
     "total": 77.9,
     "captions": {
       "Inv Mus": 13.8,
@@ -1988,6 +2071,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 8,
+    "placementOverall": 8,
     "total": 74.2,
     "captions": {
       "Inv Mus": 13,
@@ -2012,6 +2096,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 9,
+    "placementOverall": 9,
     "total": 73.7,
     "captions": {
       "Inv Mus": 13.5,
@@ -2036,6 +2121,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 10,
+    "placementOverall": 10,
     "total": 72.5,
     "captions": {
       "Inv Mus": 14,
@@ -2060,6 +2146,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 11,
+    "placementOverall": 11,
     "total": 69.7,
     "captions": {
       "Inv Mus": 11.7,
@@ -2084,6 +2171,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 12,
+    "placementOverall": 12,
     "total": 68.55,
     "captions": {
       "Inv Mus": 13.3,
@@ -2108,6 +2196,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 13,
+    "placementOverall": 13,
     "total": 66.65,
     "captions": {
       "Inv Mus": 11.2,
@@ -2132,6 +2221,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 14,
+    "placementOverall": 14,
     "total": 63.9,
     "captions": {
       "Inv Mus": 11.5,
@@ -2156,6 +2246,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 15,
+    "placementOverall": 15,
     "total": 62.75,
     "captions": {
       "Inv Mus": 12.3,
@@ -2180,6 +2271,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 16,
+    "placementOverall": 16,
     "total": 61.35,
     "captions": {
       "Inv Mus": 12.7,
@@ -2204,6 +2296,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 17,
+    "placementOverall": 17,
     "total": 60.95,
     "captions": {
       "Inv Mus": 10.3,
@@ -2228,6 +2321,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 18,
+    "placementOverall": 18,
     "total": 60.4,
     "captions": {
       "Inv Mus": 10.1,
@@ -2252,6 +2346,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 19,
+    "placementOverall": 19,
     "total": 59.65,
     "captions": {
       "Inv Mus": 9.8,
@@ -2276,6 +2371,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 20,
+    "placementOverall": 20,
     "total": 55.4,
     "captions": {
       "Inv Mus": 11.5,
@@ -2300,6 +2396,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 22,
+    "placementOverall": 22,
     "total": 8.3,
     "captions": {
       "Inv Mus": 10.3,
@@ -2322,6 +2419,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 23,
+    "placementOverall": 23,
     "total": 44.55,
     "captions": {
       "Inv Mus": 8,
@@ -2346,6 +2444,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 24,
+    "placementOverall": 24,
     "total": 32.7,
     "captions": {
       "Inv Mus": 7,
@@ -2370,6 +2469,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 25,
+    "placementOverall": 25,
     "total": 17.7,
     "captions": {
       "Inv Mus": 6,
@@ -2393,6 +2493,7 @@
     "round": "Finals",
     "class": "Unknown",
     "placement": 1,
+    "placementOverall": 1,
     "total": 83.7,
     "captions": {
       "Inv Mus": 18,
@@ -2417,6 +2518,7 @@
     "round": "Finals",
     "class": "Unknown",
     "placement": 2,
+    "placementOverall": 2,
     "total": 82.9,
     "captions": {
       "Inv Mus": 16.7,
@@ -2441,6 +2543,7 @@
     "round": "Finals",
     "class": "Unknown",
     "placement": 3,
+    "placementOverall": 3,
     "total": 81.5,
     "captions": {
       "Inv Mus": 18.1,
@@ -2465,6 +2568,7 @@
     "round": "Finals",
     "class": "Unknown",
     "placement": 4,
+    "placementOverall": 4,
     "total": 79.7,
     "captions": {
       "Inv Mus": 16.9,
@@ -2489,6 +2593,7 @@
     "round": "Finals",
     "class": "Unknown",
     "placement": 5,
+    "placementOverall": 5,
     "total": 76.95,
     "captions": {
       "Inv Mus": 15.6,
@@ -2513,6 +2618,7 @@
     "round": "Finals",
     "class": "Unknown",
     "placement": 6,
+    "placementOverall": 6,
     "total": 72.55,
     "captions": {
       "Inv Mus": 15.9,
@@ -2537,6 +2643,7 @@
     "round": "Finals",
     "class": "Unknown",
     "placement": 7,
+    "placementOverall": 7,
     "total": 72.5,
     "captions": {
       "Inv Mus": 14.4,
@@ -2561,6 +2668,7 @@
     "round": "Finals",
     "class": "Unknown",
     "placement": 8,
+    "placementOverall": 8,
     "total": 71.8,
     "captions": {
       "Inv Mus": 15.4,
@@ -2585,6 +2693,7 @@
     "round": "Finals",
     "class": "Unknown",
     "placement": 9,
+    "placementOverall": 9,
     "total": 70.3,
     "captions": {
       "Inv Mus": 16.5,
@@ -2609,6 +2718,7 @@
     "round": "Finals",
     "class": "Unknown",
     "placement": 10,
+    "placementOverall": 10,
     "total": 69.35,
     "captions": {
       "Inv Mus": 14.7,
@@ -2633,6 +2743,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 1,
+    "placementOverall": 1,
     "total": 82.6,
     "captions": {
       "Inv Mus": 16.1,
@@ -2657,6 +2768,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 2,
+    "placementOverall": 2,
     "total": 82.4,
     "captions": {
       "Inv Mus": 15.7,
@@ -2681,6 +2793,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 3,
+    "placementOverall": 3,
     "total": 81.95,
     "captions": {
       "Inv Mus": 15.3,
@@ -2705,6 +2818,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 4,
+    "placementOverall": 4,
     "total": 79.65,
     "captions": {
       "Inv Mus": 16.7,
@@ -2729,6 +2843,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 5,
+    "placementOverall": 5,
     "total": 78.5,
     "captions": {
       "Inv Mus": 16,
@@ -2753,6 +2868,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 6,
+    "placementOverall": 6,
     "total": 76.45,
     "captions": {
       "Inv Mus": 14.1,
@@ -2777,6 +2893,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 7,
+    "placementOverall": 7,
     "total": 75.45,
     "captions": {
       "Inv Mus": 13.1,
@@ -2801,6 +2918,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 8,
+    "placementOverall": 8,
     "total": 74.8,
     "captions": {
       "Inv Mus": 13.8,
@@ -2825,6 +2943,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 9,
+    "placementOverall": 9,
     "total": 70.15,
     "captions": {
       "Inv Mus": 16.4,
@@ -2849,6 +2968,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 10,
+    "placementOverall": 10,
     "total": 69.3,
     "captions": {
       "Inv Mus": 13.3,
@@ -2873,6 +2993,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 13,
+    "placementOverall": 13,
     "total": 68.9,
     "captions": {
       "Inv Mus": 15.8,
@@ -2897,6 +3018,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 14,
+    "placementOverall": 14,
     "total": 67.8,
     "captions": {
       "Inv Mus": 13.3,
@@ -2921,6 +3043,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 15,
+    "placementOverall": 15,
     "total": 64.75,
     "captions": {
       "Inv Mus": 15.1,
@@ -2945,6 +3068,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 18,
+    "placementOverall": 18,
     "total": 56.2,
     "captions": {
       "Inv Mus": 12,
@@ -2969,6 +3093,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 19,
+    "placementOverall": 19,
     "total": 55.45,
     "captions": {
       "Inv Mus": 11.2,
@@ -2993,6 +3118,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 20,
+    "placementOverall": 20,
     "total": 51.25,
     "captions": {
       "Inv Mus": 9.8,
@@ -3017,6 +3143,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 21,
+    "placementOverall": 21,
     "total": 50.05,
     "captions": {
       "Inv Mus": 10.3,
@@ -3041,6 +3168,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 22,
+    "placementOverall": 22,
     "total": 48.8,
     "captions": {
       "Inv Mus": 11.6,
@@ -3065,6 +3193,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 23,
+    "placementOverall": 23,
     "total": 7,
     "captions": {
       "Inv Mus": 9.5,
@@ -3087,6 +3216,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 24,
+    "placementOverall": 24,
     "total": 38.5,
     "captions": {
       "Inv Mus": 8.8,
@@ -3111,6 +3241,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": null,
+    "placementOverall": null,
     "total": 59.95,
     "captions": {
       "Inv Mus": 10.7,
@@ -3135,6 +3266,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": null,
+    "placementOverall": null,
     "total": 69.1,
     "captions": {
       "Inv Mus": 16.2,
@@ -3159,6 +3291,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": null,
+    "placementOverall": null,
     "total": 59.95,
     "captions": {
       "Inv Mus": 11.2,
@@ -3183,6 +3316,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": null,
+    "placementOverall": null,
     "total": 69.1,
     "captions": {
       "Inv Mus": 12.3,
@@ -3207,6 +3341,7 @@
     "round": "Finals",
     "class": "OPEN",
     "placement": 4,
+    "placementOverall": null,
     "total": 69.05,
     "captions": {
       "Inv Mus": 15,
@@ -3231,6 +3366,7 @@
     "round": "Finals",
     "class": "AA",
     "placement": 1,
+    "placementOverall": null,
     "total": 80.25,
     "captions": {
       "Inv Mus": 18.1,
@@ -3255,6 +3391,7 @@
     "round": "Finals",
     "class": "AA",
     "placement": 3,
+    "placementOverall": null,
     "total": 71.9,
     "captions": {
       "Inv Mus": 14.5,
@@ -3279,6 +3416,7 @@
     "round": "Finals",
     "class": "AA",
     "placement": 5,
+    "placementOverall": null,
     "total": 67.35,
     "captions": {
       "Inv Mus": 12,
@@ -3303,6 +3441,7 @@
     "round": "Finals",
     "class": "A",
     "placement": 8,
+    "placementOverall": null,
     "total": 65.45,
     "captions": {
       "Inv Mus": 13.6,
@@ -3327,6 +3466,7 @@
     "round": "Finals",
     "class": "OPEN",
     "placement": 9,
+    "placementOverall": null,
     "total": 65.3,
     "captions": {
       "Inv Mus": 16.4,
@@ -3351,6 +3491,7 @@
     "round": "Finals",
     "class": "A",
     "placement": 7,
+    "placementOverall": null,
     "total": 66.55,
     "captions": {
       "Inv Mus": 14,
@@ -3375,6 +3516,7 @@
     "round": "Finals",
     "class": "OPEN",
     "placement": 2,
+    "placementOverall": null,
     "total": 74.4,
     "captions": {
       "Inv Mus": 19,
@@ -3399,6 +3541,7 @@
     "round": "Finals",
     "class": "AA",
     "placement": 6,
+    "placementOverall": null,
     "total": 66.75,
     "captions": {
       "Inv Mus": 10,
@@ -3423,6 +3566,7 @@
     "round": "Finals",
     "class": "A",
     "placement": 10,
+    "placementOverall": null,
     "total": 64.8,
     "captions": {
       "Inv Mus": 16,
@@ -3447,6 +3591,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 1,
+    "placementOverall": 1,
     "total": 84.5,
     "captions": {
       "Inv Mus": 15.7,
@@ -3471,6 +3616,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 2,
+    "placementOverall": 2,
     "total": 82,
     "captions": {
       "Inv Mus": 15.4,
@@ -3495,6 +3641,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 3,
+    "placementOverall": 3,
     "total": 80.95,
     "captions": {
       "Inv Mus": 16.6,
@@ -3519,6 +3666,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 4,
+    "placementOverall": 4,
     "total": 77.25,
     "captions": {
       "Inv Mus": 14.9,
@@ -3543,6 +3691,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 5,
+    "placementOverall": 5,
     "total": 75.05,
     "captions": {
       "Inv Mus": 12.9,
@@ -3567,6 +3716,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 6,
+    "placementOverall": 6,
     "total": 73.25,
     "captions": {
       "Inv Mus": 11.5,
@@ -3591,6 +3741,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 7,
+    "placementOverall": 7,
     "total": 72.8,
     "captions": {
       "Inv Mus": 14,
@@ -3615,6 +3766,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 8,
+    "placementOverall": 8,
     "total": 72.65,
     "captions": {
       "Inv Mus": 14.7,
@@ -3639,6 +3791,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 9,
+    "placementOverall": 9,
     "total": 72,
     "captions": {
       "Inv Mus": 12.4,
@@ -3663,6 +3816,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 10,
+    "placementOverall": 10,
     "total": 70.9,
     "captions": {
       "Inv Mus": 13.4,
@@ -3687,6 +3841,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 11,
+    "placementOverall": 11,
     "total": 69.95,
     "captions": {
       "Inv Mus": 14.2,
@@ -3711,6 +3866,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 12,
+    "placementOverall": 12,
     "total": 68.2,
     "captions": {
       "Inv Mus": 14.3,
@@ -3735,6 +3891,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 13,
+    "placementOverall": 13,
     "total": 66.6,
     "captions": {
       "Inv Mus": 13.3,
@@ -3759,6 +3916,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 14,
+    "placementOverall": 14,
     "total": 66.2,
     "captions": {
       "Inv Mus": 12.3,
@@ -3783,6 +3941,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 15,
+    "placementOverall": 15,
     "total": 62.65,
     "captions": {
       "Inv Mus": 14.1,
@@ -3807,6 +3966,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 16,
+    "placementOverall": 16,
     "total": 62.6,
     "captions": {
       "Inv Mus": 15.5,
@@ -3831,6 +3991,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 17,
+    "placementOverall": 17,
     "total": 61.75,
     "captions": {
       "Inv Mus": 14.4,
@@ -3855,6 +4016,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 18,
+    "placementOverall": 18,
     "total": 59.65,
     "captions": {
       "Inv Mus": 11.7,
@@ -3879,6 +4041,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 19,
+    "placementOverall": 19,
     "total": 59.5,
     "captions": {
       "Inv Mus": 11.8,
@@ -3903,6 +4066,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 20,
+    "placementOverall": 20,
     "total": 55.05,
     "captions": {
       "Inv Mus": 14.7,
@@ -3927,6 +4091,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 42,
+    "placementOverall": 21,
     "total": 24.5,
     "captions": {
       "Inv Mus": 11.2,
@@ -3950,6 +4115,7 @@
     "round": "Prelims",
     "class": "Unknown",
     "placement": 22,
+    "placementOverall": 22,
     "total": 21.3,
     "captions": {
       "Inv Mus": 5.4,
@@ -3973,6 +4139,7 @@
     "round": "Prelims",
     "class": "OPEN",
     "placement": 1,
+    "placementOverall": 1,
     "total": 91.5,
     "captions": {
       "Inv Mus": 16.3,
@@ -3997,6 +4164,7 @@
     "round": "Prelims",
     "class": "AA",
     "placement": 1,
+    "placementOverall": 2,
     "total": 90.7,
     "captions": {
       "Inv Mus": 16.3,
@@ -4021,6 +4189,7 @@
     "round": "Prelims",
     "class": "OPEN",
     "placement": 2,
+    "placementOverall": 3,
     "total": 85.85,
     "captions": {
       "Inv Mus": 16,
@@ -4045,6 +4214,7 @@
     "round": "Prelims",
     "class": "OPEN",
     "placement": 3,
+    "placementOverall": 4,
     "total": 85.2,
     "captions": {
       "Inv Mus": 17.2,
@@ -4069,6 +4239,7 @@
     "round": "Prelims",
     "class": "OPEN",
     "placement": 4,
+    "placementOverall": 5,
     "total": 84.9,
     "captions": {
       "Inv Mus": 15.4,
@@ -4093,6 +4264,7 @@
     "round": "Prelims",
     "class": "A",
     "placement": 1,
+    "placementOverall": 6,
     "total": 84.85,
     "captions": {
       "Inv Mus": 15.3,
@@ -4117,6 +4289,7 @@
     "round": "Prelims",
     "class": "OPEN",
     "placement": 5,
+    "placementOverall": 7,
     "total": 84.1,
     "captions": {
       "Inv Mus": 16.2,
@@ -4141,6 +4314,7 @@
     "round": "Prelims",
     "class": "A",
     "placement": 2,
+    "placementOverall": 8,
     "total": 83.35,
     "captions": {
       "Inv Mus": 16.8,
@@ -4165,6 +4339,7 @@
     "round": "Prelims",
     "class": "OPEN",
     "placement": 6,
+    "placementOverall": 9,
     "total": 82.2,
     "captions": {
       "Inv Mus": 15.5,
@@ -4189,6 +4364,7 @@
     "round": "Prelims",
     "class": "A",
     "placement": 3,
+    "placementOverall": 10,
     "total": 81.3,
     "captions": {
       "Inv Mus": 15.2,
@@ -4213,6 +4389,7 @@
     "round": "Prelims",
     "class": "AA",
     "placement": 2,
+    "placementOverall": 11,
     "total": 80.75,
     "captions": {
       "Inv Mus": 16.5,
@@ -4237,6 +4414,7 @@
     "round": "Prelims",
     "class": "A",
     "placement": 4,
+    "placementOverall": 12,
     "total": 80.6,
     "captions": {
       "Inv Mus": 16,
@@ -4261,6 +4439,7 @@
     "round": "Prelims",
     "class": "AA",
     "placement": 3,
+    "placementOverall": 13,
     "total": 79.05,
     "captions": {
       "Inv Mus": 14.4,
@@ -4285,6 +4464,7 @@
     "round": "Prelims",
     "class": "AA",
     "placement": 4,
+    "placementOverall": 14,
     "total": 78.25,
     "captions": {
       "Inv Mus": 13.8,
@@ -4309,6 +4489,7 @@
     "round": "Prelims",
     "class": "A",
     "placement": 5,
+    "placementOverall": 15,
     "total": 77.15,
     "captions": {
       "Inv Mus": 13.4,
@@ -4333,6 +4514,7 @@
     "round": "Prelims",
     "class": "AA",
     "placement": 5,
+    "placementOverall": 16,
     "total": 75.9,
     "captions": {
       "Inv Mus": 13.1,
@@ -4357,6 +4539,7 @@
     "round": "Prelims",
     "class": "A",
     "placement": 6,
+    "placementOverall": 17,
     "total": 75.6,
     "captions": {
       "Inv Mus": 15,
@@ -4381,6 +4564,7 @@
     "round": "Prelims",
     "class": "OPEN",
     "placement": 7,
+    "placementOverall": 18,
     "total": 73.85,
     "captions": {
       "Inv Mus": 14.5,
@@ -4405,6 +4589,7 @@
     "round": "Prelims",
     "class": "A",
     "placement": 7,
+    "placementOverall": 18,
     "total": 73.85,
     "captions": {
       "Inv Mus": 13.8,
@@ -4429,6 +4614,7 @@
     "round": "Prelims",
     "class": "A",
     "placement": 8,
+    "placementOverall": 20,
     "total": 72.5,
     "captions": {
       "Inv Mus": 15.3,
@@ -4453,6 +4639,7 @@
     "round": "Prelims",
     "class": "OPEN",
     "placement": 8,
+    "placementOverall": 21,
     "total": 71.65,
     "captions": {
       "Inv Mus": 14.2,
@@ -4477,6 +4664,7 @@
     "round": "Prelims",
     "class": "AA",
     "placement": 6,
+    "placementOverall": 21,
     "total": 71.65,
     "captions": {
       "Inv Mus": 11.8,
@@ -4501,6 +4689,7 @@
     "round": "Prelims",
     "class": "OPEN",
     "placement": 9,
+    "placementOverall": 23,
     "total": 71.5,
     "captions": {
       "Inv Mus": 15.4,
@@ -4525,6 +4714,7 @@
     "round": "Prelims",
     "class": "AA",
     "placement": 7,
+    "placementOverall": 24,
     "total": 71.4,
     "captions": {
       "Inv Mus": 13.9,
@@ -4549,6 +4739,7 @@
     "round": "Prelims",
     "class": "AA",
     "placement": 8,
+    "placementOverall": 25,
     "total": 71.2,
     "captions": {
       "Inv Mus": 16.1,
@@ -4573,6 +4764,7 @@
     "round": "Prelims",
     "class": "AA",
     "placement": 9,
+    "placementOverall": 26,
     "total": 70.45,
     "captions": {
       "Inv Mus": 14.3,
@@ -4597,6 +4789,7 @@
     "round": "Prelims",
     "class": "A",
     "placement": 9,
+    "placementOverall": 27,
     "total": 67.45,
     "captions": {
       "Inv Mus": 13.6,
@@ -4621,6 +4814,7 @@
     "round": "Prelims",
     "class": "A",
     "placement": 10,
+    "placementOverall": 28,
     "total": 67.1,
     "captions": {
       "Inv Mus": 15.1,
@@ -4645,6 +4839,7 @@
     "round": "Prelims",
     "class": "AA",
     "placement": 10,
+    "placementOverall": 29,
     "total": 65.1,
     "captions": {
       "Inv Mus": 15.9,
@@ -4669,6 +4864,7 @@
     "round": "Prelims",
     "class": "AA",
     "placement": 10,
+    "placementOverall": 29,
     "total": 65.1,
     "captions": {
       "Inv Mus": 13.5,
@@ -4693,6 +4889,7 @@
     "round": "Prelims",
     "class": "A",
     "placement": 11,
+    "placementOverall": 31,
     "total": 64.05,
     "captions": {
       "Inv Mus": 14.9,
@@ -4717,6 +4914,7 @@
     "round": "Prelims",
     "class": "A",
     "placement": 12,
+    "placementOverall": 32,
     "total": 60.45,
     "captions": {
       "Inv Mus": 14.6,
@@ -4741,6 +4939,7 @@
     "round": "Prelims",
     "class": "A",
     "placement": 13,
+    "placementOverall": 33,
     "total": 57.85,
     "captions": {
       "Inv Mus": 14.7,
@@ -4765,6 +4964,7 @@
     "round": "Prelims",
     "class": "A",
     "placement": 14,
+    "placementOverall": 34,
     "total": 57.7,
     "captions": {
       "Inv Mus": 10.6,
@@ -4789,6 +4989,7 @@
     "round": "Prelims",
     "class": "AA",
     "placement": 12,
+    "placementOverall": 35,
     "total": 57.25,
     "captions": {
       "Inv Mus": 10.4,
@@ -4813,6 +5014,7 @@
     "round": "Prelims",
     "class": "OPEN",
     "placement": 10,
+    "placementOverall": 36,
     "total": 56.2,
     "captions": {
       "Inv Mus": 11.3,
@@ -4837,6 +5039,7 @@
     "round": "Prelims",
     "class": "A",
     "placement": 15,
+    "placementOverall": 37,
     "total": 55.25,
     "captions": {
       "Inv Mus": 11,
@@ -4861,6 +5064,7 @@
     "round": "Prelims",
     "class": "A",
     "placement": 16,
+    "placementOverall": 38,
     "total": 54.35,
     "captions": {
       "Inv Mus": 10.7,
@@ -4885,6 +5089,7 @@
     "round": "Prelims",
     "class": "AA",
     "placement": 13,
+    "placementOverall": 39,
     "total": 52.4,
     "captions": {
       "Inv Mus": 12.7,
@@ -4909,6 +5114,7 @@
     "round": "Prelims",
     "class": "OPEN",
     "placement": 12,
+    "placementOverall": 40,
     "total": 52.15,
     "captions": {
       "Inv Mus": 10,
@@ -4933,6 +5139,7 @@
     "round": "Prelims",
     "class": "OPEN",
     "placement": 11,
+    "placementOverall": 41,
     "total": 51.3,
     "captions": {
       "Inv Mus": 14.1,
@@ -4957,6 +5164,7 @@
     "round": "Prelims",
     "class": "AA",
     "placement": 14,
+    "placementOverall": 42,
     "total": 51.2,
     "captions": {
       "Inv Mus": 9.8,
@@ -4981,6 +5189,7 @@
     "round": "Prelims",
     "class": "A",
     "placement": 17,
+    "placementOverall": 43,
     "total": 50.75,
     "captions": {
       "Inv Mus": 13.2,
@@ -5005,6 +5214,7 @@
     "round": "Prelims",
     "class": "AA",
     "placement": 15,
+    "placementOverall": 44,
     "total": 50.15,
     "captions": {
       "Inv Mus": 13.5,
@@ -5029,6 +5239,7 @@
     "round": "Prelims",
     "class": "A",
     "placement": 18,
+    "placementOverall": 45,
     "total": 49.1,
     "captions": {
       "Inv Mus": 11.2,
@@ -5053,6 +5264,7 @@
     "round": "Prelims",
     "class": "A",
     "placement": 19,
+    "placementOverall": 46,
     "total": 38.2,
     "captions": {
       "Inv Mus": 9.2,
@@ -5077,6 +5289,7 @@
     "round": "Finals",
     "class": "OPEN",
     "placement": 2,
+    "placementOverall": null,
     "total": 89.4,
     "captions": {
       "Inv Mus": 19.1,
@@ -5101,6 +5314,7 @@
     "round": "Finals",
     "class": "OPEN",
     "placement": 9,
+    "placementOverall": null,
     "total": 81.2,
     "captions": {
       "Inv Mus": 16.4,
@@ -5125,6 +5339,7 @@
     "round": "Finals",
     "class": "AA",
     "placement": 1,
+    "placementOverall": null,
     "total": 91.5,
     "captions": {
       "Inv Mus": 18.3,
@@ -5149,6 +5364,7 @@
     "round": "Finals",
     "class": "A",
     "placement": 8,
+    "placementOverall": null,
     "total": 81.8,
     "captions": {
       "Inv Mus": 16.2,
@@ -5173,6 +5389,7 @@
     "round": "Finals",
     "class": "A",
     "placement": 10,
+    "placementOverall": null,
     "total": 80.35,
     "captions": {
       "Inv Mus": 17.9,
@@ -5197,6 +5414,7 @@
     "round": "Finals",
     "class": "OPEN",
     "placement": 3,
+    "placementOverall": null,
     "total": 88.45,
     "captions": {
       "Inv Mus": 16,
@@ -5221,6 +5439,7 @@
     "round": "Finals",
     "class": "AA",
     "placement": 11,
+    "placementOverall": null,
     "total": 79.45,
     "captions": {
       "Inv Mus": 14.2,
@@ -5245,6 +5464,7 @@
     "round": "Finals",
     "class": "OPEN",
     "placement": 4,
+    "placementOverall": null,
     "total": 86.8,
     "captions": {
       "Inv Mus": 19,
@@ -5269,6 +5489,7 @@
     "round": "Finals",
     "class": "OPEN",
     "placement": 7,
+    "placementOverall": null,
     "total": 81.85,
     "captions": {
       "Inv Mus": 18.4,
@@ -5293,6 +5514,7 @@
     "round": "Finals",
     "class": "A",
     "placement": 6,
+    "placementOverall": null,
     "total": 82.65,
     "captions": {
       "Inv Mus": 14.6,
@@ -5317,6 +5539,7 @@
     "round": "Finals",
     "class": "OPEN",
     "placement": 5,
+    "placementOverall": null,
     "total": 86.4,
     "captions": {
       "Inv Mus": 16.2,
@@ -5341,6 +5564,7 @@
     "round": "Finals",
     "class": "A",
     "placement": 11,
+    "placementOverall": null,
     "total": 79.45,
     "captions": {
       "Inv Mus": 13.8,
