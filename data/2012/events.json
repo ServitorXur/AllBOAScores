@@ -2,7 +2,7 @@
   {
     "id": "2012-louisville-regional-championship-at-louisville-kentucky",
     "season": 2012,
-    "name": "Louisville Regional Championship at Louisville, Kentucky",
+    "name": "2012 Bands of America Louisville Regional Championship",
     "type": "Regional",
     "venue": "Papa John's Cardinal Stadium -‐ September 22",
     "date": "2012-09-22",
@@ -12,7 +12,7 @@
   {
     "id": "2012-louisville-regional-finals-championship-at-louisville-kentucky",
     "season": 2012,
-    "name": "Louisville Regional Finals Championship at Louisville, Kentucky",
+    "name": "2012 Bands of America Louisville Regional Finals Regional Championship",
     "type": "Regional",
     "venue": "Papa John's Cardinal Stadium -‐ 09/22",
     "date": "2012-09-22",
@@ -22,7 +22,7 @@
   {
     "id": "2012-monroeville-regional-championship-at-monroeville-pa",
     "season": 2012,
-    "name": "Monroeville Regional Championship at Monroeville, PA",
+    "name": "2012 Bands of America Monroeville Regional Championship",
     "type": "Regional",
     "venue": "Antimarion Stadium -‐ September 22",
     "date": "2012-09-22",
@@ -32,7 +32,7 @@
   {
     "id": "2012-denton-championship-at-denton-tx",
     "season": 2012,
-    "name": "Denton Championship at Denton, TX",
+    "name": "2012 Bands of America Denton Regional Championship",
     "type": "Championship",
     "venue": "Apogee Stadium -‐ September 29",
     "date": "2012-09-29",
@@ -42,7 +42,7 @@
   {
     "id": "2012-kettering-regional-championship-at-kettering-ohio",
     "season": 2012,
-    "name": "Kettering Regional Championship at Kettering, Ohio",
+    "name": "2012 Bands of America Kettering Regional Championship",
     "type": "Regional",
     "venue": "Roush Stadium -‐ September 29",
     "date": "2012-09-29",
@@ -52,7 +52,7 @@
   {
     "id": "2012-conroe-regional-championship-at-conroe-tx",
     "season": 2012,
-    "name": "Conroe Regional Championship at Conroe, TX",
+    "name": "2012 Bands of America Conroe Regional Championship",
     "type": "Regional",
     "venue": "Woodforest Bank Stadium -‐ October 6",
     "date": "2012-10-06",
@@ -62,7 +62,7 @@
   {
     "id": "2012-pontiac-regional-championship-at-pontiac-mi",
     "season": 2012,
-    "name": "Pontiac Regional Championship at Pontiac, MI",
+    "name": "2012 Bands of America Pontiac Regional Championship",
     "type": "Regional",
     "venue": "Pontiac Silverdome -‐ October 6",
     "date": "2012-10-06",
@@ -72,7 +72,7 @@
   {
     "id": "2012-akron-regional-championship-at-akron-oh",
     "season": 2012,
-    "name": "Akron Regional Championship at Akron, OH",
+    "name": "2012 Bands of America Akron Regional Championship",
     "type": "Regional",
     "venue": "InfoCision Stadium -‐ October 13",
     "date": "2012-10-13",
@@ -82,7 +82,7 @@
   {
     "id": "2012-jacksonville-regional-championship-at-jacksonville-al",
     "season": 2012,
-    "name": "Jacksonville Regional Championship at Jacksonville, AL",
+    "name": "2012 Bands of America Jacksonville Regional Championship",
     "type": "Regional",
     "venue": "Paul Snow Stadium -‐ October 13",
     "date": "2012-10-13",
@@ -92,7 +92,7 @@
   {
     "id": "2012-indianapolis-super-regional-championship-at-indianapolis-in",
     "season": 2012,
-    "name": "Indianapolis Super Regional Championship at Indianapolis, IN",
+    "name": "2012 Bands of America Indianapolis Super Regional Championship",
     "type": "Super Regional",
     "venue": "Lucas Oil Stadium -‐ October 19-‐20",
     "date": "2012-10-20",
@@ -102,7 +102,7 @@
   {
     "id": "2012-st-louis-super-regional-championship-at-st-louis-mo",
     "season": 2012,
-    "name": "St. Louis Super Regional Championship at St. Louis, MO",
+    "name": "2012 Bands of America St. Louis Super Regional Championship",
     "type": "Super Regional",
     "venue": "Edward Jones Dome -‐ October 19-‐20",
     "date": "2012-10-20",
@@ -112,7 +112,7 @@
   {
     "id": "2012-atlanta-super-regional-championship-at-atlanta-ga",
     "season": 2012,
-    "name": "Atlanta Super Regional Championship at Atlanta, GA",
+    "name": "2012 Bands of America Atlanta Super Regional Championship",
     "type": "Super Regional",
     "venue": "Georgia Dome -‐ October 27",
     "date": "2012-10-27",
@@ -122,7 +122,7 @@
   {
     "id": "2012-glendora-regional-championship-at-glendora-ca",
     "season": 2012,
-    "name": "Glendora Regional Championship at Glendora, CA",
+    "name": "2012 Bands of America Glendora Regional Championship",
     "type": "Regional",
     "venue": "Citrus College -‐ October 27",
     "date": "2012-10-27",
@@ -132,7 +132,7 @@
   {
     "id": "2012-towson-regional-championship-at-towson-md",
     "season": 2012,
-    "name": "Towson Regional Championship at Towson, MD",
+    "name": "2012 Bands of America Towson Regional Championship",
     "type": "Regional",
     "venue": "Johnny Unitas Stadium -‐ October 27",
     "date": "2012-10-27",
@@ -142,7 +142,7 @@
   {
     "id": "2012-st-george-regional-championship-at-st-george-ut",
     "season": 2012,
-    "name": "St. George Regional Championship at St. George, UT",
+    "name": "2012 Bands of America St. George Regional Championship",
     "type": "Regional",
     "venue": null,
     "date": "2012-11-03",
@@ -152,7 +152,7 @@
   {
     "id": "2012-indianapolis-grand-national-championship-at-indianapolis-in",
     "season": 2012,
-    "name": "Indianapolis Grand National Championship at Indianapolis, IN",
+    "name": "2012 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "Lucas Oil Stadium -‐ November 8",
     "date": "2012-11-08",
@@ -162,7 +162,7 @@
   {
     "id": "2012-san-antonio-super-regional-championship-at-san-antonio-tx",
     "season": 2012,
-    "name": "San Antonio Super Regional Championship at San Antonio, TX",
+    "name": "2012 Bands of America San Antonio Super Regional Championship",
     "type": "Super Regional",
     "venue": "Alamodome -‐ November 2-‐3",
     "date": "2012-12-02",

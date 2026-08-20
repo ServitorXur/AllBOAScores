@@ -2,7 +2,7 @@
   {
     "id": "2014-louisville-regional-championship-at-louisville-ky",
     "season": 2014,
-    "name": "Louisville Regional Championship at Louisville, KY",
+    "name": "2014 Bands of America Louisville Regional Championship",
     "type": "Regional",
     "venue": "Papa John's Cardinal Stadium -‐ 9/20",
     "date": "2014-09-20",
@@ -12,7 +12,7 @@
   {
     "id": "2014-monroeville-regional-championship-at-monroeville-pa",
     "season": 2014,
-    "name": "Monroeville Regional Championship at Monroeville, PA",
+    "name": "2014 Bands of America Monroeville Regional Championship",
     "type": "Regional",
     "venue": null,
     "date": "2014-09-20",
@@ -22,7 +22,7 @@
   {
     "id": "2014-austin-regional-championship-at-austin-tx",
     "season": 2014,
-    "name": "Austin Regional Championship at Austin, TX",
+    "name": "2014 Bands of America Austin Regional Championship",
     "type": "Regional",
     "venue": "Kelly Reeves Athletic Complex -‐ 9/27",
     "date": "2014-09-27",
@@ -32,7 +32,7 @@
   {
     "id": "2014-dayton-regional-championship-at-dayton-oh",
     "season": 2014,
-    "name": "Dayton Regional Championship at Dayton, OH",
+    "name": "2014 Bands of America Dayton Regional Championship",
     "type": "Regional",
     "venue": "Welcome Stadium -‐ 9/27",
     "date": "2014-09-27",
@@ -42,7 +42,7 @@
   {
     "id": "2014-powder-springs-regional-championship-at-powder-springs-ga",
     "season": 2014,
-    "name": "Powder Springs Regional Championship at Powder Springs, GA",
+    "name": "2014 Bands of America Powder Springs Regional Championship",
     "type": "Regional",
     "venue": "Walter H. Cantrell Stadium -‐ 9/27",
     "date": "2014-09-27",
@@ -52,7 +52,7 @@
   {
     "id": "2014-denton-regional-championship-at-denton-tx",
     "season": 2014,
-    "name": "Denton Regional Championship at Denton, TX",
+    "name": "2014 Bands of America Denton Regional Championship",
     "type": "Regional",
     "venue": "Apogee Stadium -‐ 10/4",
     "date": "2014-10-04",
@@ -62,7 +62,7 @@
   {
     "id": "2014-toledo-regional-championship-at-toledo-oh",
     "season": 2014,
-    "name": "Toledo Regional Championship at Toledo, OH",
+    "name": "2014 Bands of America Toledo Regional Championship",
     "type": "Regional",
     "venue": "Glass Bowl Stadium -‐ 10/4",
     "date": "2014-10-04",
@@ -72,7 +72,7 @@
   {
     "id": "2014-conroe-regional-championship-at-conroe-tx",
     "season": 2014,
-    "name": "Conroe Regional Championship at Conroe, TX",
+    "name": "2014 Bands of America Conroe Regional Championship",
     "type": "Regional",
     "venue": "Woodforest Bank Stadium -‐ 10/11",
     "date": "2014-10-11",
@@ -82,7 +82,7 @@
   {
     "id": "2014-jacksonville-regional-championship-at-jacksonville-al",
     "season": 2014,
-    "name": "Jacksonville Regional Championship at Jacksonville, AL",
+    "name": "2014 Bands of America Jacksonville Regional Championship",
     "type": "Regional",
     "venue": "Burgess Snow Field -‐ 10/11",
     "date": "2014-10-11",
@@ -92,7 +92,7 @@
   {
     "id": "2014-winston-salem-regional-championship-at-winston-salem-nc",
     "season": 2014,
-    "name": "Winston-‐Salem Regional Championship at Winston-‐Salem, NC",
+    "name": "2014 Bands of America Winston-‐Salem Regional Championship",
     "type": "Regional",
     "venue": "Wake Forest University -‐ 10/11",
     "date": "2014-10-11",
@@ -102,7 +102,7 @@
   {
     "id": "2014-st-louis-super-regional-championship-at-st-louis-mo",
     "season": 2014,
-    "name": "St. Louis Super Regional Championship at St. Louis, MO",
+    "name": "2014 Bands of America St. Louis Super Regional Championship",
     "type": "Super Regional",
     "venue": "Edward Jones Dome -‐ 10/17-‐18",
     "date": "2014-10-18",
@@ -112,7 +112,7 @@
   {
     "id": "2014-tacoma-regional-championship-at-tacoma-wa",
     "season": 2014,
-    "name": "Tacoma Regional Championship at Tacoma, WA",
+    "name": "2014 Bands of America Tacoma Regional Championship",
     "type": "Regional",
     "venue": "Tacoma Dome -‐ 10/18",
     "date": "2014-10-18",
@@ -122,7 +122,7 @@
   {
     "id": "2014-indianapolis-super-regional-championship-at-indianapolis-in",
     "season": 2014,
-    "name": "Indianapolis Super Regional Championship at Indianapolis, IN",
+    "name": "2014 Bands of America Indianapolis Super Regional Championship",
     "type": "Super Regional",
     "venue": "Lucas Oil Stadium -‐ 10/25",
     "date": "2014-10-25",
@@ -132,7 +132,7 @@
   {
     "id": "2014-newark-regional-championship-at-newark-de",
     "season": 2014,
-    "name": "Newark Regional Championship at Newark, DE",
+    "name": "2014 Bands of America Newark Regional Championship",
     "type": "Regional",
     "venue": "Delaware Stadium -‐ 10/25",
     "date": "2014-10-25",
@@ -142,7 +142,7 @@
   {
     "id": "2014-atlanta-super-regional-championship-at-atlanta-ga",
     "season": 2014,
-    "name": "Atlanta Super Regional Championship at Atlanta, GA",
+    "name": "2014 Bands of America Atlanta Super Regional Championship",
     "type": "Super Regional",
     "venue": "Georgia Dome -‐ 10-‐31-‐11/1",
     "date": "2014-11-01",
@@ -152,7 +152,7 @@
   {
     "id": "2014-san-antonio-super-regional-championship-at-san-antonio-tx",
     "season": 2014,
-    "name": "San Antonio Super Regional Championship at San Antonio, TX",
+    "name": "2014 Bands of America San Antonio Super Regional Championship",
     "type": "Super Regional",
     "venue": "The Alamodome -‐ 10/31-‐11/1",
     "date": "2014-11-01",
@@ -162,7 +162,7 @@
   {
     "id": "2014-st-george-regional-championship-at-st-george-ut",
     "season": 2014,
-    "name": "St. George Regional Championship at St. George, UT",
+    "name": "2014 Bands of America St. George Regional Championship",
     "type": "Regional",
     "venue": null,
     "date": "2014-11-01",
@@ -172,7 +172,7 @@
   {
     "id": "2014-long-beach-regional-championship-at-long-beach-ca",
     "season": 2014,
-    "name": "Long Beach Regional Championship at Long Beach, CA",
+    "name": "2014 Bands of America Long Beach Regional Championship",
     "type": "Regional",
     "venue": "Veterans Memorial Stadium -‐ 11/8",
     "date": "2014-11-08",
@@ -182,7 +182,7 @@
   {
     "id": "2014-grand-national-championships",
     "season": 2014,
-    "name": "Grand National Championships",
+    "name": "2014 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "Lucas Oil Stadium -‐ Indianapolis, IN",
     "date": "2014-11-13",

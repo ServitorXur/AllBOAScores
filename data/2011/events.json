@@ -2,7 +2,7 @@
   {
     "id": "2011-regional-championship-at-north-huntingdon-pa",
     "season": 2011,
-    "name": "Regional Championship at North Huntingdon, PA",
+    "name": "2011 Bands of America North Huntingdon Regional Championship",
     "type": "Regional",
     "venue": "Norwin High School",
     "date": "2011-09-24",
@@ -12,7 +12,7 @@
   {
     "id": "2011-regional-championship-at-richmond-ky",
     "season": 2011,
-    "name": "Regional Championship at Richmond, KY",
+    "name": "2011 Bands of America Richmond Regional Championship",
     "type": "Regional",
     "venue": "Eastern Kentucky University",
     "date": "2011-09-24",
@@ -22,7 +22,7 @@
   {
     "id": "2011-regional-championship-at-arlington-tx",
     "season": 2011,
-    "name": "Regional Championship at Arlington, TX",
+    "name": "2011 Bands of America Arlington Regional Championship",
     "type": "Regional",
     "venue": "Maverick Stadium",
     "date": "2011-10-01",
@@ -32,7 +32,7 @@
   {
     "id": "2011-regional-championship-at-mason-oh",
     "season": 2011,
-    "name": "Regional Championship at Mason, OH",
+    "name": "2011 Bands of America Mason Regional Championship",
     "type": "Regional",
     "venue": "William Mason H.S. Stadium",
     "date": "2011-10-01",
@@ -42,7 +42,7 @@
   {
     "id": "2011-regional-championship-at-conroe-tx",
     "season": 2011,
-    "name": "Regional Championship at Conroe, TX",
+    "name": "2011 Bands of America Conroe Regional Championship",
     "type": "Regional",
     "venue": null,
     "date": "2011-10-08",
@@ -52,7 +52,7 @@
   {
     "id": "2011-regional-championship-at-jacksonville-al",
     "season": 2011,
-    "name": "Regional Championship at Jacksonville, AL",
+    "name": "2011 Bands of America Jacksonville Regional Championship",
     "type": "Regional",
     "venue": "JSU Stadium - Oct 8",
     "date": "2011-10-08",
@@ -62,7 +62,7 @@
   {
     "id": "2011-regional-championship-at-pontiac-mi",
     "season": 2011,
-    "name": "Regional Championship at Pontiac, MI",
+    "name": "2011 Bands of America Pontiac Regional Championship",
     "type": "Regional",
     "venue": "Silverdome - Oct 8",
     "date": "2011-10-08",
@@ -72,7 +72,7 @@
   {
     "id": "2011-regional-championship-at-akron-oh",
     "season": 2011,
-    "name": "Regional Championship at Akron, OH",
+    "name": "2011 Bands of America Akron Regional Championship",
     "type": "Regional",
     "venue": "InfoCision Stadium - Oct. 15",
     "date": "2011-10-15",
@@ -82,7 +82,7 @@
   {
     "id": "2011-super-regional-championship-at-st-louis-mo",
     "season": 2011,
-    "name": "Super Regional Championship at St. Louis, MO",
+    "name": "2011 Bands of America St. Louis Super Regional Championship",
     "type": "Super Regional",
     "venue": "Edward Jones Dome - Oct. 14-15",
     "date": "2011-10-15",
@@ -92,7 +92,7 @@
   {
     "id": "2011-regional-championship-at-towson-maryland",
     "season": 2011,
-    "name": "Regional Championship at Towson, Maryland",
+    "name": "2011 Bands of America Towson Regional Championship",
     "type": "Regional",
     "venue": "Johnny Unitas Stadium",
     "date": "2011-10-22",
@@ -102,7 +102,7 @@
   {
     "id": "2011-regional-championship-at-st-george-ut",
     "season": 2011,
-    "name": "Regional Championship at St. George, UT",
+    "name": "2011 Bands of America St. George Regional Championship",
     "type": "Regional",
     "venue": "Hansen Stadium, Dixie State College - Oct 29",
     "date": "2011-10-29",
@@ -112,7 +112,7 @@
   {
     "id": "2011-super-regional-championship-at-atlanta-ga",
     "season": 2011,
-    "name": "Super Regional Championship at Atlanta, GA",
+    "name": "2011 Bands of America Atlanta Super Regional Championship",
     "type": "Super Regional",
     "venue": "Georgia Dome",
     "date": "2011-10-29",
@@ -122,7 +122,7 @@
   {
     "id": "2011-super-regional-championship-at-indianapolis-in",
     "season": 2011,
-    "name": "Super Regional Championship at Indianapolis, IN",
+    "name": "2011 Bands of America Indianapolis Super Regional Championship",
     "type": "Super Regional",
     "venue": "Lucas Oil Stadium - Nov. 5",
     "date": "2011-11-05",
@@ -132,7 +132,7 @@
   {
     "id": "2011-super-regional-championship-at-san-antonio-texas",
     "season": 2011,
-    "name": "Super Regional Championship at San Antonio, Texas",
+    "name": "2011 Bands of America San Antonio Super Regional Championship",
     "type": "Super Regional",
     "venue": "Alamodome",
     "date": "2011-11-05",
@@ -142,7 +142,7 @@
   {
     "id": "2011-grand-national-championships-at-indianapolis-indiana",
     "season": 2011,
-    "name": "Grand National Championships at Indianapolis, Indiana",
+    "name": "2011 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "Lucas Oil",
     "date": "2011-11-10",

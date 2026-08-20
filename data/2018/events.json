@@ -2,7 +2,7 @@
   {
     "id": "2018-mcallen-regional-championship-at-mcallen-tx",
     "season": 2018,
-    "name": "McAllen Regional Championship at McAllen, TX",
+    "name": "2018 Bands of America McAllen Regional Championship",
     "type": "Regional",
     "venue": "DQ Fan Field at McAllen Memorial Stadium",
     "date": "2018-09-22",
@@ -12,7 +12,7 @@
   {
     "id": "2018-midland-regional-championship-at-midland-tx",
     "season": 2018,
-    "name": "Midland Regional Championship at Midland, TX",
+    "name": "2018 Bands of America Midland Regional Championship",
     "type": "Regional",
     "venue": "Grande Communications Stadium",
     "date": "2018-09-22",
@@ -22,7 +22,7 @@
   {
     "id": "2018-oxford-regional-championship-at-oxford-oh",
     "season": 2018,
-    "name": "Oxford Regional Championship at Oxford, OH",
+    "name": "2018 Bands of America Oxford Regional Championship",
     "type": "Regional",
     "venue": "Miami University -‐ September 22",
     "date": "2018-09-22",
@@ -32,7 +32,7 @@
   {
     "id": "2018-austin-regional-championship-at-austin-tx",
     "season": 2018,
-    "name": "Austin Regional Championship at Austin, TX",
+    "name": "2018 Bands of America Austin Regional Championship",
     "type": "Regional",
     "venue": "Kelly Reeves Athletic Complex",
     "date": "2018-09-29",
@@ -42,7 +42,7 @@
   {
     "id": "2018-bowling-green-regional-championship-at-bowling-green-oh",
     "season": 2018,
-    "name": "Bowling Green Regional Championship at Bowling Green, OH",
+    "name": "2018 Bands of America Bowling Green Regional Championship",
     "type": "Regional",
     "venue": "Bowling Green State University",
     "date": "2018-09-29",
@@ -52,7 +52,7 @@
   {
     "id": "2018-clarksville-regional-championship-at-clarksville-tn",
     "season": 2018,
-    "name": "Clarksville Regional Championship at Clarksville, TN",
+    "name": "2018 Bands of America Clarksville Regional Championship",
     "type": "Regional",
     "venue": "Austin Peay State University",
     "date": "2018-09-29",
@@ -62,7 +62,7 @@
   {
     "id": "2018-bedford-regional-championship-at-bedford-tx",
     "season": 2018,
-    "name": "Bedford Regional Championship at Bedford, TX",
+    "name": "2018 Bands of America Bedford Regional Championship",
     "type": "Regional",
     "venue": "Pennington Field",
     "date": "2018-10-06",
@@ -72,7 +72,7 @@
   {
     "id": "2018-houston-regional-championship-at-houston-tx",
     "season": 2018,
-    "name": "Houston Regional Championship at Houston, TX",
+    "name": "2018 Bands of America Houston Regional Championship",
     "type": "Regional",
     "venue": "Woodforest Bank Stadium",
     "date": "2018-10-06",
@@ -82,7 +82,7 @@
   {
     "id": "2018-jacksonville-regional-championship-at-jacksonville-al",
     "season": 2018,
-    "name": "Jacksonville Regional Championship at Jacksonville, AL",
+    "name": "2018 Bands of America Jacksonville Regional Championship",
     "type": "Regional",
     "venue": "Jacksonville State University -‐ October 6",
     "date": "2018-10-06",
@@ -92,7 +92,7 @@
   {
     "id": "2018-canton-regional-championship-at-canton-oh",
     "season": 2018,
-    "name": "Canton Regional Championship at Canton, OH",
+    "name": "2018 Bands of America Canton Regional Championship",
     "type": "Regional",
     "venue": "Tom Benson Hall of Fame Stadium",
     "date": "2018-10-13",
@@ -102,7 +102,7 @@
   {
     "id": "2018-gaffney-regional-championship-at-gaffney-sc",
     "season": 2018,
-    "name": "Gaffney Regional Championship at Gaffney, SC",
+    "name": "2018 Bands of America Gaffney Regional Championship",
     "type": "Regional",
     "venue": "Gaffney High School",
     "date": "2018-10-13",
@@ -112,7 +112,7 @@
   {
     "id": "2018-orlando-regional-championship-at-orlando-fl",
     "season": 2018,
-    "name": "Orlando Regional Championship at Orlando, FL",
+    "name": "2018 Bands of America Orlando Regional Championship",
     "type": "Regional",
     "venue": "Camping World Stadium -‐ October 13",
     "date": "2018-10-13",
@@ -122,7 +122,7 @@
   {
     "id": "2018-indianapolis-super-regional-championship-at-indianapolis-in",
     "season": 2018,
-    "name": "Indianapolis Super Regional Championship at Indianapolis, IN",
+    "name": "2018 Bands of America Indianapolis Super Regional Championship",
     "type": "Super Regional",
     "venue": "Lucas Oil Stadium",
     "date": "2018-10-19",
@@ -132,7 +132,7 @@
   {
     "id": "2018-newark-regional-championship-at-newark-de",
     "season": 2018,
-    "name": "Newark Regional Championship at Newark, DE",
+    "name": "2018 Bands of America Newark Regional Championship",
     "type": "Regional",
     "venue": "Delaware Stadium",
     "date": "2018-10-20",
@@ -142,7 +142,7 @@
   {
     "id": "2018-pleasant-hill-regional-championship-at-pleasant-hill-ca",
     "season": 2018,
-    "name": "Pleasant Hill Regional Championship at Pleasant Hill, CA",
+    "name": "2018 Bands of America Pleasant Hill Regional Championship",
     "type": "Regional",
     "venue": "Diablo Valley College",
     "date": "2018-10-20",
@@ -152,7 +152,7 @@
   {
     "id": "2018-st-louis-super-regional-championship-at-st-louis-mo",
     "season": 2018,
-    "name": "St. Louis Super Regional Championship at St. Louis, MO",
+    "name": "2018 Bands of America St. Louis Super Regional Championship",
     "type": "Super Regional",
     "venue": "Dome at America's Center",
     "date": "2018-10-26",
@@ -162,7 +162,7 @@
   {
     "id": "2018-powder-springs-regional-championship-at-powder-springs-ga",
     "season": 2018,
-    "name": "Powder Springs Regional Championship at Powder Springs, GA",
+    "name": "2018 Bands of America Powder Springs Regional Championship",
     "type": "Regional",
     "venue": "McEachern H.S.",
     "date": "2018-10-27",
@@ -172,7 +172,7 @@
   {
     "id": "2018-st-george-regional-championship-at-st-george-ut",
     "season": 2018,
-    "name": "St. George Regional Championship at St. George, UT",
+    "name": "2018 Bands of America St. George Regional Championship",
     "type": "Regional",
     "venue": "Dixie State University",
     "date": "2018-10-27",
@@ -182,7 +182,7 @@
   {
     "id": "2018-san-antonio-super-regional-championship-at-san-antonio-tx",
     "season": 2018,
-    "name": "San Antonio Super Regional Championship at San Antonio, TX",
+    "name": "2018 Bands of America San Antonio Super Regional Championship",
     "type": "Super Regional",
     "venue": "Alamodome",
     "date": "2018-11-02",
@@ -192,7 +192,7 @@
   {
     "id": "2018-valley-glen-regional-championship-at-valley-glen-ca",
     "season": 2018,
-    "name": "Valley Glen Regional Championship at Valley Glen, CA",
+    "name": "2018 Bands of America Valley Glen Regional Championship",
     "type": "Regional",
     "venue": "Monarch Stadium",
     "date": "2018-11-03",
@@ -202,7 +202,7 @@
   {
     "id": "2018-grand-national-championships-at-indianapolis-in",
     "season": 2018,
-    "name": "Grand National Championships at Indianapolis, IN",
+    "name": "2018 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "Lucas Oil Stadium",
     "date": "2018-11-08",

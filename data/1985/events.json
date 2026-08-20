@@ -2,7 +2,7 @@
   {
     "id": "1985-regional-championship-at-jonesboro-ar",
     "season": 1985,
-    "name": "Regional Championship at Jonesboro, AR",
+    "name": "1985 Bands of America Jonesboro Regional Championship",
     "type": "Regional",
     "venue": "Arkansas State University",
     "date": "1985-10-05",
@@ -12,7 +12,7 @@
   {
     "id": "1985-regional-championship-at-whitewater-wi",
     "season": 1985,
-    "name": "Regional Championship at Whitewater, WI",
+    "name": "1985 Bands of America Whitewater Regional Championship",
     "type": "Regional",
     "venue": "University of Wisconsin-Whitewater",
     "date": "1985-10-05",
@@ -22,7 +22,7 @@
   {
     "id": "1985-regional-championship-at-morgantown-wv",
     "season": 1985,
-    "name": "Regional Championship at Morgantown, WV",
+    "name": "1985 Bands of America Morgantown Regional Championship",
     "type": "Regional",
     "venue": "West Virginia University",
     "date": "1985-10-12",
@@ -32,7 +32,7 @@
   {
     "id": "1985-regional-championship-at-moscow-id",
     "season": 1985,
-    "name": "Regional Championship at Moscow, ID",
+    "name": "1985 Bands of America Moscow Regional Championship",
     "type": "Regional",
     "venue": "University of Idaho",
     "date": "1985-10-12",
@@ -42,7 +42,7 @@
   {
     "id": "1985-regional-championship-at-houston-tx",
     "season": 1985,
-    "name": "Regional Championship at Houston, TX",
+    "name": "1985 Bands of America Houston Regional Championship",
     "type": "Regional",
     "venue": "Rice University Stadium",
     "date": "1985-10-19",
@@ -52,7 +52,7 @@
   {
     "id": "1985-regional-championship-at-akron-oh",
     "season": 1985,
-    "name": "Regional Championship at Akron, OH",
+    "name": "1985 Bands of America Akron Regional Championship",
     "type": "Regional",
     "venue": "Rubber Bowl",
     "date": "1985-10-26",
@@ -62,7 +62,7 @@
   {
     "id": "1985-regional-championship-at-indianapolis-in",
     "season": 1985,
-    "name": "Regional Championship at Indianapolis, IN",
+    "name": "1985 Bands of America Indianapolis Regional Championship",
     "type": "Regional",
     "venue": "Lawrence Central High School",
     "date": "1985-11-02",
@@ -72,7 +72,7 @@
   {
     "id": "1985-grand-national-championship-at-indianapolis-in",
     "season": 1985,
-    "name": "Grand National Championship at Indianapolis, IN",
+    "name": "1985 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "Indianapolis Hoosier Dome",
     "date": "1985-11-15",
