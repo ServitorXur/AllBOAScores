@@ -54,6 +54,12 @@
     "state": "MI"
   },
   {
+    "id": "lexington-h-s-oh",
+    "name": "Lexington H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
     "id": "westerville-south-h-s-oh",
     "name": "Westerville South H.S.",
     "city": null,
@@ -160,6 +166,12 @@
     "name": "Greenbrier East H.S.",
     "city": null,
     "state": "WV"
+  },
+  {
+    "id": "trinity-h-s-oh",
+    "name": "Trinity H.S.",
+    "city": null,
+    "state": "OH"
   },
   {
     "id": "boiling-springs-h-s-sc",
@@ -432,12 +444,6 @@
     "state": null
   },
   {
-    "id": "centerville-h-s",
-    "name": "Centerville H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "normal-community-h-s-il",
     "name": "Normal Community H.S.",
     "city": null,
@@ -464,12 +470,6 @@
   {
     "id": "carroll-h-s",
     "name": "Carroll H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "northmont-h-s",
-    "name": "Northmont H.S.",
     "city": null,
     "state": null
   },
@@ -508,6 +508,12 @@
     "name": "East Coweta H.S.",
     "city": null,
     "state": "GA"
+  },
+  {
+    "id": "highland-h-s-in",
+    "name": "Highland H.S.",
+    "city": null,
+    "state": "IN"
   },
   {
     "id": "parkway-west-h-s-mo",
@@ -580,12 +586,6 @@
     "name": "North Buncombe H.S.",
     "city": null,
     "state": "NC"
-  },
-  {
-    "id": "lexington-h-s",
-    "name": "Lexington H.S.",
-    "city": null,
-    "state": null
   },
   {
     "id": "maumee-h-s-oh",
@@ -708,18 +708,6 @@
     "state": "TX"
   },
   {
-    "id": "center-grove-h-s",
-    "name": "Center Grove H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "jackson-academy",
-    "name": "Jackson Academy",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "mater-dei-h-s-in",
     "name": "Mater Dei H.S.",
     "city": null,
@@ -766,18 +754,6 @@
     "name": "Newberry H.S.",
     "city": null,
     "state": "SC"
-  },
-  {
-    "id": "beechwood-h-s",
-    "name": "Beechwood H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "carmel-h-s",
-    "name": "Carmel H.S.",
-    "city": null,
-    "state": null
   },
   {
     "id": "elizabethton-h-s-tn",
@@ -880,12 +856,6 @@
     "name": "Chaminade-Julienne Catholic H.S.",
     "city": null,
     "state": "OH"
-  },
-  {
-    "id": "highland-h-s",
-    "name": "Highland H.S.",
-    "city": null,
-    "state": null
   },
   {
     "id": "western-brown-h-s-oh",
@@ -1152,18 +1122,6 @@
     "state": "IL"
   },
   {
-    "id": "trinity-h-s",
-    "name": "Trinity H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "cypress-creek-h-s",
-    "name": "Cypress Creek H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "tavares-h-s",
     "name": "Tavares H.S.",
     "city": null,
@@ -1202,6 +1160,12 @@
   {
     "id": "silverado-h-s-nv",
     "name": "Silverado H.S.",
+    "city": null,
+    "state": "NV"
+  },
+  {
+    "id": "eldorado-h-s-nv",
+    "name": "Eldorado H.S.",
     "city": null,
     "state": "NV"
   },
@@ -1710,26 +1674,8 @@
     "state": "AZ"
   },
   {
-    "id": "san-marcos-h-s",
-    "name": "San Marcos H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "gilbert-h-s",
-    "name": "Gilbert H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "lancaster-h-s",
     "name": "Lancaster H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "foothill-h-s",
-    "name": "Foothill H.S.",
     "city": null,
     "state": null
   },
@@ -1742,12 +1688,6 @@
   {
     "id": "red-mountain-h-s",
     "name": "Red Mountain H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "eldorado-h-s",
-    "name": "Eldorado H.S.",
     "city": null,
     "state": null
   },
@@ -1776,12 +1716,6 @@
     "state": null
   },
   {
-    "id": "santa-fe-h-s",
-    "name": "Santa Fe H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "central-h-s",
     "name": "Central H.S.",
     "city": null,
@@ -1794,12 +1728,6 @@
     "state": null
   },
   {
-    "id": "harrison-h-s",
-    "name": "Harrison H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "barbara-goleman-sr-h-s",
     "name": "Barbara Goleman Sr. H.S.",
     "city": null,
@@ -1808,12 +1736,6 @@
   {
     "id": "piper-h-s",
     "name": "Piper H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "ronald-reagan-h-s",
-    "name": "Ronald Reagan H.S.",
     "city": null,
     "state": null
   },
@@ -2010,6 +1932,12 @@
     "state": "TX"
   },
   {
+    "id": "marian-catholic-h-s-in",
+    "name": "Marian Catholic H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
     "id": "brenham-h-s-tx",
     "name": "Brenham H.S.",
     "city": null,
@@ -2032,6 +1960,24 @@
     "name": "Charles W. Flanagan H.S.",
     "city": null,
     "state": "FL"
+  },
+  {
+    "id": "carmel-h-s-il",
+    "name": "Carmel H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "santa-fe-h-s-fl",
+    "name": "Santa Fe H.S.",
+    "city": null,
+    "state": "FL"
+  },
+  {
+    "id": "foothill-h-s-ca",
+    "name": "Foothill H.S.",
+    "city": null,
+    "state": "CA"
   },
   {
     "id": "grand-rapids-h-s-mn",

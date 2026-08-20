@@ -192,6 +192,12 @@
     "state": "VA"
   },
   {
+    "id": "lafayette-h-s-la",
+    "name": "Lafayette H.S.",
+    "city": null,
+    "state": "LA"
+  },
+  {
     "id": "westfield-h-s-tx",
     "name": "Westfield H.S.",
     "city": null,
@@ -456,18 +462,6 @@
     "state": "TX"
   },
   {
-    "id": "marian-catholic-h-s",
-    "name": "Marian Catholic H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "centerville-h-s",
-    "name": "Centerville H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "normal-community-h-s-il",
     "name": "Normal Community H.S.",
     "city": null,
@@ -622,12 +616,6 @@
     "name": "North Buncombe H.S.",
     "city": null,
     "state": "NC"
-  },
-  {
-    "id": "lexington-h-s",
-    "name": "Lexington H.S.",
-    "city": null,
-    "state": null
   },
   {
     "id": "mona-shores-h-s-mi",
@@ -848,12 +836,6 @@
   {
     "id": "carmel-h-s",
     "name": "Carmel H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "elizabethtown-h-s",
-    "name": "Elizabethtown H.S.",
     "city": null,
     "state": null
   },
@@ -1212,12 +1194,6 @@
     "state": "MI"
   },
   {
-    "id": "cypress-creek-h-s",
-    "name": "Cypress Creek H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "south-miami-h-s",
     "name": "South Miami H.S.",
     "city": null,
@@ -1226,12 +1202,6 @@
   {
     "id": "normal-west-h-s",
     "name": "Normal West H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "collinsville-h-s",
-    "name": "Collinsville H.S.",
     "city": null,
     "state": null
   },
@@ -1938,10 +1908,34 @@
     "state": "SC"
   },
   {
+    "id": "northwestern-h-s-sc",
+    "name": "Northwestern H.S.",
+    "city": null,
+    "state": "SC"
+  },
+  {
+    "id": "collinsville-h-s-ok",
+    "name": "Collinsville H.S.",
+    "city": null,
+    "state": "OK"
+  },
+  {
     "id": "naperville-north-h-s-il",
     "name": "Naperville North H.S.",
     "city": null,
     "state": "IL"
+  },
+  {
+    "id": "northmont-h-s-il",
+    "name": "Northmont H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
+    "id": "center-grove-h-s-oh",
+    "name": "Center Grove H.S.",
+    "city": null,
+    "state": "OH"
   },
   {
     "id": "mt-healthy-h-s-oh",
@@ -1976,6 +1970,12 @@
   {
     "id": "clinton-prairie-h-s-in",
     "name": "Clinton Prairie H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
+    "id": "marian-catholic-h-s-in",
+    "name": "Marian Catholic H.S.",
     "city": null,
     "state": "IN"
   },

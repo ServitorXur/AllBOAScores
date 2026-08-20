@@ -378,12 +378,6 @@
     "state": null
   },
   {
-    "id": "centerville-h-s",
-    "name": "Centerville H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "shelby-county-h-s-ky",
     "name": "Shelby County H.S.",
     "city": null,
@@ -802,12 +796,6 @@
     "name": "Bryan Station",
     "city": null,
     "state": "KY"
-  },
-  {
-    "id": "lexington-h-s",
-    "name": "Lexington H.S.",
-    "city": null,
-    "state": null
   },
   {
     "id": "algonac-h-s",

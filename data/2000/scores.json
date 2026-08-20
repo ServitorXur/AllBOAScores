@@ -6775,7 +6775,7 @@
     }
   },
   {
-    "bandId": "normal-west-h-s",
+    "bandId": "normal-west-h-s-il",
     "eventId": "2000-regional-championship-at-st-louis-mo",
     "season": 2000,
     "round": "Prelims",
@@ -6950,7 +6950,7 @@
     }
   },
   {
-    "bandId": "brentwood-h-s",
+    "bandId": "brentwood-h-s-tn",
     "eventId": "2000-regional-championship-at-st-louis-mo",
     "season": 2000,
     "round": "Prelims",
@@ -6975,7 +6975,7 @@
     }
   },
   {
-    "bandId": "trinity-h-s",
+    "bandId": "trinity-h-s-oh",
     "eventId": "2000-regional-championship-at-st-louis-mo",
     "season": 2000,
     "round": "Prelims",
@@ -7775,7 +7775,7 @@
     }
   },
   {
-    "bandId": "san-marcos-h-s",
+    "bandId": "san-marcos-h-s-ca",
     "eventId": "2000-regional-championship-at-las-vegas-nv",
     "season": 2000,
     "round": "Prelims",
@@ -7925,7 +7925,7 @@
     }
   },
   {
-    "bandId": "gilbert-h-s",
+    "bandId": "gilbert-h-s-az",
     "eventId": "2000-regional-championship-at-las-vegas-nv",
     "season": 2000,
     "round": "Prelims",
@@ -8050,7 +8050,7 @@
     }
   },
   {
-    "bandId": "foothill-h-s",
+    "bandId": "foothill-h-s-ca",
     "eventId": "2000-regional-championship-at-las-vegas-nv",
     "season": 2000,
     "round": "Prelims",
@@ -8100,7 +8100,7 @@
     }
   },
   {
-    "bandId": "highland-h-s",
+    "bandId": "highland-h-s-in",
     "eventId": "2000-regional-championship-at-las-vegas-nv",
     "season": 2000,
     "round": "Prelims",
@@ -8150,7 +8150,7 @@
     }
   },
   {
-    "bandId": "eldorado-h-s",
+    "bandId": "eldorado-h-s-nv",
     "eventId": "2000-regional-championship-at-las-vegas-nv",
     "season": 2000,
     "round": "Prelims",
@@ -8525,7 +8525,7 @@
     }
   },
   {
-    "bandId": "santa-fe-h-s",
+    "bandId": "santa-fe-h-s-fl",
     "eventId": "2000-regional-championship-at-orlando-fl",
     "season": 2000,
     "round": "Prelims",
@@ -8550,7 +8550,7 @@
     }
   },
   {
-    "bandId": "cypress-creek-h-s",
+    "bandId": "cypress-creek-h-s-fl",
     "eventId": "2000-regional-championship-at-orlando-fl",
     "season": 2000,
     "round": "Prelims",
@@ -8750,7 +8750,7 @@
     }
   },
   {
-    "bandId": "harrison-h-s",
+    "bandId": "harrison-h-s-ga",
     "eventId": "2000-regional-championship-at-orlando-fl",
     "season": 2000,
     "round": "Prelims",
@@ -9150,7 +9150,7 @@
     }
   },
   {
-    "bandId": "ronald-reagan-h-s",
+    "bandId": "ronald-reagan-h-s-tx",
     "eventId": "2000-regional-championship-at-houston-tx",
     "season": 2000,
     "round": "Finals",
@@ -9425,7 +9425,7 @@
     }
   },
   {
-    "bandId": "ronald-reagan-h-s",
+    "bandId": "ronald-reagan-h-s-tx",
     "eventId": "2000-regional-championship-at-houston-tx",
     "season": 2000,
     "round": "Prelims",
@@ -10300,7 +10300,7 @@
     }
   },
   {
-    "bandId": "marian-catholic-h-s",
+    "bandId": "marian-catholic-h-s-in",
     "eventId": "2000-regional-championship-at-indianapolis-in",
     "season": 2000,
     "round": "Prelims",
@@ -10375,7 +10375,7 @@
     }
   },
   {
-    "bandId": "beechwood-h-s",
+    "bandId": "beechwood-h-s-oh",
     "eventId": "2000-regional-championship-at-indianapolis-in",
     "season": 2000,
     "round": "Prelims",
@@ -10400,7 +10400,7 @@
     }
   },
   {
-    "bandId": "carmel-h-s",
+    "bandId": "carmel-h-s-in",
     "eventId": "2000-regional-championship-at-indianapolis-in",
     "season": 2000,
     "round": "Prelims",
@@ -10475,7 +10475,7 @@
     }
   },
   {
-    "bandId": "northmont-h-s",
+    "bandId": "northmont-h-s-il",
     "eventId": "2000-regional-championship-at-indianapolis-in",
     "season": 2000,
     "round": "Prelims",
@@ -10625,7 +10625,7 @@
     }
   },
   {
-    "bandId": "center-grove-h-s",
+    "bandId": "center-grove-h-s-oh",
     "eventId": "2000-regional-championship-at-indianapolis-in",
     "season": 2000,
     "round": "Prelims",
@@ -10775,7 +10775,7 @@
     }
   },
   {
-    "bandId": "lexington-h-s",
+    "bandId": "lexington-h-s-oh",
     "eventId": "2000-regional-championship-at-indianapolis-in",
     "season": 2000,
     "round": "Prelims",
@@ -10975,7 +10975,7 @@
     }
   },
   {
-    "bandId": "collinsville-h-s",
+    "bandId": "collinsville-h-s-ok",
     "eventId": "2000-regional-championship-at-indianapolis-in",
     "season": 2000,
     "round": "Prelims",
@@ -13500,7 +13500,7 @@
     }
   },
   {
-    "bandId": "carmel-h-s",
+    "bandId": "carmel-h-s-il",
     "eventId": "2000-grand-national-championship-at-indianapolis-in",
     "season": 2000,
     "round": "Semifinals",
@@ -13625,7 +13625,7 @@
     }
   },
   {
-    "bandId": "center-grove-h-s",
+    "bandId": "center-grove-h-s-oh",
     "eventId": "2000-grand-national-championship-at-indianapolis-in",
     "season": 2000,
     "round": "Semifinals",
@@ -13650,7 +13650,7 @@
     }
   },
   {
-    "bandId": "centerville-h-s",
+    "bandId": "centerville-h-s-oh",
     "eventId": "2000-grand-national-championship-at-indianapolis-in",
     "season": 2000,
     "round": "Semifinals",
@@ -13725,7 +13725,7 @@
     }
   },
   {
-    "bandId": "northmont-h-s",
+    "bandId": "northmont-h-s-il",
     "eventId": "2000-grand-national-championship-at-indianapolis-in",
     "season": 2000,
     "round": "Semifinals",
@@ -13850,7 +13850,7 @@
     }
   },
   {
-    "bandId": "cypress-creek-h-s",
+    "bandId": "cypress-creek-h-s-fl",
     "eventId": "2000-grand-national-championship-at-indianapolis-in",
     "season": 2000,
     "round": "Semifinals",
@@ -14075,7 +14075,7 @@
     }
   },
   {
-    "bandId": "avon-h-s",
+    "bandId": "avon-h-s-in",
     "eventId": "2000-grand-national-championship-at-indianapolis-in",
     "season": 2000,
     "round": "Semifinals",
@@ -14200,7 +14200,7 @@
     }
   },
   {
-    "bandId": "jackson-academy",
+    "bandId": "jackson-academy-ms",
     "eventId": "2000-grand-national-championship-at-indianapolis-in",
     "season": 2000,
     "round": "Semifinals",

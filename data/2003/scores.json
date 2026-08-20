@@ -9675,7 +9675,7 @@
     }
   },
   {
-    "bandId": "westfield-h-s",
+    "bandId": "westfield-h-s-tx",
     "eventId": "2003-regional-championship-at-san-antonio-tx",
     "season": 2003,
     "round": "Finals",
@@ -14900,7 +14900,7 @@
     }
   },
   {
-    "bandId": "avon-h-s",
+    "bandId": "avon-h-s-in",
     "eventId": "2003-2003-finals",
     "season": 2003,
     "round": "Finals",

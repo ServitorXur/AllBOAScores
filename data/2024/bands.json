@@ -1,5 +1,11 @@
 [
   {
+    "id": "hamilton-h-s-wi",
+    "name": "Hamilton H.S.",
+    "city": null,
+    "state": "WI"
+  },
+  {
     "id": "herscher-h-s-il",
     "name": "Herscher H.S.",
     "city": null,
@@ -46,6 +52,12 @@
     "name": "Union H.S.",
     "city": null,
     "state": "OK"
+  },
+  {
+    "id": "independence-h-s-ca",
+    "name": "Independence H.S.",
+    "city": null,
+    "state": "CA"
   },
   {
     "id": "norwin-h-s-pa",
@@ -96,6 +108,12 @@
     "state": "TN"
   },
   {
+    "id": "jasper-h-s-in",
+    "name": "Jasper H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
     "id": "stephen-f-austin-h-s-tx",
     "name": "Stephen F. Austin H.S.",
     "city": null,
@@ -112,6 +130,12 @@
     "name": "Sauk Prairie H.S.",
     "city": null,
     "state": "WI"
+  },
+  {
+    "id": "plymouth-h-s-oh",
+    "name": "Plymouth H.S.",
+    "city": null,
+    "state": "OH"
   },
   {
     "id": "brunswick-h-s-oh",
@@ -196,6 +220,12 @@
     "name": "Liverpool H.S.",
     "city": null,
     "state": "NY"
+  },
+  {
+    "id": "center-grove-h-s-in",
+    "name": "Center Grove H.S.",
+    "city": null,
+    "state": "IN"
   },
   {
     "id": "beavercreek-h-s-oh",
@@ -390,12 +420,6 @@
     "state": null
   },
   {
-    "id": "centerville-h-s",
-    "name": "Centerville H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "cary-h-s-nc",
     "name": "Cary H.S.",
     "city": null,
@@ -438,12 +462,6 @@
     "state": null
   },
   {
-    "id": "danville-h-s",
-    "name": "Danville H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "lebanon-h-s",
     "name": "Lebanon H.S.",
     "city": null,
@@ -458,12 +476,6 @@
   {
     "id": "northmont-h-s",
     "name": "Northmont H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "northwestern-h-s",
-    "name": "Northwestern H.S.",
     "city": null,
     "state": null
   },
@@ -654,12 +666,6 @@
     "state": null
   },
   {
-    "id": "mater-dei-h-s",
-    "name": "Mater Dei H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "reeths-puffer-h-s-mi",
     "name": "Reeths-Puffer H.S.",
     "city": null,
@@ -678,10 +684,10 @@
     "state": "TX"
   },
   {
-    "id": "carmel-h-s",
-    "name": "Carmel H.S.",
+    "id": "newberry-h-s-sc",
+    "name": "Newberry H.S.",
     "city": null,
-    "state": null
+    "state": "SC"
   },
   {
     "id": "homestead-h-s",
@@ -710,6 +716,12 @@
   {
     "id": "upland-h-s-ca",
     "name": "Upland H.S.",
+    "city": null,
+    "state": "CA"
+  },
+  {
+    "id": "mater-dei-h-s-ca",
+    "name": "Mater Dei H.S.",
     "city": null,
     "state": "CA"
   },
@@ -788,12 +800,6 @@
   {
     "id": "mt-vernon-h-s",
     "name": "Mt. Vernon H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "lafayette-h-s",
-    "name": "Lafayette H.S.",
     "city": null,
     "state": null
   },
@@ -936,24 +942,6 @@
     "state": "MI"
   },
   {
-    "id": "rock-hill-h-s",
-    "name": "Rock Hill H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "collinsville-h-s",
-    "name": "Collinsville H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "avon-h-s",
-    "name": "Avon H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "smithson-valley-h-s-tx",
     "name": "Smithson Valley H.S.",
     "city": null,
@@ -1056,22 +1044,28 @@
     "state": "OK"
   },
   {
+    "id": "collinsville-h-s-ok",
+    "name": "Collinsville H.S.",
+    "city": null,
+    "state": "OK"
+  },
+  {
     "id": "desert-vista-h-s-az",
     "name": "Desert Vista H.S.",
     "city": null,
     "state": "AZ"
   },
   {
-    "id": "ronald-reagan-h-s",
-    "name": "Ronald Reagan H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "bellevue-west-h-s-ne",
     "name": "Bellevue West H.S.",
     "city": null,
     "state": "NE"
+  },
+  {
+    "id": "avon-h-s-oh",
+    "name": "Avon H.S.",
+    "city": null,
+    "state": "OH"
   },
   {
     "id": "clinton-h-s-tn",
@@ -1180,6 +1174,12 @@
     "name": "Campbell County H.S.",
     "city": null,
     "state": "KY"
+  },
+  {
+    "id": "edgewood-h-s-in",
+    "name": "Edgewood H.S.",
+    "city": null,
+    "state": "IN"
   },
   {
     "id": "f-j-reitz-h-s",
@@ -1884,10 +1884,22 @@
     "state": "OH"
   },
   {
+    "id": "danville-h-s-in",
+    "name": "Danville H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
     "id": "greendale-h-s-wi",
     "name": "Greendale H.S.",
     "city": null,
     "state": "WI"
+  },
+  {
+    "id": "carmel-h-s-il",
+    "name": "Carmel H.S.",
+    "city": null,
+    "state": "IL"
   },
   {
     "id": "fishers-h-s-in",
@@ -2106,6 +2118,12 @@
     "state": "IN"
   },
   {
+    "id": "northwestern-h-s-in",
+    "name": "Northwestern H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
     "id": "westfield-h-s-in",
     "name": "Westfield H.S.",
     "city": null,
@@ -2116,6 +2134,12 @@
     "name": "Bentonville H.S.",
     "city": null,
     "state": "AR"
+  },
+  {
+    "id": "lafayette-h-s-mo",
+    "name": "Lafayette H.S.",
+    "city": null,
+    "state": "MO"
   },
   {
     "id": "buchanan-h-s-ca",
@@ -2272,6 +2296,12 @@
     "name": "Eastside Catholic School",
     "city": null,
     "state": "WA"
+  },
+  {
+    "id": "william-henry-harrison-h-s-in",
+    "name": "William Henry Harrison H.S.",
+    "city": null,
+    "state": "IN"
   },
   {
     "id": "elizabeth-h-s-nj",
@@ -3138,6 +3168,12 @@
     "state": "UT"
   },
   {
+    "id": "columbus-h-s-in",
+    "name": "Columbus H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
     "id": "huron-valley-marching-band-mi",
     "name": "Huron Valley Marching Band",
     "city": null,
@@ -3384,6 +3420,12 @@
     "state": "IN"
   },
   {
+    "id": "taylor-h-s-in",
+    "name": "Taylor H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
     "id": "benjamin-bosse-h-s-in",
     "name": "Benjamin Bosse H.S.",
     "city": null,
@@ -3564,30 +3606,6 @@
     "state": "TX"
   },
   {
-    "id": "jasper-h-s",
-    "name": "Jasper H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "edgewood-h-s",
-    "name": "Edgewood H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "columbus-h-s",
-    "name": "Columbus H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "plymouth-h-s",
-    "name": "Plymouth H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "minooka-community-h-s",
     "name": "Minooka Community H.S.",
     "city": null,
@@ -3666,12 +3684,6 @@
     "state": null
   },
   {
-    "id": "hamilton-h-s",
-    "name": "Hamilton H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "batesville-h-s",
     "name": "Batesville H.S.",
     "city": null,
@@ -3680,12 +3692,6 @@
   {
     "id": "tippecanoe-h-s",
     "name": "Tippecanoe H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "taylor-h-s",
-    "name": "Taylor H.S.",
     "city": null,
     "state": null
   },
@@ -3906,18 +3912,6 @@
     "state": "SC"
   },
   {
-    "id": "independence-h-s",
-    "name": "Independence H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "william-henry-harrison-h-s",
-    "name": "William Henry Harrison H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "perry-meridian-h-s",
     "name": "Perry Meridian H.S.",
     "city": null,
@@ -4068,20 +4062,8 @@
     "state": null
   },
   {
-    "id": "franklin-h-s",
-    "name": "Franklin H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "south-dearborn-h-s",
     "name": "South Dearborn H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "newberry-h-s",
-    "name": "Newberry H.S.",
     "city": null,
     "state": null
   },

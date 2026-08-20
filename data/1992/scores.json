@@ -5800,7 +5800,7 @@
     }
   },
   {
-    "bandId": "marian-catholic-h-s",
+    "bandId": "marian-catholic-h-s-in",
     "eventId": "1992-grand-national-championship-at-indianapolis-in",
     "season": 1992,
     "round": "Prelims",
@@ -6075,7 +6075,7 @@
     }
   },
   {
-    "bandId": "lexington-h-s",
+    "bandId": "lexington-h-s-sc",
     "eventId": "1992-grand-national-championship-at-indianapolis-in",
     "season": 1992,
     "round": "Prelims",
@@ -6375,7 +6375,7 @@
     }
   },
   {
-    "bandId": "cambridge-h-s",
+    "bandId": "cambridge-h-s-oh",
     "eventId": "1992-grand-national-championship-at-indianapolis-in",
     "season": 1992,
     "round": "Prelims",
@@ -6750,7 +6750,7 @@
     }
   },
   {
-    "bandId": "metamora-h-s",
+    "bandId": "metamora-h-s-il",
     "eventId": "1992-grand-national-championship-at-indianapolis-in",
     "season": 1992,
     "round": "Prelims",
@@ -6800,7 +6800,7 @@
     }
   },
   {
-    "bandId": "centerville-h-s",
+    "bandId": "centerville-h-s-oh",
     "eventId": "1992-grand-national-championship-at-indianapolis-in",
     "season": 1992,
     "round": "Finals",
@@ -7125,7 +7125,7 @@
     }
   },
   {
-    "bandId": "centerville-h-s",
+    "bandId": "centerville-h-s-oh",
     "eventId": "1992-grand-national-championship-at-indianapolis-in",
     "season": 1992,
     "round": "Prelims",

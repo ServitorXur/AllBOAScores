@@ -1,5 +1,11 @@
 [
   {
+    "id": "hamilton-h-s-wi",
+    "name": "Hamilton H.S.",
+    "city": null,
+    "state": "WI"
+  },
+  {
     "id": "herscher-h-s-il",
     "name": "Herscher H.S.",
     "city": null,
@@ -94,6 +100,12 @@
     "name": "Bartlett H.S.",
     "city": null,
     "state": "TN"
+  },
+  {
+    "id": "jasper-h-s-in",
+    "name": "Jasper H.S.",
+    "city": null,
+    "state": "IN"
   },
   {
     "id": "paris-h-s-tx",
@@ -314,6 +326,12 @@
   {
     "id": "crockett-h-s-tx",
     "name": "Crockett H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "taylor-h-s-tx",
+    "name": "Taylor H.S.",
     "city": null,
     "state": "TX"
   },
@@ -630,20 +648,8 @@
     "state": "TX"
   },
   {
-    "id": "center-grove-h-s",
-    "name": "Center Grove H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "centralia-h-s",
     "name": "Centralia H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "mater-dei-h-s",
-    "name": "Mater Dei H.S.",
     "city": null,
     "state": null
   },
@@ -672,18 +678,6 @@
     "state": "TX"
   },
   {
-    "id": "carmel-h-s",
-    "name": "Carmel H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "homestead-h-s",
-    "name": "Homestead H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "john-glenn-h-s",
     "name": "John Glenn H.S.",
     "city": null,
@@ -710,6 +704,12 @@
   {
     "id": "upland-h-s-ca",
     "name": "Upland H.S.",
+    "city": null,
+    "state": "CA"
+  },
+  {
+    "id": "mater-dei-h-s-ca",
+    "name": "Mater Dei H.S.",
     "city": null,
     "state": "CA"
   },
@@ -942,42 +942,6 @@
     "state": "MI"
   },
   {
-    "id": "collinsville-h-s",
-    "name": "Collinsville H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "avon-h-s",
-    "name": "Avon H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "mount-pleasant-h-s",
-    "name": "Mount Pleasant H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "cleveland-h-s",
-    "name": "Cleveland H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "fossil-ridge-h-s",
-    "name": "Fossil Ridge H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "moore-h-s",
-    "name": "Moore H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "smithson-valley-h-s-tx",
     "name": "Smithson Valley H.S.",
     "city": null,
@@ -1012,12 +976,6 @@
     "name": "Del Rio H.S.",
     "city": null,
     "state": "TX"
-  },
-  {
-    "id": "university-h-s",
-    "name": "University H.S.",
-    "city": null,
-    "state": null
   },
   {
     "id": "san-marcos-h-s-ca",
@@ -1134,18 +1092,6 @@
     "state": "AZ"
   },
   {
-    "id": "harrison-h-s",
-    "name": "Harrison H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "ronald-reagan-h-s",
-    "name": "Ronald Reagan H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "bellevue-west-h-s-ne",
     "name": "Bellevue West H.S.",
     "city": null,
@@ -1260,6 +1206,12 @@
     "state": "KY"
   },
   {
+    "id": "edgewood-h-s-in",
+    "name": "Edgewood H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
     "id": "f-j-reitz-h-s",
     "name": "F. J. Reitz H.S.",
     "city": null,
@@ -1316,6 +1268,12 @@
   {
     "id": "lebanon-h-s-oh",
     "name": "Lebanon H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "moore-h-s-oh",
+    "name": "Moore H.S.",
     "city": null,
     "state": "OH"
   },
@@ -1968,6 +1926,12 @@
     "state": "WI"
   },
   {
+    "id": "carmel-h-s-il",
+    "name": "Carmel H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
     "id": "fishers-h-s-in",
     "name": "Fishers H.S.",
     "city": null,
@@ -2208,6 +2172,12 @@
     "state": "IN"
   },
   {
+    "id": "westfield-h-s-in",
+    "name": "Westfield H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
     "id": "bentonville-h-s-ar",
     "name": "Bentonville H.S.",
     "city": null,
@@ -2286,6 +2256,12 @@
     "state": "MO"
   },
   {
+    "id": "mount-pleasant-h-s-nc",
+    "name": "Mount Pleasant H.S.",
+    "city": null,
+    "state": "NC"
+  },
+  {
     "id": "paragould-h-s-ar",
     "name": "Paragould H.S.",
     "city": null,
@@ -2356,6 +2332,12 @@
     "name": "Eastside Catholic School",
     "city": null,
     "state": "WA"
+  },
+  {
+    "id": "william-henry-harrison-h-s-in",
+    "name": "William Henry Harrison H.S.",
+    "city": null,
+    "state": "IN"
   },
   {
     "id": "elizabeth-h-s-nj",
@@ -2826,6 +2808,12 @@
     "state": "AR"
   },
   {
+    "id": "university-h-s-il",
+    "name": "University H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
     "id": "omaha-burke-h-s-ne",
     "name": "Omaha Burke H.S.",
     "city": null,
@@ -3012,6 +3000,12 @@
     "state": "IN"
   },
   {
+    "id": "fossil-ridge-h-s-co",
+    "name": "Fossil Ridge H.S.",
+    "city": null,
+    "state": "CO"
+  },
+  {
     "id": "v-sue-cleveland-h-s-nm",
     "name": "V. Sue Cleveland H.S.",
     "city": null,
@@ -3160,6 +3154,12 @@
     "name": "Wasatch H.S.",
     "city": null,
     "state": "UT"
+  },
+  {
+    "id": "columbus-h-s-in",
+    "name": "Columbus H.S.",
+    "city": null,
+    "state": "IN"
   },
   {
     "id": "russell-independent-h-s-ky",
@@ -3384,6 +3384,12 @@
     "state": "IN"
   },
   {
+    "id": "taylor-h-s-in",
+    "name": "Taylor H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
     "id": "benjamin-bosse-h-s-in",
     "name": "Benjamin Bosse H.S.",
     "city": null,
@@ -3474,6 +3480,12 @@
     "state": "IA"
   },
   {
+    "id": "valley-h-s-ia",
+    "name": "Valley H.S.",
+    "city": null,
+    "state": "IA"
+  },
+  {
     "id": "mic-test-mt",
     "name": "Mic Test",
     "city": null,
@@ -3526,24 +3538,6 @@
     "name": "Walnut Grove H.S.",
     "city": null,
     "state": "TX"
-  },
-  {
-    "id": "jasper-h-s",
-    "name": "Jasper H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "edgewood-h-s",
-    "name": "Edgewood H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "columbus-h-s",
-    "name": "Columbus H.S.",
-    "city": null,
-    "state": null
   },
   {
     "id": "plymouth-h-s",
@@ -3630,20 +3624,8 @@
     "state": null
   },
   {
-    "id": "hamilton-h-s",
-    "name": "Hamilton H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "batesville-h-s",
     "name": "Batesville H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "taylor-h-s",
-    "name": "Taylor H.S.",
     "city": null,
     "state": null
   },
@@ -3798,12 +3780,6 @@
     "state": "SC"
   },
   {
-    "id": "william-henry-harrison-h-s",
-    "name": "William Henry Harrison H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "perry-meridian-h-s",
     "name": "Perry Meridian H.S.",
     "city": null,
@@ -3866,12 +3842,6 @@
   {
     "id": "south-dearborn-h-s",
     "name": "South Dearborn H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "valley-h-s",
-    "name": "Valley H.S.",
     "city": null,
     "state": null
   },

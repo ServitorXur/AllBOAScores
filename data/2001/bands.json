@@ -186,6 +186,12 @@
     "state": "LA"
   },
   {
+    "id": "westfield-h-s-tx",
+    "name": "Westfield H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
     "id": "lake-highlands-h-s-tx",
     "name": "Lake Highlands H.S.",
     "city": null,
@@ -498,12 +504,6 @@
     "state": "MI"
   },
   {
-    "id": "westfield-h-s",
-    "name": "Westfield H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "parkway-west-h-s-mo",
     "name": "Parkway West H.S.",
     "city": null,
@@ -672,12 +672,6 @@
     "state": "TX"
   },
   {
-    "id": "center-grove-h-s",
-    "name": "Center Grove H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "reeths-puffer-h-s-mi",
     "name": "Reeths-Puffer H.S.",
     "city": null,
@@ -718,12 +712,6 @@
     "name": "Broken Arrow Sr. H.S.",
     "city": null,
     "state": "OK"
-  },
-  {
-    "id": "carmel-h-s",
-    "name": "Carmel H.S.",
-    "city": null,
-    "state": null
   },
   {
     "id": "elizabethton-h-s-tn",
@@ -1020,22 +1008,10 @@
     "state": "IN"
   },
   {
-    "id": "cypress-creek-h-s",
-    "name": "Cypress Creek H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "rancho-buena-vista-h-s-ca",
     "name": "Rancho Buena Vista H.S.",
     "city": null,
     "state": "CA"
-  },
-  {
-    "id": "avon-h-s",
-    "name": "Avon H.S.",
-    "city": null,
-    "state": null
   },
   {
     "id": "fossil-ridge-h-s",
@@ -1306,12 +1282,6 @@
     "name": "Olympic Heights H.S.",
     "city": null,
     "state": "FL"
-  },
-  {
-    "id": "ronald-reagan-h-s",
-    "name": "Ronald Reagan H.S.",
-    "city": null,
-    "state": null
   },
   {
     "id": "center-grove-h-s-oh",
@@ -1740,12 +1710,6 @@
     "state": null
   },
   {
-    "id": "mesquite-h-s",
-    "name": "Mesquite H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "rowlett-h-s-tx",
     "name": "Rowlett H.S.",
     "city": null,
@@ -1852,12 +1816,6 @@
     "name": "Lassiter H.S. II",
     "city": null,
     "state": "GA"
-  },
-  {
-    "id": "lewisville-h-s",
-    "name": "Lewisville H.S.",
-    "city": null,
-    "state": null
   },
   {
     "id": "ronald-reagan-h-s-t-x",
@@ -2170,5 +2128,11 @@
     "name": "James Byrnes H.S.",
     "city": null,
     "state": "SC"
+  },
+  {
+    "id": "carmel-h-s-il",
+    "name": "Carmel H.S.",
+    "city": null,
+    "state": "IL"
   }
 ]

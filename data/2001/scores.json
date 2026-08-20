@@ -2650,7 +2650,7 @@
     }
   },
   {
-    "bandId": "cypress-creek-h-s",
+    "bandId": "cypress-creek-h-s-fl",
     "eventId": "2001-regional-championship-at-orlando",
     "season": 2001,
     "round": "Finals",
@@ -6850,7 +6850,7 @@
     }
   },
   {
-    "bandId": "ronald-reagan-h-s",
+    "bandId": "ronald-reagan-h-s-tx",
     "eventId": "2001-regional-championship-at-arlington-tx",
     "season": 2001,
     "round": "Finals",
@@ -7025,7 +7025,7 @@
     }
   },
   {
-    "bandId": "mesquite-h-s",
+    "bandId": "mesquite-h-s-tx",
     "eventId": "2001-regional-championship-at-arlington-tx",
     "season": 2001,
     "round": "Finals",
@@ -9650,7 +9650,7 @@
     }
   },
   {
-    "bandId": "ronald-reagan-h-s",
+    "bandId": "ronald-reagan-h-s-tx",
     "eventId": "2001-regional-championship-at-houston-tx",
     "season": 2001,
     "round": "Finals",
@@ -9750,7 +9750,7 @@
     }
   },
   {
-    "bandId": "westfield-h-s",
+    "bandId": "westfield-h-s-tx",
     "eventId": "2001-regional-championship-at-houston-tx",
     "season": 2001,
     "round": "Finals",
@@ -9875,7 +9875,7 @@
     }
   },
   {
-    "bandId": "lewisville-h-s",
+    "bandId": "lewisville-h-s-tx",
     "eventId": "2001-regional-championship-at-houston-tx",
     "season": 2001,
     "round": "Finals",
@@ -13975,7 +13975,7 @@
     }
   },
   {
-    "bandId": "carmel-h-s",
+    "bandId": "carmel-h-s-il",
     "eventId": "2001-grand-national-championships",
     "season": 2001,
     "round": "Finals",
@@ -14150,7 +14150,7 @@
     }
   },
   {
-    "bandId": "avon-h-s",
+    "bandId": "avon-h-s-in",
     "eventId": "2001-grand-national-championships",
     "season": 2001,
     "round": "Finals",
@@ -14175,7 +14175,7 @@
     }
   },
   {
-    "bandId": "center-grove-h-s",
+    "bandId": "center-grove-h-s-oh",
     "eventId": "2001-grand-national-championships",
     "season": 2001,
     "round": "Finals",

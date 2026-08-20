@@ -786,12 +786,6 @@
     "state": "TX"
   },
   {
-    "id": "avon-h-s",
-    "name": "Avon H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "harlingen-h-s-tx",
     "name": "Harlingen H.S.",
     "city": null,
@@ -886,12 +880,6 @@
     "name": "Naperville North H.S.",
     "city": null,
     "state": "IL"
-  },
-  {
-    "id": "ronald-reagan-h-s",
-    "name": "Ronald Reagan H.S.",
-    "city": null,
-    "state": null
   },
   {
     "id": "bellevue-west-h-s-ne",

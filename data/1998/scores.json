@@ -950,7 +950,7 @@
     }
   },
   {
-    "bandId": "centerville-h-s",
+    "bandId": "centerville-h-s-oh",
     "eventId": "1998-regional-championship-at-morgantown-wv",
     "season": 1998,
     "round": "Finals",
@@ -1125,7 +1125,7 @@
     }
   },
   {
-    "bandId": "trinity-h-s",
+    "bandId": "trinity-h-s-pa",
     "eventId": "1998-regional-championship-at-morgantown-wv",
     "season": 1998,
     "round": "Finals",
@@ -1200,7 +1200,7 @@
     }
   },
   {
-    "bandId": "centerville-h-s",
+    "bandId": "centerville-h-s-oh",
     "eventId": "1998-regional-championship-at-morgantown-wv",
     "season": 1998,
     "round": "Prelims",
@@ -1725,7 +1725,7 @@
     }
   },
   {
-    "bandId": "waterford-h-s",
+    "bandId": "waterford-h-s-oh",
     "eventId": "1998-regional-championship-at-morgantown-wv",
     "season": 1998,
     "round": "Prelims",
@@ -1800,7 +1800,7 @@
     }
   },
   {
-    "bandId": "carroll-h-s",
+    "bandId": "carroll-h-s-tx",
     "eventId": "1998-regional-championship-at-morgantown-wv",
     "season": 1998,
     "round": "Prelims",
@@ -1900,7 +1900,7 @@
     }
   },
   {
-    "bandId": "cypress-creek-h-s",
+    "bandId": "cypress-creek-h-s-fl",
     "eventId": "1998-regional-championship-at-orlando-fl",
     "season": 1998,
     "round": "Prelims",
@@ -3225,7 +3225,7 @@
     }
   },
   {
-    "bandId": "westfield-h-s",
+    "bandId": "westfield-h-s-tx",
     "eventId": "1998-regional-championship-at-san-antonio-tx",
     "season": 1998,
     "round": "Finals",
@@ -3500,7 +3500,7 @@
     }
   },
   {
-    "bandId": "westfield-h-s",
+    "bandId": "westfield-h-s-tx",
     "eventId": "1998-regional-championship-at-san-antonio-tx",
     "season": 1998,
     "round": "Prelims",
@@ -4175,7 +4175,7 @@
     }
   },
   {
-    "bandId": "james-madison-h-s",
+    "bandId": "james-madison-h-s-va",
     "eventId": "1998-regional-championship-at-san-antonio-tx",
     "season": 1998,
     "round": "Prelims",
@@ -4200,7 +4200,7 @@
     }
   },
   {
-    "bandId": "john-marshall-h-s",
+    "bandId": "john-marshall-h-s-tx",
     "eventId": "1998-regional-championship-at-san-antonio-tx",
     "season": 1998,
     "round": "Prelims",
@@ -4475,7 +4475,7 @@
     }
   },
   {
-    "bandId": "greenwood-h-s",
+    "bandId": "greenwood-h-s-in",
     "eventId": "1998-regional-championship-at-cincinnati-oh",
     "season": 1998,
     "round": "Finals",
@@ -4775,7 +4775,7 @@
     }
   },
   {
-    "bandId": "greenwood-h-s",
+    "bandId": "greenwood-h-s-in",
     "eventId": "1998-regional-championship-at-cincinnati-oh",
     "season": 1998,
     "round": "Prelims",
@@ -4900,7 +4900,7 @@
     }
   },
   {
-    "bandId": "rock-hill-h-s",
+    "bandId": "rock-hill-h-s-oh",
     "eventId": "1998-regional-championship-at-cincinnati-oh",
     "season": 1998,
     "round": "Prelims",
@@ -5150,7 +5150,7 @@
     }
   },
   {
-    "bandId": "loveland-h-s",
+    "bandId": "loveland-h-s-oh",
     "eventId": "1998-regional-championship-at-cincinnati-oh",
     "season": 1998,
     "round": "Prelims",
@@ -5625,7 +5625,7 @@
     }
   },
   {
-    "bandId": "normal-west-h-s",
+    "bandId": "normal-west-h-s-il",
     "eventId": "1998-regional-championship-at-st-louis-mo",
     "season": 1998,
     "round": "Prelims",
@@ -5725,7 +5725,7 @@
     }
   },
   {
-    "bandId": "collinsville-h-s",
+    "bandId": "collinsville-h-s-ok",
     "eventId": "1998-regional-championship-at-st-louis-mo",
     "season": 1998,
     "round": "Prelims",
@@ -7200,7 +7200,7 @@
     }
   },
   {
-    "bandId": "centerville-h-s",
+    "bandId": "centerville-h-s-oh",
     "eventId": "1998-regional-championship-at-indianapolis-in",
     "season": 1998,
     "round": "Finals",
@@ -7250,7 +7250,7 @@
     }
   },
   {
-    "bandId": "center-grove-h-s",
+    "bandId": "center-grove-h-s-oh",
     "eventId": "1998-regional-championship-at-indianapolis-in",
     "season": 1998,
     "round": "Finals",
@@ -7275,7 +7275,7 @@
     }
   },
   {
-    "bandId": "marian-catholic-h-s",
+    "bandId": "marian-catholic-h-s-in",
     "eventId": "1998-regional-championship-at-indianapolis-in",
     "season": 1998,
     "round": "Finals",
@@ -7300,7 +7300,7 @@
     }
   },
   {
-    "bandId": "carmel-h-s",
+    "bandId": "carmel-h-s-in",
     "eventId": "1998-regional-championship-at-indianapolis-in",
     "season": 1998,
     "round": "Finals",
@@ -7375,7 +7375,7 @@
     }
   },
   {
-    "bandId": "avon-h-s",
+    "bandId": "avon-h-s-in",
     "eventId": "1998-regional-championship-at-indianapolis-in",
     "season": 1998,
     "round": "Finals",
@@ -7450,7 +7450,7 @@
     }
   },
   {
-    "bandId": "centerville-h-s",
+    "bandId": "centerville-h-s-oh",
     "eventId": "1998-regional-championship-at-indianapolis-in",
     "season": 1998,
     "round": "Prelims",
@@ -7475,7 +7475,7 @@
     }
   },
   {
-    "bandId": "marian-catholic-h-s",
+    "bandId": "marian-catholic-h-s-in",
     "eventId": "1998-regional-championship-at-indianapolis-in",
     "season": 1998,
     "round": "Prelims",
@@ -7525,7 +7525,7 @@
     }
   },
   {
-    "bandId": "center-grove-h-s",
+    "bandId": "center-grove-h-s-oh",
     "eventId": "1998-regional-championship-at-indianapolis-in",
     "season": 1998,
     "round": "Prelims",
@@ -7550,7 +7550,7 @@
     }
   },
   {
-    "bandId": "carmel-h-s",
+    "bandId": "carmel-h-s-in",
     "eventId": "1998-regional-championship-at-indianapolis-in",
     "season": 1998,
     "round": "Prelims",
@@ -7675,7 +7675,7 @@
     }
   },
   {
-    "bandId": "avon-h-s",
+    "bandId": "avon-h-s-in",
     "eventId": "1998-regional-championship-at-indianapolis-in",
     "season": 1998,
     "round": "Prelims",
@@ -8000,7 +8000,7 @@
     }
   },
   {
-    "bandId": "carroll-h-s",
+    "bandId": "carroll-h-s-oh",
     "eventId": "1998-regional-championship-at-indianapolis-in",
     "season": 1998,
     "round": "Prelims",
@@ -8250,7 +8250,7 @@
     }
   },
   {
-    "bandId": "lexington-h-s",
+    "bandId": "lexington-h-s-sc",
     "eventId": "1998-regional-championship-at-johnson-city-tn",
     "season": 1998,
     "round": "Finals",
@@ -8625,7 +8625,7 @@
     }
   },
   {
-    "bandId": "lexington-h-s",
+    "bandId": "lexington-h-s-sc",
     "eventId": "1998-regional-championship-at-johnson-city-tn",
     "season": 1998,
     "round": "Prelims",
@@ -10350,7 +10350,7 @@
     }
   },
   {
-    "bandId": "fossil-ridge-h-s",
+    "bandId": "fossil-ridge-h-s-tx",
     "eventId": "1998-regional-championship-at-houston-tx",
     "season": 1998,
     "round": "Finals",
@@ -10700,7 +10700,7 @@
     }
   },
   {
-    "bandId": "fossil-ridge-h-s",
+    "bandId": "fossil-ridge-h-s-co",
     "eventId": "1998-regional-championship-at-houston-tx",
     "season": 1998,
     "round": "Prelims",
@@ -11325,7 +11325,7 @@
     }
   },
   {
-    "bandId": "morton-h-s",
+    "bandId": "morton-h-s-in",
     "eventId": "1998-grand-national-championship-at-indianapolis-in",
     "season": 1998,
     "round": "Prelims",
@@ -11450,7 +11450,7 @@
     }
   },
   {
-    "bandId": "lakeland-h-s",
+    "bandId": "lakeland-h-s-mi",
     "eventId": "1998-grand-national-championship-at-indianapolis-in",
     "season": 1998,
     "round": "Prelims",
@@ -11925,7 +11925,7 @@
     }
   },
   {
-    "bandId": "marian-catholic-h-s",
+    "bandId": "marian-catholic-h-s-in",
     "eventId": "1998-grand-national-championship-at-indianapolis-in",
     "season": 1998,
     "round": "Prelims",
@@ -11975,7 +11975,7 @@
     }
   },
   {
-    "bandId": "centerville-h-s",
+    "bandId": "centerville-h-s-oh",
     "eventId": "1998-grand-national-championship-at-indianapolis-in",
     "season": 1998,
     "round": "Prelims",
@@ -12050,7 +12050,7 @@
     }
   },
   {
-    "bandId": "center-grove-h-s",
+    "bandId": "center-grove-h-s-oh",
     "eventId": "1998-grand-national-championship-at-indianapolis-in",
     "season": 1998,
     "round": "Prelims",
@@ -12225,7 +12225,7 @@
     }
   },
   {
-    "bandId": "avon-h-s",
+    "bandId": "avon-h-s-in",
     "eventId": "1998-grand-national-championship-at-indianapolis-in",
     "season": 1998,
     "round": "Prelims",
@@ -12775,7 +12775,7 @@
     }
   },
   {
-    "bandId": "moore-h-s",
+    "bandId": "moore-h-s-ok",
     "eventId": "1998-grand-national-championship-at-indianapolis-in",
     "season": 1998,
     "round": "Prelims",
@@ -13050,7 +13050,7 @@
     }
   },
   {
-    "bandId": "centerville-h-s",
+    "bandId": "centerville-h-s-oh",
     "eventId": "1998-grand-national-championship-at-indianapolis-in",
     "season": 1998,
     "round": "Finals",
@@ -13325,7 +13325,7 @@
     }
   },
   {
-    "bandId": "elizabethtown-h-s",
+    "bandId": "elizabethtown-h-s-ky",
     "eventId": "1998-grand-national-championship-at-indianapolis-in",
     "season": 1998,
     "round": "Semifinals",
@@ -13500,7 +13500,7 @@
     }
   },
   {
-    "bandId": "centerville-h-s",
+    "bandId": "centerville-h-s-oh",
     "eventId": "1998-grand-national-championship-at-indianapolis-in",
     "season": 1998,
     "round": "Semifinals",
@@ -13975,7 +13975,7 @@
     }
   },
   {
-    "bandId": "the-woodlands",
+    "bandId": "the-woodlands-tx",
     "eventId": "1998-grand-national-championship-at-indianapolis-in",
     "season": 1998,
     "round": "Semifinals",
@@ -14025,7 +14025,7 @@
     }
   },
   {
-    "bandId": "northmont-h-s",
+    "bandId": "northmont-h-s-oh",
     "eventId": "1998-grand-national-championship-at-indianapolis-in",
     "season": 1998,
     "round": "Semifinals",

@@ -18,6 +18,12 @@
     "state": "IL"
   },
   {
+    "id": "carroll-h-s-oh",
+    "name": "Carroll H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
     "id": "george-rogers-clark-h-s-ky",
     "name": "George Rogers Clark H.S.",
     "city": null,
@@ -62,6 +68,18 @@
   {
     "id": "norton-h-s-oh",
     "name": "Norton H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "northmont-h-s-oh",
+    "name": "Northmont H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "centerville-h-s-oh",
+    "name": "Centerville H.S.",
     "city": null,
     "state": "OH"
   },
@@ -144,6 +162,24 @@
     "state": "VA"
   },
   {
+    "id": "john-marshall-h-s-tx",
+    "name": "John Marshall H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "westfield-h-s-tx",
+    "name": "Westfield H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "greenwood-h-s-in",
+    "name": "Greenwood H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
     "id": "broken-arrow-h-s-ok",
     "name": "Broken Arrow H.S.",
     "city": null,
@@ -160,6 +196,12 @@
     "name": "Marian Catholic H.S.",
     "city": null,
     "state": "IL"
+  },
+  {
+    "id": "trinity-h-s-pa",
+    "name": "Trinity H.S.",
+    "city": null,
+    "state": "PA"
   },
   {
     "id": "spring-h-s-tx",
@@ -372,12 +414,6 @@
     "state": null
   },
   {
-    "id": "centerville-h-s",
-    "name": "Centerville H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "cary-h-s-nc",
     "name": "Cary H.S.",
     "city": null,
@@ -474,12 +510,6 @@
     "state": "TX"
   },
   {
-    "id": "westfield-h-s",
-    "name": "Westfield H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "parkway-west-h-s-mo",
     "name": "Parkway West H.S.",
     "city": null,
@@ -500,6 +530,12 @@
   {
     "id": "taft-h-s-tx",
     "name": "Taft H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "carroll-h-s-tx",
+    "name": "Carroll H.S.",
     "city": null,
     "state": "TX"
   },
@@ -538,12 +574,6 @@
     "name": "North Buncombe H.S.",
     "city": null,
     "state": "NC"
-  },
-  {
-    "id": "lexington-h-s",
-    "name": "Lexington H.S.",
-    "city": null,
-    "state": null
   },
   {
     "id": "erie-central-h-s-pa",
@@ -738,6 +768,12 @@
     "state": "WV"
   },
   {
+    "id": "moore-h-s-ok",
+    "name": "Moore H.S.",
+    "city": null,
+    "state": "OK"
+  },
+  {
     "id": "uvalde-h-s-tx",
     "name": "Uvalde H.S.",
     "city": null,
@@ -748,6 +784,12 @@
     "name": "Tom C. Clark H.S.",
     "city": null,
     "state": "TX"
+  },
+  {
+    "id": "cypress-creek-h-s-fl",
+    "name": "Cypress Creek H.S.",
+    "city": null,
+    "state": "FL"
   },
   {
     "id": "soddy-daisy-h-s-tn",
@@ -776,12 +818,6 @@
   {
     "id": "elizabethtown-h-s",
     "name": "Elizabethtown H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "loveland-h-s",
-    "name": "Loveland H.S.",
     "city": null,
     "state": null
   },
@@ -852,6 +888,12 @@
     "state": "TX"
   },
   {
+    "id": "avon-h-s-in",
+    "name": "Avon H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
     "id": "limestone-community-h-s-il",
     "name": "Limestone Community H.S.",
     "city": null,
@@ -904,6 +946,18 @@
     "name": "North Laurel H.S.",
     "city": null,
     "state": "KY"
+  },
+  {
+    "id": "loveland-h-s-oh",
+    "name": "Loveland H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "rock-hill-h-s-oh",
+    "name": "Rock Hill H.S.",
+    "city": null,
+    "state": "OH"
   },
   {
     "id": "lampeter-strasburg-h-s-pa",
@@ -980,6 +1034,12 @@
   {
     "id": "colleyville-heritage-h-s-tx",
     "name": "Colleyville Heritage H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "fossil-ridge-h-s-tx",
+    "name": "Fossil Ridge H.S.",
     "city": null,
     "state": "TX"
   },
@@ -1122,6 +1182,12 @@
     "state": "OH"
   },
   {
+    "id": "elizabethtown-h-s-ky",
+    "name": "Elizabethtown H.S.",
+    "city": null,
+    "state": "KY"
+  },
+  {
     "id": "bear-creek-h-s-co",
     "name": "Bear Creek H.S.",
     "city": null,
@@ -1196,18 +1262,6 @@
   {
     "id": "robinson-secondary-sch",
     "name": "Robinson Secondary Sch.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "waterford-h-s",
-    "name": "Waterford H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "cypress-creek-h-s",
-    "name": "Cypress Creek H.S.",
     "city": null,
     "state": null
   },
@@ -1296,24 +1350,6 @@
     "state": null
   },
   {
-    "id": "james-madison-h-s",
-    "name": "James Madison H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "john-marshall-h-s",
-    "name": "John Marshall H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "greenwood-h-s",
-    "name": "Greenwood H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "rock-hill-h-s",
     "name": "Rock Hill H.S.",
     "city": null,
@@ -1334,12 +1370,6 @@
   {
     "id": "normal-west-h-s",
     "name": "Normal West H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "collinsville-h-s",
-    "name": "Collinsville H.S.",
     "city": null,
     "state": null
   },
@@ -1668,12 +1698,6 @@
     "state": null
   },
   {
-    "id": "fossil-ridge-h-s",
-    "name": "Fossil Ridge H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "northside-h-s",
     "name": "Northside H.S.",
     "city": null,
@@ -1706,12 +1730,6 @@
   {
     "id": "sheridan-h-s",
     "name": "Sheridan H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "moore-h-s",
-    "name": "Moore H.S.",
     "city": null,
     "state": null
   },
@@ -1794,6 +1812,12 @@
     "state": "TN"
   },
   {
+    "id": "lexington-h-s-sc",
+    "name": "Lexington H.S.",
+    "city": null,
+    "state": "SC"
+  },
+  {
     "id": "g-holmes-braddock-h-s-fl",
     "name": "G. Holmes Braddock H.S.",
     "city": null,
@@ -1872,6 +1896,18 @@
     "state": "OK"
   },
   {
+    "id": "collinsville-h-s-ok",
+    "name": "Collinsville H.S.",
+    "city": null,
+    "state": "OK"
+  },
+  {
+    "id": "center-grove-h-s-oh",
+    "name": "Center Grove H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
     "id": "valley-forge-h-s-oh",
     "name": "Valley Forge H.S.",
     "city": null,
@@ -1926,6 +1962,18 @@
     "state": "HS"
   },
   {
+    "id": "marian-catholic-h-s-in",
+    "name": "Marian Catholic H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
+    "id": "the-woodlands-tx",
+    "name": "The Woodlands",
+    "city": null,
+    "state": "TX"
+  },
+  {
     "id": "orchard-park-h-s-ny",
     "name": "Orchard Park H.S.",
     "city": null,
@@ -1942,6 +1990,12 @@
     "name": "Lopez H.S.",
     "city": null,
     "state": "TX"
+  },
+  {
+    "id": "waterford-h-s-oh",
+    "name": "Waterford H.S.",
+    "city": null,
+    "state": "OH"
   },
   {
     "id": "oakville-sr-h-s-mo",
@@ -1962,6 +2016,12 @@
     "state": "TX"
   },
   {
+    "id": "james-madison-h-s-va",
+    "name": "James Madison H.S.",
+    "city": null,
+    "state": "VA"
+  },
+  {
     "id": "bourbon-county-h-s-ky",
     "name": "Bourbon County H.S.",
     "city": null,
@@ -1974,6 +2034,12 @@
     "state": "OH"
   },
   {
+    "id": "morton-h-s-in",
+    "name": "Morton H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
     "id": "butler-traditional-h-s-ky",
     "name": "Butler Traditional H.S.",
     "city": null,
@@ -1984,6 +2050,12 @@
     "name": "Illinois Valley Central H.S.",
     "city": null,
     "state": "IL"
+  },
+  {
+    "id": "fossil-ridge-h-s-co",
+    "name": "Fossil Ridge H.S.",
+    "city": null,
+    "state": "CO"
   },
   {
     "id": "elkhart-h-s-in",

@@ -780,12 +780,6 @@
     "state": "OH"
   },
   {
-    "id": "lafayette-h-s",
-    "name": "Lafayette H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "central-hardin-h-s-ky",
     "name": "Central Hardin H.S.",
     "city": null,
@@ -1114,18 +1108,6 @@
     "name": "Desert Vista H.S.",
     "city": null,
     "state": "AZ"
-  },
-  {
-    "id": "harrison-h-s",
-    "name": "Harrison H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "ronald-reagan-h-s",
-    "name": "Ronald Reagan H.S.",
-    "city": null,
-    "state": null
   },
   {
     "id": "bellevue-west-h-s-ne",

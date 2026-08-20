@@ -462,12 +462,6 @@
     "state": "TX"
   },
   {
-    "id": "centerville-h-s",
-    "name": "Centerville H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "shelby-county-h-s-ky",
     "name": "Shelby County H.S.",
     "city": null,
@@ -1080,12 +1074,6 @@
     "state": "IN"
   },
   {
-    "id": "cypress-creek-h-s",
-    "name": "Cypress Creek H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "rock-hill-h-s",
     "name": "Rock Hill H.S.",
     "city": null,
@@ -1112,12 +1100,6 @@
   {
     "id": "avon-h-s",
     "name": "Avon H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "cleveland-h-s",
-    "name": "Cleveland H.S.",
     "city": null,
     "state": null
   },
@@ -1380,12 +1362,6 @@
     "state": "OK"
   },
   {
-    "id": "ronald-reagan-h-s",
-    "name": "Ronald Reagan H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "xenia-h-s-oh",
     "name": "Xenia H.S.",
     "city": null,
@@ -1602,12 +1578,6 @@
     "state": "MO"
   },
   {
-    "id": "westlake-h-s",
-    "name": "Westlake H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "rowlett-h-s-tx",
     "name": "Rowlett H.S.",
     "city": null,
@@ -1748,12 +1718,6 @@
   {
     "id": "waubonsie-h-s",
     "name": "Waubonsie H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "summerville-h-s",
-    "name": "Summerville H.S.",
     "city": null,
     "state": null
   },

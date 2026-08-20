@@ -180,6 +180,12 @@
     "state": "NC"
   },
   {
+    "id": "plainfield-h-s-il",
+    "name": "Plainfield H.S.",
+    "city": null,
+    "state": "IL"
+  },
+  {
     "id": "fairmont-h-s-wv",
     "name": "Fairmont H.S.",
     "city": null,
@@ -480,18 +486,6 @@
     "state": "TX"
   },
   {
-    "id": "marian-catholic-h-s",
-    "name": "Marian Catholic H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "centerville-h-s",
-    "name": "Centerville H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "cary-h-s-nc",
     "name": "Cary H.S.",
     "city": null,
@@ -552,20 +546,8 @@
     "state": null
   },
   {
-    "id": "plainfield-h-s",
-    "name": "Plainfield H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "green-mountain-h-s",
     "name": "Green Mountain H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "cambridge-h-s",
-    "name": "Cambridge H.S.",
     "city": null,
     "state": null
   },
@@ -732,18 +714,6 @@
     "state": null
   },
   {
-    "id": "westfield-h-s",
-    "name": "Westfield H.S.",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "adair-county-h-s",
-    "name": "Adair County H.S.",
-    "city": null,
-    "state": null
-  },
-  {
     "id": "north-side-h-s",
     "name": "North Side H.S.",
     "city": null,
@@ -772,6 +742,18 @@
     "name": "Western Brown H.S.",
     "city": null,
     "state": "OH"
+  },
+  {
+    "id": "adair-county-h-s-jy",
+    "name": "Adair County H.S.",
+    "city": null,
+    "state": "JY"
+  },
+  {
+    "id": "marian-catholic-h-s-in",
+    "name": "Marian Catholic H.S.",
+    "city": null,
+    "state": "IN"
   },
   {
     "id": "triton-central-h-s-in",

@@ -875,7 +875,7 @@
     }
   },
   {
-    "bandId": "centerville-h-s",
+    "bandId": "centerville-h-s-oh",
     "eventId": "2002-2002-9-28ohtlf",
     "season": 2002,
     "round": "Finals",
@@ -1300,7 +1300,7 @@
     }
   },
   {
-    "bandId": "cleveland-h-s",
+    "bandId": "cleveland-h-s-tn",
     "eventId": "2002-regional-championship-at-johnson-city-tn",
     "season": 2002,
     "round": "Finals",
@@ -1325,7 +1325,7 @@
     }
   },
   {
-    "bandId": "summerville-h-s",
+    "bandId": "summerville-h-s-sc",
     "eventId": "2002-regional-championship-at-johnson-city-tn",
     "season": 2002,
     "round": "Finals",
@@ -3475,7 +3475,7 @@
     }
   },
   {
-    "bandId": "cypress-creek-h-s",
+    "bandId": "cypress-creek-h-s-fl",
     "eventId": "2002-regional-championship-at-daytona-fl",
     "season": 2002,
     "round": "Finals",
@@ -5875,7 +5875,7 @@
     }
   },
   {
-    "bandId": "ronald-reagan-h-s",
+    "bandId": "ronald-reagan-h-s-tx",
     "eventId": "2002-regional-championship-at-arlington-tx",
     "season": 2002,
     "round": "Finals",
@@ -5925,7 +5925,7 @@
     }
   },
   {
-    "bandId": "westlake-h-s",
+    "bandId": "westlake-h-s-tx",
     "eventId": "2002-regional-championship-at-arlington-tx",
     "season": 2002,
     "round": "Finals",
