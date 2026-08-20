@@ -1,6 +1,6 @@
 [
   {
-    "bandId": "herscher-h-s",
+    "bandId": "herscher-h-s-il",
     "eventId": "1988-summer-national-championship-at-whitewater-wi",
     "season": 1988,
     "round": "Finals",
@@ -24,7 +24,7 @@
     }
   },
   {
-    "bandId": "rocori-h-s",
+    "bandId": "rocori-h-s-mn",
     "eventId": "1988-summer-national-championship-at-whitewater-wi",
     "season": 1988,
     "round": "Finals",
@@ -49,7 +49,7 @@
     }
   },
   {
-    "bandId": "warren-junior-military-band",
+    "bandId": "warren-junior-military-band-oh",
     "eventId": "1988-summer-national-championship-at-whitewater-wi",
     "season": 1988,
     "round": "Finals",
@@ -74,7 +74,7 @@
     }
   },
   {
-    "bandId": "chesterton-h-s",
+    "bandId": "chesterton-h-s-in",
     "eventId": "1988-summer-national-championship-at-whitewater-wi",
     "season": 1988,
     "round": "Finals",
@@ -99,7 +99,7 @@
     }
   },
   {
-    "bandId": "armijo-h-s",
+    "bandId": "armijo-h-s-ca",
     "eventId": "1988-summer-national-championship-at-whitewater-wi",
     "season": 1988,
     "round": "Finals",
@@ -124,7 +124,7 @@
     }
   },
   {
-    "bandId": "christian-brothers-youth-band",
+    "bandId": "christian-brothers-youth-band-il",
     "eventId": "1988-summer-national-championship-at-whitewater-wi",
     "season": 1988,
     "round": "Finals",
@@ -149,7 +149,7 @@
     }
   },
   {
-    "bandId": "bellevue-east-h-s",
+    "bandId": "bellevue-east-h-s-ne",
     "eventId": "1988-summer-national-championship-at-whitewater-wi",
     "season": 1988,
     "round": "Finals",
@@ -174,7 +174,7 @@
     }
   },
   {
-    "bandId": "oskaloosa-h-s",
+    "bandId": "oskaloosa-h-s-ia",
     "eventId": "1988-summer-national-championship-at-whitewater-wi",
     "season": 1988,
     "round": "Finals",
@@ -199,7 +199,7 @@
     }
   },
   {
-    "bandId": "moses-lake-h-s",
+    "bandId": "moses-lake-h-s-wa",
     "eventId": "1988-summer-national-championship-at-whitewater-wi",
     "season": 1988,
     "round": "Finals",
@@ -224,7 +224,7 @@
     }
   },
   {
-    "bandId": "marian-catholic-h-s",
+    "bandId": "marian-catholic-h-s-il",
     "eventId": "1988-summer-national-championship-at-whitewater-wi",
     "season": 1988,
     "round": "Finals",
@@ -249,7 +249,7 @@
     }
   },
   {
-    "bandId": "sun-prairie-h-s",
+    "bandId": "sun-prairie-h-s-wi",
     "eventId": "1988-summer-national-championship-at-whitewater-wi",
     "season": 1988,
     "round": "Finals",
@@ -274,7 +274,7 @@
     }
   },
   {
-    "bandId": "lake-park-h-s",
+    "bandId": "lake-park-h-s-il",
     "eventId": "1988-regional-championship-at-akron-oh",
     "season": 1988,
     "round": "Finals",
@@ -299,7 +299,7 @@
     }
   },
   {
-    "bandId": "centerville-h-s",
+    "bandId": "centerville-h-s-oh",
     "eventId": "1988-regional-championship-at-akron-oh",
     "season": 1988,
     "round": "Finals",
@@ -324,7 +324,7 @@
     }
   },
   {
-    "bandId": "norwin-h-s",
+    "bandId": "norwin-h-s-pa",
     "eventId": "1988-regional-championship-at-akron-oh",
     "season": 1988,
     "round": "Finals",
@@ -349,7 +349,7 @@
     }
   },
   {
-    "bandId": "marietta-h-s",
+    "bandId": "marietta-h-s-oh",
     "eventId": "1988-regional-championship-at-akron-oh",
     "season": 1988,
     "round": "Finals",
@@ -374,7 +374,7 @@
     }
   },
   {
-    "bandId": "westerville-south-h-s",
+    "bandId": "westerville-south-h-s-oh",
     "eventId": "1988-regional-championship-at-akron-oh",
     "season": 1988,
     "round": "Finals",
@@ -399,7 +399,7 @@
     }
   },
   {
-    "bandId": "wadsworth-h-s",
+    "bandId": "wadsworth-h-s-oh",
     "eventId": "1988-regional-championship-at-akron-oh",
     "season": 1988,
     "round": "Finals",
@@ -424,7 +424,7 @@
     }
   },
   {
-    "bandId": "flushing-h-s",
+    "bandId": "flushing-h-s-mi",
     "eventId": "1988-regional-championship-at-akron-oh",
     "season": 1988,
     "round": "Finals",
@@ -449,7 +449,7 @@
     }
   },
   {
-    "bandId": "cambridge-h-s",
+    "bandId": "cambridge-h-s-oh",
     "eventId": "1988-regional-championship-at-akron-oh",
     "season": 1988,
     "round": "Finals",
@@ -474,7 +474,7 @@
     }
   },
   {
-    "bandId": "marlington-h-s",
+    "bandId": "marlington-h-s-oh",
     "eventId": "1988-regional-championship-at-akron-oh",
     "season": 1988,
     "round": "Finals",
@@ -499,7 +499,7 @@
     }
   },
   {
-    "bandId": "brunswick-h-s",
+    "bandId": "brunswick-h-s-oh",
     "eventId": "1988-regional-championship-at-akron-oh",
     "season": 1988,
     "round": "Finals",
@@ -524,7 +524,7 @@
     }
   },
   {
-    "bandId": "marietta-h-s",
+    "bandId": "marietta-h-s-oh",
     "eventId": "1988-regional-championship-at-akron-oh",
     "season": 1988,
     "round": "Prelims",
@@ -549,7 +549,7 @@
     }
   },
   {
-    "bandId": "marlington-h-s",
+    "bandId": "marlington-h-s-oh",
     "eventId": "1988-regional-championship-at-akron-oh",
     "season": 1988,
     "round": "Prelims",
@@ -574,7 +574,7 @@
     }
   },
   {
-    "bandId": "centerville-h-s",
+    "bandId": "centerville-h-s-oh",
     "eventId": "1988-regional-championship-at-akron-oh",
     "season": 1988,
     "round": "Prelims",
@@ -599,7 +599,7 @@
     }
   },
   {
-    "bandId": "cambridge-h-s",
+    "bandId": "cambridge-h-s-oh",
     "eventId": "1988-regional-championship-at-akron-oh",
     "season": 1988,
     "round": "Prelims",
@@ -624,7 +624,7 @@
     }
   },
   {
-    "bandId": "lake-park-h-s",
+    "bandId": "lake-park-h-s-il",
     "eventId": "1988-regional-championship-at-akron-oh",
     "season": 1988,
     "round": "Prelims",
@@ -649,7 +649,7 @@
     }
   },
   {
-    "bandId": "wadsworth-h-s",
+    "bandId": "wadsworth-h-s-oh",
     "eventId": "1988-regional-championship-at-akron-oh",
     "season": 1988,
     "round": "Prelims",
@@ -674,7 +674,7 @@
     }
   },
   {
-    "bandId": "norwell-h-s",
+    "bandId": "norwell-h-s-in",
     "eventId": "1988-regional-championship-at-akron-oh",
     "season": 1988,
     "round": "Prelims",
@@ -699,7 +699,7 @@
     }
   },
   {
-    "bandId": "flushing-h-s",
+    "bandId": "flushing-h-s-mi",
     "eventId": "1988-regional-championship-at-akron-oh",
     "season": 1988,
     "round": "Prelims",
@@ -724,7 +724,7 @@
     }
   },
   {
-    "bandId": "norwin-h-s",
+    "bandId": "norwin-h-s-pa",
     "eventId": "1988-regional-championship-at-akron-oh",
     "season": 1988,
     "round": "Prelims",
@@ -749,7 +749,7 @@
     }
   },
   {
-    "bandId": "green-local-h-s",
+    "bandId": "green-local-h-s-oh",
     "eventId": "1988-regional-championship-at-akron-oh",
     "season": 1988,
     "round": "Prelims",
@@ -774,7 +774,7 @@
     }
   },
   {
-    "bandId": "westerville-south-h-s",
+    "bandId": "westerville-south-h-s-oh",
     "eventId": "1988-regional-championship-at-akron-oh",
     "season": 1988,
     "round": "Prelims",
@@ -799,7 +799,7 @@
     }
   },
   {
-    "bandId": "brunswick-h-s",
+    "bandId": "brunswick-h-s-oh",
     "eventId": "1988-regional-championship-at-akron-oh",
     "season": 1988,
     "round": "Prelims",
@@ -824,7 +824,7 @@
     }
   },
   {
-    "bandId": "trinity-h-s",
+    "bandId": "trinity-h-s-pa",
     "eventId": "1988-regional-championship-at-akron-oh",
     "season": 1988,
     "round": "Prelims",
@@ -849,7 +849,7 @@
     }
   },
   {
-    "bandId": "lakeview-h-s",
+    "bandId": "lakeview-h-s-mi",
     "eventId": "1988-regional-championship-at-akron-oh",
     "season": 1988,
     "round": "Prelims",
@@ -874,7 +874,7 @@
     }
   },
   {
-    "bandId": "tecumseh-h-s",
+    "bandId": "tecumseh-h-s-oh",
     "eventId": "1988-regional-championship-at-akron-oh",
     "season": 1988,
     "round": "Prelims",
@@ -899,7 +899,7 @@
     }
   },
   {
-    "bandId": "warren-local-h-s",
+    "bandId": "warren-local-h-s-oh",
     "eventId": "1988-regional-championship-at-akron-oh",
     "season": 1988,
     "round": "Prelims",
@@ -924,7 +924,7 @@
     }
   },
   {
-    "bandId": "marian-catholic-h-s",
+    "bandId": "marian-catholic-h-s-il",
     "eventId": "1988-regional-championship-at-normal-il",
     "season": 1988,
     "round": "Finals",
@@ -949,7 +949,7 @@
     }
   },
   {
-    "bandId": "lincoln-way-h-s",
+    "bandId": "lincoln-way-h-s-il",
     "eventId": "1988-regional-championship-at-normal-il",
     "season": 1988,
     "round": "Finals",
@@ -974,7 +974,7 @@
     }
   },
   {
-    "bandId": "concord-h-s",
+    "bandId": "concord-h-s-in",
     "eventId": "1988-regional-championship-at-normal-il",
     "season": 1988,
     "round": "Finals",
@@ -999,7 +999,7 @@
     }
   },
   {
-    "bandId": "maconaquah-h-s",
+    "bandId": "maconaquah-h-s-in",
     "eventId": "1988-regional-championship-at-normal-il",
     "season": 1988,
     "round": "Finals",
@@ -1024,7 +1024,7 @@
     }
   },
   {
-    "bandId": "warsaw-h-s",
+    "bandId": "warsaw-h-s-in",
     "eventId": "1988-regional-championship-at-normal-il",
     "season": 1988,
     "round": "Finals",
@@ -1049,7 +1049,7 @@
     }
   },
   {
-    "bandId": "normal-h-s",
+    "bandId": "normal-h-s-il",
     "eventId": "1988-regional-championship-at-normal-il",
     "season": 1988,
     "round": "Finals",
@@ -1074,7 +1074,7 @@
     }
   },
   {
-    "bandId": "lafayette-jefferson-h-s",
+    "bandId": "lafayette-jefferson-h-s-in",
     "eventId": "1988-regional-championship-at-normal-il",
     "season": 1988,
     "round": "Finals",
@@ -1099,7 +1099,7 @@
     }
   },
   {
-    "bandId": "chesterton-h-s",
+    "bandId": "chesterton-h-s-in",
     "eventId": "1988-regional-championship-at-normal-il",
     "season": 1988,
     "round": "Finals",
@@ -1124,7 +1124,7 @@
     }
   },
   {
-    "bandId": "portage-central-h-s",
+    "bandId": "portage-central-h-s-mi",
     "eventId": "1988-regional-championship-at-normal-il",
     "season": 1988,
     "round": "Finals",
@@ -1149,7 +1149,7 @@
     }
   },
   {
-    "bandId": "metamora-h-s",
+    "bandId": "metamora-h-s-il",
     "eventId": "1988-regional-championship-at-normal-il",
     "season": 1988,
     "round": "Finals",
@@ -1174,7 +1174,7 @@
     }
   },
   {
-    "bandId": "lafayette-jefferson-h-s",
+    "bandId": "lafayette-jefferson-h-s-in",
     "eventId": "1988-regional-championship-at-normal-il",
     "season": 1988,
     "round": "Prelims",
@@ -1199,7 +1199,7 @@
     }
   },
   {
-    "bandId": "maconaquah-h-s",
+    "bandId": "maconaquah-h-s-in",
     "eventId": "1988-regional-championship-at-normal-il",
     "season": 1988,
     "round": "Prelims",
@@ -1224,7 +1224,7 @@
     }
   },
   {
-    "bandId": "marian-catholic-h-s",
+    "bandId": "marian-catholic-h-s-il",
     "eventId": "1988-regional-championship-at-normal-il",
     "season": 1988,
     "round": "Prelims",
@@ -1249,7 +1249,7 @@
     }
   },
   {
-    "bandId": "lincoln-way-h-s",
+    "bandId": "lincoln-way-h-s-il",
     "eventId": "1988-regional-championship-at-normal-il",
     "season": 1988,
     "round": "Prelims",
@@ -1274,7 +1274,7 @@
     }
   },
   {
-    "bandId": "concord-h-s",
+    "bandId": "concord-h-s-in",
     "eventId": "1988-regional-championship-at-normal-il",
     "season": 1988,
     "round": "Prelims",
@@ -1299,7 +1299,7 @@
     }
   },
   {
-    "bandId": "metamora-h-s",
+    "bandId": "metamora-h-s-il",
     "eventId": "1988-regional-championship-at-normal-il",
     "season": 1988,
     "round": "Prelims",
@@ -1324,7 +1324,7 @@
     }
   },
   {
-    "bandId": "arthur-h-s",
+    "bandId": "arthur-h-s-il",
     "eventId": "1988-regional-championship-at-normal-il",
     "season": 1988,
     "round": "Prelims",
@@ -1349,7 +1349,7 @@
     }
   },
   {
-    "bandId": "normal-h-s",
+    "bandId": "normal-h-s-il",
     "eventId": "1988-regional-championship-at-normal-il",
     "season": 1988,
     "round": "Prelims",
@@ -1374,7 +1374,7 @@
     }
   },
   {
-    "bandId": "chesterton-h-s",
+    "bandId": "chesterton-h-s-in",
     "eventId": "1988-regional-championship-at-normal-il",
     "season": 1988,
     "round": "Prelims",
@@ -1399,7 +1399,7 @@
     }
   },
   {
-    "bandId": "hall-h-s",
+    "bandId": "hall-h-s-il",
     "eventId": "1988-regional-championship-at-normal-il",
     "season": 1988,
     "round": "Prelims",
@@ -1424,7 +1424,7 @@
     }
   },
   {
-    "bandId": "warsaw-h-s",
+    "bandId": "warsaw-h-s-in",
     "eventId": "1988-regional-championship-at-normal-il",
     "season": 1988,
     "round": "Prelims",
@@ -1449,7 +1449,7 @@
     }
   },
   {
-    "bandId": "portage-central-h-s",
+    "bandId": "portage-central-h-s-mi",
     "eventId": "1988-regional-championship-at-normal-il",
     "season": 1988,
     "round": "Prelims",
@@ -1474,7 +1474,7 @@
     }
   },
   {
-    "bandId": "wheaton-central-h-s",
+    "bandId": "wheaton-central-h-s-il",
     "eventId": "1988-regional-championship-at-normal-il",
     "season": 1988,
     "round": "Prelims",
@@ -1499,7 +1499,7 @@
     }
   },
   {
-    "bandId": "victor-j-andrew-h-s",
+    "bandId": "victor-j-andrew-h-s-il",
     "eventId": "1988-regional-championship-at-normal-il",
     "season": 1988,
     "round": "Prelims",
@@ -1524,7 +1524,7 @@
     }
   },
   {
-    "bandId": "bloomington-south-h-s",
+    "bandId": "bloomington-south-h-s-in",
     "eventId": "1988-regional-championship-at-normal-il",
     "season": 1988,
     "round": "Prelims",
@@ -1549,7 +1549,7 @@
     }
   },
   {
-    "bandId": "burlington-h-s",
+    "bandId": "burlington-h-s-wi",
     "eventId": "1988-regional-championship-at-normal-il",
     "season": 1988,
     "round": "Prelims",
@@ -1574,7 +1574,7 @@
     }
   },
   {
-    "bandId": "danville-h-s",
+    "bandId": "danville-h-s-il",
     "eventId": "1988-regional-championship-at-normal-il",
     "season": 1988,
     "round": "Prelims",
@@ -1599,7 +1599,7 @@
     }
   },
   {
-    "bandId": "kiski-area-h-s",
+    "bandId": "kiski-area-h-s-pa",
     "eventId": "1988-regional-championship-at-morgantown-wv",
     "season": 1988,
     "round": "Finals",
@@ -1624,7 +1624,7 @@
     }
   },
   {
-    "bandId": "george-rogers-clark-h-s",
+    "bandId": "george-rogers-clark-h-s-ky",
     "eventId": "1988-regional-championship-at-morgantown-wv",
     "season": 1988,
     "round": "Finals",
@@ -1649,7 +1649,7 @@
     }
   },
   {
-    "bandId": "northmont-h-s",
+    "bandId": "northmont-h-s-oh",
     "eventId": "1988-regional-championship-at-morgantown-wv",
     "season": 1988,
     "round": "Finals",
@@ -1674,7 +1674,7 @@
     }
   },
   {
-    "bandId": "norwin-h-s",
+    "bandId": "norwin-h-s-pa",
     "eventId": "1988-regional-championship-at-morgantown-wv",
     "season": 1988,
     "round": "Finals",
@@ -1699,7 +1699,7 @@
     }
   },
   {
-    "bandId": "westerville-south-h-s",
+    "bandId": "westerville-south-h-s-oh",
     "eventId": "1988-regional-championship-at-morgantown-wv",
     "season": 1988,
     "round": "Finals",
@@ -1724,7 +1724,7 @@
     }
   },
   {
-    "bandId": "rocky-mount-h-s",
+    "bandId": "rocky-mount-h-s-nc",
     "eventId": "1988-regional-championship-at-morgantown-wv",
     "season": 1988,
     "round": "Finals",
@@ -1749,7 +1749,7 @@
     }
   },
   {
-    "bandId": "new-philadelphia-h-s",
+    "bandId": "new-philadelphia-h-s-oh",
     "eventId": "1988-regional-championship-at-morgantown-wv",
     "season": 1988,
     "round": "Finals",
@@ -1774,7 +1774,7 @@
     }
   },
   {
-    "bandId": "marietta-h-s",
+    "bandId": "marietta-h-s-oh",
     "eventId": "1988-regional-championship-at-morgantown-wv",
     "season": 1988,
     "round": "Finals",
@@ -1799,7 +1799,7 @@
     }
   },
   {
-    "bandId": "greenbrier-east-h-s",
+    "bandId": "greenbrier-east-h-s-wv",
     "eventId": "1988-regional-championship-at-morgantown-wv",
     "season": 1988,
     "round": "Finals",
@@ -1824,7 +1824,7 @@
     }
   },
   {
-    "bandId": "toronto-h-s",
+    "bandId": "toronto-h-s-oh",
     "eventId": "1988-regional-championship-at-morgantown-wv",
     "season": 1988,
     "round": "Finals",
@@ -1849,7 +1849,7 @@
     }
   },
   {
-    "bandId": "marlington-h-s",
+    "bandId": "marlington-h-s-oh",
     "eventId": "1988-regional-championship-at-morgantown-wv",
     "season": 1988,
     "round": "Finals",
@@ -1874,7 +1874,7 @@
     }
   },
   {
-    "bandId": "toronto-h-s",
+    "bandId": "toronto-h-s-oh",
     "eventId": "1988-regional-championship-at-morgantown-wv",
     "season": 1988,
     "round": "Prelims",
@@ -1899,7 +1899,7 @@
     }
   },
   {
-    "bandId": "norwin-h-s",
+    "bandId": "norwin-h-s-pa",
     "eventId": "1988-regional-championship-at-morgantown-wv",
     "season": 1988,
     "round": "Prelims",
@@ -1924,7 +1924,7 @@
     }
   },
   {
-    "bandId": "kiski-area-h-s",
+    "bandId": "kiski-area-h-s-pa",
     "eventId": "1988-regional-championship-at-morgantown-wv",
     "season": 1988,
     "round": "Prelims",
@@ -1949,7 +1949,7 @@
     }
   },
   {
-    "bandId": "northmont-h-s",
+    "bandId": "northmont-h-s-oh",
     "eventId": "1988-regional-championship-at-morgantown-wv",
     "season": 1988,
     "round": "Prelims",
@@ -1974,7 +1974,7 @@
     }
   },
   {
-    "bandId": "new-philadelphia-h-s",
+    "bandId": "new-philadelphia-h-s-oh",
     "eventId": "1988-regional-championship-at-morgantown-wv",
     "season": 1988,
     "round": "Prelims",
@@ -1999,7 +1999,7 @@
     }
   },
   {
-    "bandId": "rocky-mount-h-s",
+    "bandId": "rocky-mount-h-s-nc",
     "eventId": "1988-regional-championship-at-morgantown-wv",
     "season": 1988,
     "round": "Prelims",
@@ -2024,7 +2024,7 @@
     }
   },
   {
-    "bandId": "westerville-south-h-s",
+    "bandId": "westerville-south-h-s-oh",
     "eventId": "1988-regional-championship-at-morgantown-wv",
     "season": 1988,
     "round": "Prelims",
@@ -2049,7 +2049,7 @@
     }
   },
   {
-    "bandId": "marlington-h-s",
+    "bandId": "marlington-h-s-oh",
     "eventId": "1988-regional-championship-at-morgantown-wv",
     "season": 1988,
     "round": "Prelims",
@@ -2074,7 +2074,7 @@
     }
   },
   {
-    "bandId": "george-rogers-clark-h-s",
+    "bandId": "george-rogers-clark-h-s-ky",
     "eventId": "1988-regional-championship-at-morgantown-wv",
     "season": 1988,
     "round": "Prelims",
@@ -2099,7 +2099,7 @@
     }
   },
   {
-    "bandId": "fairmont-h-s",
+    "bandId": "fairmont-h-s-wv",
     "eventId": "1988-regional-championship-at-morgantown-wv",
     "season": 1988,
     "round": "Prelims",
@@ -2124,7 +2124,7 @@
     }
   },
   {
-    "bandId": "northern-nash-h-s",
+    "bandId": "northern-nash-h-s-nc",
     "eventId": "1988-regional-championship-at-morgantown-wv",
     "season": 1988,
     "round": "Prelims",
@@ -2149,7 +2149,7 @@
     }
   },
   {
-    "bandId": "marietta-h-s",
+    "bandId": "marietta-h-s-oh",
     "eventId": "1988-regional-championship-at-morgantown-wv",
     "season": 1988,
     "round": "Prelims",
@@ -2174,7 +2174,7 @@
     }
   },
   {
-    "bandId": "woodrow-wilson-h-s",
+    "bandId": "woodrow-wilson-h-s-wv",
     "eventId": "1988-regional-championship-at-morgantown-wv",
     "season": 1988,
     "round": "Prelims",
@@ -2199,7 +2199,7 @@
     }
   },
   {
-    "bandId": "hanover-h-s",
+    "bandId": "hanover-h-s-pa",
     "eventId": "1988-regional-championship-at-morgantown-wv",
     "season": 1988,
     "round": "Prelims",
@@ -2224,7 +2224,7 @@
     }
   },
   {
-    "bandId": "greenbrier-east-h-s",
+    "bandId": "greenbrier-east-h-s-wv",
     "eventId": "1988-regional-championship-at-morgantown-wv",
     "season": 1988,
     "round": "Prelims",
@@ -2249,7 +2249,7 @@
     }
   },
   {
-    "bandId": "west-allegheny-h-s",
+    "bandId": "west-allegheny-h-s-pa",
     "eventId": "1988-regional-championship-at-morgantown-wv",
     "season": 1988,
     "round": "Prelims",
@@ -2274,7 +2274,7 @@
     }
   },
   {
-    "bandId": "wadsworth-h-s",
+    "bandId": "wadsworth-h-s-oh",
     "eventId": "1988-regional-championship-at-morgantown-wv",
     "season": 1988,
     "round": "Prelims",
@@ -2299,7 +2299,7 @@
     }
   },
   {
-    "bandId": "paden-city-h-s",
+    "bandId": "paden-city-h-s-wv",
     "eventId": "1988-regional-championship-at-morgantown-wv",
     "season": 1988,
     "round": "Prelims",
@@ -2324,7 +2324,7 @@
     }
   },
   {
-    "bandId": "trinity-h-s",
+    "bandId": "trinity-h-s-pa",
     "eventId": "1988-regional-championship-at-morgantown-wv",
     "season": 1988,
     "round": "Prelims",
@@ -2349,7 +2349,7 @@
     }
   },
   {
-    "bandId": "greater-latrobe-h-s",
+    "bandId": "greater-latrobe-h-s-pa",
     "eventId": "1988-regional-championship-at-morgantown-wv",
     "season": 1988,
     "round": "Prelims",
@@ -2374,7 +2374,7 @@
     }
   },
   {
-    "bandId": "carroll-h-s",
+    "bandId": "carroll-h-s-oh",
     "eventId": "1988-regional-championship-at-morgantown-wv",
     "season": 1988,
     "round": "Prelims",
@@ -2399,7 +2399,7 @@
     }
   },
   {
-    "bandId": "tate-h-s",
+    "bandId": "tate-h-s-fl",
     "eventId": "1988-regional-championship-at-hattiesburg-ms",
     "season": 1988,
     "round": "Finals",
@@ -2424,7 +2424,7 @@
     }
   },
   {
-    "bandId": "lassiter-h-s",
+    "bandId": "lassiter-h-s-ga",
     "eventId": "1988-regional-championship-at-hattiesburg-ms",
     "season": 1988,
     "round": "Finals",
@@ -2449,7 +2449,7 @@
     }
   },
   {
-    "bandId": "grenada-h-s",
+    "bandId": "grenada-h-s-ms",
     "eventId": "1988-regional-championship-at-hattiesburg-ms",
     "season": 1988,
     "round": "Finals",
@@ -2474,7 +2474,7 @@
     }
   },
   {
-    "bandId": "clinton-h-s",
+    "bandId": "clinton-h-s-ms",
     "eventId": "1988-regional-championship-at-hattiesburg-ms",
     "season": 1988,
     "round": "Finals",
@@ -2499,7 +2499,7 @@
     }
   },
   {
-    "bandId": "choctawhatchee-h-s",
+    "bandId": "choctawhatchee-h-s-fl",
     "eventId": "1988-regional-championship-at-hattiesburg-ms",
     "season": 1988,
     "round": "Finals",
@@ -2524,7 +2524,7 @@
     }
   },
   {
-    "bandId": "north-side-h-s",
+    "bandId": "north-side-h-s-tn",
     "eventId": "1988-regional-championship-at-hattiesburg-ms",
     "season": 1988,
     "round": "Finals",
@@ -2549,7 +2549,7 @@
     }
   },
   {
-    "bandId": "pearl-h-s",
+    "bandId": "pearl-h-s-ms",
     "eventId": "1988-regional-championship-at-hattiesburg-ms",
     "season": 1988,
     "round": "Finals",
@@ -2574,7 +2574,7 @@
     }
   },
   {
-    "bandId": "e-d-white-catholic-h-s",
+    "bandId": "e-d-white-catholic-h-s-la",
     "eventId": "1988-regional-championship-at-hattiesburg-ms",
     "season": 1988,
     "round": "Finals",
@@ -2599,7 +2599,7 @@
     }
   },
   {
-    "bandId": "kosciusko-h-s",
+    "bandId": "kosciusko-h-s-ms",
     "eventId": "1988-regional-championship-at-hattiesburg-ms",
     "season": 1988,
     "round": "Finals",
@@ -2624,7 +2624,7 @@
     }
   },
   {
-    "bandId": "harrison-central-h-s",
+    "bandId": "harrison-central-h-s-ms",
     "eventId": "1988-regional-championship-at-hattiesburg-ms",
     "season": 1988,
     "round": "Finals",
@@ -2649,7 +2649,7 @@
     }
   },
   {
-    "bandId": "lassiter-h-s",
+    "bandId": "lassiter-h-s-ga",
     "eventId": "1988-regional-championship-at-hattiesburg-ms",
     "season": 1988,
     "round": "Prelims",
@@ -2674,7 +2674,7 @@
     }
   },
   {
-    "bandId": "e-d-white-catholic-h-s",
+    "bandId": "e-d-white-catholic-h-s-la",
     "eventId": "1988-regional-championship-at-hattiesburg-ms",
     "season": 1988,
     "round": "Prelims",
@@ -2699,7 +2699,7 @@
     }
   },
   {
-    "bandId": "pearl-h-s",
+    "bandId": "pearl-h-s-ms",
     "eventId": "1988-regional-championship-at-hattiesburg-ms",
     "season": 1988,
     "round": "Prelims",
@@ -2724,7 +2724,7 @@
     }
   },
   {
-    "bandId": "tate-h-s",
+    "bandId": "tate-h-s-fl",
     "eventId": "1988-regional-championship-at-hattiesburg-ms",
     "season": 1988,
     "round": "Prelims",
@@ -2749,7 +2749,7 @@
     }
   },
   {
-    "bandId": "grenada-h-s",
+    "bandId": "grenada-h-s-ms",
     "eventId": "1988-regional-championship-at-hattiesburg-ms",
     "season": 1988,
     "round": "Prelims",
@@ -2774,7 +2774,7 @@
     }
   },
   {
-    "bandId": "kosciusko-h-s",
+    "bandId": "kosciusko-h-s-ms",
     "eventId": "1988-regional-championship-at-hattiesburg-ms",
     "season": 1988,
     "round": "Prelims",
@@ -2799,7 +2799,7 @@
     }
   },
   {
-    "bandId": "choctawhatchee-h-s",
+    "bandId": "choctawhatchee-h-s-fl",
     "eventId": "1988-regional-championship-at-hattiesburg-ms",
     "season": 1988,
     "round": "Prelims",
@@ -2824,7 +2824,7 @@
     }
   },
   {
-    "bandId": "clinton-h-s",
+    "bandId": "clinton-h-s-ms",
     "eventId": "1988-regional-championship-at-hattiesburg-ms",
     "season": 1988,
     "round": "Prelims",
@@ -2849,7 +2849,7 @@
     }
   },
   {
-    "bandId": "caldwell-h-s",
+    "bandId": "caldwell-h-s-ms",
     "eventId": "1988-regional-championship-at-hattiesburg-ms",
     "season": 1988,
     "round": "Prelims",
@@ -2874,7 +2874,7 @@
     }
   },
   {
-    "bandId": "stone-h-s",
+    "bandId": "stone-h-s-ms",
     "eventId": "1988-regional-championship-at-hattiesburg-ms",
     "season": 1988,
     "round": "Prelims",
@@ -2899,7 +2899,7 @@
     }
   },
   {
-    "bandId": "harrison-central-h-s",
+    "bandId": "harrison-central-h-s-ms",
     "eventId": "1988-regional-championship-at-hattiesburg-ms",
     "season": 1988,
     "round": "Prelims",
@@ -2924,7 +2924,7 @@
     }
   },
   {
-    "bandId": "north-side-h-s",
+    "bandId": "north-side-h-s-tn",
     "eventId": "1988-regional-championship-at-hattiesburg-ms",
     "season": 1988,
     "round": "Prelims",
@@ -2949,7 +2949,7 @@
     }
   },
   {
-    "bandId": "quitman-h-s",
+    "bandId": "quitman-h-s-ms",
     "eventId": "1988-regional-championship-at-hattiesburg-ms",
     "season": 1988,
     "round": "Prelims",
@@ -2974,7 +2974,7 @@
     }
   },
   {
-    "bandId": "hattiesburg-h-s",
+    "bandId": "hattiesburg-h-s-ms",
     "eventId": "1988-regional-championship-at-hattiesburg-ms",
     "season": 1988,
     "round": "Prelims",
@@ -2999,7 +2999,7 @@
     }
   },
   {
-    "bandId": "mccomb-h-s",
+    "bandId": "mccomb-h-s-ms",
     "eventId": "1988-regional-championship-at-hattiesburg-ms",
     "season": 1988,
     "round": "Prelims",
@@ -3024,7 +3024,7 @@
     }
   },
   {
-    "bandId": "foothill-h-s",
+    "bandId": "foothill-h-s-nv",
     "eventId": "1988-western-regional-championship-at-stockton-ca",
     "season": 1988,
     "round": "Finals",
@@ -3049,7 +3049,7 @@
     }
   },
   {
-    "bandId": "thomas-downey-h-s",
+    "bandId": "thomas-downey-h-s-ca",
     "eventId": "1988-western-regional-championship-at-stockton-ca",
     "season": 1988,
     "round": "Finals",
@@ -3074,7 +3074,7 @@
     }
   },
   {
-    "bandId": "east-union-h-s",
+    "bandId": "east-union-h-s-ca",
     "eventId": "1988-western-regional-championship-at-stockton-ca",
     "season": 1988,
     "round": "Finals",
@@ -3099,7 +3099,7 @@
     }
   },
   {
-    "bandId": "mead-h-s",
+    "bandId": "mead-h-s-co",
     "eventId": "1988-western-regional-championship-at-stockton-ca",
     "season": 1988,
     "round": "Finals",
@@ -3124,7 +3124,7 @@
     }
   },
   {
-    "bandId": "summerville-h-s",
+    "bandId": "summerville-h-s-ca",
     "eventId": "1988-western-regional-championship-at-stockton-ca",
     "season": 1988,
     "round": "Finals",
@@ -3148,7 +3148,7 @@
     }
   },
   {
-    "bandId": "oak-grove-h-s",
+    "bandId": "oak-grove-h-s-ca",
     "eventId": "1988-western-regional-championship-at-stockton-ca",
     "season": 1988,
     "round": "Finals",
@@ -3173,7 +3173,7 @@
     }
   },
   {
-    "bandId": "live-oak-h-s",
+    "bandId": "live-oak-h-s-ca",
     "eventId": "1988-western-regional-championship-at-stockton-ca",
     "season": 1988,
     "round": "Finals",
@@ -3198,7 +3198,7 @@
     }
   },
   {
-    "bandId": "fred-c-beyer-h-s",
+    "bandId": "fred-c-beyer-h-s-ca",
     "eventId": "1988-western-regional-championship-at-stockton-ca",
     "season": 1988,
     "round": "Finals",
@@ -3223,7 +3223,7 @@
     }
   },
   {
-    "bandId": "clovis-h-s",
+    "bandId": "clovis-h-s-ca",
     "eventId": "1988-western-regional-championship-at-stockton-ca",
     "season": 1988,
     "round": "Finals",
@@ -3248,7 +3248,7 @@
     }
   },
   {
-    "bandId": "james-logan-h-s",
+    "bandId": "james-logan-h-s-ca",
     "eventId": "1988-western-regional-championship-at-stockton-ca",
     "season": 1988,
     "round": "Finals",
@@ -3273,7 +3273,7 @@
     }
   },
   {
-    "bandId": "american-fork-h-s",
+    "bandId": "american-fork-h-s-ut",
     "eventId": "1988-western-regional-championship-at-stockton-ca",
     "season": 1988,
     "round": "Finals",
@@ -3298,7 +3298,7 @@
     }
   },
   {
-    "bandId": "clovis-west-h-s",
+    "bandId": "clovis-west-h-s-ca",
     "eventId": "1988-western-regional-championship-at-stockton-ca",
     "season": 1988,
     "round": "Finals",
@@ -3323,7 +3323,7 @@
     }
   },
   {
-    "bandId": "clovis-west-h-s",
+    "bandId": "clovis-west-h-s-ca",
     "eventId": "1988-western-regional-championship-at-stockton-ca",
     "season": 1988,
     "round": "Prelims",
@@ -3348,7 +3348,7 @@
     }
   },
   {
-    "bandId": "live-oak-h-s",
+    "bandId": "live-oak-h-s-ca",
     "eventId": "1988-western-regional-championship-at-stockton-ca",
     "season": 1988,
     "round": "Prelims",
@@ -3373,7 +3373,7 @@
     }
   },
   {
-    "bandId": "clovis-h-s",
+    "bandId": "clovis-h-s-ca",
     "eventId": "1988-western-regional-championship-at-stockton-ca",
     "season": 1988,
     "round": "Prelims",
@@ -3398,7 +3398,7 @@
     }
   },
   {
-    "bandId": "summerville-h-s",
+    "bandId": "summerville-h-s-ca",
     "eventId": "1988-western-regional-championship-at-stockton-ca",
     "season": 1988,
     "round": "Prelims",
@@ -3423,7 +3423,7 @@
     }
   },
   {
-    "bandId": "james-logan-h-s",
+    "bandId": "james-logan-h-s-ca",
     "eventId": "1988-western-regional-championship-at-stockton-ca",
     "season": 1988,
     "round": "Prelims",
@@ -3448,7 +3448,7 @@
     }
   },
   {
-    "bandId": "thomas-downey-h-s",
+    "bandId": "thomas-downey-h-s-ca",
     "eventId": "1988-western-regional-championship-at-stockton-ca",
     "season": 1988,
     "round": "Prelims",
@@ -3473,7 +3473,7 @@
     }
   },
   {
-    "bandId": "foothill-h-s",
+    "bandId": "foothill-h-s-nv",
     "eventId": "1988-western-regional-championship-at-stockton-ca",
     "season": 1988,
     "round": "Prelims",
@@ -3498,7 +3498,7 @@
     }
   },
   {
-    "bandId": "american-fork-h-s",
+    "bandId": "american-fork-h-s-ut",
     "eventId": "1988-western-regional-championship-at-stockton-ca",
     "season": 1988,
     "round": "Prelims",
@@ -3523,7 +3523,7 @@
     }
   },
   {
-    "bandId": "east-union-h-s",
+    "bandId": "east-union-h-s-ca",
     "eventId": "1988-western-regional-championship-at-stockton-ca",
     "season": 1988,
     "round": "Prelims",
@@ -3548,7 +3548,7 @@
     }
   },
   {
-    "bandId": "fred-c-beyer-h-s",
+    "bandId": "fred-c-beyer-h-s-ca",
     "eventId": "1988-western-regional-championship-at-stockton-ca",
     "season": 1988,
     "round": "Prelims",
@@ -3573,7 +3573,7 @@
     }
   },
   {
-    "bandId": "mead-h-s",
+    "bandId": "mead-h-s-co",
     "eventId": "1988-western-regional-championship-at-stockton-ca",
     "season": 1988,
     "round": "Prelims",
@@ -3598,7 +3598,7 @@
     }
   },
   {
-    "bandId": "oak-grove-h-s",
+    "bandId": "oak-grove-h-s-ca",
     "eventId": "1988-western-regional-championship-at-stockton-ca",
     "season": 1988,
     "round": "Prelims",
@@ -3623,7 +3623,7 @@
     }
   },
   {
-    "bandId": "westfield-h-s",
+    "bandId": "westfield-h-s-tx",
     "eventId": "1988-regional-championship-at-houston-tx",
     "season": 1988,
     "round": "Finals",
@@ -3648,7 +3648,7 @@
     }
   },
   {
-    "bandId": "klein-h-s",
+    "bandId": "klein-h-s-tx",
     "eventId": "1988-regional-championship-at-houston-tx",
     "season": 1988,
     "round": "Finals",
@@ -3673,7 +3673,7 @@
     }
   },
   {
-    "bandId": "crockett-h-s",
+    "bandId": "crockett-h-s-tx",
     "eventId": "1988-regional-championship-at-houston-tx",
     "season": 1988,
     "round": "Finals",
@@ -3698,7 +3698,7 @@
     }
   },
   {
-    "bandId": "dickinson-h-s",
+    "bandId": "dickinson-h-s-tx",
     "eventId": "1988-regional-championship-at-houston-tx",
     "season": 1988,
     "round": "Finals",
@@ -3723,7 +3723,7 @@
     }
   },
   {
-    "bandId": "conroe-h-s",
+    "bandId": "conroe-h-s-tx",
     "eventId": "1988-regional-championship-at-houston-tx",
     "season": 1988,
     "round": "Finals",
@@ -3748,7 +3748,7 @@
     }
   },
   {
-    "bandId": "desoto-h-s",
+    "bandId": "desoto-h-s-tx",
     "eventId": "1988-regional-championship-at-houston-tx",
     "season": 1988,
     "round": "Finals",
@@ -3773,7 +3773,7 @@
     }
   },
   {
-    "bandId": "klein-forest-h-s",
+    "bandId": "klein-forest-h-s-tx",
     "eventId": "1988-regional-championship-at-houston-tx",
     "season": 1988,
     "round": "Finals",
@@ -3798,7 +3798,7 @@
     }
   },
   {
-    "bandId": "pearl-h-s",
+    "bandId": "pearl-h-s-ms",
     "eventId": "1988-regional-championship-at-houston-tx",
     "season": 1988,
     "round": "Finals",
@@ -3823,7 +3823,7 @@
     }
   },
   {
-    "bandId": "e-d-white-catholic-h-s",
+    "bandId": "e-d-white-catholic-h-s-la",
     "eventId": "1988-regional-championship-at-houston-tx",
     "season": 1988,
     "round": "Finals",
@@ -3848,7 +3848,7 @@
     }
   },
   {
-    "bandId": "comeaux-h-s",
+    "bandId": "comeaux-h-s-la",
     "eventId": "1988-regional-championship-at-houston-tx",
     "season": 1988,
     "round": "Finals",
@@ -3873,7 +3873,7 @@
     }
   },
   {
-    "bandId": "clear-lake-h-s",
+    "bandId": "clear-lake-h-s-tx",
     "eventId": "1988-southwest-regional-championship-at-houston-tx",
     "season": 1988,
     "round": "Prelims",
@@ -3898,7 +3898,7 @@
     }
   },
   {
-    "bandId": "alief-elsik-h-s",
+    "bandId": "alief-elsik-h-s-tx",
     "eventId": "1988-southwest-regional-championship-at-houston-tx",
     "season": 1988,
     "round": "Prelims",
@@ -3923,7 +3923,7 @@
     }
   },
   {
-    "bandId": "dickinson-h-s",
+    "bandId": "dickinson-h-s-tx",
     "eventId": "1988-southwest-regional-championship-at-houston-tx",
     "season": 1988,
     "round": "Prelims",
@@ -3948,7 +3948,7 @@
     }
   },
   {
-    "bandId": "comeaux-h-s",
+    "bandId": "comeaux-h-s-la",
     "eventId": "1988-southwest-regional-championship-at-houston-tx",
     "season": 1988,
     "round": "Prelims",
@@ -3973,7 +3973,7 @@
     }
   },
   {
-    "bandId": "westlake-h-s",
+    "bandId": "westlake-h-s-tx",
     "eventId": "1988-southwest-regional-championship-at-houston-tx",
     "season": 1988,
     "round": "Prelims",
@@ -3998,7 +3998,7 @@
     }
   },
   {
-    "bandId": "crockett-h-s",
+    "bandId": "crockett-h-s-tx",
     "eventId": "1988-southwest-regional-championship-at-houston-tx",
     "season": 1988,
     "round": "Prelims",
@@ -4023,7 +4023,7 @@
     }
   },
   {
-    "bandId": "klein-forest-h-s",
+    "bandId": "klein-forest-h-s-tx",
     "eventId": "1988-southwest-regional-championship-at-houston-tx",
     "season": 1988,
     "round": "Prelims",
@@ -4048,7 +4048,7 @@
     }
   },
   {
-    "bandId": "calallen-h-s",
+    "bandId": "calallen-h-s-tx",
     "eventId": "1988-southwest-regional-championship-at-houston-tx",
     "season": 1988,
     "round": "Prelims",
@@ -4073,7 +4073,7 @@
     }
   },
   {
-    "bandId": "jasper-h-s",
+    "bandId": "jasper-h-s-tx",
     "eventId": "1988-southwest-regional-championship-at-houston-tx",
     "season": 1988,
     "round": "Prelims",
@@ -4098,7 +4098,7 @@
     }
   },
   {
-    "bandId": "e-d-white-h-s",
+    "bandId": "e-d-white-h-s-tx",
     "eventId": "1988-southwest-regional-championship-at-houston-tx",
     "season": 1988,
     "round": "Prelims",
@@ -4123,7 +4123,7 @@
     }
   },
   {
-    "bandId": "conroe-h-s",
+    "bandId": "conroe-h-s-tx",
     "eventId": "1988-southwest-regional-championship-at-houston-tx",
     "season": 1988,
     "round": "Prelims",
@@ -4148,7 +4148,7 @@
     }
   },
   {
-    "bandId": "stephen-f-austin-h-s",
+    "bandId": "stephen-f-austin-h-s-tx",
     "eventId": "1988-southwest-regional-championship-at-houston-tx",
     "season": 1988,
     "round": "Prelims",
@@ -4173,7 +4173,7 @@
     }
   },
   {
-    "bandId": "desoto-h-s",
+    "bandId": "desoto-h-s-tx",
     "eventId": "1988-southwest-regional-championship-at-houston-tx",
     "season": 1988,
     "round": "Prelims",
@@ -4198,7 +4198,7 @@
     }
   },
   {
-    "bandId": "klein-h-s",
+    "bandId": "klein-h-s-tx",
     "eventId": "1988-southwest-regional-championship-at-houston-tx",
     "season": 1988,
     "round": "Prelims",
@@ -4223,7 +4223,7 @@
     }
   },
   {
-    "bandId": "pearl-h-s",
+    "bandId": "pearl-h-s-ms",
     "eventId": "1988-southwest-regional-championship-at-houston-tx",
     "season": 1988,
     "round": "Prelims",
@@ -4248,7 +4248,7 @@
     }
   },
   {
-    "bandId": "westfield-h-s",
+    "bandId": "westfield-h-s-tx",
     "eventId": "1988-southwest-regional-championship-at-houston-tx",
     "season": 1988,
     "round": "Prelims",
@@ -4273,7 +4273,7 @@
     }
   },
   {
-    "bandId": "liverpool-h-s",
+    "bandId": "liverpool-h-s-ny",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -4298,7 +4298,7 @@
     }
   },
   {
-    "bandId": "maconaquah-h-s",
+    "bandId": "maconaquah-h-s-in",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -4323,7 +4323,7 @@
     }
   },
   {
-    "bandId": "cicero-n-syracuse-h-s",
+    "bandId": "cicero-n-syracuse-h-s-ny",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -4348,7 +4348,7 @@
     }
   },
   {
-    "bandId": "mcgavock-h-s",
+    "bandId": "mcgavock-h-s-tn",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -4373,7 +4373,7 @@
     }
   },
   {
-    "bandId": "cambridge-h-s",
+    "bandId": "cambridge-h-s-oh",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -4398,7 +4398,7 @@
     }
   },
   {
-    "bandId": "westerville-south-h-s",
+    "bandId": "westerville-south-h-s-oh",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -4423,7 +4423,7 @@
     }
   },
   {
-    "bandId": "toronto-h-s",
+    "bandId": "toronto-h-s-oh",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -4448,7 +4448,7 @@
     }
   },
   {
-    "bandId": "north-side-h-s",
+    "bandId": "north-side-h-s-tn",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -4473,7 +4473,7 @@
     }
   },
   {
-    "bandId": "hartford-h-s",
+    "bandId": "hartford-h-s-mi",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -4498,7 +4498,7 @@
     }
   },
   {
-    "bandId": "flushing-h-s",
+    "bandId": "flushing-h-s-mi",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -4523,7 +4523,7 @@
     }
   },
   {
-    "bandId": "durand-area-h-s",
+    "bandId": "durand-area-h-s-mi",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -4548,7 +4548,7 @@
     }
   },
   {
-    "bandId": "m-h-mccloy-h-s",
+    "bandId": "m-h-mccloy-h-s-mi",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -4573,7 +4573,7 @@
     }
   },
   {
-    "bandId": "jamestown-h-s",
+    "bandId": "jamestown-h-s-ny",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -4598,7 +4598,7 @@
     }
   },
   {
-    "bandId": "green-local-h-s",
+    "bandId": "green-local-h-s-oh",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -4623,7 +4623,7 @@
     }
   },
   {
-    "bandId": "boyle-county-h-s",
+    "bandId": "boyle-county-h-s-ky",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -4648,7 +4648,7 @@
     }
   },
   {
-    "bandId": "teays-valley-h-s",
+    "bandId": "teays-valley-h-s-oh",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -4673,7 +4673,7 @@
     }
   },
   {
-    "bandId": "mcdowell-h-s",
+    "bandId": "mcdowell-h-s-pa",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -4698,7 +4698,7 @@
     }
   },
   {
-    "bandId": "delphos-jefferson-h-s",
+    "bandId": "delphos-jefferson-h-s-oh",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -4723,7 +4723,7 @@
     }
   },
   {
-    "bandId": "danville-h-s",
+    "bandId": "danville-h-s-il",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -4748,7 +4748,7 @@
     }
   },
   {
-    "bandId": "dekalb-h-s",
+    "bandId": "dekalb-h-s-in",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -4773,7 +4773,7 @@
     }
   },
   {
-    "bandId": "battle-creek-central-h-s",
+    "bandId": "battle-creek-central-h-s-mi",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -4798,7 +4798,7 @@
     }
   },
   {
-    "bandId": "lakeland-h-s",
+    "bandId": "lakeland-h-s-mi",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -4823,7 +4823,7 @@
     }
   },
   {
-    "bandId": "athens-h-s",
+    "bandId": "athens-h-s-mi",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -4848,7 +4848,7 @@
     }
   },
   {
-    "bandId": "john-glenn-h-s",
+    "bandId": "john-glenn-h-s-mi",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -4873,7 +4873,7 @@
     }
   },
   {
-    "bandId": "henry-ford-ii-h-s",
+    "bandId": "henry-ford-ii-h-s-mi",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -4898,7 +4898,7 @@
     }
   },
   {
-    "bandId": "burlington-h-s",
+    "bandId": "burlington-h-s-wi",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -4927,7 +4927,7 @@
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Finals",
-    "class": "AA",
+    "class": "Unknown",
     "placement": 1,
     "placementOverall": 1,
     "total": 95.8,
@@ -4948,11 +4948,11 @@
     }
   },
   {
-    "bandId": "lake-park-h-s",
+    "bandId": "lake-park-h-s-il",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Finals",
-    "class": "AAA",
+    "class": "Unknown",
     "placement": 2,
     "placementOverall": 2,
     "total": 90.2,
@@ -4977,7 +4977,7 @@
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Finals",
-    "class": "AAA",
+    "class": "Unknown",
     "placement": 3,
     "placementOverall": 3,
     "total": 89,
@@ -5002,7 +5002,7 @@
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Finals",
-    "class": "AAA",
+    "class": "Unknown",
     "placement": 4,
     "placementOverall": 4,
     "total": 87.55,
@@ -5023,11 +5023,11 @@
     }
   },
   {
-    "bandId": "plymouth-canton-ed-park",
+    "bandId": "plymouth-canton-ed-park-mi",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Finals",
-    "class": "AAA",
+    "class": "Unknown",
     "placement": 5,
     "placementOverall": 5,
     "total": 87.1,
@@ -5048,11 +5048,11 @@
     }
   },
   {
-    "bandId": "westerville-south-h-s",
+    "bandId": "westerville-south-h-s-oh",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Finals",
-    "class": "AAA",
+    "class": "Unknown",
     "placement": 6,
     "placementOverall": 6,
     "total": 86.85,
@@ -5073,11 +5073,11 @@
     }
   },
   {
-    "bandId": "george-rogers-clark-h-s",
+    "bandId": "george-rogers-clark-h-s-ky",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Finals",
-    "class": "AA",
+    "class": "Unknown",
     "placement": 7,
     "placementOverall": 7,
     "total": 86.75,
@@ -5102,7 +5102,7 @@
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Finals",
-    "class": "AAA",
+    "class": "Unknown",
     "placement": 8,
     "placementOverall": 8,
     "total": 86.45,
@@ -5123,11 +5123,11 @@
     }
   },
   {
-    "bandId": "kiski-area-h-s",
+    "bandId": "kiski-area-h-s-pa",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Finals",
-    "class": "AA",
+    "class": "Unknown",
     "placement": 9,
     "placementOverall": 9,
     "total": 85.8,
@@ -5148,11 +5148,11 @@
     }
   },
   {
-    "bandId": "mcgavock-h-s",
+    "bandId": "mcgavock-h-s-tn",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Finals",
-    "class": "AAA",
+    "class": "Unknown",
     "placement": 10,
     "placementOverall": 10,
     "total": 85.65,
@@ -5173,11 +5173,11 @@
     }
   },
   {
-    "bandId": "central-cabarrus-h-s",
+    "bandId": "central-cabarrus-h-s-nc",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Finals",
-    "class": "AA",
+    "class": "Unknown",
     "placement": 11,
     "placementOverall": 11,
     "total": 82.45,
@@ -5198,11 +5198,11 @@
     }
   },
   {
-    "bandId": "western-h-s",
+    "bandId": "western-h-s-in",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Finals",
-    "class": "A",
+    "class": "Unknown",
     "placement": 12,
     "placementOverall": 12,
     "total": 79.95,
@@ -5223,11 +5223,11 @@
     }
   },
   {
-    "bandId": "new-philadelphia-h-s",
+    "bandId": "new-philadelphia-h-s-oh",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Finals",
-    "class": "A",
+    "class": "Unknown",
     "placement": 13,
     "placementOverall": 13,
     "total": 79.8,
@@ -5248,7 +5248,7 @@
     }
   },
   {
-    "bandId": "western-h-s",
+    "bandId": "western-h-s-in",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -5273,7 +5273,7 @@
     }
   },
   {
-    "bandId": "marian-catholic-h-s",
+    "bandId": "marian-catholic-h-s-il",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -5298,7 +5298,7 @@
     }
   },
   {
-    "bandId": "lake-park-h-s",
+    "bandId": "lake-park-h-s-il",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -5323,7 +5323,7 @@
     }
   },
   {
-    "bandId": "new-philadelphia-h-s",
+    "bandId": "new-philadelphia-h-s-oh",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -5348,7 +5348,7 @@
     }
   },
   {
-    "bandId": "kiski-area-h-s",
+    "bandId": "kiski-area-h-s-pa",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -5373,7 +5373,7 @@
     }
   },
   {
-    "bandId": "george-rogers-clark-h-s",
+    "bandId": "george-rogers-clark-h-s-ky",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -5398,7 +5398,7 @@
     }
   },
   {
-    "bandId": "marlington-h-s",
+    "bandId": "marlington-h-s-oh",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -5423,7 +5423,7 @@
     }
   },
   {
-    "bandId": "central-cabarrus-h-s",
+    "bandId": "central-cabarrus-h-s-nc",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -5448,7 +5448,7 @@
     }
   },
   {
-    "bandId": "plymouth-canton-ed-park",
+    "bandId": "plymouth-canton-ed-park-mi",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -5473,7 +5473,7 @@
     }
   },
   {
-    "bandId": "grenada-h-s",
+    "bandId": "grenada-h-s-ms",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -5498,7 +5498,7 @@
     }
   },
   {
-    "bandId": "linden-h-s",
+    "bandId": "linden-h-s-mi",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -5523,7 +5523,7 @@
     }
   },
   {
-    "bandId": "marietta-h-s",
+    "bandId": "marietta-h-s-oh",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -5548,7 +5548,7 @@
     }
   },
   {
-    "bandId": "centerville-h-s",
+    "bandId": "centerville-h-s-oh",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -5573,7 +5573,7 @@
     }
   },
   {
-    "bandId": "prospect-h-s",
+    "bandId": "prospect-h-s-il",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -5598,7 +5598,7 @@
     }
   },
   {
-    "bandId": "norwin-h-s",
+    "bandId": "norwin-h-s-pa",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -5623,7 +5623,7 @@
     }
   },
   {
-    "bandId": "west-allegheny-h-s",
+    "bandId": "west-allegheny-h-s-pa",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -5648,7 +5648,7 @@
     }
   },
   {
-    "bandId": "enid-h-s",
+    "bandId": "enid-h-s-ok",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -5673,7 +5673,7 @@
     }
   },
   {
-    "bandId": "beavercreek-h-s",
+    "bandId": "beavercreek-h-s-oh",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -5698,7 +5698,7 @@
     }
   },
   {
-    "bandId": "northmont-h-s",
+    "bandId": "northmont-h-s-oh",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -5723,7 +5723,7 @@
     }
   },
   {
-    "bandId": "wilmot-h-s",
+    "bandId": "wilmot-h-s-wi",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -5748,7 +5748,7 @@
     }
   },
   {
-    "bandId": "jenison-h-s",
+    "bandId": "jenison-h-s-mi",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -5773,7 +5773,7 @@
     }
   },
   {
-    "bandId": "chesterton-h-s",
+    "bandId": "chesterton-h-s-in",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -5798,7 +5798,7 @@
     }
   },
   {
-    "bandId": "trinity-h-s",
+    "bandId": "trinity-h-s-pa",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -5823,7 +5823,7 @@
     }
   },
   {
-    "bandId": "wadsworth-h-s",
+    "bandId": "wadsworth-h-s-oh",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -5848,7 +5848,7 @@
     }
   },
   {
-    "bandId": "lakeview-h-s",
+    "bandId": "lakeview-h-s-mi",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -5873,7 +5873,7 @@
     }
   },
   {
-    "bandId": "portage-central-h-s",
+    "bandId": "portage-central-h-s-mi",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -5898,7 +5898,7 @@
     }
   },
   {
-    "bandId": "academy-h-s",
+    "bandId": "academy-h-s-pa",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",
@@ -5923,7 +5923,7 @@
     }
   },
   {
-    "bandId": "shelby-county-h-s",
+    "bandId": "shelby-county-h-s-ky",
     "eventId": "1988-grand-national-championship-at-pontiac-mi",
     "season": 1988,
     "round": "Prelims",

@@ -1,6 +1,6 @@
 [
   {
-    "bandId": "knoxville-h-s",
+    "bandId": "knoxville-h-s-ia",
     "eventId": "1986-summer-national-championship-at-whitewater-wi",
     "season": 1986,
     "round": "Prelims",
@@ -25,7 +25,7 @@
     }
   },
   {
-    "bandId": "hibbing-h-s",
+    "bandId": "hibbing-h-s-mn",
     "eventId": "1986-summer-national-championship-at-whitewater-wi",
     "season": 1986,
     "round": "Prelims",
@@ -50,7 +50,7 @@
     }
   },
   {
-    "bandId": "dell-rapids-h-s",
+    "bandId": "dell-rapids-h-s-sd",
     "eventId": "1986-summer-national-championship-at-whitewater-wi",
     "season": 1986,
     "round": "Prelims",
@@ -75,7 +75,7 @@
     }
   },
   {
-    "bandId": "willmar-h-s",
+    "bandId": "willmar-h-s-mn",
     "eventId": "1986-summer-national-championship-at-whitewater-wi",
     "season": 1986,
     "round": "Prelims",
@@ -98,7 +98,7 @@
     }
   },
   {
-    "bandId": "rocori-h-s",
+    "bandId": "rocori-h-s-mn",
     "eventId": "1986-summer-national-championship-at-whitewater-wi",
     "season": 1986,
     "round": "Prelims",
@@ -123,7 +123,7 @@
     }
   },
   {
-    "bandId": "ysleta-h-s",
+    "bandId": "ysleta-h-s-tx",
     "eventId": "1986-summer-national-championship-at-whitewater-wi",
     "season": 1986,
     "round": "Prelims",
@@ -148,7 +148,7 @@
     }
   },
   {
-    "bandId": "kosciusko-h-s",
+    "bandId": "kosciusko-h-s-ms",
     "eventId": "1986-summer-national-championship-at-whitewater-wi",
     "season": 1986,
     "round": "Prelims",
@@ -173,7 +173,7 @@
     }
   },
   {
-    "bandId": "lighthouse-brigade",
+    "bandId": "lighthouse-brigade-wi",
     "eventId": "1986-summer-national-championship-at-whitewater-wi",
     "season": 1986,
     "round": "Prelims",
@@ -197,7 +197,7 @@
     }
   },
   {
-    "bandId": "sun-prairie-h-s",
+    "bandId": "sun-prairie-h-s-wi",
     "eventId": "1986-summer-national-championship-at-whitewater-wi",
     "season": 1986,
     "round": "Prelims",
@@ -222,7 +222,7 @@
     }
   },
   {
-    "bandId": "oregon-h-s",
+    "bandId": "oregon-h-s-wi",
     "eventId": "1986-summer-national-championship-at-whitewater-wi",
     "season": 1986,
     "round": "Prelims",
@@ -247,7 +247,7 @@
     }
   },
   {
-    "bandId": "dakota-h-s",
+    "bandId": "dakota-h-s-il",
     "eventId": "1986-summer-national-championship-at-whitewater-wi",
     "season": 1986,
     "round": "Prelims",
@@ -272,7 +272,7 @@
     }
   },
   {
-    "bandId": "hall-h-s",
+    "bandId": "hall-h-s-il",
     "eventId": "1986-summer-national-championship-at-whitewater-wi",
     "season": 1986,
     "round": "Prelims",
@@ -297,7 +297,7 @@
     }
   },
   {
-    "bandId": "seward-h-s",
+    "bandId": "seward-h-s-ne",
     "eventId": "1986-summer-national-championship-at-whitewater-wi",
     "season": 1986,
     "round": "Prelims",
@@ -321,7 +321,7 @@
     }
   },
   {
-    "bandId": "marian-catholic-h-s",
+    "bandId": "marian-catholic-h-s-il",
     "eventId": "1986-summer-national-championship-at-whitewater-wi",
     "season": 1986,
     "round": "Prelims",
@@ -346,7 +346,7 @@
     }
   },
   {
-    "bandId": "herscher-h-s",
+    "bandId": "herscher-h-s-il",
     "eventId": "1986-summer-national-championship-at-whitewater-wi",
     "season": 1986,
     "round": "Prelims",
@@ -371,7 +371,7 @@
     }
   },
   {
-    "bandId": "imperial-scots",
+    "bandId": "imperial-scots-il",
     "eventId": "1986-summer-national-championship-at-whitewater-wi",
     "season": 1986,
     "round": "Prelims",
@@ -396,7 +396,7 @@
     }
   },
   {
-    "bandId": "oskaloosa-h-s",
+    "bandId": "oskaloosa-h-s-ia",
     "eventId": "1986-summer-national-championship-at-whitewater-wi",
     "season": 1986,
     "round": "Prelims",
@@ -421,7 +421,7 @@
     }
   },
   {
-    "bandId": "st-laurence-h-s",
+    "bandId": "st-laurence-h-s-il",
     "eventId": "1986-summer-national-championship-at-whitewater-wi",
     "season": 1986,
     "round": "Prelims",
@@ -446,7 +446,7 @@
     }
   },
   {
-    "bandId": "hilliard-h-s",
+    "bandId": "hilliard-h-s-oh",
     "eventId": "1986-summer-national-championship-at-whitewater-wi",
     "season": 1986,
     "round": "Prelims",
@@ -471,7 +471,7 @@
     }
   },
   {
-    "bandId": "kokomo-h-s",
+    "bandId": "kokomo-h-s-in",
     "eventId": "1986-summer-national-championship-at-whitewater-wi",
     "season": 1986,
     "round": "Prelims",
@@ -496,7 +496,7 @@
     }
   },
   {
-    "bandId": "hilliard-h-s",
+    "bandId": "hilliard-h-s-oh",
     "eventId": "1986-summer-national-championship-at-whitewater-wi",
     "season": 1986,
     "round": "Finals",
@@ -521,7 +521,7 @@
     }
   },
   {
-    "bandId": "st-laurence-h-s",
+    "bandId": "st-laurence-h-s-il",
     "eventId": "1986-summer-national-championship-at-whitewater-wi",
     "season": 1986,
     "round": "Finals",
@@ -546,7 +546,7 @@
     }
   },
   {
-    "bandId": "imperial-scots",
+    "bandId": "imperial-scots-il",
     "eventId": "1986-summer-national-championship-at-whitewater-wi",
     "season": 1986,
     "round": "Finals",
@@ -571,7 +571,7 @@
     }
   },
   {
-    "bandId": "oregon-h-s",
+    "bandId": "oregon-h-s-wi",
     "eventId": "1986-summer-national-championship-at-whitewater-wi",
     "season": 1986,
     "round": "Finals",
@@ -596,7 +596,7 @@
     }
   },
   {
-    "bandId": "kosciusko-h-s",
+    "bandId": "kosciusko-h-s-ms",
     "eventId": "1986-summer-national-championship-at-whitewater-wi",
     "season": 1986,
     "round": "Finals",
@@ -621,7 +621,7 @@
     }
   },
   {
-    "bandId": "kokomo-h-s",
+    "bandId": "kokomo-h-s-in",
     "eventId": "1986-summer-national-championship-at-whitewater-wi",
     "season": 1986,
     "round": "Finals",
@@ -646,7 +646,7 @@
     }
   },
   {
-    "bandId": "sun-prairie-h-s",
+    "bandId": "sun-prairie-h-s-wi",
     "eventId": "1986-summer-national-championship-at-whitewater-wi",
     "season": 1986,
     "round": "Finals",
@@ -671,7 +671,7 @@
     }
   },
   {
-    "bandId": "marian-catholic-h-s",
+    "bandId": "marian-catholic-h-s-il",
     "eventId": "1986-summer-national-championship-at-whitewater-wi",
     "season": 1986,
     "round": "Finals",
@@ -696,7 +696,7 @@
     }
   },
   {
-    "bandId": "dakota-h-s",
+    "bandId": "dakota-h-s-il",
     "eventId": "1986-summer-national-championship-at-whitewater-wi",
     "season": 1986,
     "round": "Finals",
@@ -721,7 +721,7 @@
     }
   },
   {
-    "bandId": "oskaloosa-h-s",
+    "bandId": "oskaloosa-h-s-ia",
     "eventId": "1986-summer-national-championship-at-whitewater-wi",
     "season": 1986,
     "round": "Finals",
@@ -746,7 +746,7 @@
     }
   },
   {
-    "bandId": "herscher-h-s",
+    "bandId": "herscher-h-s-il",
     "eventId": "1986-summer-national-championship-at-whitewater-wi",
     "season": 1986,
     "round": "Finals",
@@ -771,7 +771,7 @@
     }
   },
   {
-    "bandId": "hibbing-h-s",
+    "bandId": "hibbing-h-s-mn",
     "eventId": "1986-summer-national-championship-at-whitewater-wi",
     "season": 1986,
     "round": "Finals",
@@ -796,7 +796,7 @@
     }
   },
   {
-    "bandId": "union-h-s",
+    "bandId": "union-h-s-ok",
     "eventId": "1986-regional-championship-at-jonesboro-ar",
     "season": 1986,
     "round": "Finals",
@@ -821,7 +821,7 @@
     }
   },
   {
-    "bandId": "mcgavock-h-s",
+    "bandId": "mcgavock-h-s-tn",
     "eventId": "1986-regional-championship-at-jonesboro-ar",
     "season": 1986,
     "round": "Finals",
@@ -846,7 +846,7 @@
     }
   },
   {
-    "bandId": "brentwood-h-s",
+    "bandId": "brentwood-h-s-tn",
     "eventId": "1986-regional-championship-at-jonesboro-ar",
     "season": 1986,
     "round": "Finals",
@@ -871,7 +871,7 @@
     }
   },
   {
-    "bandId": "grenada-h-s",
+    "bandId": "grenada-h-s-ms",
     "eventId": "1986-regional-championship-at-jonesboro-ar",
     "season": 1986,
     "round": "Finals",
@@ -896,7 +896,7 @@
     }
   },
   {
-    "bandId": "kosciusko-h-s",
+    "bandId": "kosciusko-h-s-ms",
     "eventId": "1986-regional-championship-at-jonesboro-ar",
     "season": 1986,
     "round": "Finals",
@@ -921,7 +921,7 @@
     }
   },
   {
-    "bandId": "poplar-bluff-h-s",
+    "bandId": "poplar-bluff-h-s-mo",
     "eventId": "1986-regional-championship-at-jonesboro-ar",
     "season": 1986,
     "round": "Finals",
@@ -946,7 +946,7 @@
     }
   },
   {
-    "bandId": "briarcrest-h-s",
+    "bandId": "briarcrest-h-s-tn",
     "eventId": "1986-regional-championship-at-jonesboro-ar",
     "season": 1986,
     "round": "Finals",
@@ -971,7 +971,7 @@
     }
   },
   {
-    "bandId": "jefferson-city-h-s",
+    "bandId": "jefferson-city-h-s-mo",
     "eventId": "1986-regional-championship-at-jonesboro-ar",
     "season": 1986,
     "round": "Finals",
@@ -996,7 +996,7 @@
     }
   },
   {
-    "bandId": "north-side-h-s",
+    "bandId": "north-side-h-s-tn",
     "eventId": "1986-regional-championship-at-jonesboro-ar",
     "season": 1986,
     "round": "Finals",
@@ -1021,7 +1021,7 @@
     }
   },
   {
-    "bandId": "union-city-h-s",
+    "bandId": "union-city-h-s-tn",
     "eventId": "1986-regional-championship-at-jonesboro-ar",
     "season": 1986,
     "round": "Finals",
@@ -1046,7 +1046,7 @@
     }
   },
   {
-    "bandId": "kosciusko-h-s",
+    "bandId": "kosciusko-h-s-ms",
     "eventId": "1986-regional-championship-at-jonesboro-ar",
     "season": 1986,
     "round": "Prelims",
@@ -1071,7 +1071,7 @@
     }
   },
   {
-    "bandId": "union-h-s",
+    "bandId": "union-h-s-ok",
     "eventId": "1986-regional-championship-at-jonesboro-ar",
     "season": 1986,
     "round": "Prelims",
@@ -1096,7 +1096,7 @@
     }
   },
   {
-    "bandId": "brentwood-h-s",
+    "bandId": "brentwood-h-s-tn",
     "eventId": "1986-regional-championship-at-jonesboro-ar",
     "season": 1986,
     "round": "Prelims",
@@ -1121,7 +1121,7 @@
     }
   },
   {
-    "bandId": "union-city-h-s",
+    "bandId": "union-city-h-s-tn",
     "eventId": "1986-regional-championship-at-jonesboro-ar",
     "season": 1986,
     "round": "Prelims",
@@ -1146,7 +1146,7 @@
     }
   },
   {
-    "bandId": "mcgavock-h-s",
+    "bandId": "mcgavock-h-s-tn",
     "eventId": "1986-regional-championship-at-jonesboro-ar",
     "season": 1986,
     "round": "Prelims",
@@ -1171,7 +1171,7 @@
     }
   },
   {
-    "bandId": "grenada-h-s",
+    "bandId": "grenada-h-s-ms",
     "eventId": "1986-regional-championship-at-jonesboro-ar",
     "season": 1986,
     "round": "Prelims",
@@ -1196,7 +1196,7 @@
     }
   },
   {
-    "bandId": "heath-h-s",
+    "bandId": "heath-h-s-ky",
     "eventId": "1986-regional-championship-at-jonesboro-ar",
     "season": 1986,
     "round": "Prelims",
@@ -1221,7 +1221,7 @@
     }
   },
   {
-    "bandId": "briarcrest-h-s",
+    "bandId": "briarcrest-h-s-tn",
     "eventId": "1986-regional-championship-at-jonesboro-ar",
     "season": 1986,
     "round": "Prelims",
@@ -1246,7 +1246,7 @@
     }
   },
   {
-    "bandId": "jefferson-city-h-s",
+    "bandId": "jefferson-city-h-s-mo",
     "eventId": "1986-regional-championship-at-jonesboro-ar",
     "season": 1986,
     "round": "Prelims",
@@ -1271,7 +1271,7 @@
     }
   },
   {
-    "bandId": "carthage-h-s",
+    "bandId": "carthage-h-s-ms",
     "eventId": "1986-regional-championship-at-jonesboro-ar",
     "season": 1986,
     "round": "Prelims",
@@ -1296,7 +1296,7 @@
     }
   },
   {
-    "bandId": "north-side-h-s",
+    "bandId": "north-side-h-s-tn",
     "eventId": "1986-regional-championship-at-jonesboro-ar",
     "season": 1986,
     "round": "Prelims",
@@ -1321,7 +1321,7 @@
     }
   },
   {
-    "bandId": "poplar-bluff-h-s",
+    "bandId": "poplar-bluff-h-s-mo",
     "eventId": "1986-regional-championship-at-jonesboro-ar",
     "season": 1986,
     "round": "Prelims",
@@ -1346,7 +1346,7 @@
     }
   },
   {
-    "bandId": "trumann-h-s",
+    "bandId": "trumann-h-s-ar",
     "eventId": "1986-regional-championship-at-jonesboro-ar",
     "season": 1986,
     "round": "Prelims",
@@ -1371,7 +1371,7 @@
     }
   },
   {
-    "bandId": "central-h-s",
+    "bandId": "central-h-s-mo",
     "eventId": "1986-regional-championship-at-jonesboro-ar",
     "season": 1986,
     "round": "Prelims",
@@ -1396,7 +1396,7 @@
     }
   },
   {
-    "bandId": "pearl-h-s",
+    "bandId": "pearl-h-s-ms",
     "eventId": "1986-regional-championship-at-conroe-tx",
     "season": 1986,
     "round": "Finals",
@@ -1421,7 +1421,7 @@
     }
   },
   {
-    "bandId": "westfield-h-s",
+    "bandId": "westfield-h-s-tx",
     "eventId": "1986-regional-championship-at-conroe-tx",
     "season": 1986,
     "round": "Finals",
@@ -1446,7 +1446,7 @@
     }
   },
   {
-    "bandId": "conroe-h-s",
+    "bandId": "conroe-h-s-tx",
     "eventId": "1986-regional-championship-at-conroe-tx",
     "season": 1986,
     "round": "Finals",
@@ -1471,7 +1471,7 @@
     }
   },
   {
-    "bandId": "crockett-h-s",
+    "bandId": "crockett-h-s-tx",
     "eventId": "1986-regional-championship-at-conroe-tx",
     "season": 1986,
     "round": "Finals",
@@ -1496,7 +1496,7 @@
     }
   },
   {
-    "bandId": "klein-forest-h-s",
+    "bandId": "klein-forest-h-s-tx",
     "eventId": "1986-regional-championship-at-conroe-tx",
     "season": 1986,
     "round": "Finals",
@@ -1521,7 +1521,7 @@
     }
   },
   {
-    "bandId": "klein-h-s",
+    "bandId": "klein-h-s-tx",
     "eventId": "1986-regional-championship-at-conroe-tx",
     "season": 1986,
     "round": "Finals",
@@ -1546,7 +1546,7 @@
     }
   },
   {
-    "bandId": "spring-h-s",
+    "bandId": "spring-h-s-tx",
     "eventId": "1986-regional-championship-at-conroe-tx",
     "season": 1986,
     "round": "Finals",
@@ -1571,7 +1571,7 @@
     }
   },
   {
-    "bandId": "taylor-h-s",
+    "bandId": "taylor-h-s-tx",
     "eventId": "1986-regional-championship-at-conroe-tx",
     "season": 1986,
     "round": "Finals",
@@ -1596,7 +1596,7 @@
     }
   },
   {
-    "bandId": "jasper-h-s",
+    "bandId": "jasper-h-s-tx",
     "eventId": "1986-regional-championship-at-conroe-tx",
     "season": 1986,
     "round": "Finals",
@@ -1621,7 +1621,7 @@
     }
   },
   {
-    "bandId": "clinton-h-s",
+    "bandId": "clinton-h-s-ms",
     "eventId": "1986-regional-championship-at-conroe-tx",
     "season": 1986,
     "round": "Finals",
@@ -1646,7 +1646,7 @@
     }
   },
   {
-    "bandId": "john-h-reagan-h-s",
+    "bandId": "john-h-reagan-h-s-tx",
     "eventId": "1986-regional-championship-at-conroe-tx",
     "season": 1986,
     "round": "Finals",
@@ -1671,7 +1671,7 @@
     }
   },
   {
-    "bandId": "pearl-h-s",
+    "bandId": "pearl-h-s-ms",
     "eventId": "1986-regional-championship-at-conroe-tx",
     "season": 1986,
     "round": "Prelims",
@@ -1696,7 +1696,7 @@
     }
   },
   {
-    "bandId": "brazosport-h-s",
+    "bandId": "brazosport-h-s-tx",
     "eventId": "1986-regional-championship-at-conroe-tx",
     "season": 1986,
     "round": "Prelims",
@@ -1721,7 +1721,7 @@
     }
   },
   {
-    "bandId": "westfield-h-s",
+    "bandId": "westfield-h-s-tx",
     "eventId": "1986-regional-championship-at-conroe-tx",
     "season": 1986,
     "round": "Prelims",
@@ -1746,7 +1746,7 @@
     }
   },
   {
-    "bandId": "jasper-h-s",
+    "bandId": "jasper-h-s-tx",
     "eventId": "1986-regional-championship-at-conroe-tx",
     "season": 1986,
     "round": "Prelims",
@@ -1771,7 +1771,7 @@
     }
   },
   {
-    "bandId": "crockett-h-s",
+    "bandId": "crockett-h-s-tx",
     "eventId": "1986-regional-championship-at-conroe-tx",
     "season": 1986,
     "round": "Prelims",
@@ -1796,7 +1796,7 @@
     }
   },
   {
-    "bandId": "john-h-reagan-h-s",
+    "bandId": "john-h-reagan-h-s-tx",
     "eventId": "1986-regional-championship-at-conroe-tx",
     "season": 1986,
     "round": "Prelims",
@@ -1821,7 +1821,7 @@
     }
   },
   {
-    "bandId": "conroe-h-s",
+    "bandId": "conroe-h-s-tx",
     "eventId": "1986-regional-championship-at-conroe-tx",
     "season": 1986,
     "round": "Prelims",
@@ -1846,7 +1846,7 @@
     }
   },
   {
-    "bandId": "spring-h-s",
+    "bandId": "spring-h-s-tx",
     "eventId": "1986-regional-championship-at-conroe-tx",
     "season": 1986,
     "round": "Prelims",
@@ -1871,7 +1871,7 @@
     }
   },
   {
-    "bandId": "lyndon-b-johnson-h-s",
+    "bandId": "lyndon-b-johnson-h-s-tx",
     "eventId": "1986-regional-championship-at-conroe-tx",
     "season": 1986,
     "round": "Prelims",
@@ -1896,7 +1896,7 @@
     }
   },
   {
-    "bandId": "clinton-h-s",
+    "bandId": "clinton-h-s-ms",
     "eventId": "1986-regional-championship-at-conroe-tx",
     "season": 1986,
     "round": "Prelims",
@@ -1921,7 +1921,7 @@
     }
   },
   {
-    "bandId": "tomball-h-s",
+    "bandId": "tomball-h-s-tx",
     "eventId": "1986-regional-championship-at-conroe-tx",
     "season": 1986,
     "round": "Prelims",
@@ -1946,7 +1946,7 @@
     }
   },
   {
-    "bandId": "klein-forest-h-s",
+    "bandId": "klein-forest-h-s-tx",
     "eventId": "1986-regional-championship-at-conroe-tx",
     "season": 1986,
     "round": "Prelims",
@@ -1971,7 +1971,7 @@
     }
   },
   {
-    "bandId": "pineville-h-s",
+    "bandId": "pineville-h-s-la",
     "eventId": "1986-regional-championship-at-conroe-tx",
     "season": 1986,
     "round": "Prelims",
@@ -1996,7 +1996,7 @@
     }
   },
   {
-    "bandId": "oak-ridge-h-s",
+    "bandId": "oak-ridge-h-s-tx",
     "eventId": "1986-regional-championship-at-conroe-tx",
     "season": 1986,
     "round": "Prelims",
@@ -2021,7 +2021,7 @@
     }
   },
   {
-    "bandId": "taylor-h-s",
+    "bandId": "taylor-h-s-tx",
     "eventId": "1986-regional-championship-at-conroe-tx",
     "season": 1986,
     "round": "Prelims",
@@ -2046,7 +2046,7 @@
     }
   },
   {
-    "bandId": "klein-h-s",
+    "bandId": "klein-h-s-tx",
     "eventId": "1986-regional-championship-at-conroe-tx",
     "season": 1986,
     "round": "Prelims",
@@ -2071,7 +2071,7 @@
     }
   },
   {
-    "bandId": "mccullough-h-s",
+    "bandId": "mccullough-h-s-tx",
     "eventId": "1986-regional-championship-at-conroe-tx",
     "season": 1986,
     "round": "Prelims",
@@ -2096,7 +2096,7 @@
     }
   },
   {
-    "bandId": "brazoswood-h-s",
+    "bandId": "brazoswood-h-s-tx",
     "eventId": "1986-regional-championship-at-conroe-tx",
     "season": 1986,
     "round": "Prelims",
@@ -2121,7 +2121,7 @@
     }
   },
   {
-    "bandId": "klein-oak-h-s",
+    "bandId": "klein-oak-h-s-tx",
     "eventId": "1986-regional-championship-at-conroe-tx",
     "season": 1986,
     "round": "Prelims",
@@ -2146,7 +2146,7 @@
     }
   },
   {
-    "bandId": "alief-elsik-h-s",
+    "bandId": "alief-elsik-h-s-tx",
     "eventId": "1986-regional-championship-at-conroe-tx",
     "season": 1986,
     "round": "Prelims",
@@ -2171,7 +2171,7 @@
     }
   },
   {
-    "bandId": "mountain-crest-h-s",
+    "bandId": "mountain-crest-h-s-ut",
     "eventId": "1986-regional-championship-at-corvallis-or",
     "season": 1986,
     "round": "Finals",
@@ -2196,7 +2196,7 @@
     }
   },
   {
-    "bandId": "live-oak-h-s",
+    "bandId": "live-oak-h-s-ca",
     "eventId": "1986-regional-championship-at-corvallis-or",
     "season": 1986,
     "round": "Finals",
@@ -2221,7 +2221,7 @@
     }
   },
   {
-    "bandId": "clovis-west-h-s",
+    "bandId": "clovis-west-h-s-ca",
     "eventId": "1986-regional-championship-at-corvallis-or",
     "season": 1986,
     "round": "Finals",
@@ -2246,7 +2246,7 @@
     }
   },
   {
-    "bandId": "fred-c-beyer-h-s",
+    "bandId": "fred-c-beyer-h-s-ca",
     "eventId": "1986-regional-championship-at-corvallis-or",
     "season": 1986,
     "round": "Finals",
@@ -2271,7 +2271,7 @@
     }
   },
   {
-    "bandId": "university-h-s",
+    "bandId": "university-h-s-wa",
     "eventId": "1986-regional-championship-at-corvallis-or",
     "season": 1986,
     "round": "Finals",
@@ -2296,7 +2296,7 @@
     }
   },
   {
-    "bandId": "sprague-h-s",
+    "bandId": "sprague-h-s-or",
     "eventId": "1986-regional-championship-at-corvallis-or",
     "season": 1986,
     "round": "Finals",
@@ -2321,7 +2321,7 @@
     }
   },
   {
-    "bandId": "merced-h-s",
+    "bandId": "merced-h-s-ca",
     "eventId": "1986-regional-championship-at-corvallis-or",
     "season": 1986,
     "round": "Finals",
@@ -2346,7 +2346,7 @@
     }
   },
   {
-    "bandId": "port-angeles-h-s",
+    "bandId": "port-angeles-h-s-wa",
     "eventId": "1986-regional-championship-at-corvallis-or",
     "season": 1986,
     "round": "Finals",
@@ -2371,7 +2371,7 @@
     }
   },
   {
-    "bandId": "sunset-h-s",
+    "bandId": "sunset-h-s-or",
     "eventId": "1986-regional-championship-at-corvallis-or",
     "season": 1986,
     "round": "Finals",
@@ -2396,7 +2396,7 @@
     }
   },
   {
-    "bandId": "moses-lake-h-s",
+    "bandId": "moses-lake-h-s-wa",
     "eventId": "1986-regional-championship-at-corvallis-or",
     "season": 1986,
     "round": "Finals",
@@ -2421,7 +2421,7 @@
     }
   },
   {
-    "bandId": "clovis-west-h-s",
+    "bandId": "clovis-west-h-s-ca",
     "eventId": "1986-regional-championship-at-corvallis-or",
     "season": 1986,
     "round": "Prelims",
@@ -2446,7 +2446,7 @@
     }
   },
   {
-    "bandId": "mountain-crest-h-s",
+    "bandId": "mountain-crest-h-s-ut",
     "eventId": "1986-regional-championship-at-corvallis-or",
     "season": 1986,
     "round": "Prelims",
@@ -2471,7 +2471,7 @@
     }
   },
   {
-    "bandId": "burley-h-s",
+    "bandId": "burley-h-s-id",
     "eventId": "1986-regional-championship-at-corvallis-or",
     "season": 1986,
     "round": "Prelims",
@@ -2496,7 +2496,7 @@
     }
   },
   {
-    "bandId": "sprague-h-s",
+    "bandId": "sprague-h-s-or",
     "eventId": "1986-regional-championship-at-corvallis-or",
     "season": 1986,
     "round": "Prelims",
@@ -2521,7 +2521,7 @@
     }
   },
   {
-    "bandId": "university-h-s",
+    "bandId": "university-h-s-wa",
     "eventId": "1986-regional-championship-at-corvallis-or",
     "season": 1986,
     "round": "Prelims",
@@ -2546,7 +2546,7 @@
     }
   },
   {
-    "bandId": "port-angeles-h-s",
+    "bandId": "port-angeles-h-s-wa",
     "eventId": "1986-regional-championship-at-corvallis-or",
     "season": 1986,
     "round": "Prelims",
@@ -2571,7 +2571,7 @@
     }
   },
   {
-    "bandId": "fred-c-beyer-h-s",
+    "bandId": "fred-c-beyer-h-s-ca",
     "eventId": "1986-regional-championship-at-corvallis-or",
     "season": 1986,
     "round": "Prelims",
@@ -2596,7 +2596,7 @@
     }
   },
   {
-    "bandId": "live-oak-h-s",
+    "bandId": "live-oak-h-s-ca",
     "eventId": "1986-regional-championship-at-corvallis-or",
     "season": 1986,
     "round": "Prelims",
@@ -2621,7 +2621,7 @@
     }
   },
   {
-    "bandId": "moses-lake-h-s",
+    "bandId": "moses-lake-h-s-wa",
     "eventId": "1986-regional-championship-at-corvallis-or",
     "season": 1986,
     "round": "Prelims",
@@ -2646,7 +2646,7 @@
     }
   },
   {
-    "bandId": "ferndale-h-s",
+    "bandId": "ferndale-h-s-wa",
     "eventId": "1986-regional-championship-at-corvallis-or",
     "season": 1986,
     "round": "Prelims",
@@ -2671,7 +2671,7 @@
     }
   },
   {
-    "bandId": "merced-h-s",
+    "bandId": "merced-h-s-ca",
     "eventId": "1986-regional-championship-at-corvallis-or",
     "season": 1986,
     "round": "Prelims",
@@ -2696,7 +2696,7 @@
     }
   },
   {
-    "bandId": "sunset-h-s",
+    "bandId": "sunset-h-s-or",
     "eventId": "1986-regional-championship-at-corvallis-or",
     "season": 1986,
     "round": "Prelims",
@@ -2721,7 +2721,7 @@
     }
   },
   {
-    "bandId": "hermiston-h-s",
+    "bandId": "hermiston-h-s-or",
     "eventId": "1986-regional-championship-at-corvallis-or",
     "season": 1986,
     "round": "Prelims",
@@ -2746,7 +2746,7 @@
     }
   },
   {
-    "bandId": "grants-pass-h-s",
+    "bandId": "grants-pass-h-s-or",
     "eventId": "1986-regional-championship-at-corvallis-or",
     "season": 1986,
     "round": "Prelims",
@@ -2771,7 +2771,7 @@
     }
   },
   {
-    "bandId": "roseburg-h-s",
+    "bandId": "roseburg-h-s-or",
     "eventId": "1986-regional-championship-at-corvallis-or",
     "season": 1986,
     "round": "Prelims",
@@ -2796,7 +2796,7 @@
     }
   },
   {
-    "bandId": "pasco-h-s",
+    "bandId": "pasco-h-s-wa",
     "eventId": "1986-regional-championship-at-corvallis-or",
     "season": 1986,
     "round": "Prelims",
@@ -2821,7 +2821,7 @@
     }
   },
   {
-    "bandId": "mckay-h-s",
+    "bandId": "mckay-h-s-or",
     "eventId": "1986-regional-championship-at-corvallis-or",
     "season": 1986,
     "round": "Prelims",
@@ -2846,7 +2846,7 @@
     }
   },
   {
-    "bandId": "willamette-h-s",
+    "bandId": "willamette-h-s-or",
     "eventId": "1986-regional-championship-at-corvallis-or",
     "season": 1986,
     "round": "Prelims",
@@ -2871,7 +2871,7 @@
     }
   },
   {
-    "bandId": "rocky-mount-h-s",
+    "bandId": "rocky-mount-h-s-nc",
     "eventId": "1986-regional-championship-at-morgantown-wv",
     "season": 1986,
     "round": "Finals",
@@ -2896,7 +2896,7 @@
     }
   },
   {
-    "bandId": "norwin-h-s",
+    "bandId": "norwin-h-s-pa",
     "eventId": "1986-regional-championship-at-morgantown-wv",
     "season": 1986,
     "round": "Finals",
@@ -2921,7 +2921,7 @@
     }
   },
   {
-    "bandId": "marlington-h-s",
+    "bandId": "marlington-h-s-oh",
     "eventId": "1986-regional-championship-at-morgantown-wv",
     "season": 1986,
     "round": "Finals",
@@ -2946,7 +2946,7 @@
     }
   },
   {
-    "bandId": "new-philadelphia-h-s",
+    "bandId": "new-philadelphia-h-s-oh",
     "eventId": "1986-regional-championship-at-morgantown-wv",
     "season": 1986,
     "round": "Finals",
@@ -2971,7 +2971,7 @@
     }
   },
   {
-    "bandId": "marietta-h-s",
+    "bandId": "marietta-h-s-oh",
     "eventId": "1986-regional-championship-at-morgantown-wv",
     "season": 1986,
     "round": "Finals",
@@ -2996,7 +2996,7 @@
     }
   },
   {
-    "bandId": "athens-h-s",
+    "bandId": "athens-h-s-oh",
     "eventId": "1986-regional-championship-at-morgantown-wv",
     "season": 1986,
     "round": "Finals",
@@ -3021,7 +3021,7 @@
     }
   },
   {
-    "bandId": "trinity-h-s",
+    "bandId": "trinity-h-s-pa",
     "eventId": "1986-regional-championship-at-morgantown-wv",
     "season": 1986,
     "round": "Finals",
@@ -3046,7 +3046,7 @@
     }
   },
   {
-    "bandId": "jordan-elbridge-h-s",
+    "bandId": "jordan-elbridge-h-s-ny",
     "eventId": "1986-regional-championship-at-morgantown-wv",
     "season": 1986,
     "round": "Finals",
@@ -3071,7 +3071,7 @@
     }
   },
   {
-    "bandId": "red-land-h-s",
+    "bandId": "red-land-h-s-pa",
     "eventId": "1986-regional-championship-at-morgantown-wv",
     "season": 1986,
     "round": "Finals",
@@ -3096,7 +3096,7 @@
     }
   },
   {
-    "bandId": "greater-latrobe-h-s",
+    "bandId": "greater-latrobe-h-s-pa",
     "eventId": "1986-regional-championship-at-morgantown-wv",
     "season": 1986,
     "round": "Finals",
@@ -3121,7 +3121,7 @@
     }
   },
   {
-    "bandId": "marlington-h-s",
+    "bandId": "marlington-h-s-oh",
     "eventId": "1986-regional-championship-at-morgantown-wv",
     "season": 1986,
     "round": "Prelims",
@@ -3146,7 +3146,7 @@
     }
   },
   {
-    "bandId": "trinity-h-s",
+    "bandId": "trinity-h-s-pa",
     "eventId": "1986-regional-championship-at-morgantown-wv",
     "season": 1986,
     "round": "Prelims",
@@ -3171,7 +3171,7 @@
     }
   },
   {
-    "bandId": "rocky-mount-h-s",
+    "bandId": "rocky-mount-h-s-nc",
     "eventId": "1986-regional-championship-at-morgantown-wv",
     "season": 1986,
     "round": "Prelims",
@@ -3196,7 +3196,7 @@
     }
   },
   {
-    "bandId": "athens-h-s",
+    "bandId": "athens-h-s-oh",
     "eventId": "1986-regional-championship-at-morgantown-wv",
     "season": 1986,
     "round": "Prelims",
@@ -3221,7 +3221,7 @@
     }
   },
   {
-    "bandId": "new-philadelphia-h-s",
+    "bandId": "new-philadelphia-h-s-oh",
     "eventId": "1986-regional-championship-at-morgantown-wv",
     "season": 1986,
     "round": "Prelims",
@@ -3246,7 +3246,7 @@
     }
   },
   {
-    "bandId": "norwin-h-s",
+    "bandId": "norwin-h-s-pa",
     "eventId": "1986-regional-championship-at-morgantown-wv",
     "season": 1986,
     "round": "Prelims",
@@ -3271,7 +3271,7 @@
     }
   },
   {
-    "bandId": "baldwin-h-s",
+    "bandId": "baldwin-h-s-pa",
     "eventId": "1986-regional-championship-at-morgantown-wv",
     "season": 1986,
     "round": "Prelims",
@@ -3296,7 +3296,7 @@
     }
   },
   {
-    "bandId": "jordan-elbridge-h-s",
+    "bandId": "jordan-elbridge-h-s-ny",
     "eventId": "1986-regional-championship-at-morgantown-wv",
     "season": 1986,
     "round": "Prelims",
@@ -3321,7 +3321,7 @@
     }
   },
   {
-    "bandId": "marietta-h-s",
+    "bandId": "marietta-h-s-oh",
     "eventId": "1986-regional-championship-at-morgantown-wv",
     "season": 1986,
     "round": "Prelims",
@@ -3346,7 +3346,7 @@
     }
   },
   {
-    "bandId": "waynesburg-h-s",
+    "bandId": "waynesburg-h-s-pa",
     "eventId": "1986-regional-championship-at-morgantown-wv",
     "season": 1986,
     "round": "Prelims",
@@ -3371,7 +3371,7 @@
     }
   },
   {
-    "bandId": "greater-latrobe-h-s",
+    "bandId": "greater-latrobe-h-s-pa",
     "eventId": "1986-regional-championship-at-morgantown-wv",
     "season": 1986,
     "round": "Prelims",
@@ -3396,7 +3396,7 @@
     }
   },
   {
-    "bandId": "red-land-h-s",
+    "bandId": "red-land-h-s-pa",
     "eventId": "1986-regional-championship-at-morgantown-wv",
     "season": 1986,
     "round": "Prelims",
@@ -3421,7 +3421,7 @@
     }
   },
   {
-    "bandId": "west-allegheny-h-s",
+    "bandId": "west-allegheny-h-s-pa",
     "eventId": "1986-regional-championship-at-morgantown-wv",
     "season": 1986,
     "round": "Prelims",
@@ -3446,7 +3446,7 @@
     }
   },
   {
-    "bandId": "paden-city-h-s",
+    "bandId": "paden-city-h-s-wv",
     "eventId": "1986-regional-championship-at-morgantown-wv",
     "season": 1986,
     "round": "Prelims",
@@ -3471,7 +3471,7 @@
     }
   },
   {
-    "bandId": "fairmont-h-s",
+    "bandId": "fairmont-h-s-wv",
     "eventId": "1986-regional-championship-at-morgantown-wv",
     "season": 1986,
     "round": "Prelims",
@@ -3496,7 +3496,7 @@
     }
   },
   {
-    "bandId": "hanover-h-s",
+    "bandId": "hanover-h-s-pa",
     "eventId": "1986-regional-championship-at-morgantown-wv",
     "season": 1986,
     "round": "Prelims",
@@ -3521,7 +3521,7 @@
     }
   },
   {
-    "bandId": "greenbrier-east-h-s",
+    "bandId": "greenbrier-east-h-s-wv",
     "eventId": "1986-regional-championship-at-morgantown-wv",
     "season": 1986,
     "round": "Prelims",
@@ -3546,7 +3546,7 @@
     }
   },
   {
-    "bandId": "toronto-h-s",
+    "bandId": "toronto-h-s-oh",
     "eventId": "1986-regional-championship-at-morgantown-wv",
     "season": 1986,
     "round": "Prelims",
@@ -3571,7 +3571,7 @@
     }
   },
   {
-    "bandId": "pt-pleasant-h-s",
+    "bandId": "pt-pleasant-h-s-wv",
     "eventId": "1986-regional-championship-at-morgantown-wv",
     "season": 1986,
     "round": "Prelims",
@@ -3596,7 +3596,7 @@
     }
   },
   {
-    "bandId": "elizabeth-forward-h-s",
+    "bandId": "elizabeth-forward-h-s-pa",
     "eventId": "1986-regional-championship-at-morgantown-wv",
     "season": 1986,
     "round": "Prelims",
@@ -3621,7 +3621,7 @@
     }
   },
   {
-    "bandId": "east-liverpool-h-s",
+    "bandId": "east-liverpool-h-s-oh",
     "eventId": "1986-regional-championship-at-morgantown-wv",
     "season": 1986,
     "round": "Prelims",
@@ -3646,7 +3646,7 @@
     }
   },
   {
-    "bandId": "wadsworth-h-s",
+    "bandId": "wadsworth-h-s-oh",
     "eventId": "1986-regional-championship-at-morgantown-wv",
     "season": 1986,
     "round": "Prelims",
@@ -3671,7 +3671,7 @@
     }
   },
   {
-    "bandId": "norwin-h-s",
+    "bandId": "norwin-h-s-pa",
     "eventId": "1986-regional-championship-at-akron-oh",
     "season": 1986,
     "round": "Finals",
@@ -3696,7 +3696,7 @@
     }
   },
   {
-    "bandId": "centerville-h-s",
+    "bandId": "centerville-h-s-oh",
     "eventId": "1986-regional-championship-at-akron-oh",
     "season": 1986,
     "round": "Finals",
@@ -3721,7 +3721,7 @@
     }
   },
   {
-    "bandId": "r-nelson-snider-h-s",
+    "bandId": "r-nelson-snider-h-s-in",
     "eventId": "1986-regional-championship-at-akron-oh",
     "season": 1986,
     "round": "Finals",
@@ -3746,7 +3746,7 @@
     }
   },
   {
-    "bandId": "marlington-h-s",
+    "bandId": "marlington-h-s-oh",
     "eventId": "1986-regional-championship-at-akron-oh",
     "season": 1986,
     "round": "Finals",
@@ -3771,7 +3771,7 @@
     }
   },
   {
-    "bandId": "new-philadelphia-h-s",
+    "bandId": "new-philadelphia-h-s-oh",
     "eventId": "1986-regional-championship-at-akron-oh",
     "season": 1986,
     "round": "Finals",
@@ -3796,7 +3796,7 @@
     }
   },
   {
-    "bandId": "lafayette-jefferson-h-s",
+    "bandId": "lafayette-jefferson-h-s-in",
     "eventId": "1986-regional-championship-at-akron-oh",
     "season": 1986,
     "round": "Finals",
@@ -3821,7 +3821,7 @@
     }
   },
   {
-    "bandId": "westerville-south-h-s",
+    "bandId": "westerville-south-h-s-oh",
     "eventId": "1986-regional-championship-at-akron-oh",
     "season": 1986,
     "round": "Finals",
@@ -3846,7 +3846,7 @@
     }
   },
   {
-    "bandId": "northmont-h-s",
+    "bandId": "northmont-h-s-oh",
     "eventId": "1986-regional-championship-at-akron-oh",
     "season": 1986,
     "round": "Finals",
@@ -3871,7 +3871,7 @@
     }
   },
   {
-    "bandId": "carroll-h-s",
+    "bandId": "carroll-h-s-oh",
     "eventId": "1986-regional-championship-at-akron-oh",
     "season": 1986,
     "round": "Finals",
@@ -3896,7 +3896,7 @@
     }
   },
   {
-    "bandId": "trinity-h-s",
+    "bandId": "trinity-h-s-pa",
     "eventId": "1986-regional-championship-at-akron-oh",
     "season": 1986,
     "round": "Finals",
@@ -3921,7 +3921,7 @@
     }
   },
   {
-    "bandId": "carroll-h-s",
+    "bandId": "carroll-h-s-oh",
     "eventId": "1986-regional-championship-at-akron-oh",
     "season": 1986,
     "round": "Prelims",
@@ -3946,7 +3946,7 @@
     }
   },
   {
-    "bandId": "marlington-h-s",
+    "bandId": "marlington-h-s-oh",
     "eventId": "1986-regional-championship-at-akron-oh",
     "season": 1986,
     "round": "Prelims",
@@ -3971,7 +3971,7 @@
     }
   },
   {
-    "bandId": "norwin-h-s",
+    "bandId": "norwin-h-s-pa",
     "eventId": "1986-regional-championship-at-akron-oh",
     "season": 1986,
     "round": "Prelims",
@@ -3996,7 +3996,7 @@
     }
   },
   {
-    "bandId": "centerville-h-s",
+    "bandId": "centerville-h-s-oh",
     "eventId": "1986-regional-championship-at-akron-oh",
     "season": 1986,
     "round": "Prelims",
@@ -4021,7 +4021,7 @@
     }
   },
   {
-    "bandId": "trinity-h-s",
+    "bandId": "trinity-h-s-pa",
     "eventId": "1986-regional-championship-at-akron-oh",
     "season": 1986,
     "round": "Prelims",
@@ -4046,7 +4046,7 @@
     }
   },
   {
-    "bandId": "new-philadelphia-h-s",
+    "bandId": "new-philadelphia-h-s-oh",
     "eventId": "1986-regional-championship-at-akron-oh",
     "season": 1986,
     "round": "Prelims",
@@ -4071,7 +4071,7 @@
     }
   },
   {
-    "bandId": "bluffton-h-s",
+    "bandId": "bluffton-h-s-in",
     "eventId": "1986-regional-championship-at-akron-oh",
     "season": 1986,
     "round": "Prelims",
@@ -4096,7 +4096,7 @@
     }
   },
   {
-    "bandId": "northmont-h-s",
+    "bandId": "northmont-h-s-oh",
     "eventId": "1986-regional-championship-at-akron-oh",
     "season": 1986,
     "round": "Prelims",
@@ -4121,7 +4121,7 @@
     }
   },
   {
-    "bandId": "marietta-h-s",
+    "bandId": "marietta-h-s-oh",
     "eventId": "1986-regional-championship-at-akron-oh",
     "season": 1986,
     "round": "Prelims",
@@ -4146,7 +4146,7 @@
     }
   },
   {
-    "bandId": "wadsworth-h-s",
+    "bandId": "wadsworth-h-s-oh",
     "eventId": "1986-regional-championship-at-akron-oh",
     "season": 1986,
     "round": "Prelims",
@@ -4171,7 +4171,7 @@
     }
   },
   {
-    "bandId": "waynesburg-central-h-s",
+    "bandId": "waynesburg-central-h-s-pa",
     "eventId": "1986-regional-championship-at-akron-oh",
     "season": 1986,
     "round": "Prelims",
@@ -4196,7 +4196,7 @@
     }
   },
   {
-    "bandId": "westerville-south-h-s",
+    "bandId": "westerville-south-h-s-oh",
     "eventId": "1986-regional-championship-at-akron-oh",
     "season": 1986,
     "round": "Prelims",
@@ -4221,7 +4221,7 @@
     }
   },
   {
-    "bandId": "adams-central-h-s",
+    "bandId": "adams-central-h-s-in",
     "eventId": "1986-regional-championship-at-akron-oh",
     "season": 1986,
     "round": "Prelims",
@@ -4246,7 +4246,7 @@
     }
   },
   {
-    "bandId": "r-nelson-snider-h-s",
+    "bandId": "r-nelson-snider-h-s-in",
     "eventId": "1986-regional-championship-at-akron-oh",
     "season": 1986,
     "round": "Prelims",
@@ -4271,7 +4271,7 @@
     }
   },
   {
-    "bandId": "plainfield-h-s",
+    "bandId": "plainfield-h-s-in",
     "eventId": "1986-regional-championship-at-akron-oh",
     "season": 1986,
     "round": "Prelims",
@@ -4296,7 +4296,7 @@
     }
   },
   {
-    "bandId": "academy-h-s",
+    "bandId": "academy-h-s-pa",
     "eventId": "1986-regional-championship-at-akron-oh",
     "season": 1986,
     "round": "Prelims",
@@ -4321,7 +4321,7 @@
     }
   },
   {
-    "bandId": "lafayette-jefferson-h-s",
+    "bandId": "lafayette-jefferson-h-s-in",
     "eventId": "1986-regional-championship-at-akron-oh",
     "season": 1986,
     "round": "Prelims",
@@ -4346,7 +4346,7 @@
     }
   },
   {
-    "bandId": "springboro-h-s",
+    "bandId": "springboro-h-s-oh",
     "eventId": "1986-regional-championship-at-akron-oh",
     "season": 1986,
     "round": "Prelims",
@@ -4371,7 +4371,7 @@
     }
   },
   {
-    "bandId": "brunswick-h-s",
+    "bandId": "brunswick-h-s-oh",
     "eventId": "1986-regional-championship-at-akron-oh",
     "season": 1986,
     "round": "Prelims",
@@ -4396,7 +4396,7 @@
     }
   },
   {
-    "bandId": "beavercreek-h-s",
+    "bandId": "beavercreek-h-s-oh",
     "eventId": "1986-regional-championship-at-akron-oh",
     "season": 1986,
     "round": "Prelims",
@@ -4421,7 +4421,7 @@
     }
   },
   {
-    "bandId": "burlington-h-s",
+    "bandId": "burlington-h-s-wi",
     "eventId": "1986-regional-championship-at-akron-oh",
     "season": 1986,
     "round": "Prelims",
@@ -4446,7 +4446,7 @@
     }
   },
   {
-    "bandId": "yough-h-s",
+    "bandId": "yough-h-s-pa",
     "eventId": "1986-regional-championship-at-akron-oh",
     "season": 1986,
     "round": "Prelims",
@@ -4471,7 +4471,7 @@
     }
   },
   {
-    "bandId": "west-genesee-h-s",
+    "bandId": "west-genesee-h-s-ny",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -4496,7 +4496,7 @@
     }
   },
   {
-    "bandId": "lawrence-north-h-s",
+    "bandId": "lawrence-north-h-s-in",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -4521,7 +4521,7 @@
     }
   },
   {
-    "bandId": "grenada-h-s",
+    "bandId": "grenada-h-s-ms",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -4546,7 +4546,7 @@
     }
   },
   {
-    "bandId": "mcgavock-h-s",
+    "bandId": "mcgavock-h-s-tn",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -4571,7 +4571,7 @@
     }
   },
   {
-    "bandId": "goodpasture-christian-h-s",
+    "bandId": "goodpasture-christian-h-s-tn",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -4596,7 +4596,7 @@
     }
   },
   {
-    "bandId": "prospect-h-s",
+    "bandId": "prospect-h-s-il",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -4621,7 +4621,7 @@
     }
   },
   {
-    "bandId": "cambridge-h-s",
+    "bandId": "cambridge-h-s-oh",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -4646,7 +4646,7 @@
     }
   },
   {
-    "bandId": "athens-h-s",
+    "bandId": "athens-h-s-oh",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -4671,7 +4671,7 @@
     }
   },
   {
-    "bandId": "bluffton-h-s",
+    "bandId": "bluffton-h-s-in",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -4696,7 +4696,7 @@
     }
   },
   {
-    "bandId": "coronado-h-s",
+    "bandId": "coronado-h-s-az",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -4721,7 +4721,7 @@
     }
   },
   {
-    "bandId": "lima-central-h-s",
+    "bandId": "lima-central-h-s-oh",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -4746,7 +4746,7 @@
     }
   },
   {
-    "bandId": "carroll-h-s",
+    "bandId": "carroll-h-s-oh",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -4771,7 +4771,7 @@
     }
   },
   {
-    "bandId": "westerville-south-h-s",
+    "bandId": "westerville-south-h-s-oh",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -4796,7 +4796,7 @@
     }
   },
   {
-    "bandId": "central-cabarrus-h-s",
+    "bandId": "central-cabarrus-h-s-nc",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -4821,7 +4821,7 @@
     }
   },
   {
-    "bandId": "northmont-h-s",
+    "bandId": "northmont-h-s-oh",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -4846,7 +4846,7 @@
     }
   },
   {
-    "bandId": "kiski-area-h-s",
+    "bandId": "kiski-area-h-s-pa",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -4871,7 +4871,7 @@
     }
   },
   {
-    "bandId": "lebanon-h-s",
+    "bandId": "lebanon-h-s-in",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -4896,7 +4896,7 @@
     }
   },
   {
-    "bandId": "plainfield-h-s",
+    "bandId": "plainfield-h-s-in",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -4921,7 +4921,7 @@
     }
   },
   {
-    "bandId": "scott-h-s",
+    "bandId": "scott-h-s-ky",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -4946,7 +4946,7 @@
     }
   },
   {
-    "bandId": "western-h-s",
+    "bandId": "western-h-s-in",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Finals",
@@ -4971,7 +4971,7 @@
     }
   },
   {
-    "bandId": "centerville-h-s",
+    "bandId": "centerville-h-s-oh",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Finals",
@@ -4996,7 +4996,7 @@
     }
   },
   {
-    "bandId": "west-genesee-h-s",
+    "bandId": "west-genesee-h-s-ny",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Finals",
@@ -5021,7 +5021,7 @@
     }
   },
   {
-    "bandId": "lake-park-h-s",
+    "bandId": "lake-park-h-s-il",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Finals",
@@ -5046,7 +5046,7 @@
     }
   },
   {
-    "bandId": "union-h-s",
+    "bandId": "union-h-s-ok",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Finals",
@@ -5071,7 +5071,7 @@
     }
   },
   {
-    "bandId": "prospect-h-s",
+    "bandId": "prospect-h-s-il",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Finals",
@@ -5096,7 +5096,7 @@
     }
   },
   {
-    "bandId": "rocky-mount-h-s",
+    "bandId": "rocky-mount-h-s-nc",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Finals",
@@ -5121,7 +5121,7 @@
     }
   },
   {
-    "bandId": "pearl-h-s",
+    "bandId": "pearl-h-s-ms",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Finals",
@@ -5146,7 +5146,7 @@
     }
   },
   {
-    "bandId": "lafayette-jefferson-h-s",
+    "bandId": "lafayette-jefferson-h-s-in",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Finals",
@@ -5171,7 +5171,7 @@
     }
   },
   {
-    "bandId": "marian-catholic-h-s",
+    "bandId": "marian-catholic-h-s-il",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Finals",
@@ -5196,7 +5196,7 @@
     }
   },
   {
-    "bandId": "lawrence-north-h-s",
+    "bandId": "lawrence-north-h-s-in",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Finals",
@@ -5221,7 +5221,7 @@
     }
   },
   {
-    "bandId": "mcgavock-h-s",
+    "bandId": "mcgavock-h-s-tn",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Finals",
@@ -5246,7 +5246,7 @@
     }
   },
   {
-    "bandId": "marlington-h-s",
+    "bandId": "marlington-h-s-oh",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Finals",
@@ -5271,7 +5271,7 @@
     }
   },
   {
-    "bandId": "pearl-h-s",
+    "bandId": "pearl-h-s-ms",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -5296,7 +5296,7 @@
     }
   },
   {
-    "bandId": "rocky-mount-h-s",
+    "bandId": "rocky-mount-h-s-nc",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -5321,7 +5321,7 @@
     }
   },
   {
-    "bandId": "marlington-h-s",
+    "bandId": "marlington-h-s-oh",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -5346,7 +5346,7 @@
     }
   },
   {
-    "bandId": "marian-catholic-h-s",
+    "bandId": "marian-catholic-h-s-il",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -5371,7 +5371,7 @@
     }
   },
   {
-    "bandId": "western-h-s",
+    "bandId": "western-h-s-in",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -5396,7 +5396,7 @@
     }
   },
   {
-    "bandId": "paoli-h-s",
+    "bandId": "paoli-h-s-in",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -5421,7 +5421,7 @@
     }
   },
   {
-    "bandId": "lake-park-h-s",
+    "bandId": "lake-park-h-s-il",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -5446,7 +5446,7 @@
     }
   },
   {
-    "bandId": "union-h-s",
+    "bandId": "union-h-s-ok",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -5471,7 +5471,7 @@
     }
   },
   {
-    "bandId": "edgewood-h-s",
+    "bandId": "edgewood-h-s-oh",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -5496,7 +5496,7 @@
     }
   },
   {
-    "bandId": "newton-h-s",
+    "bandId": "newton-h-s-il",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -5521,7 +5521,7 @@
     }
   },
   {
-    "bandId": "chesterton-h-s",
+    "bandId": "chesterton-h-s-in",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -5546,7 +5546,7 @@
     }
   },
   {
-    "bandId": "george-rogers-clark-h-s",
+    "bandId": "george-rogers-clark-h-s-ky",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -5571,7 +5571,7 @@
     }
   },
   {
-    "bandId": "lafayette-jefferson-h-s",
+    "bandId": "lafayette-jefferson-h-s-in",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -5596,7 +5596,7 @@
     }
   },
   {
-    "bandId": "brentwood-h-s",
+    "bandId": "brentwood-h-s-tn",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -5621,7 +5621,7 @@
     }
   },
   {
-    "bandId": "academy-h-s",
+    "bandId": "academy-h-s-pa",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -5646,7 +5646,7 @@
     }
   },
   {
-    "bandId": "centerville-h-s",
+    "bandId": "centerville-h-s-oh",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -5671,7 +5671,7 @@
     }
   },
   {
-    "bandId": "marietta-h-s",
+    "bandId": "marietta-h-s-oh",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -5696,7 +5696,7 @@
     }
   },
   {
-    "bandId": "plymouth-canton-ed-park",
+    "bandId": "plymouth-canton-ed-park-mi",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -5721,7 +5721,7 @@
     }
   },
   {
-    "bandId": "trinity-h-s",
+    "bandId": "trinity-h-s-pa",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -5746,7 +5746,7 @@
     }
   },
   {
-    "bandId": "oldham-county-h-s",
+    "bandId": "oldham-county-h-s-ky",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -5771,7 +5771,7 @@
     }
   },
   {
-    "bandId": "miamisburg-h-s",
+    "bandId": "miamisburg-h-s-oh",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -5796,7 +5796,7 @@
     }
   },
   {
-    "bandId": "fairborn-h-s",
+    "bandId": "fairborn-h-s-oh",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -5821,7 +5821,7 @@
     }
   },
   {
-    "bandId": "danville-h-s",
+    "bandId": "danville-h-s-il",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -5846,7 +5846,7 @@
     }
   },
   {
-    "bandId": "brownsburg-h-s",
+    "bandId": "brownsburg-h-s-in",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",
@@ -5871,7 +5871,7 @@
     }
   },
   {
-    "bandId": "tecumseh-h-s",
+    "bandId": "tecumseh-h-s-oh",
     "eventId": "1986-grand-national-championship-at-indianapolis-in",
     "season": 1986,
     "round": "Prelims",

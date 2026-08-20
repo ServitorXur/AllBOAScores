@@ -1,6 +1,6 @@
 [
   {
-    "bandId": "lake-park-h-s",
+    "bandId": "lake-park-h-s-il",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Finals",
@@ -25,7 +25,7 @@
     }
   },
   {
-    "bandId": "carmel-h-s",
+    "bandId": "carmel-h-s-in",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Finals",
@@ -50,7 +50,7 @@
     }
   },
   {
-    "bandId": "prospect-h-s",
+    "bandId": "prospect-h-s-il",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Finals",
@@ -75,7 +75,7 @@
     }
   },
   {
-    "bandId": "westerville-south-h-s",
+    "bandId": "westerville-south-h-s-oh",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Finals",
@@ -100,7 +100,7 @@
     }
   },
   {
-    "bandId": "centerville-h-s",
+    "bandId": "centerville-h-s-oh",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Finals",
@@ -125,7 +125,7 @@
     }
   },
   {
-    "bandId": "westerville-north-h-s",
+    "bandId": "westerville-north-h-s-oh",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Finals",
@@ -150,7 +150,7 @@
     }
   },
   {
-    "bandId": "northmont-h-s",
+    "bandId": "northmont-h-s-oh",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Finals",
@@ -175,7 +175,7 @@
     }
   },
   {
-    "bandId": "center-grove-h-s",
+    "bandId": "center-grove-h-s-in",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Finals",
@@ -200,7 +200,7 @@
     }
   },
   {
-    "bandId": "springboro-h-s",
+    "bandId": "springboro-h-s-oh",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Finals",
@@ -225,7 +225,7 @@
     }
   },
   {
-    "bandId": "central-hardin-h-s",
+    "bandId": "central-hardin-h-s-ky",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Finals",
@@ -250,7 +250,7 @@
     }
   },
   {
-    "bandId": "carroll-h-s",
+    "bandId": "carroll-h-s-oh",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Prelims",
@@ -275,7 +275,7 @@
     }
   },
   {
-    "bandId": "springboro-h-s",
+    "bandId": "springboro-h-s-oh",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Prelims",
@@ -300,7 +300,7 @@
     }
   },
   {
-    "bandId": "lake-park-h-s",
+    "bandId": "lake-park-h-s-il",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Prelims",
@@ -325,7 +325,7 @@
     }
   },
   {
-    "bandId": "elizabethtown-h-s",
+    "bandId": "elizabethtown-h-s-pa",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Prelims",
@@ -350,7 +350,7 @@
     }
   },
   {
-    "bandId": "miamisburg-h-s",
+    "bandId": "miamisburg-h-s-oh",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Prelims",
@@ -375,7 +375,7 @@
     }
   },
   {
-    "bandId": "prospect-h-s",
+    "bandId": "prospect-h-s-il",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Prelims",
@@ -400,7 +400,7 @@
     }
   },
   {
-    "bandId": "beechwood-h-s",
+    "bandId": "beechwood-h-s-ky",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Prelims",
@@ -425,7 +425,7 @@
     }
   },
   {
-    "bandId": "harrison-county-h-s",
+    "bandId": "harrison-county-h-s-ky",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Prelims",
@@ -450,7 +450,7 @@
     }
   },
   {
-    "bandId": "carmel-h-s",
+    "bandId": "carmel-h-s-in",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Prelims",
@@ -475,7 +475,7 @@
     }
   },
   {
-    "bandId": "western-brown-h-s",
+    "bandId": "western-brown-h-s-oh",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Prelims",
@@ -500,7 +500,7 @@
     }
   },
   {
-    "bandId": "westerville-south-h-s",
+    "bandId": "westerville-south-h-s-oh",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Prelims",
@@ -525,7 +525,7 @@
     }
   },
   {
-    "bandId": "normal-west-h-s",
+    "bandId": "normal-west-h-s-il",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Prelims",
@@ -550,7 +550,7 @@
     }
   },
   {
-    "bandId": "franklin-heights-h-s",
+    "bandId": "franklin-heights-h-s-oh",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Prelims",
@@ -575,7 +575,7 @@
     }
   },
   {
-    "bandId": "centerville-h-s",
+    "bandId": "centerville-h-s-oh",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Prelims",
@@ -600,7 +600,7 @@
     }
   },
   {
-    "bandId": "pendleton-heights-h-s",
+    "bandId": "pendleton-heights-h-s-in",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Prelims",
@@ -625,7 +625,7 @@
     }
   },
   {
-    "bandId": "center-grove-h-s",
+    "bandId": "center-grove-h-s-in",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Prelims",
@@ -650,7 +650,7 @@
     }
   },
   {
-    "bandId": "westerville-north-h-s",
+    "bandId": "westerville-north-h-s-oh",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Prelims",
@@ -675,7 +675,7 @@
     }
   },
   {
-    "bandId": "meade-county-h-s",
+    "bandId": "meade-county-h-s-ky",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Prelims",
@@ -700,7 +700,7 @@
     }
   },
   {
-    "bandId": "north-laurel-h-s",
+    "bandId": "north-laurel-h-s-ky",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Prelims",
@@ -725,7 +725,7 @@
     }
   },
   {
-    "bandId": "northmont-h-s",
+    "bandId": "northmont-h-s-oh",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Prelims",
@@ -750,7 +750,7 @@
     }
   },
   {
-    "bandId": "loveland-h-s",
+    "bandId": "loveland-h-s-oh",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Prelims",
@@ -775,7 +775,7 @@
     }
   },
   {
-    "bandId": "central-hardin-h-s",
+    "bandId": "central-hardin-h-s-ky",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Prelims",
@@ -800,7 +800,7 @@
     }
   },
   {
-    "bandId": "warren-local-h-s",
+    "bandId": "warren-local-h-s-oh",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Prelims",
@@ -825,7 +825,7 @@
     }
   },
   {
-    "bandId": "lakota-h-s",
+    "bandId": "lakota-h-s-oh",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Prelims",
@@ -850,7 +850,7 @@
     }
   },
   {
-    "bandId": "colerain-h-s",
+    "bandId": "colerain-h-s-oh",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Prelims",
@@ -875,7 +875,7 @@
     }
   },
   {
-    "bandId": "troy-h-s",
+    "bandId": "troy-h-s-oh",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Prelims",
@@ -900,7 +900,7 @@
     }
   },
   {
-    "bandId": "victor-j-andrew-h-s",
+    "bandId": "victor-j-andrew-h-s-il",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Prelims",
@@ -925,7 +925,7 @@
     }
   },
   {
-    "bandId": "warsaw-community-h-s",
+    "bandId": "warsaw-community-h-s-in",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Prelims",
@@ -950,7 +950,7 @@
     }
   },
   {
-    "bandId": "mt-juliet-senior-h-s",
+    "bandId": "mt-juliet-senior-h-s-tn",
     "eventId": "1996-regional-championship-at-cincinnati-ohio",
     "season": 1996,
     "round": "Prelims",
@@ -975,7 +975,7 @@
     }
   },
   {
-    "bandId": "kiski-area-h-s",
+    "bandId": "kiski-area-h-s-pa",
     "eventId": "1996-regional-championship-at-charleston-wv",
     "season": 1996,
     "round": "Finals",
@@ -1000,7 +1000,7 @@
     }
   },
   {
-    "bandId": "norwin-h-s",
+    "bandId": "norwin-h-s-pa",
     "eventId": "1996-regional-championship-at-charleston-wv",
     "season": 1996,
     "round": "Finals",
@@ -1025,7 +1025,7 @@
     }
   },
   {
-    "bandId": "webster-h-s",
+    "bandId": "webster-h-s-ny",
     "eventId": "1996-regional-championship-at-charleston-wv",
     "season": 1996,
     "round": "Finals",
@@ -1050,7 +1050,7 @@
     }
   },
   {
-    "bandId": "adair-county-h-s",
+    "bandId": "adair-county-h-s-ky",
     "eventId": "1996-regional-championship-at-charleston-wv",
     "season": 1996,
     "round": "Finals",
@@ -1075,7 +1075,7 @@
     }
   },
   {
-    "bandId": "greenbrier-east-h-s",
+    "bandId": "greenbrier-east-h-s-wv",
     "eventId": "1996-regional-championship-at-charleston-wv",
     "season": 1996,
     "round": "Finals",
@@ -1100,7 +1100,7 @@
     }
   },
   {
-    "bandId": "wheeling-park-h-s",
+    "bandId": "wheeling-park-h-s-wv",
     "eventId": "1996-regional-championship-at-charleston-wv",
     "season": 1996,
     "round": "Finals",
@@ -1125,7 +1125,7 @@
     }
   },
   {
-    "bandId": "james-w-robinson-h-s",
+    "bandId": "james-w-robinson-h-s-va",
     "eventId": "1996-regional-championship-at-charleston-wv",
     "season": 1996,
     "round": "Finals",
@@ -1150,7 +1150,7 @@
     }
   },
   {
-    "bandId": "trinity-h-s",
+    "bandId": "trinity-h-s-pa",
     "eventId": "1996-regional-championship-at-charleston-wv",
     "season": 1996,
     "round": "Finals",
@@ -1175,7 +1175,7 @@
     }
   },
   {
-    "bandId": "marlington-h-s",
+    "bandId": "marlington-h-s-oh",
     "eventId": "1996-regional-championship-at-charleston-wv",
     "season": 1996,
     "round": "Finals",
@@ -1200,7 +1200,7 @@
     }
   },
   {
-    "bandId": "meigs-h-s",
+    "bandId": "meigs-h-s-oh",
     "eventId": "1996-regional-championship-at-charleston-wv",
     "season": 1996,
     "round": "Finals",
@@ -1225,7 +1225,7 @@
     }
   },
   {
-    "bandId": "adair-county-h-s",
+    "bandId": "adair-county-h-s-ky",
     "eventId": "1996-regional-championship-at-charleston-wv",
     "season": 1996,
     "round": "Prelims",
@@ -1250,7 +1250,7 @@
     }
   },
   {
-    "bandId": "norwin-h-s",
+    "bandId": "norwin-h-s-pa",
     "eventId": "1996-regional-championship-at-charleston-wv",
     "season": 1996,
     "round": "Prelims",
@@ -1275,7 +1275,7 @@
     }
   },
   {
-    "bandId": "kiski-area-h-s",
+    "bandId": "kiski-area-h-s-pa",
     "eventId": "1996-regional-championship-at-charleston-wv",
     "season": 1996,
     "round": "Prelims",
@@ -1300,7 +1300,7 @@
     }
   },
   {
-    "bandId": "greenbrier-east-h-s",
+    "bandId": "greenbrier-east-h-s-wv",
     "eventId": "1996-regional-championship-at-charleston-wv",
     "season": 1996,
     "round": "Prelims",
@@ -1325,7 +1325,7 @@
     }
   },
   {
-    "bandId": "webster-h-s",
+    "bandId": "webster-h-s-ny",
     "eventId": "1996-regional-championship-at-charleston-wv",
     "season": 1996,
     "round": "Prelims",
@@ -1350,7 +1350,7 @@
     }
   },
   {
-    "bandId": "marlington-h-s",
+    "bandId": "marlington-h-s-oh",
     "eventId": "1996-regional-championship-at-charleston-wv",
     "season": 1996,
     "round": "Prelims",
@@ -1375,7 +1375,7 @@
     }
   },
   {
-    "bandId": "meigs-h-s",
+    "bandId": "meigs-h-s-oh",
     "eventId": "1996-regional-championship-at-charleston-wv",
     "season": 1996,
     "round": "Prelims",
@@ -1400,7 +1400,7 @@
     }
   },
   {
-    "bandId": "james-w-robinson-h-s",
+    "bandId": "james-w-robinson-h-s-va",
     "eventId": "1996-regional-championship-at-charleston-wv",
     "season": 1996,
     "round": "Prelims",
@@ -1425,7 +1425,7 @@
     }
   },
   {
-    "bandId": "trinity-h-s",
+    "bandId": "trinity-h-s-pa",
     "eventId": "1996-regional-championship-at-charleston-wv",
     "season": 1996,
     "round": "Prelims",
@@ -1450,7 +1450,7 @@
     }
   },
   {
-    "bandId": "fort-frye-h-s",
+    "bandId": "fort-frye-h-s-oh",
     "eventId": "1996-regional-championship-at-charleston-wv",
     "season": 1996,
     "round": "Prelims",
@@ -1475,7 +1475,7 @@
     }
   },
   {
-    "bandId": "wheeling-park-h-s",
+    "bandId": "wheeling-park-h-s-wv",
     "eventId": "1996-regional-championship-at-charleston-wv",
     "season": 1996,
     "round": "Prelims",
@@ -1500,7 +1500,7 @@
     }
   },
   {
-    "bandId": "west-allegheny-h-s",
+    "bandId": "west-allegheny-h-s-pa",
     "eventId": "1996-regional-championship-at-charleston-wv",
     "season": 1996,
     "round": "Prelims",
@@ -1525,7 +1525,7 @@
     }
   },
   {
-    "bandId": "rock-hill-h-s",
+    "bandId": "rock-hill-h-s-oh",
     "eventId": "1996-regional-championship-at-charleston-wv",
     "season": 1996,
     "round": "Prelims",
@@ -1550,7 +1550,7 @@
     }
   },
   {
-    "bandId": "mckeesport-h-s",
+    "bandId": "mckeesport-h-s-pa",
     "eventId": "1996-regional-championship-at-charleston-wv",
     "season": 1996,
     "round": "Prelims",
@@ -1575,7 +1575,7 @@
     }
   },
   {
-    "bandId": "erie-central-h-s",
+    "bandId": "erie-central-h-s-pa",
     "eventId": "1996-regional-championship-at-charleston-wv",
     "season": 1996,
     "round": "Prelims",
@@ -1600,7 +1600,7 @@
     }
   },
   {
-    "bandId": "south-park-h-s",
+    "bandId": "south-park-h-s-pa",
     "eventId": "1996-regional-championship-at-charleston-wv",
     "season": 1996,
     "round": "Prelims",
@@ -1625,7 +1625,7 @@
     }
   },
   {
-    "bandId": "deer-lakes-h-s",
+    "bandId": "deer-lakes-h-s-pa",
     "eventId": "1996-regional-championship-at-charleston-wv",
     "season": 1996,
     "round": "Prelims",
@@ -1650,7 +1650,7 @@
     }
   },
   {
-    "bandId": "bradford-h-s",
+    "bandId": "bradford-h-s-pa",
     "eventId": "1996-regional-championship-at-charleston-wv",
     "season": 1996,
     "round": "Prelims",
@@ -1675,7 +1675,7 @@
     }
   },
   {
-    "bandId": "blackhawk-h-s",
+    "bandId": "blackhawk-h-s-pa",
     "eventId": "1996-regional-championship-at-charleston-wv",
     "season": 1996,
     "round": "Prelims",
@@ -1700,7 +1700,7 @@
     }
   },
   {
-    "bandId": "athens-h-s",
+    "bandId": "athens-h-s-oh",
     "eventId": "1996-regional-championship-at-charleston-wv",
     "season": 1996,
     "round": "Prelims",
@@ -1725,7 +1725,7 @@
     }
   },
   {
-    "bandId": "beaver-area-jr-sr-h-s",
+    "bandId": "beaver-area-jr-sr-h-s-pa",
     "eventId": "1996-regional-championship-at-charleston-wv",
     "season": 1996,
     "round": "Prelims",
@@ -1750,7 +1750,7 @@
     }
   },
   {
-    "bandId": "northwestern-lehigh-h-s",
+    "bandId": "northwestern-lehigh-h-s-pa",
     "eventId": "1996-regional-championship-at-bensalem-pa",
     "season": 1996,
     "round": "Finals",
@@ -1775,11 +1775,11 @@
     }
   },
   {
-    "bandId": "piscataway-h-s",
+    "bandId": "piscataway-h-s-nj",
     "eventId": "1996-regional-championship-at-bensalem-pa",
     "season": 1996,
     "round": "Finals",
-    "class": "AAA",
+    "class": "Unknown",
     "placement": 2,
     "placementOverall": 2,
     "total": 79.35,
@@ -1800,7 +1800,7 @@
     }
   },
   {
-    "bandId": "herndon-h-s",
+    "bandId": "herndon-h-s-va",
     "eventId": "1996-regional-championship-at-bensalem-pa",
     "season": 1996,
     "round": "Finals",
@@ -1825,7 +1825,7 @@
     }
   },
   {
-    "bandId": "liverpool-h-s",
+    "bandId": "liverpool-h-s-pa",
     "eventId": "1996-regional-championship-at-bensalem-pa",
     "season": 1996,
     "round": "Finals",
@@ -1850,7 +1850,7 @@
     }
   },
   {
-    "bandId": "mechanicsburg-h-s",
+    "bandId": "mechanicsburg-h-s-pa",
     "eventId": "1996-regional-championship-at-bensalem-pa",
     "season": 1996,
     "round": "Finals",
@@ -1875,7 +1875,7 @@
     }
   },
   {
-    "bandId": "lampeter-strasburg-h-s",
+    "bandId": "lampeter-strasburg-h-s-pa",
     "eventId": "1996-regional-championship-at-bensalem-pa",
     "season": 1996,
     "round": "Finals",
@@ -1900,7 +1900,7 @@
     }
   },
   {
-    "bandId": "arlington-h-s",
+    "bandId": "arlington-h-s-ny",
     "eventId": "1996-regional-championship-at-bensalem-pa",
     "season": 1996,
     "round": "Finals",
@@ -1925,7 +1925,7 @@
     }
   },
   {
-    "bandId": "hatboro-horsham-h-s",
+    "bandId": "hatboro-horsham-h-s-pa",
     "eventId": "1996-regional-championship-at-bensalem-pa",
     "season": 1996,
     "round": "Finals",
@@ -1950,7 +1950,7 @@
     }
   },
   {
-    "bandId": "w-t-woodson-h-s",
+    "bandId": "w-t-woodson-h-s-va",
     "eventId": "1996-regional-championship-at-bensalem-pa",
     "season": 1996,
     "round": "Finals",
@@ -1975,7 +1975,7 @@
     }
   },
   {
-    "bandId": "quakertown-community-h-s",
+    "bandId": "quakertown-community-h-s-pa",
     "eventId": "1996-regional-championship-at-bensalem-pa",
     "season": 1996,
     "round": "Finals",
@@ -2000,7 +2000,7 @@
     }
   },
   {
-    "bandId": "mechanicsburg-h-s",
+    "bandId": "mechanicsburg-h-s-pa",
     "eventId": "1996-regional-championship-at-bensalem-pa",
     "season": 1996,
     "round": "Prelims",
@@ -2025,7 +2025,7 @@
     }
   },
   {
-    "bandId": "liverpool-h-s",
+    "bandId": "liverpool-h-s-pa",
     "eventId": "1996-regional-championship-at-bensalem-pa",
     "season": 1996,
     "round": "Prelims",
@@ -2050,7 +2050,7 @@
     }
   },
   {
-    "bandId": "northwestern-lehigh-h-s",
+    "bandId": "northwestern-lehigh-h-s-pa",
     "eventId": "1996-regional-championship-at-bensalem-pa",
     "season": 1996,
     "round": "Prelims",
@@ -2075,7 +2075,7 @@
     }
   },
   {
-    "bandId": "lampeter-strasburg-h-s",
+    "bandId": "lampeter-strasburg-h-s-pa",
     "eventId": "1996-regional-championship-at-bensalem-pa",
     "season": 1996,
     "round": "Prelims",
@@ -2100,7 +2100,7 @@
     }
   },
   {
-    "bandId": "hatboro-horsham-h-s",
+    "bandId": "hatboro-horsham-h-s-pa",
     "eventId": "1996-regional-championship-at-bensalem-pa",
     "season": 1996,
     "round": "Prelims",
@@ -2125,7 +2125,7 @@
     }
   },
   {
-    "bandId": "herndon-h-s",
+    "bandId": "herndon-h-s-va",
     "eventId": "1996-regional-championship-at-bensalem-pa",
     "season": 1996,
     "round": "Prelims",
@@ -2150,7 +2150,7 @@
     }
   },
   {
-    "bandId": "piscataway-h-s",
+    "bandId": "piscataway-h-s-ni",
     "eventId": "1996-regional-championship-at-bensalem-pa",
     "season": 1996,
     "round": "Prelims",
@@ -2175,7 +2175,7 @@
     }
   },
   {
-    "bandId": "quakertown-community-h-s",
+    "bandId": "quakertown-community-h-s-pa",
     "eventId": "1996-regional-championship-at-bensalem-pa",
     "season": 1996,
     "round": "Prelims",
@@ -2200,7 +2200,7 @@
     }
   },
   {
-    "bandId": "waterford-h-s",
+    "bandId": "waterford-h-s-ct",
     "eventId": "1996-regional-championship-at-bensalem-pa",
     "season": 1996,
     "round": "Prelims",
@@ -2225,7 +2225,7 @@
     }
   },
   {
-    "bandId": "methacton-h-s",
+    "bandId": "methacton-h-s-pa",
     "eventId": "1996-regional-championship-at-bensalem-pa",
     "season": 1996,
     "round": "Prelims",
@@ -2250,7 +2250,7 @@
     }
   },
   {
-    "bandId": "arlington-h-s",
+    "bandId": "arlington-h-s-ny",
     "eventId": "1996-regional-championship-at-bensalem-pa",
     "season": 1996,
     "round": "Prelims",
@@ -2275,7 +2275,7 @@
     }
   },
   {
-    "bandId": "w-t-woodson-h-s",
+    "bandId": "w-t-woodson-h-s-va",
     "eventId": "1996-regional-championship-at-bensalem-pa",
     "season": 1996,
     "round": "Prelims",
@@ -2300,7 +2300,7 @@
     }
   },
   {
-    "bandId": "norwich-free-academy",
+    "bandId": "norwich-free-academy-ct",
     "eventId": "1996-regional-championship-at-bensalem-pa",
     "season": 1996,
     "round": "Prelims",
@@ -2325,7 +2325,7 @@
     }
   },
   {
-    "bandId": "pennridge-h-s",
+    "bandId": "pennridge-h-s-pa",
     "eventId": "1996-regional-championship-at-bensalem-pa",
     "season": 1996,
     "round": "Prelims",
@@ -2350,7 +2350,7 @@
     }
   },
   {
-    "bandId": "westfield-h-s",
+    "bandId": "westfield-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Finals",
@@ -2375,7 +2375,7 @@
     }
   },
   {
-    "bandId": "winston-churchill-h-s",
+    "bandId": "winston-churchill-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Finals",
@@ -2400,7 +2400,7 @@
     }
   },
   {
-    "bandId": "spring-h-s",
+    "bandId": "spring-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Finals",
@@ -2425,7 +2425,7 @@
     }
   },
   {
-    "bandId": "stephen-f-austin-h-s",
+    "bandId": "stephen-f-austin-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Finals",
@@ -2450,7 +2450,7 @@
     }
   },
   {
-    "bandId": "clements-h-s",
+    "bandId": "clements-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Finals",
@@ -2475,7 +2475,7 @@
     }
   },
   {
-    "bandId": "klein-h-s",
+    "bandId": "klein-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Finals",
@@ -2500,7 +2500,7 @@
     }
   },
   {
-    "bandId": "clear-lake-h-s",
+    "bandId": "clear-lake-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Finals",
@@ -2525,7 +2525,7 @@
     }
   },
   {
-    "bandId": "john-marshall-h-s",
+    "bandId": "john-marshall-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Finals",
@@ -2550,7 +2550,7 @@
     }
   },
   {
-    "bandId": "langham-creek-h-s",
+    "bandId": "langham-creek-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Finals",
@@ -2575,7 +2575,7 @@
     }
   },
   {
-    "bandId": "the-woodlands-h-s",
+    "bandId": "the-woodlands-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Finals",
@@ -2600,7 +2600,7 @@
     }
   },
   {
-    "bandId": "westfield-h-s",
+    "bandId": "westfield-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Prelims",
@@ -2625,7 +2625,7 @@
     }
   },
   {
-    "bandId": "dickinson-h-s",
+    "bandId": "dickinson-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Prelims",
@@ -2650,7 +2650,7 @@
     }
   },
   {
-    "bandId": "spring-h-s",
+    "bandId": "spring-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Prelims",
@@ -2675,7 +2675,7 @@
     }
   },
   {
-    "bandId": "stephen-f-austin-h-s",
+    "bandId": "stephen-f-austin-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Prelims",
@@ -2700,7 +2700,7 @@
     }
   },
   {
-    "bandId": "clements-h-s",
+    "bandId": "clements-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Prelims",
@@ -2725,7 +2725,7 @@
     }
   },
   {
-    "bandId": "winston-churchill-h-s",
+    "bandId": "winston-churchill-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Prelims",
@@ -2750,7 +2750,7 @@
     }
   },
   {
-    "bandId": "clear-lake-h-s",
+    "bandId": "clear-lake-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Prelims",
@@ -2775,7 +2775,7 @@
     }
   },
   {
-    "bandId": "klein-h-s",
+    "bandId": "klein-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Prelims",
@@ -2800,7 +2800,7 @@
     }
   },
   {
-    "bandId": "john-marshall-h-s",
+    "bandId": "john-marshall-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Prelims",
@@ -2825,7 +2825,7 @@
     }
   },
   {
-    "bandId": "the-woodlands-h-s",
+    "bandId": "the-woodlands-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Prelims",
@@ -2850,7 +2850,7 @@
     }
   },
   {
-    "bandId": "langham-creek-h-s",
+    "bandId": "langham-creek-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Prelims",
@@ -2875,7 +2875,7 @@
     }
   },
   {
-    "bandId": "klein-forest-h-s",
+    "bandId": "klein-forest-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Prelims",
@@ -2900,7 +2900,7 @@
     }
   },
   {
-    "bandId": "robert-e-lee-h-s",
+    "bandId": "robert-e-lee-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Prelims",
@@ -2925,7 +2925,7 @@
     }
   },
   {
-    "bandId": "cy-fair-h-s",
+    "bandId": "cy-fair-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Prelims",
@@ -2950,7 +2950,7 @@
     }
   },
   {
-    "bandId": "james-bowie-h-s",
+    "bandId": "james-bowie-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Prelims",
@@ -2975,7 +2975,7 @@
     }
   },
   {
-    "bandId": "edinburg-north-h-s",
+    "bandId": "edinburg-north-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Prelims",
@@ -3000,7 +3000,7 @@
     }
   },
   {
-    "bandId": "edinburg-h-s",
+    "bandId": "edinburg-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Prelims",
@@ -3025,7 +3025,7 @@
     }
   },
   {
-    "bandId": "seguin-h-s",
+    "bandId": "seguin-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Prelims",
@@ -3050,7 +3050,7 @@
     }
   },
   {
-    "bandId": "brazoswood-h-s",
+    "bandId": "brazoswood-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Prelims",
@@ -3075,7 +3075,7 @@
     }
   },
   {
-    "bandId": "cypress-falls-h-s",
+    "bandId": "cypress-falls-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Prelims",
@@ -3100,7 +3100,7 @@
     }
   },
   {
-    "bandId": "ross-s-sterling-h-s",
+    "bandId": "ross-s-sterling-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Prelims",
@@ -3125,7 +3125,7 @@
     }
   },
   {
-    "bandId": "round-rock-h-s",
+    "bandId": "round-rock-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Prelims",
@@ -3150,7 +3150,7 @@
     }
   },
   {
-    "bandId": "tom-c-clark-h-s",
+    "bandId": "tom-c-clark-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Prelims",
@@ -3175,7 +3175,7 @@
     }
   },
   {
-    "bandId": "deer-park-h-s",
+    "bandId": "deer-park-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Prelims",
@@ -3200,7 +3200,7 @@
     }
   },
   {
-    "bandId": "north-shore-h-s",
+    "bandId": "north-shore-h-s-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Prelims",
@@ -3225,7 +3225,7 @@
     }
   },
   {
-    "bandId": "harlingen-h-s-south",
+    "bandId": "harlingen-h-s-south-tx",
     "eventId": "1996-regional-championship-at-houston-tx",
     "season": 1996,
     "round": "Prelims",
@@ -3250,7 +3250,7 @@
     }
   },
   {
-    "bandId": "lafayette-h-s",
+    "bandId": "lafayette-h-s-ky",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Finals",
@@ -3275,7 +3275,7 @@
     }
   },
   {
-    "bandId": "irmo-h-s",
+    "bandId": "irmo-h-s-sc",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Finals",
@@ -3300,7 +3300,7 @@
     }
   },
   {
-    "bandId": "north-hardin-h-s",
+    "bandId": "north-hardin-h-s-ky",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Finals",
@@ -3325,7 +3325,7 @@
     }
   },
   {
-    "bandId": "paul-laurence-dunbar-h-s",
+    "bandId": "paul-laurence-dunbar-h-s-ky",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Finals",
@@ -3350,7 +3350,7 @@
     }
   },
   {
-    "bandId": "fort-mill-h-s",
+    "bandId": "fort-mill-h-s-sc",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Finals",
@@ -3375,7 +3375,7 @@
     }
   },
   {
-    "bandId": "james-f-byrne-h-s",
+    "bandId": "james-f-byrne-h-s-sc",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Finals",
@@ -3400,7 +3400,7 @@
     }
   },
   {
-    "bandId": "goose-creek-h-s",
+    "bandId": "goose-creek-h-s-sc",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Finals",
@@ -3425,7 +3425,7 @@
     }
   },
   {
-    "bandId": "elizabethton-h-s",
+    "bandId": "elizabethton-h-s-pa",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Finals",
@@ -3450,7 +3450,7 @@
     }
   },
   {
-    "bandId": "marietta-senior-h-s",
+    "bandId": "marietta-senior-h-s-oh",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Finals",
@@ -3475,7 +3475,7 @@
     }
   },
   {
-    "bandId": "greenbrier-east-h-s",
+    "bandId": "greenbrier-east-h-s-wv",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Finals",
@@ -3500,7 +3500,7 @@
     }
   },
   {
-    "bandId": "hazard-h-s",
+    "bandId": "hazard-h-s-ky",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Prelims",
@@ -3525,7 +3525,7 @@
     }
   },
   {
-    "bandId": "lafayette-h-s",
+    "bandId": "lafayette-h-s-ky",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Prelims",
@@ -3550,7 +3550,7 @@
     }
   },
   {
-    "bandId": "fort-mill-h-s",
+    "bandId": "fort-mill-h-s-sc",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Prelims",
@@ -3575,7 +3575,7 @@
     }
   },
   {
-    "bandId": "mercer-county-h-s",
+    "bandId": "mercer-county-h-s-ky",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Prelims",
@@ -3600,7 +3600,7 @@
     }
   },
   {
-    "bandId": "james-f-byrne-h-s",
+    "bandId": "james-f-byrne-h-s-sc",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Prelims",
@@ -3625,7 +3625,7 @@
     }
   },
   {
-    "bandId": "irmo-h-s",
+    "bandId": "irmo-h-s-sc",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Prelims",
@@ -3650,7 +3650,7 @@
     }
   },
   {
-    "bandId": "north-hardin-h-s",
+    "bandId": "north-hardin-h-s-ky",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Prelims",
@@ -3675,7 +3675,7 @@
     }
   },
   {
-    "bandId": "marietta-senior-h-s",
+    "bandId": "marietta-senior-h-s-oh",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Prelims",
@@ -3700,7 +3700,7 @@
     }
   },
   {
-    "bandId": "beechwood-h-s",
+    "bandId": "beechwood-h-s-ky",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Prelims",
@@ -3725,7 +3725,7 @@
     }
   },
   {
-    "bandId": "altavista-h-s",
+    "bandId": "altavista-h-s-va",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Prelims",
@@ -3750,7 +3750,7 @@
     }
   },
   {
-    "bandId": "greenbrier-east-h-s",
+    "bandId": "greenbrier-east-h-s-wv",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Prelims",
@@ -3775,7 +3775,7 @@
     }
   },
   {
-    "bandId": "paul-laurence-dunbar-h-s",
+    "bandId": "paul-laurence-dunbar-h-s-ky",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Prelims",
@@ -3800,7 +3800,7 @@
     }
   },
   {
-    "bandId": "goose-creek-h-s",
+    "bandId": "goose-creek-h-s-sc",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Prelims",
@@ -3825,7 +3825,7 @@
     }
   },
   {
-    "bandId": "kempsville-senior-h-s",
+    "bandId": "kempsville-senior-h-s-va",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Prelims",
@@ -3850,7 +3850,7 @@
     }
   },
   {
-    "bandId": "lynchburg-christian-academy",
+    "bandId": "lynchburg-christian-academy-va",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Prelims",
@@ -3875,7 +3875,7 @@
     }
   },
   {
-    "bandId": "elizabethton-h-s",
+    "bandId": "elizabethton-h-s-pa",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Prelims",
@@ -3900,7 +3900,7 @@
     }
   },
   {
-    "bandId": "princess-anne-h-s",
+    "bandId": "princess-anne-h-s-va",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Prelims",
@@ -3925,7 +3925,7 @@
     }
   },
   {
-    "bandId": "danville-h-s",
+    "bandId": "danville-h-s-ky",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Prelims",
@@ -3950,7 +3950,7 @@
     }
   },
   {
-    "bandId": "harrison-h-s",
+    "bandId": "harrison-h-s-ga",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Prelims",
@@ -3975,7 +3975,7 @@
     }
   },
   {
-    "bandId": "east-lincoln-h-s",
+    "bandId": "east-lincoln-h-s-nc",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Prelims",
@@ -4000,7 +4000,7 @@
     }
   },
   {
-    "bandId": "ooltewah-h-s",
+    "bandId": "ooltewah-h-s-tn",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Prelims",
@@ -4025,7 +4025,7 @@
     }
   },
   {
-    "bandId": "douglas-county-h-s",
+    "bandId": "douglas-county-h-s-ga",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Prelims",
@@ -4050,7 +4050,7 @@
     }
   },
   {
-    "bandId": "miamisburg-h-s",
+    "bandId": "miamisburg-h-s-oh",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Prelims",
@@ -4075,7 +4075,7 @@
     }
   },
   {
-    "bandId": "midland-valley-h-s",
+    "bandId": "midland-valley-h-s-sc",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Prelims",
@@ -4100,7 +4100,7 @@
     }
   },
   {
-    "bandId": "lugoff-elgin-h-s",
+    "bandId": "lugoff-elgin-h-s-sc",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Prelims",
@@ -4125,7 +4125,7 @@
     }
   },
   {
-    "bandId": "tuscola-h-s",
+    "bandId": "tuscola-h-s-nc",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Prelims",
@@ -4150,7 +4150,7 @@
     }
   },
   {
-    "bandId": "north-buncombe-h-s",
+    "bandId": "north-buncombe-h-s-nc",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Prelims",
@@ -4175,7 +4175,7 @@
     }
   },
   {
-    "bandId": "cleveland-h-s",
+    "bandId": "cleveland-h-s-tn",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Prelims",
@@ -4200,7 +4200,7 @@
     }
   },
   {
-    "bandId": "travelers-rest-h-s",
+    "bandId": "travelers-rest-h-s-sc",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Prelims",
@@ -4225,7 +4225,7 @@
     }
   },
   {
-    "bandId": "south-cobb-h-s",
+    "bandId": "south-cobb-h-s-ga",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Prelims",
@@ -4250,7 +4250,7 @@
     }
   },
   {
-    "bandId": "jefferson-forest-h-s",
+    "bandId": "jefferson-forest-h-s-va",
     "eventId": "1996-regional-championship-at-johnson-city-tn",
     "season": 1996,
     "round": "Prelims",
@@ -4275,7 +4275,7 @@
     }
   },
   {
-    "bandId": "norwin-h-s",
+    "bandId": "norwin-h-s-pa",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Finals",
@@ -4300,7 +4300,7 @@
     }
   },
   {
-    "bandId": "plymouth-canton-h-s",
+    "bandId": "plymouth-canton-h-s-mi",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Finals",
@@ -4325,7 +4325,7 @@
     }
   },
   {
-    "bandId": "westerville-south-h-s",
+    "bandId": "westerville-south-h-s-oh",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Finals",
@@ -4350,7 +4350,7 @@
     }
   },
   {
-    "bandId": "centerville-h-s",
+    "bandId": "centerville-h-s-oh",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Finals",
@@ -4375,7 +4375,7 @@
     }
   },
   {
-    "bandId": "lakeland-h-s",
+    "bandId": "lakeland-h-s-mi",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Finals",
@@ -4400,7 +4400,7 @@
     }
   },
   {
-    "bandId": "reeths-puffer-h-s",
+    "bandId": "reeths-puffer-h-s-mi",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Finals",
@@ -4425,7 +4425,7 @@
     }
   },
   {
-    "bandId": "farmington-harrison-h-s",
+    "bandId": "farmington-harrison-h-s-mi",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Finals",
@@ -4450,7 +4450,7 @@
     }
   },
   {
-    "bandId": "northmont-h-s",
+    "bandId": "northmont-h-s-oh",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Finals",
@@ -4475,7 +4475,7 @@
     }
   },
   {
-    "bandId": "flushing-h-s",
+    "bandId": "flushing-h-s-mi",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Finals",
@@ -4500,7 +4500,7 @@
     }
   },
   {
-    "bandId": "fairborn-h-s",
+    "bandId": "fairborn-h-s-oh",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Finals",
@@ -4525,7 +4525,7 @@
     }
   },
   {
-    "bandId": "bellbrook-h-s",
+    "bandId": "bellbrook-h-s-oh",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Prelims",
@@ -4550,7 +4550,7 @@
     }
   },
   {
-    "bandId": "lakeland-h-s",
+    "bandId": "lakeland-h-s-mi",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Prelims",
@@ -4575,7 +4575,7 @@
     }
   },
   {
-    "bandId": "norwin-h-s",
+    "bandId": "norwin-h-s-pa",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Prelims",
@@ -4600,7 +4600,7 @@
     }
   },
   {
-    "bandId": "springboro-h-s",
+    "bandId": "springboro-h-s-oh",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Prelims",
@@ -4625,7 +4625,7 @@
     }
   },
   {
-    "bandId": "reeths-puffer-h-s",
+    "bandId": "reeths-puffer-h-s-mi",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Prelims",
@@ -4650,7 +4650,7 @@
     }
   },
   {
-    "bandId": "westerville-south-h-s",
+    "bandId": "westerville-south-h-s-oh",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Prelims",
@@ -4675,7 +4675,7 @@
     }
   },
   {
-    "bandId": "farmington-harrison-h-s",
+    "bandId": "farmington-harrison-h-s-mi",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Prelims",
@@ -4700,7 +4700,7 @@
     }
   },
   {
-    "bandId": "chesaning-union-h-s",
+    "bandId": "chesaning-union-h-s-mi",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Prelims",
@@ -4725,7 +4725,7 @@
     }
   },
   {
-    "bandId": "centerville-h-s",
+    "bandId": "centerville-h-s-oh",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Prelims",
@@ -4750,7 +4750,7 @@
     }
   },
   {
-    "bandId": "boyle-county-h-s",
+    "bandId": "boyle-county-h-s-ky",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Prelims",
@@ -4775,7 +4775,7 @@
     }
   },
   {
-    "bandId": "plymouth-canton-h-s",
+    "bandId": "plymouth-canton-h-s-mi",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Prelims",
@@ -4800,7 +4800,7 @@
     }
   },
   {
-    "bandId": "flushing-h-s",
+    "bandId": "flushing-h-s-mi",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Prelims",
@@ -4825,7 +4825,7 @@
     }
   },
   {
-    "bandId": "kings-h-s",
+    "bandId": "kings-h-s-oh",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Prelims",
@@ -4850,7 +4850,7 @@
     }
   },
   {
-    "bandId": "northmont-h-s",
+    "bandId": "northmont-h-s-oh",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Prelims",
@@ -4875,7 +4875,7 @@
     }
   },
   {
-    "bandId": "fairborn-h-s",
+    "bandId": "fairborn-h-s-oh",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Prelims",
@@ -4900,7 +4900,7 @@
     }
   },
   {
-    "bandId": "milford-h-s",
+    "bandId": "milford-h-s-oh",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Prelims",
@@ -4925,7 +4925,7 @@
     }
   },
   {
-    "bandId": "norton-h-s",
+    "bandId": "norton-h-s-oh",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Prelims",
@@ -4950,7 +4950,7 @@
     }
   },
   {
-    "bandId": "mcdowell-h-s",
+    "bandId": "mcdowell-h-s-pa",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Prelims",
@@ -4975,7 +4975,7 @@
     }
   },
   {
-    "bandId": "westland-h-s",
+    "bandId": "westland-h-s-oh",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Prelims",
@@ -5000,7 +5000,7 @@
     }
   },
   {
-    "bandId": "southgate-anderson-h-s",
+    "bandId": "southgate-anderson-h-s-mi",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Prelims",
@@ -5025,7 +5025,7 @@
     }
   },
   {
-    "bandId": "mars-area-h-s",
+    "bandId": "mars-area-h-s-pa",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Prelims",
@@ -5050,7 +5050,7 @@
     }
   },
   {
-    "bandId": "buckeye-h-s",
+    "bandId": "buckeye-h-s-oh",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Prelims",
@@ -5075,7 +5075,7 @@
     }
   },
   {
-    "bandId": "maumee-h-s",
+    "bandId": "maumee-h-s-oh",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Prelims",
@@ -5100,7 +5100,7 @@
     }
   },
   {
-    "bandId": "swanton-h-s",
+    "bandId": "swanton-h-s-oh",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Prelims",
@@ -5125,7 +5125,7 @@
     }
   },
   {
-    "bandId": "carroll-h-s",
+    "bandId": "carroll-h-s-oh",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Prelims",
@@ -5150,7 +5150,7 @@
     }
   },
   {
-    "bandId": "bishop-watterson-h-s",
+    "bandId": "bishop-watterson-h-s-oh",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Prelims",
@@ -5175,7 +5175,7 @@
     }
   },
   {
-    "bandId": "chaminade-julienne-h-s",
+    "bandId": "chaminade-julienne-h-s-oh",
     "eventId": "1996-regional-championship-at-toledo-oh",
     "season": 1996,
     "round": "Prelims",
@@ -5200,7 +5200,7 @@
     }
   },
   {
-    "bandId": "mcgavock-h-s",
+    "bandId": "mcgavock-h-s-tn",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Finals",
@@ -5225,7 +5225,7 @@
     }
   },
   {
-    "bandId": "irmo-h-s",
+    "bandId": "irmo-h-s-sc",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Finals",
@@ -5250,7 +5250,7 @@
     }
   },
   {
-    "bandId": "tarpon-springs-h-s",
+    "bandId": "tarpon-springs-h-s-fl",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Finals",
@@ -5275,11 +5275,11 @@
     }
   },
   {
-    "bandId": "pope-h-s",
+    "bandId": "pope-h-s-sc",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Finals",
-    "class": "AAA",
+    "class": "Unknown",
     "placement": 4,
     "placementOverall": 4,
     "total": 84.15,
@@ -5300,7 +5300,7 @@
     }
   },
   {
-    "bandId": "ooltewah-h-s",
+    "bandId": "ooltewah-h-s-tn",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Finals",
@@ -5325,7 +5325,7 @@
     }
   },
   {
-    "bandId": "east-coweta-h-s",
+    "bandId": "east-coweta-h-s-ga",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Finals",
@@ -5350,7 +5350,7 @@
     }
   },
   {
-    "bandId": "central-cabarrus-h-s",
+    "bandId": "central-cabarrus-h-s-nc",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Finals",
@@ -5375,7 +5375,7 @@
     }
   },
   {
-    "bandId": "miami-coral-park-sr-h-s",
+    "bandId": "miami-coral-park-sr-h-s-fl",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Finals",
@@ -5400,7 +5400,7 @@
     }
   },
   {
-    "bandId": "heritage-h-s",
+    "bandId": "heritage-h-s-va",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Finals",
@@ -5425,7 +5425,7 @@
     }
   },
   {
-    "bandId": "east-lake-h-s",
+    "bandId": "east-lake-h-s-fl",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Finals",
@@ -5450,7 +5450,7 @@
     }
   },
   {
-    "bandId": "fieldale-collinsville-h-s",
+    "bandId": "fieldale-collinsville-h-s-va",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Prelims",
@@ -5475,7 +5475,7 @@
     }
   },
   {
-    "bandId": "ooltewah-h-s",
+    "bandId": "ooltewah-h-s-tn",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Prelims",
@@ -5500,7 +5500,7 @@
     }
   },
   {
-    "bandId": "mcgavock-h-s",
+    "bandId": "mcgavock-h-s-tn",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Prelims",
@@ -5525,7 +5525,7 @@
     }
   },
   {
-    "bandId": "tarpon-springs-h-s",
+    "bandId": "tarpon-springs-h-s-fl",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Prelims",
@@ -5550,7 +5550,7 @@
     }
   },
   {
-    "bandId": "union-city-h-s",
+    "bandId": "union-city-h-s-tn",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Prelims",
@@ -5575,7 +5575,7 @@
     }
   },
   {
-    "bandId": "irmo-h-s",
+    "bandId": "irmo-h-s-sc",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Prelims",
@@ -5600,7 +5600,7 @@
     }
   },
   {
-    "bandId": "pope-h-s",
+    "bandId": "pope-h-s-ga",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Prelims",
@@ -5625,7 +5625,7 @@
     }
   },
   {
-    "bandId": "east-coweta-h-s",
+    "bandId": "east-coweta-h-s-ga",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Prelims",
@@ -5650,7 +5650,7 @@
     }
   },
   {
-    "bandId": "bassett-h-s",
+    "bandId": "bassett-h-s-va",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Prelims",
@@ -5675,7 +5675,7 @@
     }
   },
   {
-    "bandId": "butler-county-h-s",
+    "bandId": "butler-county-h-s-ky",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Prelims",
@@ -5700,7 +5700,7 @@
     }
   },
   {
-    "bandId": "miami-coral-park-sr-h-s",
+    "bandId": "miami-coral-park-sr-h-s-fl",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Prelims",
@@ -5725,7 +5725,7 @@
     }
   },
   {
-    "bandId": "central-cabarrus-h-s",
+    "bandId": "central-cabarrus-h-s-nc",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Prelims",
@@ -5750,7 +5750,7 @@
     }
   },
   {
-    "bandId": "heritage-h-s",
+    "bandId": "heritage-h-s-va",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Prelims",
@@ -5775,7 +5775,7 @@
     }
   },
   {
-    "bandId": "east-lake-h-s",
+    "bandId": "east-lake-h-s-fl",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Prelims",
@@ -5800,7 +5800,7 @@
     }
   },
   {
-    "bandId": "pepperell-h-s",
+    "bandId": "pepperell-h-s-ga",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Prelims",
@@ -5825,7 +5825,7 @@
     }
   },
   {
-    "bandId": "brevard-h-s",
+    "bandId": "brevard-h-s-nc",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Prelims",
@@ -5850,7 +5850,7 @@
     }
   },
   {
-    "bandId": "soddy-daisy-h-s",
+    "bandId": "soddy-daisy-h-s-tn",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Prelims",
@@ -5875,7 +5875,7 @@
     }
   },
   {
-    "bandId": "east-lincoln-h-s",
+    "bandId": "east-lincoln-h-s-nc",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Prelims",
@@ -5900,7 +5900,7 @@
     }
   },
   {
-    "bandId": "st-paul-h-s",
+    "bandId": "st-paul-h-s-va",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Prelims",
@@ -5925,7 +5925,7 @@
     }
   },
   {
-    "bandId": "north-buncombe-h-s",
+    "bandId": "north-buncombe-h-s-nc",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Prelims",
@@ -5950,7 +5950,7 @@
     }
   },
   {
-    "bandId": "harrison-h-s",
+    "bandId": "harrison-h-s-ga",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Prelims",
@@ -5975,7 +5975,7 @@
     }
   },
   {
-    "bandId": "elizabethton-h-s",
+    "bandId": "elizabethton-h-s-pa",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Prelims",
@@ -6000,7 +6000,7 @@
     }
   },
   {
-    "bandId": "summerville-h-s",
+    "bandId": "summerville-h-s-sc",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Prelims",
@@ -6025,7 +6025,7 @@
     }
   },
   {
-    "bandId": "boca-raton-h-s",
+    "bandId": "boca-raton-h-s-fl",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Prelims",
@@ -6050,7 +6050,7 @@
     }
   },
   {
-    "bandId": "north-gwinnett-h-s",
+    "bandId": "north-gwinnett-h-s-ga",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Prelims",
@@ -6075,7 +6075,7 @@
     }
   },
   {
-    "bandId": "trinity-h-s",
+    "bandId": "trinity-h-s-pa",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Prelims",
@@ -6100,7 +6100,7 @@
     }
   },
   {
-    "bandId": "clinton-senior-h-s",
+    "bandId": "clinton-senior-h-s-ms",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Prelims",
@@ -6125,7 +6125,7 @@
     }
   },
   {
-    "bandId": "cleveland-h-s",
+    "bandId": "cleveland-h-s-tn",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Prelims",
@@ -6150,7 +6150,7 @@
     }
   },
   {
-    "bandId": "douglas-county-h-s",
+    "bandId": "douglas-county-h-s-ga",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Prelims",
@@ -6175,7 +6175,7 @@
     }
   },
   {
-    "bandId": "pearl-h-s",
+    "bandId": "pearl-h-s-ms",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Prelims",
@@ -6200,7 +6200,7 @@
     }
   },
   {
-    "bandId": "miami-sunset-senior-h-s",
+    "bandId": "miami-sunset-senior-h-s-fl",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Prelims",
@@ -6225,7 +6225,7 @@
     }
   },
   {
-    "bandId": "monroe-h-s",
+    "bandId": "monroe-h-s-ga",
     "eventId": "1996-regional-championship-at-atlanta-ga",
     "season": 1996,
     "round": "Prelims",
@@ -6250,7 +6250,7 @@
     }
   },
   {
-    "bandId": "mission-viejo-h-s",
+    "bandId": "mission-viejo-h-s-ca",
     "eventId": "1996-regional-championship-at-torrance-ca",
     "season": 1996,
     "round": "Finals",
@@ -6275,7 +6275,7 @@
     }
   },
   {
-    "bandId": "valley-view-h-s",
+    "bandId": "valley-view-h-s-ca",
     "eventId": "1996-regional-championship-at-torrance-ca",
     "season": 1996,
     "round": "Finals",
@@ -6300,7 +6300,7 @@
     }
   },
   {
-    "bandId": "upland-h-s",
+    "bandId": "upland-h-s-ca",
     "eventId": "1996-regional-championship-at-torrance-ca",
     "season": 1996,
     "round": "Finals",
@@ -6325,7 +6325,7 @@
     }
   },
   {
-    "bandId": "mt-carmel-h-s",
+    "bandId": "mt-carmel-h-s-ca",
     "eventId": "1996-regional-championship-at-torrance-ca",
     "season": 1996,
     "round": "Finals",
@@ -6350,7 +6350,7 @@
     }
   },
   {
-    "bandId": "american-fork-h-s",
+    "bandId": "american-fork-h-s-ut",
     "eventId": "1996-regional-championship-at-torrance-ca",
     "season": 1996,
     "round": "Finals",
@@ -6375,7 +6375,7 @@
     }
   },
   {
-    "bandId": "fountain-valley-h-s",
+    "bandId": "fountain-valley-h-s-ca",
     "eventId": "1996-regional-championship-at-torrance-ca",
     "season": 1996,
     "round": "Finals",
@@ -6400,7 +6400,7 @@
     }
   },
   {
-    "bandId": "green-valley-h-s",
+    "bandId": "green-valley-h-s-nv",
     "eventId": "1996-regional-championship-at-torrance-ca",
     "season": 1996,
     "round": "Finals",
@@ -6425,7 +6425,7 @@
     }
   },
   {
-    "bandId": "chino-h-s",
+    "bandId": "chino-h-s-ca",
     "eventId": "1996-regional-championship-at-torrance-ca",
     "season": 1996,
     "round": "Finals",
@@ -6450,7 +6450,7 @@
     }
   },
   {
-    "bandId": "cypress-h-s",
+    "bandId": "cypress-h-s-ca",
     "eventId": "1996-regional-championship-at-torrance-ca",
     "season": 1996,
     "round": "Finals",
@@ -6475,7 +6475,7 @@
     }
   },
   {
-    "bandId": "canyon-springs-h-s",
+    "bandId": "canyon-springs-h-s-ca",
     "eventId": "1996-regional-championship-at-torrance-ca",
     "season": 1996,
     "round": "Finals",
@@ -6500,7 +6500,7 @@
     }
   },
   {
-    "bandId": "blackfoot-h-s",
+    "bandId": "blackfoot-h-s-id",
     "eventId": "1996-regional-championship-at-torrance-ca",
     "season": 1996,
     "round": "Prelims",
@@ -6525,7 +6525,7 @@
     }
   },
   {
-    "bandId": "mission-viejo-h-s",
+    "bandId": "mission-viejo-h-s-ca",
     "eventId": "1996-regional-championship-at-torrance-ca",
     "season": 1996,
     "round": "Prelims",
@@ -6550,7 +6550,7 @@
     }
   },
   {
-    "bandId": "valley-view-h-s",
+    "bandId": "valley-view-h-s-ca",
     "eventId": "1996-regional-championship-at-torrance-ca",
     "season": 1996,
     "round": "Prelims",
@@ -6575,7 +6575,7 @@
     }
   },
   {
-    "bandId": "los-angeles-h-s",
+    "bandId": "los-angeles-h-s-ca",
     "eventId": "1996-regional-championship-at-torrance-ca",
     "season": 1996,
     "round": "Prelims",
@@ -6600,7 +6600,7 @@
     }
   },
   {
-    "bandId": "american-fork-h-s",
+    "bandId": "american-fork-h-s-ut",
     "eventId": "1996-regional-championship-at-torrance-ca",
     "season": 1996,
     "round": "Prelims",
@@ -6625,7 +6625,7 @@
     }
   },
   {
-    "bandId": "upland-h-s",
+    "bandId": "upland-h-s-ca",
     "eventId": "1996-regional-championship-at-torrance-ca",
     "season": 1996,
     "round": "Prelims",
@@ -6650,7 +6650,7 @@
     }
   },
   {
-    "bandId": "fountain-valley-h-s",
+    "bandId": "fountain-valley-h-s-ca",
     "eventId": "1996-regional-championship-at-torrance-ca",
     "season": 1996,
     "round": "Prelims",
@@ -6675,7 +6675,7 @@
     }
   },
   {
-    "bandId": "cypress-h-s",
+    "bandId": "cypress-h-s-ca",
     "eventId": "1996-regional-championship-at-torrance-ca",
     "season": 1996,
     "round": "Prelims",
@@ -6700,7 +6700,7 @@
     }
   },
   {
-    "bandId": "green-valley-h-s",
+    "bandId": "green-valley-h-s-nv",
     "eventId": "1996-regional-championship-at-torrance-ca",
     "season": 1996,
     "round": "Prelims",
@@ -6725,7 +6725,7 @@
     }
   },
   {
-    "bandId": "mt-carmel-h-s",
+    "bandId": "mt-carmel-h-s-ca",
     "eventId": "1996-regional-championship-at-torrance-ca",
     "season": 1996,
     "round": "Prelims",
@@ -6750,7 +6750,7 @@
     }
   },
   {
-    "bandId": "chino-h-s",
+    "bandId": "chino-h-s-ca",
     "eventId": "1996-regional-championship-at-torrance-ca",
     "season": 1996,
     "round": "Prelims",
@@ -6775,7 +6775,7 @@
     }
   },
   {
-    "bandId": "canyon-springs-h-s",
+    "bandId": "canyon-springs-h-s-ca",
     "eventId": "1996-regional-championship-at-torrance-ca",
     "season": 1996,
     "round": "Prelims",
@@ -6800,7 +6800,7 @@
     }
   },
   {
-    "bandId": "davis-h-s",
+    "bandId": "davis-h-s-ut",
     "eventId": "1996-regional-championship-at-torrance-ca",
     "season": 1996,
     "round": "Prelims",
@@ -6825,7 +6825,7 @@
     }
   },
   {
-    "bandId": "trabuco-hills-h-s",
+    "bandId": "trabuco-hills-h-s-ca",
     "eventId": "1996-regional-championship-at-torrance-ca",
     "season": 1996,
     "round": "Prelims",
@@ -6850,7 +6850,7 @@
     }
   },
   {
-    "bandId": "cimarron-h-s",
+    "bandId": "cimarron-h-s-nv",
     "eventId": "1996-regional-championship-at-torrance-ca",
     "season": 1996,
     "round": "Prelims",
@@ -6875,7 +6875,7 @@
     }
   },
   {
-    "bandId": "belmont-h-s",
+    "bandId": "belmont-h-s-ca",
     "eventId": "1996-regional-championship-at-torrance-ca",
     "season": 1996,
     "round": "Prelims",
@@ -6900,7 +6900,7 @@
     }
   },
   {
-    "bandId": "antelope-valley-h-s",
+    "bandId": "antelope-valley-h-s-ca",
     "eventId": "1996-regional-championship-at-torrance-ca",
     "season": 1996,
     "round": "Prelims",
@@ -6925,7 +6925,7 @@
     }
   },
   {
-    "bandId": "leander-h-s",
+    "bandId": "leander-h-s-tx",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Finals",
@@ -6950,7 +6950,7 @@
     }
   },
   {
-    "bandId": "union-senior-h-s",
+    "bandId": "union-senior-h-s-ok",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Finals",
@@ -6975,11 +6975,11 @@
     }
   },
   {
-    "bandId": "the-colony-h-s",
+    "bandId": "the-colony-h-s-tx",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Finals",
-    "class": "AAA",
+    "class": "Unknown",
     "placement": 3,
     "placementOverall": 3,
     "total": 87.95,
@@ -7000,7 +7000,7 @@
     }
   },
   {
-    "bandId": "richland-hills-h-s",
+    "bandId": "richland-hills-h-s-tx",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Finals",
@@ -7025,7 +7025,7 @@
     }
   },
   {
-    "bandId": "broken-arrow-h-s",
+    "bandId": "broken-arrow-h-s-ok",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Finals",
@@ -7050,7 +7050,7 @@
     }
   },
   {
-    "bandId": "haltom-h-s",
+    "bandId": "haltom-h-s-tx",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Finals",
@@ -7075,7 +7075,7 @@
     }
   },
   {
-    "bandId": "coppell-h-s",
+    "bandId": "coppell-h-s-tx",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Finals",
@@ -7100,7 +7100,7 @@
     }
   },
   {
-    "bandId": "comeaux-h-s",
+    "bandId": "comeaux-h-s-la",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Finals",
@@ -7125,7 +7125,7 @@
     }
   },
   {
-    "bandId": "lake-highlands-h-s",
+    "bandId": "lake-highlands-h-s-tx",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Finals",
@@ -7150,7 +7150,7 @@
     }
   },
   {
-    "bandId": "moore-h-s",
+    "bandId": "moore-h-s-ok",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Finals",
@@ -7175,7 +7175,7 @@
     }
   },
   {
-    "bandId": "lewisville-h-s",
+    "bandId": "lewisville-h-s-tx",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Finals",
@@ -7200,7 +7200,7 @@
     }
   },
   {
-    "bandId": "pflugerville-h-s",
+    "bandId": "pflugerville-h-s-tx",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Finals",
@@ -7225,7 +7225,7 @@
     }
   },
   {
-    "bandId": "coppell-h-s",
+    "bandId": "coppell-h-s-tx",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Prelims",
@@ -7250,7 +7250,7 @@
     }
   },
   {
-    "bandId": "mabank-h-s",
+    "bandId": "mabank-h-s-tx",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Prelims",
@@ -7275,7 +7275,7 @@
     }
   },
   {
-    "bandId": "leander-h-s",
+    "bandId": "leander-h-s-tx",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Prelims",
@@ -7300,7 +7300,7 @@
     }
   },
   {
-    "bandId": "waxahachie-h-s",
+    "bandId": "waxahachie-h-s-tx",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Prelims",
@@ -7325,7 +7325,7 @@
     }
   },
   {
-    "bandId": "lorena-h-s",
+    "bandId": "lorena-h-s-tx",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Prelims",
@@ -7350,7 +7350,7 @@
     }
   },
   {
-    "bandId": "union-senior-h-s",
+    "bandId": "union-senior-h-s-ok",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Prelims",
@@ -7375,7 +7375,7 @@
     }
   },
   {
-    "bandId": "whitesboro-h-s",
+    "bandId": "whitesboro-h-s-tx",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Prelims",
@@ -7400,7 +7400,7 @@
     }
   },
   {
-    "bandId": "colleyville-heritage-h-s",
+    "bandId": "colleyville-heritage-h-s-tx",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Prelims",
@@ -7425,7 +7425,7 @@
     }
   },
   {
-    "bandId": "the-colony-h-s",
+    "bandId": "the-colony-h-s-tx",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Prelims",
@@ -7450,7 +7450,7 @@
     }
   },
   {
-    "bandId": "carroll-h-s",
+    "bandId": "carroll-h-s-tx",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Prelims",
@@ -7475,7 +7475,7 @@
     }
   },
   {
-    "bandId": "broken-arrow-h-s",
+    "bandId": "broken-arrow-h-s-ok",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Prelims",
@@ -7500,7 +7500,7 @@
     }
   },
   {
-    "bandId": "burleson-h-s",
+    "bandId": "burleson-h-s-tx",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Prelims",
@@ -7525,7 +7525,7 @@
     }
   },
   {
-    "bandId": "comeaux-h-s",
+    "bandId": "comeaux-h-s-la",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Prelims",
@@ -7550,7 +7550,7 @@
     }
   },
   {
-    "bandId": "terrell-h-s",
+    "bandId": "terrell-h-s-tx",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Prelims",
@@ -7575,7 +7575,7 @@
     }
   },
   {
-    "bandId": "pflugerville-h-s",
+    "bandId": "pflugerville-h-s-tx",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Prelims",
@@ -7600,7 +7600,7 @@
     }
   },
   {
-    "bandId": "moore-h-s",
+    "bandId": "moore-h-s-ok",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Prelims",
@@ -7625,7 +7625,7 @@
     }
   },
   {
-    "bandId": "fossil-ridge-h-s",
+    "bandId": "fossil-ridge-h-s-tx",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Prelims",
@@ -7650,7 +7650,7 @@
     }
   },
   {
-    "bandId": "sherman-h-s",
+    "bandId": "sherman-h-s-tx",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Prelims",
@@ -7675,7 +7675,7 @@
     }
   },
   {
-    "bandId": "lake-highlands-h-s",
+    "bandId": "lake-highlands-h-s-tx",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Prelims",
@@ -7700,7 +7700,7 @@
     }
   },
   {
-    "bandId": "richland-h-s",
+    "bandId": "richland-h-s-tx",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Prelims",
@@ -7725,7 +7725,7 @@
     }
   },
   {
-    "bandId": "lewisville-h-s",
+    "bandId": "lewisville-h-s-tx",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Prelims",
@@ -7750,7 +7750,7 @@
     }
   },
   {
-    "bandId": "haltom-h-s",
+    "bandId": "haltom-h-s-tx",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Prelims",
@@ -7775,7 +7775,7 @@
     }
   },
   {
-    "bandId": "j-j-pearce-h-s",
+    "bandId": "j-j-pearce-h-s-tx",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Prelims",
@@ -7800,7 +7800,7 @@
     }
   },
   {
-    "bandId": "grapevine-h-s",
+    "bandId": "grapevine-h-s-tx",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Prelims",
@@ -7825,7 +7825,7 @@
     }
   },
   {
-    "bandId": "plano-east-senior-h-s",
+    "bandId": "plano-east-senior-h-s-tx",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Prelims",
@@ -7850,7 +7850,7 @@
     }
   },
   {
-    "bandId": "lafayette-h-s",
+    "bandId": "lafayette-h-s-tx",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Prelims",
@@ -7875,7 +7875,7 @@
     }
   },
   {
-    "bandId": "bowie-h-s",
+    "bandId": "bowie-h-s-tx",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Prelims",
@@ -7900,7 +7900,7 @@
     }
   },
   {
-    "bandId": "crowley-h-s",
+    "bandId": "crowley-h-s-tx",
     "eventId": "1996-regional-championship-at-denton-tx",
     "season": 1996,
     "round": "Prelims",
@@ -7925,7 +7925,7 @@
     }
   },
   {
-    "bandId": "lake-park-h-s",
+    "bandId": "lake-park-h-s-il",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Finals",
@@ -7950,7 +7950,7 @@
     }
   },
   {
-    "bandId": "carmel-h-s",
+    "bandId": "carmel-h-s-in",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Finals",
@@ -7975,7 +7975,7 @@
     }
   },
   {
-    "bandId": "prospect-h-s",
+    "bandId": "prospect-h-s-il",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Finals",
@@ -8000,7 +8000,7 @@
     }
   },
   {
-    "bandId": "center-grove-h-s",
+    "bandId": "center-grove-h-s-in",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Finals",
@@ -8025,7 +8025,7 @@
     }
   },
   {
-    "bandId": "marian-catholic-h-s",
+    "bandId": "marian-catholic-h-s-il",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Finals",
@@ -8050,7 +8050,7 @@
     }
   },
   {
-    "bandId": "westerville-south-h-s",
+    "bandId": "westerville-south-h-s-oh",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Finals",
@@ -8075,7 +8075,7 @@
     }
   },
   {
-    "bandId": "lawrence-central-h-s",
+    "bandId": "lawrence-central-h-s-in",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Finals",
@@ -8100,7 +8100,7 @@
     }
   },
   {
-    "bandId": "lake-central-h-s",
+    "bandId": "lake-central-h-s-in",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Finals",
@@ -8125,7 +8125,7 @@
     }
   },
   {
-    "bandId": "lawrence-north-h-s",
+    "bandId": "lawrence-north-h-s-in",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Finals",
@@ -8150,7 +8150,7 @@
     }
   },
   {
-    "bandId": "northmont-h-s",
+    "bandId": "northmont-h-s-oh",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Finals",
@@ -8175,7 +8175,7 @@
     }
   },
   {
-    "bandId": "bellbrook-h-s",
+    "bandId": "bellbrook-h-s-oh",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -8200,7 +8200,7 @@
     }
   },
   {
-    "bandId": "lake-park-h-s",
+    "bandId": "lake-park-h-s-il",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -8225,7 +8225,7 @@
     }
   },
   {
-    "bandId": "marian-catholic-h-s",
+    "bandId": "marian-catholic-h-s-il",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -8250,7 +8250,7 @@
     }
   },
   {
-    "bandId": "jasper-h-s",
+    "bandId": "jasper-h-s-in",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -8275,7 +8275,7 @@
     }
   },
   {
-    "bandId": "center-grove-h-s",
+    "bandId": "center-grove-h-s-in",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -8300,7 +8300,7 @@
     }
   },
   {
-    "bandId": "versailles-h-s",
+    "bandId": "versailles-h-s-oh",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -8325,7 +8325,7 @@
     }
   },
   {
-    "bandId": "kings-h-s",
+    "bandId": "kings-h-s-oh",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -8350,7 +8350,7 @@
     }
   },
   {
-    "bandId": "brentwood-h-s",
+    "bandId": "brentwood-h-s-tn",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -8375,7 +8375,7 @@
     }
   },
   {
-    "bandId": "prospect-h-s",
+    "bandId": "prospect-h-s-il",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -8400,7 +8400,7 @@
     }
   },
   {
-    "bandId": "swanton-h-s",
+    "bandId": "swanton-h-s-oh",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -8425,7 +8425,7 @@
     }
   },
   {
-    "bandId": "carmel-h-s",
+    "bandId": "carmel-h-s-in",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -8450,7 +8450,7 @@
     }
   },
   {
-    "bandId": "avon-h-s",
+    "bandId": "avon-h-s-in",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -8475,7 +8475,7 @@
     }
   },
   {
-    "bandId": "roger-bacon-h-s",
+    "bandId": "roger-bacon-h-s-oh",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -8500,7 +8500,7 @@
     }
   },
   {
-    "bandId": "bluffton-h-s",
+    "bandId": "bluffton-h-s-in",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -8525,7 +8525,7 @@
     }
   },
   {
-    "bandId": "lawrence-central-h-s",
+    "bandId": "lawrence-central-h-s-in",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -8550,7 +8550,7 @@
     }
   },
   {
-    "bandId": "westerville-south-h-s",
+    "bandId": "westerville-south-h-s-oh",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -8575,7 +8575,7 @@
     }
   },
   {
-    "bandId": "paul-harding-h-s",
+    "bandId": "paul-harding-h-s-in",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -8600,7 +8600,7 @@
     }
   },
   {
-    "bandId": "west-carrollton-h-s",
+    "bandId": "west-carrollton-h-s-oh",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -8625,7 +8625,7 @@
     }
   },
   {
-    "bandId": "wawasee-h-s",
+    "bandId": "wawasee-h-s-in",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -8650,7 +8650,7 @@
     }
   },
   {
-    "bandId": "lake-central-h-s",
+    "bandId": "lake-central-h-s-in",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -8675,7 +8675,7 @@
     }
   },
   {
-    "bandId": "william-henry-harrison-h-s",
+    "bandId": "william-henry-harrison-h-s-oh",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -8700,7 +8700,7 @@
     }
   },
   {
-    "bandId": "northmont-h-s",
+    "bandId": "northmont-h-s-oh",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -8725,7 +8725,7 @@
     }
   },
   {
-    "bandId": "watkins-memorial-h-s",
+    "bandId": "watkins-memorial-h-s-oh",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -8750,7 +8750,7 @@
     }
   },
   {
-    "bandId": "lawrence-north-h-s",
+    "bandId": "lawrence-north-h-s-in",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -8775,7 +8775,7 @@
     }
   },
   {
-    "bandId": "glen-este-h-s",
+    "bandId": "glen-este-h-s-oh",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -8800,7 +8800,7 @@
     }
   },
   {
-    "bandId": "milford-h-s",
+    "bandId": "milford-h-s-oh",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -8825,7 +8825,7 @@
     }
   },
   {
-    "bandId": "chesterton-h-s",
+    "bandId": "chesterton-h-s-in",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -8850,7 +8850,7 @@
     }
   },
   {
-    "bandId": "westerville-north-h-s",
+    "bandId": "westerville-north-h-s-oh",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -8875,7 +8875,7 @@
     }
   },
   {
-    "bandId": "victor-j-andrew-h-s",
+    "bandId": "victor-j-andrew-h-s-il",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -8900,7 +8900,7 @@
     }
   },
   {
-    "bandId": "portage-h-s",
+    "bandId": "portage-h-s-in",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -8925,7 +8925,7 @@
     }
   },
   {
-    "bandId": "warsaw-community-h-s",
+    "bandId": "warsaw-community-h-s-in",
     "eventId": "1996-regional-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -8950,7 +8950,7 @@
     }
   },
   {
-    "bandId": "hazard-h-s",
+    "bandId": "hazard-h-s-ky",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -8975,7 +8975,7 @@
     }
   },
   {
-    "bandId": "carmel-senior-h-s",
+    "bandId": "carmel-senior-h-s-in",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9000,7 +9000,7 @@
     }
   },
   {
-    "bandId": "marietta-senior-h-s",
+    "bandId": "marietta-senior-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9025,7 +9025,7 @@
     }
   },
   {
-    "bandId": "reeths-puffer-h-s",
+    "bandId": "reeths-puffer-h-s-mi",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9050,7 +9050,7 @@
     }
   },
   {
-    "bandId": "lawrence-central-h-s",
+    "bandId": "lawrence-central-h-s-in",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9075,7 +9075,7 @@
     }
   },
   {
-    "bandId": "boyle-county-h-s",
+    "bandId": "boyle-county-h-s-ky",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9100,7 +9100,7 @@
     }
   },
   {
-    "bandId": "farmington-harrison-h-s",
+    "bandId": "farmington-harrison-h-s-mi",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9125,7 +9125,7 @@
     }
   },
   {
-    "bandId": "mcgavock-h-s",
+    "bandId": "mcgavock-h-s-tn",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9150,7 +9150,7 @@
     }
   },
   {
-    "bandId": "kings-h-s",
+    "bandId": "kings-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9175,7 +9175,7 @@
     }
   },
   {
-    "bandId": "maconaquah-h-s",
+    "bandId": "maconaquah-h-s-in",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9200,7 +9200,7 @@
     }
   },
   {
-    "bandId": "plymouth-canton-h-s",
+    "bandId": "plymouth-canton-h-s-mi",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9225,7 +9225,7 @@
     }
   },
   {
-    "bandId": "lakeland-h-s",
+    "bandId": "lakeland-h-s-mi",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9250,7 +9250,7 @@
     }
   },
   {
-    "bandId": "fairborn-h-s",
+    "bandId": "fairborn-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9275,7 +9275,7 @@
     }
   },
   {
-    "bandId": "north-hardin-h-s",
+    "bandId": "north-hardin-h-s-ky",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9300,7 +9300,7 @@
     }
   },
   {
-    "bandId": "norton-h-s",
+    "bandId": "norton-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9325,7 +9325,7 @@
     }
   },
   {
-    "bandId": "miamisburg-h-s",
+    "bandId": "miamisburg-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9350,7 +9350,7 @@
     }
   },
   {
-    "bandId": "buckeye-h-s",
+    "bandId": "buckeye-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9375,7 +9375,7 @@
     }
   },
   {
-    "bandId": "westerville-south-h-s",
+    "bandId": "westerville-south-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9400,7 +9400,7 @@
     }
   },
   {
-    "bandId": "cambridge-h-s",
+    "bandId": "cambridge-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9425,7 +9425,7 @@
     }
   },
   {
-    "bandId": "lake-central-h-s",
+    "bandId": "lake-central-h-s-in",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9450,7 +9450,7 @@
     }
   },
   {
-    "bandId": "limestone-community-h-s",
+    "bandId": "limestone-community-h-s-il",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9475,7 +9475,7 @@
     }
   },
   {
-    "bandId": "normal-west-h-s",
+    "bandId": "normal-west-h-s-il",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9500,7 +9500,7 @@
     }
   },
   {
-    "bandId": "paul-harding-h-s",
+    "bandId": "paul-harding-h-s-in",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9525,7 +9525,7 @@
     }
   },
   {
-    "bandId": "paul-laurence-dunbar-h-s",
+    "bandId": "paul-laurence-dunbar-h-s-ky",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9550,7 +9550,7 @@
     }
   },
   {
-    "bandId": "northmont-h-s",
+    "bandId": "northmont-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9575,7 +9575,7 @@
     }
   },
   {
-    "bandId": "springfield-shawnee-h-s",
+    "bandId": "springfield-shawnee-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9600,7 +9600,7 @@
     }
   },
   {
-    "bandId": "portage-central-h-s",
+    "bandId": "portage-central-h-s-mi",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9625,7 +9625,7 @@
     }
   },
   {
-    "bandId": "avon-h-s",
+    "bandId": "avon-h-s-in",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9650,7 +9650,7 @@
     }
   },
   {
-    "bandId": "lawrence-north-h-s",
+    "bandId": "lawrence-north-h-s-in",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9675,7 +9675,7 @@
     }
   },
   {
-    "bandId": "marlington-h-s",
+    "bandId": "marlington-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9700,7 +9700,7 @@
     }
   },
   {
-    "bandId": "portsmouth-east-h-s",
+    "bandId": "portsmouth-east-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9725,7 +9725,7 @@
     }
   },
   {
-    "bandId": "meade-county-h-s",
+    "bandId": "meade-county-h-s-ky",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9750,7 +9750,7 @@
     }
   },
   {
-    "bandId": "milford-h-s",
+    "bandId": "milford-h-s-mi",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9775,7 +9775,7 @@
     }
   },
   {
-    "bandId": "roger-bacon-h-s",
+    "bandId": "roger-bacon-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9800,7 +9800,7 @@
     }
   },
   {
-    "bandId": "carroll-h-s",
+    "bandId": "carroll-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9825,7 +9825,7 @@
     }
   },
   {
-    "bandId": "victor-j-andrew-h-s",
+    "bandId": "victor-j-andrew-h-s-il",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9850,7 +9850,7 @@
     }
   },
   {
-    "bandId": "mountain-crest-h-s",
+    "bandId": "mountain-crest-h-s-ca",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9875,7 +9875,7 @@
     }
   },
   {
-    "bandId": "metamora-h-s",
+    "bandId": "metamora-h-s-il",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9900,7 +9900,7 @@
     }
   },
   {
-    "bandId": "glen-este-h-s",
+    "bandId": "glen-este-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9925,7 +9925,7 @@
     }
   },
   {
-    "bandId": "northwestern-lehigh-h-s",
+    "bandId": "northwestern-lehigh-h-s-pa",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9950,7 +9950,7 @@
     }
   },
   {
-    "bandId": "kiski-area-h-s",
+    "bandId": "kiski-area-h-s-pa",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -9975,7 +9975,7 @@
     }
   },
   {
-    "bandId": "lake-park-h-s",
+    "bandId": "lake-park-h-s-il",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10000,7 +10000,7 @@
     }
   },
   {
-    "bandId": "pomona-h-s",
+    "bandId": "pomona-h-s-co",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10025,7 +10025,7 @@
     }
   },
   {
-    "bandId": "marian-catholic-h-s",
+    "bandId": "marian-catholic-h-s-il",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10050,7 +10050,7 @@
     }
   },
   {
-    "bandId": "bellbrook-h-s",
+    "bandId": "bellbrook-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10075,7 +10075,7 @@
     }
   },
   {
-    "bandId": "beechwood-h-s",
+    "bandId": "beechwood-h-s-ky",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10100,7 +10100,7 @@
     }
   },
   {
-    "bandId": "ooltewah-h-s",
+    "bandId": "ooltewah-h-s-tn",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10125,7 +10125,7 @@
     }
   },
   {
-    "bandId": "center-grove-h-s",
+    "bandId": "center-grove-h-s-in",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10150,7 +10150,7 @@
     }
   },
   {
-    "bandId": "winfield-h-s",
+    "bandId": "winfield-h-s-al",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10175,7 +10175,7 @@
     }
   },
   {
-    "bandId": "norwin-senior-h-s",
+    "bandId": "norwin-senior-h-s-pa",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10200,7 +10200,7 @@
     }
   },
   {
-    "bandId": "greenbrier-east-h-s",
+    "bandId": "greenbrier-east-h-s-wv",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10225,7 +10225,7 @@
     }
   },
   {
-    "bandId": "irmo-h-s",
+    "bandId": "irmo-h-s-sc",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10250,7 +10250,7 @@
     }
   },
   {
-    "bandId": "jasper-h-s",
+    "bandId": "jasper-h-s-in",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10275,7 +10275,7 @@
     }
   },
   {
-    "bandId": "lexington-h-s",
+    "bandId": "lexington-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10300,7 +10300,7 @@
     }
   },
   {
-    "bandId": "springboro-h-s",
+    "bandId": "springboro-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10325,7 +10325,7 @@
     }
   },
   {
-    "bandId": "grant-county-h-s",
+    "bandId": "grant-county-h-s-ky",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10350,7 +10350,7 @@
     }
   },
   {
-    "bandId": "centerville-h-s",
+    "bandId": "centerville-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10375,7 +10375,7 @@
     }
   },
   {
-    "bandId": "toronto-h-s",
+    "bandId": "toronto-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10400,7 +10400,7 @@
     }
   },
   {
-    "bandId": "flushing-h-s",
+    "bandId": "flushing-h-s-mi",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10425,7 +10425,7 @@
     }
   },
   {
-    "bandId": "westerville-north-h-s",
+    "bandId": "westerville-north-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10450,7 +10450,7 @@
     }
   },
   {
-    "bandId": "webster-h-s",
+    "bandId": "webster-h-s-ny",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10475,7 +10475,7 @@
     }
   },
   {
-    "bandId": "new-philadelphia-h-s",
+    "bandId": "new-philadelphia-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10500,7 +10500,7 @@
     }
   },
   {
-    "bandId": "bassett-h-s",
+    "bandId": "bassett-h-s-va",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10525,7 +10525,7 @@
     }
   },
   {
-    "bandId": "tri-west-h-s",
+    "bandId": "tri-west-h-s-in",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10550,7 +10550,7 @@
     }
   },
   {
-    "bandId": "beavercreek-h-s",
+    "bandId": "beavercreek-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10575,7 +10575,7 @@
     }
   },
   {
-    "bandId": "normal-community-h-s",
+    "bandId": "normal-community-h-s-il",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10600,7 +10600,7 @@
     }
   },
   {
-    "bandId": "indian-hill-h-s",
+    "bandId": "indian-hill-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10625,7 +10625,7 @@
     }
   },
   {
-    "bandId": "mcdowell-h-s",
+    "bandId": "mcdowell-h-s-pa",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10650,7 +10650,7 @@
     }
   },
   {
-    "bandId": "blue-valley-h-s",
+    "bandId": "blue-valley-h-s-ks",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10675,7 +10675,7 @@
     }
   },
   {
-    "bandId": "sycamore-h-s",
+    "bandId": "sycamore-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10700,7 +10700,7 @@
     }
   },
   {
-    "bandId": "erie-central-h-s",
+    "bandId": "erie-central-h-s-pa",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10725,7 +10725,7 @@
     }
   },
   {
-    "bandId": "douglas-county-h-s",
+    "bandId": "douglas-county-h-s-ga",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10750,7 +10750,7 @@
     }
   },
   {
-    "bandId": "morton-h-s",
+    "bandId": "morton-h-s-il",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10775,7 +10775,7 @@
     }
   },
   {
-    "bandId": "north-laurel-h-s",
+    "bandId": "north-laurel-h-s-ky",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10800,7 +10800,7 @@
     }
   },
   {
-    "bandId": "scott-h-s",
+    "bandId": "scott-h-s-ky",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10825,7 +10825,7 @@
     }
   },
   {
-    "bandId": "chaminade-julienne-h-s",
+    "bandId": "chaminade-julienne-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10850,7 +10850,7 @@
     }
   },
   {
-    "bandId": "highland-h-s",
+    "bandId": "highland-h-s-in",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10875,7 +10875,7 @@
     }
   },
   {
-    "bandId": "western-brown-h-s",
+    "bandId": "western-brown-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Prelims",
@@ -10900,7 +10900,7 @@
     }
   },
   {
-    "bandId": "lake-park-h-s",
+    "bandId": "lake-park-h-s-il",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Finals",
@@ -10925,7 +10925,7 @@
     }
   },
   {
-    "bandId": "center-grove-h-s",
+    "bandId": "center-grove-h-s-in",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Finals",
@@ -10950,7 +10950,7 @@
     }
   },
   {
-    "bandId": "kiski-area-h-s",
+    "bandId": "kiski-area-h-s-pa",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Finals",
@@ -10975,7 +10975,7 @@
     }
   },
   {
-    "bandId": "marian-catholic-h-s",
+    "bandId": "marian-catholic-h-s-il",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Finals",
@@ -11000,7 +11000,7 @@
     }
   },
   {
-    "bandId": "pomona-h-s",
+    "bandId": "pomona-h-s-co",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Finals",
@@ -11025,7 +11025,7 @@
     }
   },
   {
-    "bandId": "lawrence-central-h-s",
+    "bandId": "lawrence-central-h-s-in",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Finals",
@@ -11050,7 +11050,7 @@
     }
   },
   {
-    "bandId": "carmel-senior-h-s",
+    "bandId": "carmel-senior-h-s-in",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Finals",
@@ -11075,7 +11075,7 @@
     }
   },
   {
-    "bandId": "plymouth-canton-h-s",
+    "bandId": "plymouth-canton-h-s-mi",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Finals",
@@ -11100,7 +11100,7 @@
     }
   },
   {
-    "bandId": "westerville-south-h-s",
+    "bandId": "westerville-south-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Finals",
@@ -11125,7 +11125,7 @@
     }
   },
   {
-    "bandId": "centerville-h-s",
+    "bandId": "centerville-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Finals",
@@ -11150,7 +11150,7 @@
     }
   },
   {
-    "bandId": "marian-catholic-h-s",
+    "bandId": "marian-catholic-h-s-il",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Semifinals",
@@ -11175,7 +11175,7 @@
     }
   },
   {
-    "bandId": "center-grove-h-s",
+    "bandId": "center-grove-h-s-in",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Semifinals",
@@ -11200,7 +11200,7 @@
     }
   },
   {
-    "bandId": "lake-park-h-s",
+    "bandId": "lake-park-h-s-il",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Semifinals",
@@ -11225,7 +11225,7 @@
     }
   },
   {
-    "bandId": "kiski-area-h-s",
+    "bandId": "kiski-area-h-s-pa",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Semifinals",
@@ -11250,7 +11250,7 @@
     }
   },
   {
-    "bandId": "plymouth-canton-h-s",
+    "bandId": "plymouth-canton-h-s-mi",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Semifinals",
@@ -11275,7 +11275,7 @@
     }
   },
   {
-    "bandId": "lawrence-central-h-s",
+    "bandId": "lawrence-central-h-s-in",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Semifinals",
@@ -11300,7 +11300,7 @@
     }
   },
   {
-    "bandId": "pomona-h-s",
+    "bandId": "pomona-h-s-co",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Semifinals",
@@ -11325,7 +11325,7 @@
     }
   },
   {
-    "bandId": "carmel-senior-h-s",
+    "bandId": "carmel-senior-h-s-in",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Semifinals",
@@ -11350,7 +11350,7 @@
     }
   },
   {
-    "bandId": "centerville-h-s",
+    "bandId": "centerville-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Semifinals",
@@ -11375,7 +11375,7 @@
     }
   },
   {
-    "bandId": "westerville-south-h-s",
+    "bandId": "westerville-south-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Semifinals",
@@ -11400,7 +11400,7 @@
     }
   },
   {
-    "bandId": "irmo-h-s",
+    "bandId": "irmo-h-s-sc",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Semifinals",
@@ -11425,7 +11425,7 @@
     }
   },
   {
-    "bandId": "mcgavock-h-s",
+    "bandId": "mcgavock-h-s-tn",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Semifinals",
@@ -11450,7 +11450,7 @@
     }
   },
   {
-    "bandId": "norwin-senior-h-s",
+    "bandId": "norwin-senior-h-s-pa",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Semifinals",
@@ -11475,7 +11475,7 @@
     }
   },
   {
-    "bandId": "ooltewah-h-s",
+    "bandId": "ooltewah-h-s-tn",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Semifinals",
@@ -11500,7 +11500,7 @@
     }
   },
   {
-    "bandId": "north-hardin-h-s",
+    "bandId": "north-hardin-h-s-ky",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Semifinals",
@@ -11525,7 +11525,7 @@
     }
   },
   {
-    "bandId": "lake-central-h-s",
+    "bandId": "lake-central-h-s-in",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Semifinals",
@@ -11550,7 +11550,7 @@
     }
   },
   {
-    "bandId": "marietta-senior-h-s",
+    "bandId": "marietta-senior-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Semifinals",
@@ -11575,7 +11575,7 @@
     }
   },
   {
-    "bandId": "greenbrier-east-h-s",
+    "bandId": "greenbrier-east-h-s-wv",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Semifinals",
@@ -11600,7 +11600,7 @@
     }
   },
   {
-    "bandId": "paul-laurence-dunbar-h-s",
+    "bandId": "paul-laurence-dunbar-h-s-ky",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Semifinals",
@@ -11625,7 +11625,7 @@
     }
   },
   {
-    "bandId": "reeths-puffer-h-s",
+    "bandId": "reeths-puffer-h-s-mi",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Semifinals",
@@ -11650,7 +11650,7 @@
     }
   },
   {
-    "bandId": "lawrence-north-h-s",
+    "bandId": "lawrence-north-h-s-in",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Semifinals",
@@ -11675,7 +11675,7 @@
     }
   },
   {
-    "bandId": "webster-h-s",
+    "bandId": "webster-h-s-ny",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Semifinals",
@@ -11700,7 +11700,7 @@
     }
   },
   {
-    "bandId": "northwestern-lehigh-h-s",
+    "bandId": "northwestern-lehigh-h-s-pa",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Semifinals",
@@ -11725,7 +11725,7 @@
     }
   },
   {
-    "bandId": "northmont-h-s",
+    "bandId": "northmont-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Semifinals",
@@ -11750,7 +11750,7 @@
     }
   },
   {
-    "bandId": "bellbrook-h-s",
+    "bandId": "bellbrook-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Semifinals",
@@ -11775,7 +11775,7 @@
     }
   },
   {
-    "bandId": "jasper-h-s",
+    "bandId": "jasper-h-s-in",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Semifinals",
@@ -11800,7 +11800,7 @@
     }
   },
   {
-    "bandId": "westerville-north-h-s",
+    "bandId": "westerville-north-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Semifinals",
@@ -11825,7 +11825,7 @@
     }
   },
   {
-    "bandId": "milford-h-s",
+    "bandId": "milford-h-s-oh",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Semifinals",
@@ -11850,7 +11850,7 @@
     }
   },
   {
-    "bandId": "hazard-h-s",
+    "bandId": "hazard-h-s-ky",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Semifinals",
@@ -11875,7 +11875,7 @@
     }
   },
   {
-    "bandId": "boyle-county-h-s",
+    "bandId": "boyle-county-h-s-ky",
     "eventId": "1996-grand-national-championship-at-indianapolis-in",
     "season": 1996,
     "round": "Semifinals",

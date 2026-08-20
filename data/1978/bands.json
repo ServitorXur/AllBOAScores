@@ -1,276 +1,276 @@
 [
   {
-    "id": "hamilton-h-s",
+    "id": "hamilton-h-s-wi",
     "name": "Hamilton H.S.",
     "city": null,
     "state": "WI"
   },
   {
-    "id": "oskaloosa-h-s",
+    "id": "oskaloosa-h-s-ia",
     "name": "Oskaloosa H.S.",
     "city": null,
     "state": "IA"
   },
   {
-    "id": "wisconsin-lutheran-h-s",
+    "id": "wisconsin-lutheran-h-s-wi",
     "name": "Wisconsin Lutheran H.S.",
     "city": null,
     "state": "WI"
   },
   {
-    "id": "sun-prairie-h-s",
+    "id": "sun-prairie-h-s-wi",
     "name": "Sun Prairie H.S.",
     "city": null,
     "state": "WI"
   },
   {
-    "id": "mcdowell-h-s",
+    "id": "mcdowell-h-s-pa",
     "name": "McDowell H.S.",
     "city": null,
     "state": "PA"
   },
   {
-    "id": "crystal-lake-h-s",
+    "id": "crystal-lake-h-s-il",
     "name": "Crystal Lake H.S.",
     "city": null,
     "state": "IL"
   },
   {
-    "id": "dundee-h-s",
+    "id": "dundee-h-s-il",
     "name": "Dundee H.S.",
     "city": null,
     "state": "IL"
   },
   {
-    "id": "conant-h-s",
+    "id": "conant-h-s-il",
     "name": "Conant H.S.",
     "city": null,
     "state": "IL"
   },
   {
-    "id": "bridgeport-h-s",
+    "id": "bridgeport-h-s-mi",
     "name": "Bridgeport H.S.",
     "city": null,
     "state": "MI"
   },
   {
-    "id": "live-oak-h-s",
+    "id": "live-oak-h-s-ca",
     "name": "Live Oak H.S.",
     "city": null,
     "state": "CA"
   },
   {
-    "id": "herscher-h-s",
+    "id": "herscher-h-s-il",
     "name": "Herscher H.S.",
     "city": null,
     "state": "IL"
   },
   {
-    "id": "rock-falls-h-s",
+    "id": "rock-falls-h-s-il",
     "name": "Rock Falls H.S.",
     "city": null,
     "state": "IL"
   },
   {
-    "id": "east-central-h-s",
+    "id": "east-central-h-s-ia",
     "name": "East Central H.S.",
     "city": null,
     "state": "IA"
   },
   {
-    "id": "webster-city-h-s",
+    "id": "webster-city-h-s-ia",
     "name": "Webster City H.S.",
     "city": null,
     "state": "IA"
   },
   {
-    "id": "monticello-h-s",
+    "id": "monticello-h-s-il",
     "name": "Monticello H.S.",
     "city": null,
     "state": "IL"
   },
   {
-    "id": "lake-park-h-s",
+    "id": "lake-park-h-s-il",
     "name": "Lake Park H.S.",
     "city": null,
     "state": "IL"
   },
   {
-    "id": "verona-h-s",
+    "id": "verona-h-s-wi",
     "name": "Verona H.S.",
     "city": null,
     "state": "WI"
   },
   {
-    "id": "kosciusko-h-s",
+    "id": "kosciusko-h-s-ms",
     "name": "Kosciusko H.S.",
     "city": null,
     "state": "MS"
   },
   {
-    "id": "william-fremd-h-s",
+    "id": "william-fremd-h-s-il",
     "name": "William Fremd H.S.",
     "city": null,
     "state": "IL"
   },
   {
-    "id": "carroll-h-s",
+    "id": "carroll-h-s-oh",
     "name": "Carroll H.S.",
     "city": null,
     "state": "OH"
   },
   {
-    "id": "watseka-h-s",
+    "id": "watseka-h-s-il",
     "name": "Watseka H.S.",
     "city": null,
     "state": "IL"
   },
   {
-    "id": "oregon-h-s",
+    "id": "oregon-h-s-wi",
     "name": "Oregon H.S.",
     "city": null,
     "state": "WI"
   },
   {
-    "id": "mcguffey-h-s",
+    "id": "mcguffey-h-s-pa",
     "name": "McGuffey H.S.",
     "city": null,
     "state": "PA"
   },
   {
-    "id": "davis-county-h-s",
+    "id": "davis-county-h-s-ia",
     "name": "Davis County H.S.",
     "city": null,
     "state": "IA"
   },
   {
-    "id": "reed-city-h-s",
+    "id": "reed-city-h-s-mi",
     "name": "Reed City, H.S.",
     "city": null,
     "state": "MI"
   },
   {
-    "id": "brownsburg-h-s",
+    "id": "brownsburg-h-s-in",
     "name": "Brownsburg H.S.",
     "city": null,
     "state": "IN"
   },
   {
-    "id": "clarkston-h-s",
+    "id": "clarkston-h-s-mi",
     "name": "Clarkston H.S.",
     "city": null,
     "state": "MI"
   },
   {
-    "id": "jefferson-city-h-s",
+    "id": "jefferson-city-h-s-mo",
     "name": "Jefferson City H.S.",
     "city": null,
     "state": "MO"
   },
   {
-    "id": "wauwatosa-h-s",
+    "id": "wauwatosa-h-s-wi",
     "name": "Wauwatosa H.S.",
     "city": null,
     "state": "WI"
   },
   {
-    "id": "george-rogers-clark-h-s",
+    "id": "george-rogers-clark-h-s-ky",
     "name": "George Rogers Clark H.S.",
     "city": null,
     "state": "KY"
   },
   {
-    "id": "haworth-h-s",
+    "id": "haworth-h-s-in",
     "name": "Haworth, H.S.",
     "city": null,
     "state": "IN"
   },
   {
-    "id": "pearl-h-s",
+    "id": "pearl-h-s-ms",
     "name": "Pearl H.S.",
     "city": null,
     "state": "MS"
   },
   {
-    "id": "vicksburg-h-s",
+    "id": "vicksburg-h-s-ms",
     "name": "Vicksburg H.S.",
     "city": null,
     "state": "MS"
   },
   {
-    "id": "stratford-h-s",
+    "id": "stratford-h-s-sc",
     "name": "Stratford H.S.",
     "city": null,
     "state": "SC"
   },
   {
-    "id": "jackson-central-merry-h-s",
+    "id": "jackson-central-merry-h-s-tn",
     "name": "Jackson Central-Merry H.S.",
     "city": null,
     "state": "TN"
   },
   {
-    "id": "greenwood-h-s",
+    "id": "greenwood-h-s-ms",
     "name": "Greenwood H.S.",
     "city": null,
     "state": "MS"
   },
   {
-    "id": "tate-h-s",
+    "id": "tate-h-s-fl",
     "name": "Tate H.S.",
     "city": null,
     "state": "FL"
   },
   {
-    "id": "opelika-h-s",
+    "id": "opelika-h-s-al",
     "name": "Opelika H.S.",
     "city": null,
     "state": "AL"
   },
   {
-    "id": "theodore-h-s",
+    "id": "theodore-h-s-al",
     "name": "Theodore H.S.",
     "city": null,
     "state": "AL"
   },
   {
-    "id": "morton-h-s",
+    "id": "morton-h-s-ms",
     "name": "Morton H.S.",
     "city": null,
     "state": "MS"
   },
   {
-    "id": "fairfield-h-s",
+    "id": "fairfield-h-s-al",
     "name": "Fairfield H.S.",
     "city": null,
     "state": "AL"
   },
   {
-    "id": "booneville-h-s",
+    "id": "booneville-h-s-ms",
     "name": "Booneville H.S.",
     "city": null,
     "state": "MS"
   },
   {
-    "id": "winona-h-s",
+    "id": "winona-h-s-ms",
     "name": "Winona H.S.",
     "city": null,
     "state": "MS"
   },
   {
-    "id": "poplarville-h-s",
+    "id": "poplarville-h-s-ms",
     "name": "Poplarville H.S.",
     "city": null,
     "state": "MS"
   },
   {
-    "id": "carthage-h-s",
+    "id": "carthage-h-s-ms",
     "name": "Carthage H.S.",
     "city": null,
     "state": "MS"
   },
   {
-    "id": "iuka-h-s",
+    "id": "iuka-h-s-ms",
     "name": "Iuka H.S.",
     "city": null,
     "state": "MS"

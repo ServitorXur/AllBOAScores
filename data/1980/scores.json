@@ -1,6 +1,6 @@
 [
   {
-    "bandId": "sky-view-h-s",
+    "bandId": "sky-view-h-s-ut",
     "eventId": "1980-summer-national-championship-at-whitewater-wi",
     "season": 1980,
     "round": "Prelims",
@@ -25,7 +25,7 @@
     }
   },
   {
-    "bandId": "conant-h-s",
+    "bandId": "conant-h-s-il",
     "eventId": "1980-summer-national-championship-at-whitewater-wi",
     "season": 1980,
     "round": "Prelims",
@@ -50,7 +50,7 @@
     }
   },
   {
-    "bandId": "downer-grove-south-h-s",
+    "bandId": "downer-grove-south-h-s-il",
     "eventId": "1980-summer-national-championship-at-whitewater-wi",
     "season": 1980,
     "round": "Prelims",
@@ -75,7 +75,7 @@
     }
   },
   {
-    "bandId": "university-h-s",
+    "bandId": "university-h-s-wa",
     "eventId": "1980-summer-national-championship-at-whitewater-wi",
     "season": 1980,
     "round": "Prelims",
@@ -100,7 +100,7 @@
     }
   },
   {
-    "bandId": "chesterton-h-s",
+    "bandId": "chesterton-h-s-in",
     "eventId": "1980-summer-national-championship-at-whitewater-wi",
     "season": 1980,
     "round": "Prelims",
@@ -125,7 +125,7 @@
     }
   },
   {
-    "bandId": "haworth-h-s",
+    "bandId": "haworth-h-s-in",
     "eventId": "1980-summer-national-championship-at-whitewater-wi",
     "season": 1980,
     "round": "Prelims",
@@ -150,7 +150,7 @@
     }
   },
   {
-    "bandId": "parkside-h-s",
+    "bandId": "parkside-h-s-md",
     "eventId": "1980-summer-national-championship-at-whitewater-wi",
     "season": 1980,
     "round": "Prelims",
@@ -175,7 +175,7 @@
     }
   },
   {
-    "bandId": "chesaning-union-h-s",
+    "bandId": "chesaning-union-h-s-mi",
     "eventId": "1980-summer-national-championship-at-whitewater-wi",
     "season": 1980,
     "round": "Prelims",
@@ -200,7 +200,7 @@
     }
   },
   {
-    "bandId": "homestead-h-s",
+    "bandId": "homestead-h-s-in",
     "eventId": "1980-summer-national-championship-at-whitewater-wi",
     "season": 1980,
     "round": "Prelims",
@@ -225,7 +225,7 @@
     }
   },
   {
-    "bandId": "kokomo-h-s",
+    "bandId": "kokomo-h-s-in",
     "eventId": "1980-summer-national-championship-at-whitewater-wi",
     "season": 1980,
     "round": "Prelims",
@@ -250,7 +250,7 @@
     }
   },
   {
-    "bandId": "monticello-h-s",
+    "bandId": "monticello-h-s-il",
     "eventId": "1980-summer-national-championship-at-whitewater-wi",
     "season": 1980,
     "round": "Prelims",
@@ -275,7 +275,7 @@
     }
   },
   {
-    "bandId": "herscher-h-s",
+    "bandId": "herscher-h-s-il",
     "eventId": "1980-summer-national-championship-at-whitewater-wi",
     "season": 1980,
     "round": "Prelims",
@@ -300,7 +300,7 @@
     }
   },
   {
-    "bandId": "oskaloosa-h-s",
+    "bandId": "oskaloosa-h-s-ia",
     "eventId": "1980-summer-national-championship-at-whitewater-wi",
     "season": 1980,
     "round": "Prelims",
@@ -325,7 +325,7 @@
     }
   },
   {
-    "bandId": "norwell-h-s",
+    "bandId": "norwell-h-s-in",
     "eventId": "1980-summer-national-championship-at-whitewater-wi",
     "season": 1980,
     "round": "Prelims",
@@ -350,7 +350,7 @@
     }
   },
   {
-    "bandId": "verona-h-s",
+    "bandId": "verona-h-s-wi",
     "eventId": "1980-summer-national-championship-at-whitewater-wi",
     "season": 1980,
     "round": "Prelims",
@@ -375,7 +375,7 @@
     }
   },
   {
-    "bandId": "oregon-h-s",
+    "bandId": "oregon-h-s-wi",
     "eventId": "1980-summer-national-championship-at-whitewater-wi",
     "season": 1980,
     "round": "Prelims",
@@ -400,7 +400,7 @@
     }
   },
   {
-    "bandId": "hall-h-s",
+    "bandId": "hall-h-s-il",
     "eventId": "1980-summer-national-championship-at-whitewater-wi",
     "season": 1980,
     "round": "Prelims",
@@ -425,7 +425,7 @@
     }
   },
   {
-    "bandId": "hillsboro-h-s",
+    "bandId": "hillsboro-h-s-il",
     "eventId": "1980-summer-national-championship-at-whitewater-wi",
     "season": 1980,
     "round": "Prelims",
@@ -450,7 +450,7 @@
     }
   },
   {
-    "bandId": "grafton-h-s",
+    "bandId": "grafton-h-s-wi",
     "eventId": "1980-summer-national-championship-at-whitewater-wi",
     "season": 1980,
     "round": "Prelims",
@@ -475,7 +475,7 @@
     }
   },
   {
-    "bandId": "wilmot-h-s",
+    "bandId": "wilmot-h-s-wi",
     "eventId": "1980-summer-national-championship-at-whitewater-wi",
     "season": 1980,
     "round": "Prelims",
@@ -500,7 +500,7 @@
     }
   },
   {
-    "bandId": "plano-h-s",
+    "bandId": "plano-h-s-il",
     "eventId": "1980-summer-national-championship-at-whitewater-wi",
     "season": 1980,
     "round": "Prelims",
@@ -525,7 +525,7 @@
     }
   },
   {
-    "bandId": "new-philadelphia-h-s",
+    "bandId": "new-philadelphia-h-s-oh",
     "eventId": "1980-northern-regional-championship-at-toledo-oh",
     "season": 1980,
     "round": "Finals",
@@ -549,7 +549,7 @@
     }
   },
   {
-    "bandId": "southern-garrett-h-s",
+    "bandId": "southern-garrett-h-s-md",
     "eventId": "1980-northern-regional-championship-at-toledo-oh",
     "season": 1980,
     "round": "Finals",
@@ -574,7 +574,7 @@
     }
   },
   {
-    "bandId": "chesterton-h-s",
+    "bandId": "chesterton-h-s-in",
     "eventId": "1980-northern-regional-championship-at-toledo-oh",
     "season": 1980,
     "round": "Finals",
@@ -599,7 +599,7 @@
     }
   },
   {
-    "bandId": "centerville-h-s",
+    "bandId": "centerville-h-s-oh",
     "eventId": "1980-northern-regional-championship-at-toledo-oh",
     "season": 1980,
     "round": "Finals",
@@ -624,7 +624,7 @@
     }
   },
   {
-    "bandId": "norwin-h-s",
+    "bandId": "norwin-h-s-pa",
     "eventId": "1980-northern-regional-championship-at-toledo-oh",
     "season": 1980,
     "round": "Finals",
@@ -649,7 +649,7 @@
     }
   },
   {
-    "bandId": "mcdowell-h-s",
+    "bandId": "mcdowell-h-s-pa",
     "eventId": "1980-northern-regional-championship-at-toledo-oh",
     "season": 1980,
     "round": "Finals",
@@ -674,7 +674,7 @@
     }
   },
   {
-    "bandId": "westerville-south-h-s",
+    "bandId": "westerville-south-h-s-oh",
     "eventId": "1980-northern-regional-championship-at-toledo-oh",
     "season": 1980,
     "round": "Finals",
@@ -699,7 +699,7 @@
     }
   },
   {
-    "bandId": "flushing-h-s",
+    "bandId": "flushing-h-s-mi",
     "eventId": "1980-northern-regional-championship-at-toledo-oh",
     "season": 1980,
     "round": "Finals",
@@ -724,7 +724,7 @@
     }
   },
   {
-    "bandId": "montrose-h-s",
+    "bandId": "montrose-h-s-mi",
     "eventId": "1980-northern-regional-championship-at-toledo-oh",
     "season": 1980,
     "round": "Finals",
@@ -748,7 +748,7 @@
     }
   },
   {
-    "bandId": "plymouth-centennial-h-s",
+    "bandId": "plymouth-centennial-h-s-mi",
     "eventId": "1980-northern-regional-championship-at-toledo-oh",
     "season": 1980,
     "round": "Finals",
@@ -773,7 +773,7 @@
     }
   },
   {
-    "bandId": "eisenhower-h-s",
+    "bandId": "eisenhower-h-s-mi",
     "eventId": "1980-northern-regional-championship-at-toledo-oh",
     "season": 1980,
     "round": "Prelims",
@@ -796,7 +796,7 @@
     }
   },
   {
-    "bandId": "bedford-h-s",
+    "bandId": "bedford-h-s-mi",
     "eventId": "1980-northern-regional-championship-at-toledo-oh",
     "season": 1980,
     "round": "Prelims",
@@ -820,7 +820,7 @@
     }
   },
   {
-    "bandId": "garaway-h-s",
+    "bandId": "garaway-h-s-oh",
     "eventId": "1980-northern-regional-championship-at-toledo-oh",
     "season": 1980,
     "round": "Prelims",
@@ -845,7 +845,7 @@
     }
   },
   {
-    "bandId": "wyoming-park-h-s",
+    "bandId": "wyoming-park-h-s-mi",
     "eventId": "1980-northern-regional-championship-at-toledo-oh",
     "season": 1980,
     "round": "Prelims",
@@ -870,7 +870,7 @@
     }
   },
   {
-    "bandId": "plymouth-centennial-h-s",
+    "bandId": "plymouth-centennial-h-s-mi",
     "eventId": "1980-northern-regional-championship-at-toledo-oh",
     "season": 1980,
     "round": "Prelims",
@@ -920,7 +920,7 @@
     }
   },
   {
-    "bandId": "mcdowell-h-s",
+    "bandId": "mcdowell-h-s-pa",
     "eventId": "1980-northern-regional-championship-at-toledo-oh",
     "season": 1980,
     "round": "Prelims",
@@ -945,7 +945,7 @@
     }
   },
   {
-    "bandId": "meadville-h-s",
+    "bandId": "meadville-h-s-pa",
     "eventId": "1980-northern-regional-championship-at-toledo-oh",
     "season": 1980,
     "round": "Prelims",
@@ -970,7 +970,7 @@
     }
   },
   {
-    "bandId": "columbus-grove-h-s",
+    "bandId": "columbus-grove-h-s-oh",
     "eventId": "1980-northern-regional-championship-at-toledo-oh",
     "season": 1980,
     "round": "Prelims",
@@ -995,7 +995,7 @@
     }
   },
   {
-    "bandId": "kalida-h-s",
+    "bandId": "kalida-h-s-oh",
     "eventId": "1980-northern-regional-championship-at-toledo-oh",
     "season": 1980,
     "round": "Prelims",
@@ -1020,7 +1020,7 @@
     }
   },
   {
-    "bandId": "durand-area-h-s",
+    "bandId": "durand-area-h-s-mi",
     "eventId": "1980-northern-regional-championship-at-toledo-oh",
     "season": 1980,
     "round": "Prelims",
@@ -1045,7 +1045,7 @@
     }
   },
   {
-    "bandId": "southern-garrett-h-s",
+    "bandId": "southern-garrett-h-s-md",
     "eventId": "1980-northern-regional-championship-at-toledo-oh",
     "season": 1980,
     "round": "Prelims",
@@ -1070,7 +1070,7 @@
     }
   },
   {
-    "bandId": "bishop-foley-h-s",
+    "bandId": "bishop-foley-h-s-mi",
     "eventId": "1980-northern-regional-championship-at-toledo-oh",
     "season": 1980,
     "round": "Prelims",
@@ -1095,7 +1095,7 @@
     }
   },
   {
-    "bandId": "montrose-h-s",
+    "bandId": "montrose-h-s-mi",
     "eventId": "1980-northern-regional-championship-at-toledo-oh",
     "season": 1980,
     "round": "Prelims",
@@ -1120,7 +1120,7 @@
     }
   },
   {
-    "bandId": "lakeview-h-s",
+    "bandId": "lakeview-h-s-mi",
     "eventId": "1980-northern-regional-championship-at-toledo-oh",
     "season": 1980,
     "round": "Prelims",
@@ -1145,7 +1145,7 @@
     }
   },
   {
-    "bandId": "norton-h-s",
+    "bandId": "norton-h-s-oh",
     "eventId": "1980-northern-regional-championship-at-toledo-oh",
     "season": 1980,
     "round": "Prelims",
@@ -1170,7 +1170,7 @@
     }
   },
   {
-    "bandId": "flushing-h-s",
+    "bandId": "flushing-h-s-mi",
     "eventId": "1980-northern-regional-championship-at-toledo-oh",
     "season": 1980,
     "round": "Prelims",
@@ -1195,7 +1195,7 @@
     }
   },
   {
-    "bandId": "centerville-h-s",
+    "bandId": "centerville-h-s-oh",
     "eventId": "1980-northern-regional-championship-at-toledo-oh",
     "season": 1980,
     "round": "Prelims",
@@ -1220,7 +1220,7 @@
     }
   },
   {
-    "bandId": "l-m-powers-catholic-h-s",
+    "bandId": "l-m-powers-catholic-h-s-mi",
     "eventId": "1980-northern-regional-championship-at-toledo-oh",
     "season": 1980,
     "round": "Prelims",
@@ -1245,7 +1245,7 @@
     }
   },
   {
-    "bandId": "lexington-h-s",
+    "bandId": "lexington-h-s-oh",
     "eventId": "1980-northern-regional-championship-at-toledo-oh",
     "season": 1980,
     "round": "Prelims",
@@ -1270,7 +1270,7 @@
     }
   },
   {
-    "bandId": "new-philadelphia-h-s",
+    "bandId": "new-philadelphia-h-s-oh",
     "eventId": "1980-northern-regional-championship-at-toledo-oh",
     "season": 1980,
     "round": "Prelims",
@@ -1295,7 +1295,7 @@
     }
   },
   {
-    "bandId": "westerville-south-h-s",
+    "bandId": "westerville-south-h-s-oh",
     "eventId": "1980-northern-regional-championship-at-toledo-oh",
     "season": 1980,
     "round": "Prelims",
@@ -1320,7 +1320,7 @@
     }
   },
   {
-    "bandId": "greensburg-salem-h-s",
+    "bandId": "greensburg-salem-h-s-pa",
     "eventId": "1980-northern-regional-championship-at-toledo-oh",
     "season": 1980,
     "round": "Prelims",
@@ -1345,7 +1345,7 @@
     }
   },
   {
-    "bandId": "norwin-h-s",
+    "bandId": "norwin-h-s-pa",
     "eventId": "1980-northern-regional-championship-at-toledo-oh",
     "season": 1980,
     "round": "Prelims",
@@ -1370,7 +1370,7 @@
     }
   },
   {
-    "bandId": "chesterton-h-s",
+    "bandId": "chesterton-h-s-in",
     "eventId": "1980-northern-regional-championship-at-toledo-oh",
     "season": 1980,
     "round": "Prelims",
@@ -1395,7 +1395,7 @@
     }
   },
   {
-    "bandId": "hanover-h-s",
+    "bandId": "hanover-h-s-pa",
     "eventId": "1980-northeastern-regional-championship-at-west-chester-pa",
     "season": 1980,
     "round": "Finals",
@@ -1420,7 +1420,7 @@
     }
   },
   {
-    "bandId": "pennsville-h-s",
+    "bandId": "pennsville-h-s-nj",
     "eventId": "1980-northeastern-regional-championship-at-west-chester-pa",
     "season": 1980,
     "round": "Finals",
@@ -1445,7 +1445,7 @@
     }
   },
   {
-    "bandId": "wilson-h-s",
+    "bandId": "wilson-h-s-pa",
     "eventId": "1980-northeastern-regional-championship-at-west-chester-pa",
     "season": 1980,
     "round": "Finals",
@@ -1470,7 +1470,7 @@
     }
   },
   {
-    "bandId": "littlestown-h-s",
+    "bandId": "littlestown-h-s-pa",
     "eventId": "1980-northeastern-regional-championship-at-west-chester-pa",
     "season": 1980,
     "round": "Finals",
@@ -1495,7 +1495,7 @@
     }
   },
   {
-    "bandId": "lake-braddock-h-s",
+    "bandId": "lake-braddock-h-s-va",
     "eventId": "1980-northeastern-regional-championship-at-west-chester-pa",
     "season": 1980,
     "round": "Finals",
@@ -1520,7 +1520,7 @@
     }
   },
   {
-    "bandId": "norwin-h-s",
+    "bandId": "norwin-h-s-pa",
     "eventId": "1980-northeastern-regional-championship-at-west-chester-pa",
     "season": 1980,
     "round": "Finals",
@@ -1545,7 +1545,7 @@
     }
   },
   {
-    "bandId": "lancaster-catholic-h-s",
+    "bandId": "lancaster-catholic-h-s-pa",
     "eventId": "1980-northeastern-regional-championship-at-west-chester-pa",
     "season": 1980,
     "round": "Finals",
@@ -1570,7 +1570,7 @@
     }
   },
   {
-    "bandId": "hammonton-h-s",
+    "bandId": "hammonton-h-s-nj",
     "eventId": "1980-northeastern-regional-championship-at-west-chester-pa",
     "season": 1980,
     "round": "Finals",
@@ -1595,7 +1595,7 @@
     }
   },
   {
-    "bandId": "wicomico-h-s",
+    "bandId": "wicomico-h-s-md",
     "eventId": "1980-northeastern-regional-championship-at-west-chester-pa",
     "season": 1980,
     "round": "Finals",
@@ -1620,7 +1620,7 @@
     }
   },
   {
-    "bandId": "bishop-kenrick-h-s",
+    "bandId": "bishop-kenrick-h-s-pa",
     "eventId": "1980-northeastern-regional-championship-at-west-chester-pa",
     "season": 1980,
     "round": "Finals",
@@ -1645,7 +1645,7 @@
     }
   },
   {
-    "bandId": "bishop-kenrick-h-s",
+    "bandId": "bishop-kenrick-h-s-pa",
     "eventId": "1980-northeastern-regional-championship-at-west-chester-pa",
     "season": 1980,
     "round": "Prelims",
@@ -1670,7 +1670,7 @@
     }
   },
   {
-    "bandId": "bethlehem-catholic-h-s",
+    "bandId": "bethlehem-catholic-h-s-pa",
     "eventId": "1980-northeastern-regional-championship-at-west-chester-pa",
     "season": 1980,
     "round": "Prelims",
@@ -1695,7 +1695,7 @@
     }
   },
   {
-    "bandId": "wicomico-h-s",
+    "bandId": "wicomico-h-s-md",
     "eventId": "1980-northeastern-regional-championship-at-west-chester-pa",
     "season": 1980,
     "round": "Prelims",
@@ -1720,7 +1720,7 @@
     }
   },
   {
-    "bandId": "hammonton-h-s",
+    "bandId": "hammonton-h-s-nj",
     "eventId": "1980-northeastern-regional-championship-at-west-chester-pa",
     "season": 1980,
     "round": "Prelims",
@@ -1745,7 +1745,7 @@
     }
   },
   {
-    "bandId": "elyria-west-h-s",
+    "bandId": "elyria-west-h-s-oh",
     "eventId": "1980-northeastern-regional-championship-at-west-chester-pa",
     "season": 1980,
     "round": "Prelims",
@@ -1770,7 +1770,7 @@
     }
   },
   {
-    "bandId": "lancaster-catholic-h-s",
+    "bandId": "lancaster-catholic-h-s-pa",
     "eventId": "1980-northeastern-regional-championship-at-west-chester-pa",
     "season": 1980,
     "round": "Prelims",
@@ -1795,7 +1795,7 @@
     }
   },
   {
-    "bandId": "bangor-h-s",
+    "bandId": "bangor-h-s-pa",
     "eventId": "1980-northeastern-regional-championship-at-west-chester-pa",
     "season": 1980,
     "round": "Prelims",
@@ -1820,7 +1820,7 @@
     }
   },
   {
-    "bandId": "norwin-h-s",
+    "bandId": "norwin-h-s-pa",
     "eventId": "1980-northeastern-regional-championship-at-west-chester-pa",
     "season": 1980,
     "round": "Prelims",
@@ -1845,7 +1845,7 @@
     }
   },
   {
-    "bandId": "lake-braddock-h-s",
+    "bandId": "lake-braddock-h-s-va",
     "eventId": "1980-northeastern-regional-championship-at-west-chester-pa",
     "season": 1980,
     "round": "Prelims",
@@ -1870,7 +1870,7 @@
     }
   },
   {
-    "bandId": "vineland-h-s",
+    "bandId": "vineland-h-s-nj",
     "eventId": "1980-northeastern-regional-championship-at-west-chester-pa",
     "season": 1980,
     "round": "Prelims",
@@ -1895,7 +1895,7 @@
     }
   },
   {
-    "bandId": "pennsville-h-s",
+    "bandId": "pennsville-h-s-nj",
     "eventId": "1980-northeastern-regional-championship-at-west-chester-pa",
     "season": 1980,
     "round": "Prelims",
@@ -1920,7 +1920,7 @@
     }
   },
   {
-    "bandId": "littlestown-h-s",
+    "bandId": "littlestown-h-s-pa",
     "eventId": "1980-northeastern-regional-championship-at-west-chester-pa",
     "season": 1980,
     "round": "Prelims",
@@ -1945,7 +1945,7 @@
     }
   },
   {
-    "bandId": "valley-view-h-s",
+    "bandId": "valley-view-h-s-pa",
     "eventId": "1980-northeastern-regional-championship-at-west-chester-pa",
     "season": 1980,
     "round": "Prelims",
@@ -1970,7 +1970,7 @@
     }
   },
   {
-    "bandId": "hanover-h-s",
+    "bandId": "hanover-h-s-pa",
     "eventId": "1980-northeastern-regional-championship-at-west-chester-pa",
     "season": 1980,
     "round": "Prelims",
@@ -1995,7 +1995,7 @@
     }
   },
   {
-    "bandId": "wilson-h-s",
+    "bandId": "wilson-h-s-pa",
     "eventId": "1980-northeastern-regional-championship-at-west-chester-pa",
     "season": 1980,
     "round": "Prelims",
@@ -2020,7 +2020,7 @@
     }
   },
   {
-    "bandId": "catasaugua-h-s",
+    "bandId": "catasaugua-h-s-pa",
     "eventId": "1980-northeastern-regional-championship-at-west-chester-pa",
     "season": 1980,
     "round": "Prelims",
@@ -2045,7 +2045,7 @@
     }
   },
   {
-    "bandId": "john-s-battle-h-s",
+    "bandId": "john-s-battle-h-s-va",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Finals",
@@ -2070,7 +2070,7 @@
     }
   },
   {
-    "bandId": "e-c-glass-h-s",
+    "bandId": "e-c-glass-h-s-va",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Finals",
@@ -2095,7 +2095,7 @@
     }
   },
   {
-    "bandId": "princess-anne-h-s",
+    "bandId": "princess-anne-h-s-va",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Finals",
@@ -2120,7 +2120,7 @@
     }
   },
   {
-    "bandId": "rocky-mount-h-s",
+    "bandId": "rocky-mount-h-s-nc",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Finals",
@@ -2145,7 +2145,7 @@
     }
   },
   {
-    "bandId": "northern-lebanon-h-s",
+    "bandId": "northern-lebanon-h-s-pa",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Finals",
@@ -2170,7 +2170,7 @@
     }
   },
   {
-    "bandId": "mount-vernon-h-s",
+    "bandId": "mount-vernon-h-s-va",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Finals",
@@ -2195,7 +2195,7 @@
     }
   },
   {
-    "bandId": "norwin-h-s",
+    "bandId": "norwin-h-s-pa",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Finals",
@@ -2220,7 +2220,7 @@
     }
   },
   {
-    "bandId": "kempsville-h-s",
+    "bandId": "kempsville-h-s-va",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Finals",
@@ -2245,7 +2245,7 @@
     }
   },
   {
-    "bandId": "brazil-h-s",
+    "bandId": "brazil-h-s-in",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Finals",
@@ -2270,7 +2270,7 @@
     }
   },
   {
-    "bandId": "hanover-h-s",
+    "bandId": "hanover-h-s-pa",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Finals",
@@ -2295,7 +2295,7 @@
     }
   },
   {
-    "bandId": "fort-defiance-h-s",
+    "bandId": "fort-defiance-h-s-va",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Prelims",
@@ -2320,7 +2320,7 @@
     }
   },
   {
-    "bandId": "culpepper-county-h-s",
+    "bandId": "culpepper-county-h-s-va",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Prelims",
@@ -2345,7 +2345,7 @@
     }
   },
   {
-    "bandId": "mcguffey-h-s",
+    "bandId": "mcguffey-h-s-pa",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Prelims",
@@ -2370,7 +2370,7 @@
     }
   },
   {
-    "bandId": "franklin-county-h-s",
+    "bandId": "franklin-county-h-s-va",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Prelims",
@@ -2395,7 +2395,7 @@
     }
   },
   {
-    "bandId": "brazil-h-s",
+    "bandId": "brazil-h-s-in",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Prelims",
@@ -2420,7 +2420,7 @@
     }
   },
   {
-    "bandId": "covington-h-s",
+    "bandId": "covington-h-s-va",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Prelims",
@@ -2445,7 +2445,7 @@
     }
   },
   {
-    "bandId": "lewis-county-h-s",
+    "bandId": "lewis-county-h-s-wv",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Prelims",
@@ -2469,7 +2469,7 @@
     }
   },
   {
-    "bandId": "rocky-mount-h-s",
+    "bandId": "rocky-mount-h-s-nc",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Prelims",
@@ -2494,7 +2494,7 @@
     }
   },
   {
-    "bandId": "princess-anne-h-s",
+    "bandId": "princess-anne-h-s-va",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Prelims",
@@ -2519,7 +2519,7 @@
     }
   },
   {
-    "bandId": "wirt-county-h-s",
+    "bandId": "wirt-county-h-s-wv",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Prelims",
@@ -2544,7 +2544,7 @@
     }
   },
   {
-    "bandId": "nelson-county-h-s",
+    "bandId": "nelson-county-h-s-va",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Prelims",
@@ -2569,7 +2569,7 @@
     }
   },
   {
-    "bandId": "currituck-h-s",
+    "bandId": "currituck-h-s-nc",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Prelims",
@@ -2594,7 +2594,7 @@
     }
   },
   {
-    "bandId": "north-caroline-h-s",
+    "bandId": "north-caroline-h-s-md",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Prelims",
@@ -2619,7 +2619,7 @@
     }
   },
   {
-    "bandId": "charlottesville-h-s",
+    "bandId": "charlottesville-h-s-va",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Prelims",
@@ -2644,7 +2644,7 @@
     }
   },
   {
-    "bandId": "e-c-glass-h-s",
+    "bandId": "e-c-glass-h-s-va",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Prelims",
@@ -2669,7 +2669,7 @@
     }
   },
   {
-    "bandId": "kempsville-h-s",
+    "bandId": "kempsville-h-s-va",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Prelims",
@@ -2694,7 +2694,7 @@
     }
   },
   {
-    "bandId": "mount-vernon-h-s",
+    "bandId": "mount-vernon-h-s-va",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Prelims",
@@ -2719,7 +2719,7 @@
     }
   },
   {
-    "bandId": "brookville-h-s",
+    "bandId": "brookville-h-s-va",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Prelims",
@@ -2744,7 +2744,7 @@
     }
   },
   {
-    "bandId": "hanover-h-s",
+    "bandId": "hanover-h-s-pa",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Prelims",
@@ -2769,7 +2769,7 @@
     }
   },
   {
-    "bandId": "john-s-battle-h-s",
+    "bandId": "john-s-battle-h-s-va",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Prelims",
@@ -2794,7 +2794,7 @@
     }
   },
   {
-    "bandId": "yough-h-s",
+    "bandId": "yough-h-s-pa",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Prelims",
@@ -2819,7 +2819,7 @@
     }
   },
   {
-    "bandId": "salem-h-s",
+    "bandId": "salem-h-s-va",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Prelims",
@@ -2844,7 +2844,7 @@
     }
   },
   {
-    "bandId": "robinson-h-s",
+    "bandId": "robinson-h-s-va",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Prelims",
@@ -2869,7 +2869,7 @@
     }
   },
   {
-    "bandId": "northern-lebanon-h-s",
+    "bandId": "northern-lebanon-h-s-va",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Prelims",
@@ -2894,7 +2894,7 @@
     }
   },
   {
-    "bandId": "norwin-h-s",
+    "bandId": "norwin-h-s-pa",
     "eventId": "1980-eastern-regional-championship-at-harrisonburg-va",
     "season": 1980,
     "round": "Prelims",
@@ -2919,7 +2919,7 @@
     }
   },
   {
-    "bandId": "tate-h-s",
+    "bandId": "tate-h-s-fl",
     "eventId": "1980-southern-regional-championship-at-gonzalez-fl",
     "season": 1980,
     "round": "Finals",
@@ -2944,7 +2944,7 @@
     }
   },
   {
-    "bandId": "benjamin-russell-h-s",
+    "bandId": "benjamin-russell-h-s-al",
     "eventId": "1980-southern-regional-championship-at-gonzalez-fl",
     "season": 1980,
     "round": "Finals",
@@ -2969,7 +2969,7 @@
     }
   },
   {
-    "bandId": "pearl-h-s",
+    "bandId": "pearl-h-s-ms",
     "eventId": "1980-southern-regional-championship-at-gonzalez-fl",
     "season": 1980,
     "round": "Finals",
@@ -3019,7 +3019,7 @@
     }
   },
   {
-    "bandId": "milton-h-s",
+    "bandId": "milton-h-s-fl",
     "eventId": "1980-southern-regional-championship-at-gonzalez-fl",
     "season": 1980,
     "round": "Finals",
@@ -3069,7 +3069,7 @@
     }
   },
   {
-    "bandId": "carthage-h-s",
+    "bandId": "carthage-h-s-ms",
     "eventId": "1980-southern-regional-championship-at-gonzalez-fl",
     "season": 1980,
     "round": "Finals",
@@ -3094,7 +3094,7 @@
     }
   },
   {
-    "bandId": "kosciusko-h-s",
+    "bandId": "kosciusko-h-s-ms",
     "eventId": "1980-southern-regional-championship-at-gonzalez-fl",
     "season": 1980,
     "round": "Finals",
@@ -3119,7 +3119,7 @@
     }
   },
   {
-    "bandId": "long-beach-h-s",
+    "bandId": "long-beach-h-s-fl",
     "eventId": "1980-southern-regional-championship-at-gonzalez-fl",
     "season": 1980,
     "round": "Finals",
@@ -3144,7 +3144,7 @@
     }
   },
   {
-    "bandId": "escambia-h-s",
+    "bandId": "escambia-h-s-fl",
     "eventId": "1980-southern-regional-championship-at-gonzalez-fl",
     "season": 1980,
     "round": "Finals",
@@ -3169,7 +3169,7 @@
     }
   },
   {
-    "bandId": "moss-point-h-s",
+    "bandId": "moss-point-h-s-ms",
     "eventId": "1980-southern-regional-championship-at-gonzalez-fl",
     "season": 1980,
     "round": "Prelims",
@@ -3194,7 +3194,7 @@
     }
   },
   {
-    "bandId": "benjamin-russell-h-s",
+    "bandId": "benjamin-russell-h-s-al",
     "eventId": "1980-southern-regional-championship-at-gonzalez-fl",
     "season": 1980,
     "round": "Prelims",
@@ -3219,7 +3219,7 @@
     }
   },
   {
-    "bandId": "tate-h-s",
+    "bandId": "tate-h-s-fl",
     "eventId": "1980-southern-regional-championship-at-gonzalez-fl",
     "season": 1980,
     "round": "Prelims",
@@ -3244,7 +3244,7 @@
     }
   },
   {
-    "bandId": "pensacola-h-s",
+    "bandId": "pensacola-h-s-fl",
     "eventId": "1980-southern-regional-championship-at-gonzalez-fl",
     "season": 1980,
     "round": "Prelims",
@@ -3269,7 +3269,7 @@
     }
   },
   {
-    "bandId": "fairfield-h-s",
+    "bandId": "fairfield-h-s-al",
     "eventId": "1980-southern-regional-championship-at-gonzalez-fl",
     "season": 1980,
     "round": "Prelims",
@@ -3294,7 +3294,7 @@
     }
   },
   {
-    "bandId": "kosciusko-h-s",
+    "bandId": "kosciusko-h-s-ms",
     "eventId": "1980-southern-regional-championship-at-gonzalez-fl",
     "season": 1980,
     "round": "Prelims",
@@ -3319,7 +3319,7 @@
     }
   },
   {
-    "bandId": "east-rutherford-h-s",
+    "bandId": "east-rutherford-h-s-nc",
     "eventId": "1980-southern-regional-championship-at-gonzalez-fl",
     "season": 1980,
     "round": "Prelims",
@@ -3344,7 +3344,7 @@
     }
   },
   {
-    "bandId": "long-beach-h-s",
+    "bandId": "long-beach-h-s-fl",
     "eventId": "1980-southern-regional-championship-at-gonzalez-fl",
     "season": 1980,
     "round": "Prelims",
@@ -3369,7 +3369,7 @@
     }
   },
   {
-    "bandId": "pearl-h-s",
+    "bandId": "pearl-h-s-ms",
     "eventId": "1980-southern-regional-championship-at-gonzalez-fl",
     "season": 1980,
     "round": "Prelims",
@@ -3394,7 +3394,7 @@
     }
   },
   {
-    "bandId": "carthage-h-s",
+    "bandId": "carthage-h-s-ms",
     "eventId": "1980-southern-regional-championship-at-gonzalez-fl",
     "season": 1980,
     "round": "Prelims",
@@ -3419,7 +3419,7 @@
     }
   },
   {
-    "bandId": "pine-forest-h-s",
+    "bandId": "pine-forest-h-s-fl",
     "eventId": "1980-southern-regional-championship-at-gonzalez-fl",
     "season": 1980,
     "round": "Prelims",
@@ -3444,7 +3444,7 @@
     }
   },
   {
-    "bandId": "escambia-h-s",
+    "bandId": "escambia-h-s-fl",
     "eventId": "1980-southern-regional-championship-at-gonzalez-fl",
     "season": 1980,
     "round": "Prelims",
@@ -3469,7 +3469,7 @@
     }
   },
   {
-    "bandId": "milton-h-s",
+    "bandId": "milton-h-s-fl",
     "eventId": "1980-southern-regional-championship-at-gonzalez-fl",
     "season": 1980,
     "round": "Prelims",
@@ -3494,7 +3494,7 @@
     }
   },
   {
-    "bandId": "robertsdale-h-s",
+    "bandId": "robertsdale-h-s-al",
     "eventId": "1980-southern-regional-championship-at-gonzalez-fl",
     "season": 1980,
     "round": "Prelims",
@@ -3543,7 +3543,7 @@
     }
   },
   {
-    "bandId": "caldwell-h-s",
+    "bandId": "caldwell-h-s-ms",
     "eventId": "1980-mid-southern-regional-championship-at-jackson-tn",
     "season": 1980,
     "round": "Finals",
@@ -3568,7 +3568,7 @@
     }
   },
   {
-    "bandId": "sprayberry-h-s",
+    "bandId": "sprayberry-h-s-ga",
     "eventId": "1980-mid-southern-regional-championship-at-jackson-tn",
     "season": 1980,
     "round": "Finals",
@@ -3593,7 +3593,7 @@
     }
   },
   {
-    "bandId": "northside-h-s",
+    "bandId": "northside-h-s-tn",
     "eventId": "1980-mid-southern-regional-championship-at-jackson-tn",
     "season": 1980,
     "round": "Finals",
@@ -3618,7 +3618,7 @@
     }
   },
   {
-    "bandId": "kosciusko-h-s",
+    "bandId": "kosciusko-h-s-ms",
     "eventId": "1980-mid-southern-regional-championship-at-jackson-tn",
     "season": 1980,
     "round": "Finals",
@@ -3643,7 +3643,7 @@
     }
   },
   {
-    "bandId": "lone-oak-h-s",
+    "bandId": "lone-oak-h-s-ky",
     "eventId": "1980-mid-southern-regional-championship-at-jackson-tn",
     "season": 1980,
     "round": "Finals",
@@ -3668,7 +3668,7 @@
     }
   },
   {
-    "bandId": "greneda-h-s",
+    "bandId": "greneda-h-s-ms",
     "eventId": "1980-mid-southern-regional-championship-at-jackson-tn",
     "season": 1980,
     "round": "Finals",
@@ -3693,7 +3693,7 @@
     }
   },
   {
-    "bandId": "haworth-h-s",
+    "bandId": "haworth-h-s-in",
     "eventId": "1980-mid-southern-regional-championship-at-jackson-tn",
     "season": 1980,
     "round": "Finals",
@@ -3718,7 +3718,7 @@
     }
   },
   {
-    "bandId": "carroll-h-s",
+    "bandId": "carroll-h-s-oh",
     "eventId": "1980-mid-southern-regional-championship-at-jackson-tn",
     "season": 1980,
     "round": "Finals",
@@ -3743,7 +3743,7 @@
     }
   },
   {
-    "bandId": "columbia-h-s",
+    "bandId": "columbia-h-s-tn",
     "eventId": "1980-mid-southern-regional-championship-at-jackson-tn",
     "season": 1980,
     "round": "Finals",
@@ -3768,7 +3768,7 @@
     }
   },
   {
-    "bandId": "sprayberry-h-s",
+    "bandId": "sprayberry-h-s-ga",
     "eventId": "1980-mid-southern-regional-championship-at-jackson-tn",
     "season": 1980,
     "round": "Prelims",
@@ -3792,7 +3792,7 @@
     }
   },
   {
-    "bandId": "lone-oak-h-s",
+    "bandId": "lone-oak-h-s-ky",
     "eventId": "1980-mid-southern-regional-championship-at-jackson-tn",
     "season": 1980,
     "round": "Prelims",
@@ -3817,7 +3817,7 @@
     }
   },
   {
-    "bandId": "columbia-h-s",
+    "bandId": "columbia-h-s-tn",
     "eventId": "1980-mid-southern-regional-championship-at-jackson-tn",
     "season": 1980,
     "round": "Prelims",
@@ -3842,7 +3842,7 @@
     }
   },
   {
-    "bandId": "haworth-h-s",
+    "bandId": "haworth-h-s-in",
     "eventId": "1980-mid-southern-regional-championship-at-jackson-tn",
     "season": 1980,
     "round": "Prelims",
@@ -3867,7 +3867,7 @@
     }
   },
   {
-    "bandId": "iuka-h-s",
+    "bandId": "iuka-h-s-ms",
     "eventId": "1980-mid-southern-regional-championship-at-jackson-tn",
     "season": 1980,
     "round": "Prelims",
@@ -3892,7 +3892,7 @@
     }
   },
   {
-    "bandId": "bartlett-h-s",
+    "bandId": "bartlett-h-s-tn",
     "eventId": "1980-mid-southern-regional-championship-at-jackson-tn",
     "season": 1980,
     "round": "Prelims",
@@ -3917,7 +3917,7 @@
     }
   },
   {
-    "bandId": "milan-h-s",
+    "bandId": "milan-h-s-tn",
     "eventId": "1980-mid-southern-regional-championship-at-jackson-tn",
     "season": 1980,
     "round": "Prelims",
@@ -3942,7 +3942,7 @@
     }
   },
   {
-    "bandId": "union-city-h-s",
+    "bandId": "union-city-h-s-tn",
     "eventId": "1980-mid-southern-regional-championship-at-jackson-tn",
     "season": 1980,
     "round": "Prelims",
@@ -3967,7 +3967,7 @@
     }
   },
   {
-    "bandId": "dekalb-county-h-s",
+    "bandId": "dekalb-county-h-s-tn",
     "eventId": "1980-mid-southern-regional-championship-at-jackson-tn",
     "season": 1980,
     "round": "Prelims",
@@ -3992,7 +3992,7 @@
     }
   },
   {
-    "bandId": "sullivan-central-h-s",
+    "bandId": "sullivan-central-h-s-tn",
     "eventId": "1980-mid-southern-regional-championship-at-jackson-tn",
     "season": 1980,
     "round": "Prelims",
@@ -4017,7 +4017,7 @@
     }
   },
   {
-    "bandId": "overton-h-s",
+    "bandId": "overton-h-s-tn",
     "eventId": "1980-mid-southern-regional-championship-at-jackson-tn",
     "season": 1980,
     "round": "Prelims",
@@ -4042,7 +4042,7 @@
     }
   },
   {
-    "bandId": "carroll-h-s",
+    "bandId": "carroll-h-s-oh",
     "eventId": "1980-mid-southern-regional-championship-at-jackson-tn",
     "season": 1980,
     "round": "Prelims",
@@ -4067,7 +4067,7 @@
     }
   },
   {
-    "bandId": "louisville-h-s",
+    "bandId": "louisville-h-s-oh",
     "eventId": "1980-mid-southern-regional-championship-at-jackson-tn",
     "season": 1980,
     "round": "Prelims",
@@ -4092,7 +4092,7 @@
     }
   },
   {
-    "bandId": "grenada-h-s",
+    "bandId": "grenada-h-s-ms",
     "eventId": "1980-mid-southern-regional-championship-at-jackson-tn",
     "season": 1980,
     "round": "Prelims",
@@ -4117,7 +4117,7 @@
     }
   },
   {
-    "bandId": "huntingdon-h-s",
+    "bandId": "huntingdon-h-s-tn",
     "eventId": "1980-mid-southern-regional-championship-at-jackson-tn",
     "season": 1980,
     "round": "Prelims",
@@ -4142,7 +4142,7 @@
     }
   },
   {
-    "bandId": "kosciusko-h-s",
+    "bandId": "kosciusko-h-s-ms",
     "eventId": "1980-mid-southern-regional-championship-at-jackson-tn",
     "season": 1980,
     "round": "Prelims",
@@ -4167,7 +4167,7 @@
     }
   },
   {
-    "bandId": "humboldt-h-s",
+    "bandId": "humboldt-h-s-tn",
     "eventId": "1980-mid-southern-regional-championship-at-jackson-tn",
     "season": 1980,
     "round": "Prelims",
@@ -4192,7 +4192,7 @@
     }
   },
   {
-    "bandId": "caldwell-h-s",
+    "bandId": "caldwell-h-s-ms",
     "eventId": "1980-mid-southern-regional-championship-at-jackson-tn",
     "season": 1980,
     "round": "Prelims",
@@ -4217,7 +4217,7 @@
     }
   },
   {
-    "bandId": "northside-h-s",
+    "bandId": "northside-h-s-tn",
     "eventId": "1980-mid-southern-regional-championship-at-jackson-tn",
     "season": 1980,
     "round": "Prelims",
@@ -4242,7 +4242,7 @@
     }
   },
   {
-    "bandId": "dyersburg-h-s",
+    "bandId": "dyersburg-h-s-tn",
     "eventId": "1980-mid-southern-regional-championship-at-jackson-tn",
     "season": 1980,
     "round": "Prelims",
@@ -4267,7 +4267,7 @@
     }
   },
   {
-    "bandId": "jasper-h-s",
+    "bandId": "jasper-h-s-in",
     "eventId": "1980-mid-southern-regional-championship-at-jackson-tn",
     "season": 1980,
     "round": "Prelims",
@@ -4292,7 +4292,7 @@
     }
   },
   {
-    "bandId": "jackson-central-merry-h-s",
+    "bandId": "jackson-central-merry-h-s-tn",
     "eventId": "1980-mid-southern-regional-championship-at-jackson-tn",
     "season": 1980,
     "round": "Prelims",
@@ -4317,7 +4317,7 @@
     }
   },
   {
-    "bandId": "jersey-village-h-s",
+    "bandId": "jersey-village-h-s-tx",
     "eventId": "1980-southwestern-regional-championship-at-commerce-tx",
     "season": 1980,
     "round": "Finals",
@@ -4342,7 +4342,7 @@
     }
   },
   {
-    "bandId": "john-h-reagan-h-s",
+    "bandId": "john-h-reagan-h-s-tx",
     "eventId": "1980-southwestern-regional-championship-at-commerce-tx",
     "season": 1980,
     "round": "Finals",
@@ -4367,7 +4367,7 @@
     }
   },
   {
-    "bandId": "north-garland-h-s",
+    "bandId": "north-garland-h-s-tx",
     "eventId": "1980-southwestern-regional-championship-at-commerce-tx",
     "season": 1980,
     "round": "Finals",
@@ -4392,7 +4392,7 @@
     }
   },
   {
-    "bandId": "mcloud-h-s",
+    "bandId": "mcloud-h-s-tx",
     "eventId": "1980-southwestern-regional-championship-at-commerce-tx",
     "season": 1980,
     "round": "Finals",
@@ -4417,7 +4417,7 @@
     }
   },
   {
-    "bandId": "south-san-antonio-h-s",
+    "bandId": "south-san-antonio-h-s-tx",
     "eventId": "1980-southwestern-regional-championship-at-commerce-tx",
     "season": 1980,
     "round": "Finals",
@@ -4442,7 +4442,7 @@
     }
   },
   {
-    "bandId": "allen-h-s",
+    "bandId": "allen-h-s-tx",
     "eventId": "1980-southwestern-regional-championship-at-commerce-tx",
     "season": 1980,
     "round": "Finals",
@@ -4467,7 +4467,7 @@
     }
   },
   {
-    "bandId": "southwest-h-s",
+    "bandId": "southwest-h-s-tx",
     "eventId": "1980-southwestern-regional-championship-at-commerce-tx",
     "season": 1980,
     "round": "Finals",
@@ -4492,7 +4492,7 @@
     }
   },
   {
-    "bandId": "union-h-s",
+    "bandId": "union-h-s-ok",
     "eventId": "1980-southwestern-regional-championship-at-commerce-tx",
     "season": 1980,
     "round": "Finals",
@@ -4517,7 +4517,7 @@
     }
   },
   {
-    "bandId": "macarthur-h-s",
+    "bandId": "macarthur-h-s-tx",
     "eventId": "1980-southwestern-regional-championship-at-commerce-tx",
     "season": 1980,
     "round": "Finals",
@@ -4542,7 +4542,7 @@
     }
   },
   {
-    "bandId": "roosevelt-h-s",
+    "bandId": "roosevelt-h-s-tx",
     "eventId": "1980-southwestern-regional-championship-at-commerce-tx",
     "season": 1980,
     "round": "Finals",
@@ -4567,7 +4567,7 @@
     }
   },
   {
-    "bandId": "northwest-h-s",
+    "bandId": "northwest-h-s-tx",
     "eventId": "1980-southwestern-regional-championship-at-commerce-tx",
     "season": 1980,
     "round": "Prelims",
@@ -4591,7 +4591,7 @@
     }
   },
   {
-    "bandId": "paris-h-s",
+    "bandId": "paris-h-s-tx",
     "eventId": "1980-southwestern-regional-championship-at-commerce-tx",
     "season": 1980,
     "round": "Prelims",
@@ -4616,7 +4616,7 @@
     }
   },
   {
-    "bandId": "denison-h-s",
+    "bandId": "denison-h-s-tx",
     "eventId": "1980-southwestern-regional-championship-at-commerce-tx",
     "season": 1980,
     "round": "Prelims",
@@ -4641,7 +4641,7 @@
     }
   },
   {
-    "bandId": "bishop-lynch-h-s",
+    "bandId": "bishop-lynch-h-s-tx",
     "eventId": "1980-southwestern-regional-championship-at-commerce-tx",
     "season": 1980,
     "round": "Prelims",
@@ -4666,7 +4666,7 @@
     }
   },
   {
-    "bandId": "north-garland-h-s",
+    "bandId": "north-garland-h-s-tx",
     "eventId": "1980-southwestern-regional-championship-at-commerce-tx",
     "season": 1980,
     "round": "Prelims",
@@ -4691,7 +4691,7 @@
     }
   },
   {
-    "bandId": "jersey-village-h-s",
+    "bandId": "jersey-village-h-s-tx",
     "eventId": "1980-southwestern-regional-championship-at-commerce-tx",
     "season": 1980,
     "round": "Prelims",
@@ -4716,7 +4716,7 @@
     }
   },
   {
-    "bandId": "frisco-h-s",
+    "bandId": "frisco-h-s-tx",
     "eventId": "1980-southwestern-regional-championship-at-commerce-tx",
     "season": 1980,
     "round": "Prelims",
@@ -4741,7 +4741,7 @@
     }
   },
   {
-    "bandId": "stephen-f-austin-h-s",
+    "bandId": "stephen-f-austin-h-s-tx",
     "eventId": "1980-southwestern-regional-championship-at-commerce-tx",
     "season": 1980,
     "round": "Prelims",
@@ -4766,7 +4766,7 @@
     }
   },
   {
-    "bandId": "mcleod-h-s",
+    "bandId": "mcleod-h-s-tx",
     "eventId": "1980-southwestern-regional-championship-at-commerce-tx",
     "season": 1980,
     "round": "Prelims",
@@ -4791,7 +4791,7 @@
     }
   },
   {
-    "bandId": "john-reagan-h-s",
+    "bandId": "john-reagan-h-s-tx",
     "eventId": "1980-southwestern-regional-championship-at-commerce-tx",
     "season": 1980,
     "round": "Prelims",
@@ -4816,7 +4816,7 @@
     }
   },
   {
-    "bandId": "allen-h-s",
+    "bandId": "allen-h-s-tx",
     "eventId": "1980-southwestern-regional-championship-at-commerce-tx",
     "season": 1980,
     "round": "Prelims",
@@ -4841,7 +4841,7 @@
     }
   },
   {
-    "bandId": "union-h-s",
+    "bandId": "union-h-s-ok",
     "eventId": "1980-southwestern-regional-championship-at-commerce-tx",
     "season": 1980,
     "round": "Prelims",
@@ -4866,7 +4866,7 @@
     }
   },
   {
-    "bandId": "macarthur-h-s",
+    "bandId": "macarthur-h-s-tx",
     "eventId": "1980-southwestern-regional-championship-at-commerce-tx",
     "season": 1980,
     "round": "Prelims",
@@ -4891,7 +4891,7 @@
     }
   },
   {
-    "bandId": "southwest-h-s",
+    "bandId": "southwest-h-s-tx",
     "eventId": "1980-southwestern-regional-championship-at-commerce-tx",
     "season": 1980,
     "round": "Prelims",
@@ -4916,7 +4916,7 @@
     }
   },
   {
-    "bandId": "south-san-antonio-h-s",
+    "bandId": "south-san-antonio-h-s-tx",
     "eventId": "1980-southwestern-regional-championship-at-commerce-tx",
     "season": 1980,
     "round": "Prelims",
@@ -4941,7 +4941,7 @@
     }
   },
   {
-    "bandId": "roosevelt-h-s",
+    "bandId": "roosevelt-h-s-tx",
     "eventId": "1980-southwestern-regional-championship-at-commerce-tx",
     "season": 1980,
     "round": "Prelims",
@@ -4966,7 +4966,7 @@
     }
   },
   {
-    "bandId": "tate-h-s",
+    "bandId": "tate-h-s-fl",
     "eventId": "1980-grand-national-championship-at-jacksonville-fl",
     "season": 1980,
     "round": "Prelims",
@@ -4991,7 +4991,7 @@
     }
   },
   {
-    "bandId": "henrico-h-s",
+    "bandId": "henrico-h-s-va",
     "eventId": "1980-grand-national-championship-at-jacksonville-fl",
     "season": 1980,
     "round": "Prelims",
@@ -5016,7 +5016,7 @@
     }
   },
   {
-    "bandId": "south-cobb-h-s",
+    "bandId": "south-cobb-h-s-ga",
     "eventId": "1980-grand-national-championship-at-jacksonville-fl",
     "season": 1980,
     "round": "Prelims",
@@ -5041,7 +5041,7 @@
     }
   },
   {
-    "bandId": "comeaux-h-s",
+    "bandId": "comeaux-h-s-la",
     "eventId": "1980-grand-national-championship-at-jacksonville-fl",
     "season": 1980,
     "round": "Prelims",
@@ -5066,7 +5066,7 @@
     }
   },
   {
-    "bandId": "mount-dora-h-s",
+    "bandId": "mount-dora-h-s-fl",
     "eventId": "1980-grand-national-championship-at-jacksonville-fl",
     "season": 1980,
     "round": "Prelims",
@@ -5091,7 +5091,7 @@
     }
   },
   {
-    "bandId": "southern-garrett-h-s",
+    "bandId": "southern-garrett-h-s-md",
     "eventId": "1980-grand-national-championship-at-jacksonville-fl",
     "season": 1980,
     "round": "Prelims",
@@ -5116,7 +5116,7 @@
     }
   },
   {
-    "bandId": "nathan-b-forrest-h-s",
+    "bandId": "nathan-b-forrest-h-s-fl",
     "eventId": "1980-grand-national-championship-at-jacksonville-fl",
     "season": 1980,
     "round": "Prelims",
@@ -5141,7 +5141,7 @@
     }
   },
   {
-    "bandId": "gainesville-h-s",
+    "bandId": "gainesville-h-s-fl",
     "eventId": "1980-grand-national-championship-at-jacksonville-fl",
     "season": 1980,
     "round": "Prelims",
@@ -5166,7 +5166,7 @@
     }
   },
   {
-    "bandId": "galena-park-h-s",
+    "bandId": "galena-park-h-s-tx",
     "eventId": "1980-grand-national-championship-at-jacksonville-fl",
     "season": 1980,
     "round": "Prelims",
@@ -5191,7 +5191,7 @@
     }
   },
   {
-    "bandId": "miami-southridge-h-s",
+    "bandId": "miami-southridge-h-s-fl",
     "eventId": "1980-grand-national-championship-at-jacksonville-fl",
     "season": 1980,
     "round": "Prelims",
@@ -5216,7 +5216,7 @@
     }
   },
   {
-    "bandId": "pinellas-park-h-s",
+    "bandId": "pinellas-park-h-s-fl",
     "eventId": "1980-grand-national-championship-at-jacksonville-fl",
     "season": 1980,
     "round": "Prelims",
@@ -5241,7 +5241,7 @@
     }
   },
   {
-    "bandId": "sprayberry-h-s",
+    "bandId": "sprayberry-h-s-ga",
     "eventId": "1980-grand-national-championship-at-jacksonville-fl",
     "season": 1980,
     "round": "Prelims",
@@ -5266,7 +5266,7 @@
     }
   },
   {
-    "bandId": "crystal-river-h-s",
+    "bandId": "crystal-river-h-s-fl",
     "eventId": "1980-grand-national-championship-at-jacksonville-fl",
     "season": 1980,
     "round": "Prelims",
@@ -5291,7 +5291,7 @@
     }
   },
   {
-    "bandId": "edgewood-h-s",
+    "bandId": "edgewood-h-s-oh",
     "eventId": "1980-grand-national-championship-at-jacksonville-fl",
     "season": 1980,
     "round": "Prelims",
@@ -5316,7 +5316,7 @@
     }
   },
   {
-    "bandId": "hanover-h-s",
+    "bandId": "hanover-h-s-pa",
     "eventId": "1980-grand-national-championship-at-jacksonville-fl",
     "season": 1980,
     "round": "Prelims",
@@ -5341,7 +5341,7 @@
     }
   },
   {
-    "bandId": "walt-whitman-h-s",
+    "bandId": "walt-whitman-h-s-md",
     "eventId": "1980-grand-national-championship-at-jacksonville-fl",
     "season": 1980,
     "round": "Prelims",
@@ -5366,7 +5366,7 @@
     }
   },
   {
-    "bandId": "flushing-h-s",
+    "bandId": "flushing-h-s-mi",
     "eventId": "1980-grand-national-championship-at-jacksonville-fl",
     "season": 1980,
     "round": "Prelims",
@@ -5391,7 +5391,7 @@
     }
   },
   {
-    "bandId": "tell-city-h-s",
+    "bandId": "tell-city-h-s-in",
     "eventId": "1980-grand-national-championship-at-jacksonville-fl",
     "season": 1980,
     "round": "Prelims",
@@ -5416,7 +5416,7 @@
     }
   },
   {
-    "bandId": "david-brearly-h-s",
+    "bandId": "david-brearly-h-s-nj",
     "eventId": "1980-grand-national-championship-at-jacksonville-fl",
     "season": 1980,
     "round": "Prelims",
@@ -5441,7 +5441,7 @@
     }
   },
   {
-    "bandId": "seminole-h-s",
+    "bandId": "seminole-h-s-fl",
     "eventId": "1980-grand-national-championship-at-jacksonville-fl",
     "season": 1980,
     "round": "Prelims",
@@ -5466,7 +5466,7 @@
     }
   },
   {
-    "bandId": "glynn-academy-h-s",
+    "bandId": "glynn-academy-h-s-ga",
     "eventId": "1980-grand-national-championship-at-jacksonville-fl",
     "season": 1980,
     "round": "Prelims",
@@ -5491,7 +5491,7 @@
     }
   },
   {
-    "bandId": "marshall-county-h-s",
+    "bandId": "marshall-county-h-s-ky",
     "eventId": "1980-grand-national-championship-at-jacksonville-fl",
     "season": 1980,
     "round": "Prelims",
@@ -5516,7 +5516,7 @@
     }
   },
   {
-    "bandId": "pinellas-park-h-s",
+    "bandId": "pinellas-park-h-s-fl",
     "eventId": "1980-grand-national-championship-at-jacksonville-fl",
     "season": 1980,
     "round": "Finals",
@@ -5541,7 +5541,7 @@
     }
   },
   {
-    "bandId": "south-cobb-h-s",
+    "bandId": "south-cobb-h-s-ga",
     "eventId": "1980-grand-national-championship-at-jacksonville-fl",
     "season": 1980,
     "round": "Finals",
@@ -5566,7 +5566,7 @@
     }
   },
   {
-    "bandId": "gainesville-h-s",
+    "bandId": "gainesville-h-s-fl",
     "eventId": "1980-grand-national-championship-at-jacksonville-fl",
     "season": 1980,
     "round": "Finals",
@@ -5591,7 +5591,7 @@
     }
   },
   {
-    "bandId": "flushing-h-s",
+    "bandId": "flushing-h-s-mi",
     "eventId": "1980-grand-national-championship-at-jacksonville-fl",
     "season": 1980,
     "round": "Finals",
@@ -5616,7 +5616,7 @@
     }
   },
   {
-    "bandId": "comeaux-h-s",
+    "bandId": "comeaux-h-s-la",
     "eventId": "1980-grand-national-championship-at-jacksonville-fl",
     "season": 1980,
     "round": "Finals",
@@ -5641,7 +5641,7 @@
     }
   },
   {
-    "bandId": "sprayberry-h-s",
+    "bandId": "sprayberry-h-s-ga",
     "eventId": "1980-grand-national-championship-at-jacksonville-fl",
     "season": 1980,
     "round": "Finals",
@@ -5666,7 +5666,7 @@
     }
   },
   {
-    "bandId": "hanover-h-s",
+    "bandId": "hanover-h-s-pa",
     "eventId": "1980-grand-national-championship-at-jacksonville-fl",
     "season": 1980,
     "round": "Finals",
@@ -5691,7 +5691,7 @@
     }
   },
   {
-    "bandId": "seminole-h-s",
+    "bandId": "seminole-h-s-fl",
     "eventId": "1980-grand-national-championship-at-jacksonville-fl",
     "season": 1980,
     "round": "Finals",
@@ -5716,7 +5716,7 @@
     }
   },
   {
-    "bandId": "miami-southridge-h-s",
+    "bandId": "miami-southridge-h-s-fl",
     "eventId": "1980-grand-national-championship-at-jacksonville-fl",
     "season": 1980,
     "round": "Finals",
@@ -5741,7 +5741,7 @@
     }
   },
   {
-    "bandId": "southern-garrett-h-s",
+    "bandId": "southern-garrett-h-s-md",
     "eventId": "1980-grand-national-championship-at-jacksonville-fl",
     "season": 1980,
     "round": "Finals",
@@ -5766,7 +5766,7 @@
     }
   },
   {
-    "bandId": "tate-h-s",
+    "bandId": "tate-h-s-fl",
     "eventId": "1980-grand-national-championship-at-jacksonville-fl",
     "season": 1980,
     "round": "Finals",
@@ -5791,7 +5791,7 @@
     }
   },
   {
-    "bandId": "tell-city-h-s",
+    "bandId": "tell-city-h-s-in",
     "eventId": "1980-grand-national-championship-at-jacksonville-fl",
     "season": 1980,
     "round": "Finals",
