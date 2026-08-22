@@ -7,7 +7,9 @@
     "venue": "Kelly Reeves Athletic Complex",
     "date": "2025-09-20",
     "city": "Austin",
-    "state": "TX"
+    "state": "TX",
+    "lat": 30.2711286,
+    "lng": -97.7436995
   },
   {
     "id": "2025-2025-bands-of-america-new-mexico-regional-championship-presented-by-yamaha",
@@ -17,7 +19,9 @@
     "venue": "Aggie Memorial Stadium, New Mexico State University",
     "date": "2025-09-20",
     "city": "Las Cruces",
-    "state": "NM"
+    "state": "NM",
+    "lat": 32.3140354,
+    "lng": -106.779807
   },
   {
     "id": "2025-2025-bands-of-america-northwest-ohio-regional-championship-presented-by",
@@ -27,7 +31,9 @@
     "venue": "Glass Bowl Stadium, The University of Toledo",
     "date": "2025-09-20",
     "city": "Toledo",
-    "state": "OH"
+    "state": "OH",
+    "lat": 41.6529143,
+    "lng": -83.5378173
   },
   {
     "id": "2025-2025-bands-of-america-south-texas-regional-championship-presented-by-yamaha",
@@ -37,7 +43,9 @@
     "venue": "Veterans Memorial Stadium, McAllen ISD",
     "date": "2025-09-20",
     "city": "McAllen",
-    "state": "TX"
+    "state": "TX",
+    "lat": 26.204114,
+    "lng": -98.2300605
   },
   {
     "id": "2025-2025-bands-of-america-central-ohio-regional-championship-presented-by-yamaha",
@@ -47,7 +55,9 @@
     "venue": "Historic Crew Stadium",
     "date": "2025-09-27",
     "city": "Tulsipur",
-    "state": null
+    "state": null,
+    "lat": null,
+    "lng": null
   },
   {
     "id": "2025-2025-bands-of-america-central-texas-regional-championship-presented-by-yamaha",
@@ -57,7 +67,9 @@
     "venue": "UFCU Stadium, Texas State University",
     "date": "2025-09-27",
     "city": "Round Rock",
-    "state": "TX"
+    "state": "TX",
+    "lat": 30.5085915,
+    "lng": -97.6788056
   },
   {
     "id": "2025-2025-bands-of-america-kentucky-regional-championship-presented-by-yamaha",
@@ -67,7 +79,9 @@
     "venue": "L&N Federal Credit Union Stadium, University of Louisville",
     "date": "2025-09-27",
     "city": "Louisville",
-    "state": "KY"
+    "state": "KY",
+    "lat": 38.2542376,
+    "lng": -85.759407
   },
   {
     "id": "2025-2025-bands-of-america-north-houston-regional-championship-presented-by-yamaha",
@@ -77,7 +91,9 @@
     "venue": "Woodforest Bank Stadium, Conroe ISD",
     "date": "2025-09-27",
     "city": "Conroe",
-    "state": "TX"
+    "state": "TX",
+    "lat": 30.3118769,
+    "lng": -95.4560512
   },
   {
     "id": "2025-arizona-regional-championship-at-flagstaff-az",
@@ -87,7 +103,9 @@
     "venue": "J. Lawrence Walkup Skydome, Northern Arizona University",
     "date": "2025-09-27",
     "city": "Flagstaff",
-    "state": "AZ"
+    "state": "AZ",
+    "lat": 35.1987522,
+    "lng": -111.651822
   },
   {
     "id": "2025-2025-bands-of-america-carolina-regional-championship-presented-by-yamaha",
@@ -97,7 +115,9 @@
     "venue": "Brooks Stadium, Coastal Carolina University",
     "date": "2025-10-04",
     "city": "Conway",
-    "state": "SC"
+    "state": "SC",
+    "lat": 33.8360035,
+    "lng": -79.0478143
   },
   {
     "id": "2025-2025-bands-of-america-chattanooga-regional-championship-presented-by-yamaha",
@@ -107,7 +127,9 @@
     "venue": "Finley Stadium",
     "date": "2025-10-04",
     "city": "Campbellsville",
-    "state": "KY"
+    "state": "KY",
+    "lat": 37.3433974,
+    "lng": -85.3419069
   },
   {
     "id": "2025-2025-bands-of-america-dallas-mid-cities-regional-championship-presented-by",
@@ -117,7 +139,9 @@
     "venue": "Pennington Field",
     "date": "2025-10-04",
     "city": "Bedford",
-    "state": "TX"
+    "state": "TX",
+    "lat": 32.844017,
+    "lng": -97.1430671
   },
   {
     "id": "2025-2025-bands-of-america-iowa-regional-championship-presented-by-yamaha",
@@ -127,7 +151,9 @@
     "venue": "Northwest High School Stadium",
     "date": "2025-10-04",
     "city": "Pasadena",
-    "state": "MD"
+    "state": "MD",
+    "lat": 39.155816,
+    "lng": -76.5528815
   },
   {
     "id": "2025-2025-bands-of-america-south-houston-regional-championship-presented-by-yamaha",
@@ -137,7 +163,9 @@
     "venue": "Alvin ISD Freedom Field",
     "date": "2025-10-04",
     "city": "Saint Stephen",
-    "state": "SC"
+    "state": "SC",
+    "lat": 33.4043339,
+    "lng": -79.9217432
   },
   {
     "id": "2025-2025-bands-of-america-memphis-regional-championship-presented-by-yamaha",
@@ -147,7 +175,9 @@
     "venue": "Simmons Bank Liberty Stadium",
     "date": "2025-10-11",
     "city": "Columbia",
-    "state": "MO"
+    "state": "MO",
+    "lat": 38.951883,
+    "lng": -92.3337366
   },
   {
     "id": "2025-2025-bands-of-america-north-texas-regional-championship-presented-by-yamaha",
@@ -157,7 +187,9 @@
     "venue": "Prosper ISD Children's Health Stadium",
     "date": "2025-10-11",
     "city": "Prosper",
-    "state": "TX"
+    "state": "TX",
+    "lat": 33.2371585,
+    "lng": -96.7977048
   },
   {
     "id": "2025-2025-bands-of-america-west-texas-regional-championship-presented-by-yamaha",
@@ -167,7 +199,9 @@
     "venue": "Astound Broadband Stadium",
     "date": "2025-10-11",
     "city": "Tulsipur",
-    "state": null
+    "state": null,
+    "lat": null,
+    "lng": null
   },
   {
     "id": "2025-2025-bands-of-america-st-louis-super-regional-presented-by-yamaha",
@@ -177,7 +211,9 @@
     "venue": "The Dome at America's Center",
     "date": "2025-10-17",
     "city": "St. Louis",
-    "state": "MO"
+    "state": "MO",
+    "lat": 38.6254063,
+    "lng": -90.190009
   },
   {
     "id": "2025-2025-bands-of-america-ballad-health-east-tennessee-regional-championship",
@@ -187,7 +223,9 @@
     "venue": "Ballad Health Athletic Center",
     "date": "2025-10-18",
     "city": "Flower Mound",
-    "state": "TX"
+    "state": "TX",
+    "lat": 33.0283854,
+    "lng": -97.0867203
   },
   {
     "id": "2025-2025-bands-of-america-orlando-regional-championship-presented-by-yamaha",
@@ -197,7 +235,9 @@
     "venue": "Camping World Stadium",
     "date": "2025-10-18",
     "city": "Orlando",
-    "state": "FL"
+    "state": "FL",
+    "lat": 28.5421218,
+    "lng": -81.379045
   },
   {
     "id": "2025-2025-bands-of-america-waco-regional-championship-presented-by-yamaha",
@@ -207,7 +247,9 @@
     "venue": "McLane Stadium, Baylor University",
     "date": "2025-10-18",
     "city": "Waco",
-    "state": "TX"
+    "state": "TX",
+    "lat": 31.5491899,
+    "lng": -97.1474628
   },
   {
     "id": "2025-2025-bands-of-america-indianapolis-super-regional-championship-presented-by",
@@ -217,7 +259,9 @@
     "venue": "Lucas Oil Stadium",
     "date": "2025-10-24",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   },
   {
     "id": "2025-2025-bands-of-america-mid-atlantic-regional-championship-presented-by-yamaha",
@@ -227,7 +271,9 @@
     "venue": "Delaware Stadium, University of Delaware",
     "date": "2025-10-25",
     "city": "Newark",
-    "state": "DE"
+    "state": "DE",
+    "lat": 39.6828358,
+    "lng": -75.7515682
   },
   {
     "id": "2025-2025-bands-of-america-california-regional-championship-presented-by-yamaha",
@@ -237,7 +283,9 @@
     "venue": "Eagle Stadium, Etiwanda High School",
     "date": "2025-11-01",
     "city": "Rancho Cucamonga",
-    "state": "CA"
+    "state": "CA",
+    "lat": 34.1033192,
+    "lng": -117.575173
   },
   {
     "id": "2025-2025-bands-of-america-idaho-regional-championship-presented-by-yamaha",
@@ -247,7 +295,9 @@
     "venue": "P1FCU Kibbie Dome, University of Idaho",
     "date": "2025-11-01",
     "city": "Moscow",
-    "state": "ID"
+    "state": "ID",
+    "lat": 46.7323875,
+    "lng": -117.000165
   },
   {
     "id": "2025-2025-bands-of-america-southeastern-regional-championship-presented-by-yamaha",
@@ -257,7 +307,9 @@
     "venue": "Doug Cochran Stadium, Cass High School",
     "date": "2025-11-01",
     "city": "Midland",
-    "state": "TX"
+    "state": "TX",
+    "lat": 31.83688,
+    "lng": -102.0103767
   },
   {
     "id": "2025-2025-bands-of-america-san-antonio-super-regional-championship-presented-by",
@@ -267,7 +319,9 @@
     "venue": "Alamodome",
     "date": "2025-11-07",
     "city": "San Antonio",
-    "state": "TX"
+    "state": "TX",
+    "lat": 29.4246002,
+    "lng": -98.4951405
   },
   {
     "id": "2025-2025-bands-of-america-utah-regional-championship-presented-by-yamaha",
@@ -277,7 +331,9 @@
     "venue": "Greater Zion Stadium, Utah Tech University",
     "date": "2025-11-08",
     "city": "Provo",
-    "state": "UT"
+    "state": "UT",
+    "lat": 40.2337289,
+    "lng": -111.6587085
   },
   {
     "id": "2025-2025-bands-of-america-grand-national-championships-presented-by-yamaha",
@@ -287,6 +343,8 @@
     "venue": "Lucas Oil Stadium",
     "date": "2025-11-13",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   }
 ]

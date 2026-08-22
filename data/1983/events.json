@@ -7,7 +7,9 @@
     "venue": "Warhawk Stadium",
     "date": "1983-06-17",
     "city": "Whitewater",
-    "state": "WI"
+    "state": "WI",
+    "lat": 42.8339562,
+    "lng": -88.7306517
   },
   {
     "id": "1983-northeastern-regional-championship-at-pittsburgh-pa",
@@ -17,7 +19,9 @@
     "venue": "Penn Hills High School",
     "date": "1983-10-08",
     "city": "Pittsburgh",
-    "state": "PA"
+    "state": "PA",
+    "lat": 40.4406968,
+    "lng": -80.0025666
   },
   {
     "id": "1983-midwest-regional-championship-at-indianapolis-in",
@@ -27,7 +31,9 @@
     "venue": "Lawrence Central High School",
     "date": "1983-10-22",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   },
   {
     "id": "1983-southwestern-regional-championship-at-houston-tx",
@@ -37,7 +43,9 @@
     "venue": "Rice University",
     "date": "1983-10-29",
     "city": "Houston",
-    "state": "TX"
+    "state": "TX",
+    "lat": 29.7589382,
+    "lng": -95.3676974
   },
   {
     "id": "1983-grand-national-championship-at-johnson-city-tn",
@@ -47,6 +55,8 @@
     "venue": "East Tennessee State University",
     "date": "1983-11-04",
     "city": "Johnson City",
-    "state": "TN"
+    "state": "TN",
+    "lat": 36.3167671,
+    "lng": -82.352903
   }
 ]

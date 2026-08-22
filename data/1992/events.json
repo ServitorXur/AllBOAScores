@@ -7,7 +7,9 @@
     "venue": "Indianapolis Hoosier Dome",
     "date": "1992-09-26",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   },
   {
     "id": "1992-regional-championship-at-toledo-oh",
@@ -17,7 +19,9 @@
     "venue": "University of Toledo Glass Bowl",
     "date": "1992-10-03",
     "city": "Toledo",
-    "state": "OH"
+    "state": "OH",
+    "lat": 41.6529143,
+    "lng": -83.5378173
   },
   {
     "id": "1992-regional-championship-at-morgantown-wv",
@@ -27,7 +31,9 @@
     "venue": "University of West Virginia",
     "date": "1992-10-10",
     "city": "Morgantown",
-    "state": "WV"
+    "state": "WV",
+    "lat": 39.6296809,
+    "lng": -79.9559437
   },
   {
     "id": "1992-regional-championship-at-houston-tx",
@@ -37,7 +43,9 @@
     "venue": "Rice University Stadium",
     "date": "1992-10-17",
     "city": "Houston",
-    "state": "TX"
+    "state": "TX",
+    "lat": 29.7589382,
+    "lng": -95.3676974
   },
   {
     "id": "1992-regional-championship-at-johnson-city-tn",
@@ -47,7 +55,9 @@
     "venue": "East Tennessee State University",
     "date": "1992-10-17",
     "city": "Johnson City",
-    "state": "TN"
+    "state": "TN",
+    "lat": 36.3167671,
+    "lng": -82.352903
   },
   {
     "id": "1992-regional-championship-at-denton-tx",
@@ -57,7 +67,9 @@
     "venue": "University of North Texas",
     "date": "1992-10-24",
     "city": "Denton",
-    "state": "TX"
+    "state": "TX",
+    "lat": 33.1838787,
+    "lng": -97.1413417
   },
   {
     "id": "1992-regional-championship-at-hattiesburg-ms",
@@ -67,7 +79,9 @@
     "venue": "University of Southern Mississippi",
     "date": "1992-10-31",
     "city": "Hattiesburg",
-    "state": "MS"
+    "state": "MS",
+    "lat": 31.3271189,
+    "lng": -89.2903392
   },
   {
     "id": "1992-grand-national-championship-at-indianapolis-in",
@@ -77,6 +91,8 @@
     "venue": "Indianapolis Hoosier Dome",
     "date": "1992-11-06",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   }
 ]

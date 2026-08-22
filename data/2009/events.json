@@ -7,7 +7,9 @@
     "venue": "Papa John's Cardinal Stadium",
     "date": "2009-09-26",
     "city": "Louisville",
-    "state": "KY"
+    "state": "KY",
+    "lat": 38.2542376,
+    "lng": -85.759407
   },
   {
     "id": "2009-regional-championship-at-centerville-ohio",
@@ -17,7 +19,9 @@
     "venue": "Centerville Stadium",
     "date": "2009-10-03",
     "city": "Oak Hill",
-    "state": "OH"
+    "state": "OH",
+    "lat": 38.8939646,
+    "lng": -82.573495
   },
   {
     "id": "2009-regional-championship-at-pearland-tx",
@@ -27,7 +31,9 @@
     "venue": "The Rig",
     "date": "2009-10-03",
     "city": "Pearland",
-    "state": "TX"
+    "state": "TX",
+    "lat": 29.5639758,
+    "lng": -95.2864299
   },
   {
     "id": "2009-regional-championship-at-arlington-tx",
@@ -37,7 +43,9 @@
     "venue": "Maverick Stadium - Oct. 10",
     "date": "2009-10-10",
     "city": "Arlington",
-    "state": "TX"
+    "state": "TX",
+    "lat": 32.7355816,
+    "lng": -97.1071186
   },
   {
     "id": "2009-regional-championship-at-towson-md",
@@ -47,7 +55,9 @@
     "venue": "Johnny Unitas Stadium",
     "date": "2009-10-10",
     "city": "Towson",
-    "state": "MD"
+    "state": "MD",
+    "lat": 39.3964591,
+    "lng": -76.6148148
   },
   {
     "id": "2009-regional-championship-at-ypsilanti-michigan",
@@ -57,7 +67,9 @@
     "venue": "Rynearson Stadium",
     "date": "2009-10-10",
     "city": "Ypsilanti",
-    "state": "MI"
+    "state": "MI",
+    "lat": 42.241051,
+    "lng": -83.6117646
   },
   {
     "id": "2009-super-regional-championship-at-edward-jones-dome-st-louis",
@@ -67,7 +79,9 @@
     "venue": "MO",
     "date": "2009-10-16",
     "city": "Saint Louis",
-    "state": "MO"
+    "state": "MO",
+    "lat": 38.6254063,
+    "lng": -90.190009
   },
   {
     "id": "2009-super-regional-championship-at-st-louis-mo",
@@ -77,7 +91,9 @@
     "venue": "Edward Jones Dome",
     "date": "2009-10-16",
     "city": "Saint Louis",
-    "state": "MO"
+    "state": "MO",
+    "lat": 38.6254063,
+    "lng": -90.190009
   },
   {
     "id": "2009-regional-championship-at-massillon-ohio",
@@ -87,7 +103,9 @@
     "venue": "Paul Brown Tiger Stadium",
     "date": "2009-10-17",
     "city": "Massillon",
-    "state": "OH"
+    "state": "OH",
+    "lat": 40.7965119,
+    "lng": -81.5231597
   },
   {
     "id": "2009-super-regional-championship-at-san-antonio-texas",
@@ -97,7 +115,9 @@
     "venue": "Alamodome",
     "date": "2009-10-23",
     "city": "San Antonio",
-    "state": "TX"
+    "state": "TX",
+    "lat": 29.4246002,
+    "lng": -98.4951405
   },
   {
     "id": "2009-regional-championship-at-west-chester-pa",
@@ -107,7 +127,9 @@
     "venue": "Farrell Stadium - West Chester Univ.",
     "date": "2009-10-24",
     "city": "West Chester",
-    "state": "PA"
+    "state": "PA",
+    "lat": 39.9597389,
+    "lng": -75.6044609
   },
   {
     "id": "2009-super-regional-championship-at-atlanta-georgia",
@@ -117,7 +139,9 @@
     "venue": "Georgia Dome",
     "date": "2009-10-30",
     "city": "Atlanta",
-    "state": "GA"
+    "state": "GA",
+    "lat": 33.7544657,
+    "lng": -84.3898151
   },
   {
     "id": "2009-regional-championship-at-santa-clarita-ca",
@@ -127,7 +151,9 @@
     "venue": "College of the Canyons - 31",
     "date": "2009-10-31",
     "city": "Valencia",
-    "state": "CA"
+    "state": "CA",
+    "lat": 34.4131941,
+    "lng": -118.559849
   },
   {
     "id": "2009-regional-championship-at-indianapolis-in",
@@ -137,7 +163,9 @@
     "venue": "Lucas Oil Stadium",
     "date": "2009-11-07",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   },
   {
     "id": "2009-regional-championship-at-st-george-ut",
@@ -147,7 +175,9 @@
     "venue": "Dixie State College - 7 November",
     "date": "2009-11-07",
     "city": "St. George",
-    "state": "UT"
+    "state": "UT",
+    "lat": 37.1098772,
+    "lng": -113.5832063
   },
   {
     "id": "2009-grand-national-championships-at-indianapolis-indiana",
@@ -157,6 +187,8 @@
     "venue": "Lucas Oil Stadium",
     "date": "2009-11-12",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   }
 ]

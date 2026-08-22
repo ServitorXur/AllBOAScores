@@ -7,7 +7,9 @@
     "venue": "Indianapolis Hoosier Dome",
     "date": "1993-09-25",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   },
   {
     "id": "1993-regional-championship-at-toledo-oh",
@@ -17,7 +19,9 @@
     "venue": "University of Toledo",
     "date": "1993-10-02",
     "city": "Toledo",
-    "state": "OH"
+    "state": "OH",
+    "lat": 41.6529143,
+    "lng": -83.5378173
   },
   {
     "id": "1993-regional-championship-at-atlanta-ga",
@@ -27,7 +31,9 @@
     "venue": "Georgia Dome",
     "date": "1993-10-09",
     "city": "Atlanta",
-    "state": "GA"
+    "state": "GA",
+    "lat": 33.7544657,
+    "lng": -84.3898151
   },
   {
     "id": "1993-regional-championship-at-morgantown-wv",
@@ -37,7 +43,9 @@
     "venue": "West Virginia University",
     "date": "1993-10-16",
     "city": "Morgantown",
-    "state": "WV"
+    "state": "WV",
+    "lat": 39.6296809,
+    "lng": -79.9559437
   },
   {
     "id": "1993-regional-championship-at-fullerton-ca",
@@ -47,7 +55,9 @@
     "venue": "California State University-Fullerton",
     "date": "1993-10-30",
     "city": "Fullerton",
-    "state": "CA"
+    "state": "CA",
+    "lat": 33.8708215,
+    "lng": -117.929416
   },
   {
     "id": "1993-regional-championship-at-houston-tx",
@@ -57,7 +67,9 @@
     "venue": "Rice University",
     "date": "1993-11-06",
     "city": "Houston",
-    "state": "TX"
+    "state": "TX",
+    "lat": 29.7589382,
+    "lng": -95.3676974
   },
   {
     "id": "1993-grand-national-championship-at-indianapolis-in",
@@ -67,6 +79,8 @@
     "venue": "Indianapolis Hoosier Dome",
     "date": "1993-11-12",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   }
 ]

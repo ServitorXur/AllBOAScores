@@ -7,7 +7,9 @@
     "venue": "Tom Benson Hall of Fame Stadium",
     "date": "2017-09-16",
     "city": "Canton",
-    "state": "OH"
+    "state": "OH",
+    "lat": 40.7985464,
+    "lng": -81.3749508
   },
   {
     "id": "2017-powder-springs-regional-championship-at-powder-springs-ga",
@@ -17,7 +19,9 @@
     "venue": "McEachern H.S.",
     "date": "2017-09-16",
     "city": "Powder Springs",
-    "state": "GA"
+    "state": "GA",
+    "lat": 33.8595492,
+    "lng": -84.683824
   },
   {
     "id": "2017-austin-regional-championship-at-austin-tx",
@@ -27,7 +31,9 @@
     "venue": "Kelly Reeves Athletic Complex",
     "date": "2017-09-23",
     "city": "Austin",
-    "state": "TX"
+    "state": "TX",
+    "lat": 30.2711286,
+    "lng": -97.7436995
   },
   {
     "id": "2017-clarksville-regional-championship-at-clarksville-tn",
@@ -37,7 +43,9 @@
     "venue": "Austin Peay State University",
     "date": "2017-09-23",
     "city": "Clarksville",
-    "state": "TN"
+    "state": "TN",
+    "lat": 36.5277607,
+    "lng": -87.3588703
   },
   {
     "id": "2017-toledo-regional-championship-at-toledo-oh",
@@ -47,7 +55,9 @@
     "venue": "University of Toledo",
     "date": "2017-09-23",
     "city": "Toledo",
-    "state": "OH"
+    "state": "OH",
+    "lat": 41.6529143,
+    "lng": -83.5378173
   },
   {
     "id": "2017-dallas-ft-worth-regional-championship-at-dallas-ft-worth-tx",
@@ -57,7 +67,9 @@
     "venue": "Dragon Stadium -‐ September 30",
     "date": "2017-09-30",
     "city": "Dallas",
-    "state": "NC"
+    "state": "NC",
+    "lat": 35.3160119,
+    "lng": -81.1765654
   },
   {
     "id": "2017-mcallen-regional-championship-at-mcallen-tx",
@@ -67,7 +79,9 @@
     "venue": "Veterans Memorial Stadium -‐ September 30",
     "date": "2017-09-30",
     "city": "McAllen",
-    "state": "TX"
+    "state": "TX",
+    "lat": 26.204114,
+    "lng": -98.2300605
   },
   {
     "id": "2017-conroe-regional-championship-at-conroe-tx",
@@ -77,7 +91,9 @@
     "venue": "Woodforest Bank Stadium",
     "date": "2017-10-07",
     "city": "Conroe",
-    "state": "TX"
+    "state": "TX",
+    "lat": 30.3118769,
+    "lng": -95.4560512
   },
   {
     "id": "2017-dayton-regional-championship-at-dayton-oh",
@@ -87,7 +103,9 @@
     "venue": "Welcome Stadium",
     "date": "2017-10-07",
     "city": "Dayton",
-    "state": "OH"
+    "state": "OH",
+    "lat": 39.7589478,
+    "lng": -84.1916069
   },
   {
     "id": "2017-jacksonville-regional-championship-at-jacksonville-al",
@@ -97,7 +115,9 @@
     "venue": "Jacksonville State University",
     "date": "2017-10-07",
     "city": "Jacksonville",
-    "state": "AL"
+    "state": "AL",
+    "lat": 33.8137919,
+    "lng": -85.7612872
   },
   {
     "id": "2017-newark-regional-championship-at-newark-de",
@@ -107,7 +127,9 @@
     "venue": "University of Delaware",
     "date": "2017-10-07",
     "city": "Newark",
-    "state": "DE"
+    "state": "DE",
+    "lat": 39.6828358,
+    "lng": -75.7515682
   },
   {
     "id": "2017-midland-regional-championship-at-midland-tx",
@@ -117,7 +139,9 @@
     "venue": "Grande Communications Stadium",
     "date": "2017-10-14",
     "city": "Midland",
-    "state": "TX"
+    "state": "TX",
+    "lat": 31.83688,
+    "lng": -102.0103767
   },
   {
     "id": "2017-winston-salem-regional-championship-at-winston-salem-nc",
@@ -127,7 +151,9 @@
     "venue": "BB&T Stadium -‐ October 14",
     "date": "2017-10-14",
     "city": "Salem",
-    "state": "TN"
+    "state": "TN",
+    "lat": 35.8092325,
+    "lng": -86.4772144
   },
   {
     "id": "2017-st-louis-super-regional-championship-at-st-louis-mo",
@@ -137,7 +163,9 @@
     "venue": "The Dome at America's Center -‐ October 20-‐21",
     "date": "2017-10-20",
     "city": "St. Louis",
-    "state": "MO"
+    "state": "MO",
+    "lat": 38.6254063,
+    "lng": -90.190009
   },
   {
     "id": "2017-indianapolis-super-regional-championship-at-indianapolis-in",
@@ -147,7 +175,9 @@
     "venue": "Lucas Oil Stadium -‐ October 21-‐22",
     "date": "2017-10-21",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   },
   {
     "id": "2017-atlanta-super-regional-championship-at-atlanta-ga",
@@ -157,7 +187,9 @@
     "venue": "Mercedes-Benz Stadium",
     "date": "2017-10-28",
     "city": "Atlanta",
-    "state": "GA"
+    "state": "GA",
+    "lat": 33.7544657,
+    "lng": -84.3898151
   },
   {
     "id": "2017-downey-regional-championship-at-downey-ca",
@@ -167,7 +199,9 @@
     "venue": "Warren H.S.",
     "date": "2017-10-28",
     "city": "Norlina",
-    "state": "NC"
+    "state": "NC",
+    "lat": 36.4456097,
+    "lng": -78.1982132
   },
   {
     "id": "2017-san-jose-regional-championship-at-san-jose-ca",
@@ -177,7 +211,9 @@
     "venue": "CEFCU Stadium -‐ October 28",
     "date": "2017-10-28",
     "city": "San Jose",
-    "state": "CA"
+    "state": "CA",
+    "lat": 37.3361663,
+    "lng": -121.890591
   },
   {
     "id": "2017-san-antonio-super-regional-championship-at-san-antonio-tx",
@@ -187,7 +223,9 @@
     "venue": "Alamodome",
     "date": "2017-11-03",
     "city": "San Antonio",
-    "state": "TX"
+    "state": "TX",
+    "lat": 29.4246002,
+    "lng": -98.4951405
   },
   {
     "id": "2017-st-george-regional-championship-at-st-george-ut",
@@ -197,7 +235,9 @@
     "venue": null,
     "date": "2017-11-04",
     "city": null,
-    "state": null
+    "state": null,
+    "lat": null,
+    "lng": null
   },
   {
     "id": "2017-grand-national-championships-indianapolis-in",
@@ -207,7 +247,9 @@
     "venue": "Lucas Oil Stadium",
     "date": "2017-11-09",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   },
   {
     "id": "2017-grand-national-championships-indiananapolis-in",
@@ -217,6 +259,8 @@
     "venue": "Lucas Oil Stadium",
     "date": "2017-11-11",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   }
 ]

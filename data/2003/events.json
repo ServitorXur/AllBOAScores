@@ -7,7 +7,9 @@
     "venue": "Kentucky Fair & Expo Center",
     "date": "2003-09-20",
     "city": "Louisville",
-    "state": "KY"
+    "state": "KY",
+    "lat": 38.2542376,
+    "lng": -85.759407
   },
   {
     "id": "2003-regional-championship-at-pontiac-mi",
@@ -17,7 +19,9 @@
     "venue": "Silverdome",
     "date": "2003-09-27",
     "city": "City of Pontiac",
-    "state": "MI"
+    "state": "MI",
+    "lat": 42.6364796,
+    "lng": -83.2874969
   },
   {
     "id": "2003-regional-championship-at-johnson-city-tn",
@@ -27,7 +31,9 @@
     "venue": "East Tennessee State University - 10.4",
     "date": "2003-10-04",
     "city": "Johnson City",
-    "state": "TN"
+    "state": "TN",
+    "lat": 36.3167671,
+    "lng": -82.352903
   },
   {
     "id": "2003-regional-championship-at-massillon-oh",
@@ -37,7 +43,9 @@
     "venue": "Paul Brown Tiger",
     "date": "2003-10-04",
     "city": "Massillon",
-    "state": "OH"
+    "state": "OH",
+    "lat": 40.7965119,
+    "lng": -81.5231597
   },
   {
     "id": "2003-regional-championship-at-houston-tx",
@@ -47,7 +55,9 @@
     "venue": "Rice University",
     "date": "2003-10-11",
     "city": "Houston",
-    "state": "TX"
+    "state": "TX",
+    "lat": 29.7589382,
+    "lng": -95.3676974
   },
   {
     "id": "2003-regional-championship-at-st-louis-mo",
@@ -57,7 +67,9 @@
     "venue": "Edward Jones Dome",
     "date": "2003-10-11",
     "city": "Saint Louis",
-    "state": "MO"
+    "state": "MO",
+    "lat": 38.6254063,
+    "lng": -90.190009
   },
   {
     "id": "2003-regional-championship-at-arlington-tx",
@@ -67,7 +79,9 @@
     "venue": "University of Texas at Arlington",
     "date": "2003-10-18",
     "city": "Arlington",
-    "state": "TX"
+    "state": "TX",
+    "lat": 32.7355816,
+    "lng": -97.1071186
   },
   {
     "id": "2003-regional-championship-at-youngstown-oh",
@@ -77,7 +91,9 @@
     "venue": "Stambaugh",
     "date": "2003-10-18",
     "city": "Youngstown",
-    "state": "OH"
+    "state": "OH",
+    "lat": 41.1035786,
+    "lng": -80.6520161
   },
   {
     "id": "2003-regional-championship-at-atlanta-ga",
@@ -87,7 +103,9 @@
     "venue": "Georgia Dome",
     "date": "2003-10-25",
     "city": "Atlanta",
-    "state": "GA"
+    "state": "GA",
+    "lat": 33.7544657,
+    "lng": -84.3898151
   },
   {
     "id": "2003-regional-championship-at-bridgeport-ct",
@@ -97,7 +115,9 @@
     "venue": "John F. Kennedy Stadium",
     "date": "2003-10-25",
     "city": "Bridgeport",
-    "state": "CT"
+    "state": "CT",
+    "lat": 41.1792695,
+    "lng": -73.1887863
   },
   {
     "id": "2003-regional-championship-at-phoenix-az",
@@ -107,7 +127,9 @@
     "venue": "Bank One Ballpark",
     "date": "2003-11-01",
     "city": "Phoenix",
-    "state": "AZ"
+    "state": "AZ",
+    "lat": 33.4484367,
+    "lng": -112.074141
   },
   {
     "id": "2003-regional-championship-at-san-antonio-tx",
@@ -117,7 +139,9 @@
     "venue": "Alamodome",
     "date": "2003-11-01",
     "city": "San Antonio",
-    "state": "TX"
+    "state": "TX",
+    "lat": 29.4246002,
+    "lng": -98.4951405
   },
   {
     "id": "2003-regional-championship-at-indianapolis-in",
@@ -127,7 +151,9 @@
     "venue": "RCA Dome",
     "date": "2003-11-08",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   },
   {
     "id": "2003-grand-national-championships-at-indianapolis-in",
@@ -137,7 +163,9 @@
     "venue": "RCA Dome",
     "date": "2003-11-13",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   },
   {
     "id": "2003-2003-finals",
@@ -147,6 +175,8 @@
     "venue": "RCA Dome",
     "date": "2003-11-15",
     "city": "RCA Dome",
-    "state": "IN"
+    "state": "IN",
+    "lat": null,
+    "lng": null
   }
 ]

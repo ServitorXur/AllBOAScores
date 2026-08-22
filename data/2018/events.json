@@ -7,7 +7,9 @@
     "venue": "DQ Fan Field at McAllen Memorial Stadium",
     "date": "2018-09-22",
     "city": "McAllen",
-    "state": "TX"
+    "state": "TX",
+    "lat": 26.204114,
+    "lng": -98.2300605
   },
   {
     "id": "2018-midland-regional-championship-at-midland-tx",
@@ -17,7 +19,9 @@
     "venue": "Grande Communications Stadium",
     "date": "2018-09-22",
     "city": "Midland",
-    "state": "TX"
+    "state": "TX",
+    "lat": 31.83688,
+    "lng": -102.0103767
   },
   {
     "id": "2018-oxford-regional-championship-at-oxford-oh",
@@ -27,7 +31,9 @@
     "venue": "Miami University -‐ September 22",
     "date": "2018-09-22",
     "city": "Oxford",
-    "state": "OH"
+    "state": "OH",
+    "lat": 39.5103048,
+    "lng": -84.7420519
   },
   {
     "id": "2018-austin-regional-championship-at-austin-tx",
@@ -37,7 +43,9 @@
     "venue": "Kelly Reeves Athletic Complex",
     "date": "2018-09-29",
     "city": "Austin",
-    "state": "TX"
+    "state": "TX",
+    "lat": 30.2711286,
+    "lng": -97.7436995
   },
   {
     "id": "2018-bowling-green-regional-championship-at-bowling-green-oh",
@@ -47,7 +55,9 @@
     "venue": "Bowling Green State University",
     "date": "2018-09-29",
     "city": "Bowling Green",
-    "state": "OH"
+    "state": "OH",
+    "lat": 41.3747744,
+    "lng": -83.6513229
   },
   {
     "id": "2018-clarksville-regional-championship-at-clarksville-tn",
@@ -57,7 +67,9 @@
     "venue": "Austin Peay State University",
     "date": "2018-09-29",
     "city": "Clarksville",
-    "state": "TN"
+    "state": "TN",
+    "lat": 36.5277607,
+    "lng": -87.3588703
   },
   {
     "id": "2018-bedford-regional-championship-at-bedford-tx",
@@ -67,7 +79,9 @@
     "venue": "Pennington Field",
     "date": "2018-10-06",
     "city": "Bedford",
-    "state": "TX"
+    "state": "TX",
+    "lat": 32.844017,
+    "lng": -97.1430671
   },
   {
     "id": "2018-houston-regional-championship-at-houston-tx",
@@ -77,7 +91,9 @@
     "venue": "Woodforest Bank Stadium",
     "date": "2018-10-06",
     "city": "Houston",
-    "state": "TX"
+    "state": "TX",
+    "lat": 29.7589382,
+    "lng": -95.3676974
   },
   {
     "id": "2018-jacksonville-regional-championship-at-jacksonville-al",
@@ -87,7 +103,9 @@
     "venue": "Jacksonville State University -‐ October 6",
     "date": "2018-10-06",
     "city": "Jacksonville",
-    "state": "AL"
+    "state": "AL",
+    "lat": 33.8137919,
+    "lng": -85.7612872
   },
   {
     "id": "2018-canton-regional-championship-at-canton-oh",
@@ -97,7 +115,9 @@
     "venue": "Tom Benson Hall of Fame Stadium",
     "date": "2018-10-13",
     "city": "Canton",
-    "state": "OH"
+    "state": "OH",
+    "lat": 40.7985464,
+    "lng": -81.3749508
   },
   {
     "id": "2018-gaffney-regional-championship-at-gaffney-sc",
@@ -107,7 +127,9 @@
     "venue": "Gaffney High School",
     "date": "2018-10-13",
     "city": "Gaffney",
-    "state": "SC"
+    "state": "SC",
+    "lat": 35.0717945,
+    "lng": -81.6498195
   },
   {
     "id": "2018-orlando-regional-championship-at-orlando-fl",
@@ -117,7 +139,9 @@
     "venue": "Camping World Stadium -‐ October 13",
     "date": "2018-10-13",
     "city": "Orlando",
-    "state": "FL"
+    "state": "FL",
+    "lat": 28.5421218,
+    "lng": -81.379045
   },
   {
     "id": "2018-indianapolis-super-regional-championship-at-indianapolis-in",
@@ -127,7 +151,9 @@
     "venue": "Lucas Oil Stadium",
     "date": "2018-10-19",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   },
   {
     "id": "2018-newark-regional-championship-at-newark-de",
@@ -137,7 +163,9 @@
     "venue": "Delaware Stadium",
     "date": "2018-10-20",
     "city": "Newark",
-    "state": "DE"
+    "state": "DE",
+    "lat": 39.6828358,
+    "lng": -75.7515682
   },
   {
     "id": "2018-pleasant-hill-regional-championship-at-pleasant-hill-ca",
@@ -147,7 +175,9 @@
     "venue": "Diablo Valley College",
     "date": "2018-10-20",
     "city": "Pleasant Hill",
-    "state": "CA"
+    "state": "CA",
+    "lat": 37.9479786,
+    "lng": -122.0607963
   },
   {
     "id": "2018-st-louis-super-regional-championship-at-st-louis-mo",
@@ -157,7 +187,9 @@
     "venue": "Dome at America's Center",
     "date": "2018-10-26",
     "city": "St. Louis",
-    "state": "MO"
+    "state": "MO",
+    "lat": 38.6254063,
+    "lng": -90.190009
   },
   {
     "id": "2018-powder-springs-regional-championship-at-powder-springs-ga",
@@ -167,7 +199,9 @@
     "venue": "McEachern H.S.",
     "date": "2018-10-27",
     "city": "Powder Springs",
-    "state": "GA"
+    "state": "GA",
+    "lat": 33.8595492,
+    "lng": -84.683824
   },
   {
     "id": "2018-st-george-regional-championship-at-st-george-ut",
@@ -177,7 +211,9 @@
     "venue": "Dixie State University",
     "date": "2018-10-27",
     "city": "Saint George",
-    "state": "UT"
+    "state": "UT",
+    "lat": 37.1097636,
+    "lng": -113.553483
   },
   {
     "id": "2018-san-antonio-super-regional-championship-at-san-antonio-tx",
@@ -187,7 +223,9 @@
     "venue": "Alamodome",
     "date": "2018-11-02",
     "city": "San Antonio",
-    "state": "TX"
+    "state": "TX",
+    "lat": 29.4246002,
+    "lng": -98.4951405
   },
   {
     "id": "2018-valley-glen-regional-championship-at-valley-glen-ca",
@@ -197,7 +235,9 @@
     "venue": "Monarch Stadium",
     "date": "2018-11-03",
     "city": "Exeter",
-    "state": "CA"
+    "state": "CA",
+    "lat": 36.2961694,
+    "lng": -119.1420953
   },
   {
     "id": "2018-grand-national-championships-at-indianapolis-in",
@@ -207,6 +247,8 @@
     "venue": "Lucas Oil Stadium",
     "date": "2018-11-08",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   }
 ]

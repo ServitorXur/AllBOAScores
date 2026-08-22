@@ -7,7 +7,9 @@
     "venue": "Indiana University Memorial Stadium",
     "date": "1990-10-06",
     "city": "Bloomington",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.1670396,
+    "lng": -86.5342881
   },
   {
     "id": "1990-regional-championship-at-houston-tx",
@@ -17,7 +19,9 @@
     "venue": "Rice University Stadium",
     "date": "1990-10-13",
     "city": "Houston",
-    "state": "TX"
+    "state": "TX",
+    "lat": 29.7589382,
+    "lng": -95.3676974
   },
   {
     "id": "1990-regional-championship-at-morgantown-wv",
@@ -27,7 +31,9 @@
     "venue": "West Virginia University",
     "date": "1990-10-20",
     "city": "Morgantown",
-    "state": "WV"
+    "state": "WV",
+    "lat": 39.6296809,
+    "lng": -79.9559437
   },
   {
     "id": "1990-regional-championship-at-hattiesburg-ms",
@@ -37,7 +43,9 @@
     "venue": "University of Southern Mississippi",
     "date": "1990-10-27",
     "city": "Hattiesburg",
-    "state": "MS"
+    "state": "MS",
+    "lat": 31.3271189,
+    "lng": -89.2903392
   },
   {
     "id": "1990-regional-championship-at-toledo-oh",
@@ -47,7 +55,9 @@
     "venue": "University of Toledo Glass Bowl",
     "date": "1990-11-03",
     "city": "Toledo",
-    "state": "OH"
+    "state": "OH",
+    "lat": 41.6529143,
+    "lng": -83.5378173
   },
   {
     "id": "1990-grand-national-championship-at-indianapolis-in",
@@ -57,6 +67,8 @@
     "venue": "Indianapolis Hoosier Dome",
     "date": "1990-11-16",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   }
 ]

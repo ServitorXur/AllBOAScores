@@ -7,7 +7,9 @@
     "venue": "Papa John's Cardinal Stadium",
     "date": "2004-09-18",
     "city": "Louisville",
-    "state": "KY"
+    "state": "KY",
+    "lat": 38.2542376,
+    "lng": -85.759407
   },
   {
     "id": "2004-regional-championship-at-louisville-kentucky",
@@ -17,7 +19,9 @@
     "venue": "Papa John's Cardinal Stadium",
     "date": "2004-09-18",
     "city": "Louisville",
-    "state": "KY"
+    "state": "KY",
+    "lat": 38.2542376,
+    "lng": -85.759407
   },
   {
     "id": "2004-regional-championship-at-massillon-oh",
@@ -27,7 +31,9 @@
     "venue": "Paul Brown Tiger Stadium",
     "date": "2004-09-18",
     "city": "Massillon",
-    "state": "OH"
+    "state": "OH",
+    "lat": 40.7965119,
+    "lng": -81.5231597
   },
   {
     "id": "2004-2004-9-25mif",
@@ -37,7 +43,9 @@
     "venue": "Silverdome",
     "date": "2004-09-25",
     "city": "Launceston",
-    "state": "TAS"
+    "state": "TAS",
+    "lat": null,
+    "lng": null
   },
   {
     "id": "2004-2004-9-25mip",
@@ -47,7 +55,9 @@
     "venue": "Silverdome",
     "date": "2004-09-25",
     "city": "Launceston",
-    "state": "TAS"
+    "state": "TAS",
+    "lat": null,
+    "lng": null
   },
   {
     "id": "2004-regional-championship-at-murfreesboro-tn",
@@ -57,7 +67,9 @@
     "venue": "Middle Tennessee State Univ.",
     "date": "2004-09-25",
     "city": "Murfreesboro",
-    "state": "TN"
+    "state": "TN",
+    "lat": 35.8460396,
+    "lng": -86.3921096
   },
   {
     "id": "2004-regional-championship-at-huntsville-tx",
@@ -67,7 +79,9 @@
     "venue": "Sam Houston State University",
     "date": "2004-10-02",
     "city": "Huntsville",
-    "state": "TX"
+    "state": "TX",
+    "lat": 30.7235263,
+    "lng": -95.5507771
   },
   {
     "id": "2004-regional-championship-at-youngstown-oh",
@@ -77,7 +91,9 @@
     "venue": "Youngstown State University",
     "date": "2004-10-02",
     "city": "Youngstown",
-    "state": "OH"
+    "state": "OH",
+    "lat": 41.1035786,
+    "lng": -80.6520161
   },
   {
     "id": "2004-regional-championship-at-arlington-texas",
@@ -87,7 +103,9 @@
     "venue": "University of Texas at Arlington",
     "date": "2004-10-09",
     "city": "Arlington",
-    "state": "TX"
+    "state": "TX",
+    "lat": 32.7355816,
+    "lng": -97.1071186
   },
   {
     "id": "2004-regional-championship-at-la-joya-tx",
@@ -97,7 +115,9 @@
     "venue": "Coyote Stadium - Oct. 9",
     "date": "2004-10-09",
     "city": "La Joya",
-    "state": "TX"
+    "state": "TX",
+    "lat": 26.2470165,
+    "lng": -98.4814092
   },
   {
     "id": "2004-regional-championship-at-la-joya-texas",
@@ -107,7 +127,9 @@
     "venue": "Coyote Stadium - Oct. 9",
     "date": "2004-10-09",
     "city": "La Joya",
-    "state": "TX"
+    "state": "TX",
+    "lat": 26.2470165,
+    "lng": -98.4814092
   },
   {
     "id": "2004-regional-championship-at-piscataway-nj",
@@ -117,7 +139,9 @@
     "venue": "Rutgers University",
     "date": "2004-10-09",
     "city": "Piscataway",
-    "state": "NJ"
+    "state": "NJ",
+    "lat": 40.5464326,
+    "lng": -74.4660542
   },
   {
     "id": "2004-2004-10-16mof",
@@ -127,7 +151,9 @@
     "venue": "Edward Jones Dome",
     "date": "2004-10-16",
     "city": "Saint Louis",
-    "state": "MO"
+    "state": "MO",
+    "lat": 38.6254063,
+    "lng": -90.190009
   },
   {
     "id": "2004-2004-10-16mop",
@@ -137,7 +163,9 @@
     "venue": "Edward Jones Dome October 15 and16, 2004",
     "date": "2004-10-16",
     "city": null,
-    "state": null
+    "state": null,
+    "lat": null,
+    "lng": null
   },
   {
     "id": "2004-regional-championship-at-st-petersburg-fl",
@@ -147,7 +175,9 @@
     "venue": "Tropicana Field",
     "date": "2004-10-16",
     "city": "Saint Petersburg",
-    "state": "FL"
+    "state": "FL",
+    "lat": 27.7712264,
+    "lng": -82.6340259
   },
   {
     "id": "2004-2004-10-23gaf",
@@ -157,7 +187,9 @@
     "venue": "Georgia Dome",
     "date": "2004-10-23",
     "city": "Atlanta",
-    "state": "GA"
+    "state": "GA",
+    "lat": 33.7544657,
+    "lng": -84.3898151
   },
   {
     "id": "2004-2004-10-23gap",
@@ -167,7 +199,9 @@
     "venue": "Georgia Dome",
     "date": "2004-10-23",
     "city": "Atlanta",
-    "state": "GA"
+    "state": "GA",
+    "lat": 33.7544657,
+    "lng": -84.3898151
   },
   {
     "id": "2004-regional-championship-at-las-vegas-nv",
@@ -177,7 +211,9 @@
     "venue": "UNLV - Sam Boyd Stadium",
     "date": "2004-10-23",
     "city": "Las Vegas",
-    "state": "NV"
+    "state": "NV",
+    "lat": 36.1674263,
+    "lng": -115.1484131
   },
   {
     "id": "2004-regional-championship-at-san-antonio-tx",
@@ -187,7 +223,9 @@
     "venue": "Alamodome",
     "date": "2004-10-29",
     "city": "San Antonio",
-    "state": "TX"
+    "state": "TX",
+    "lat": 29.4246002,
+    "lng": -98.4951405
   },
   {
     "id": "2004-regional-championship-at-indianapolis-in",
@@ -197,7 +235,9 @@
     "venue": "RCA Dome",
     "date": "2004-10-30",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   },
   {
     "id": "2004-regional-championship-at-indianapolis-indiana",
@@ -207,7 +247,9 @@
     "venue": "RCA Dome - Oct. 30",
     "date": "2004-10-30",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   },
   {
     "id": "2004-grand-national-championships-at-indianapolis-in",
@@ -217,6 +259,8 @@
     "venue": "RCA Dome",
     "date": "2004-11-06",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   }
 ]

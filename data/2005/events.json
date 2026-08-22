@@ -7,7 +7,9 @@
     "venue": "Yager Stadium",
     "date": "2005-09-17",
     "city": "Oxford",
-    "state": "OH"
+    "state": "OH",
+    "lat": 39.5103048,
+    "lng": -84.7420519
   },
   {
     "id": "2005-regional-championship-at-oxford-ohio",
@@ -17,7 +19,9 @@
     "venue": "Yager Stadium",
     "date": "2005-09-17",
     "city": "Oxford",
-    "state": "OH"
+    "state": "OH",
+    "lat": 39.5103048,
+    "lng": -84.7420519
   },
   {
     "id": "2005-regional-championship-at-bowling-green-kentucky",
@@ -27,7 +31,9 @@
     "venue": "Western KY Univ.",
     "date": "2005-09-24",
     "city": "Bowling Green",
-    "state": "KY"
+    "state": "KY",
+    "lat": 36.9929203,
+    "lng": -86.4428677
   },
   {
     "id": "2005-regional-championship-at-massillon-ohio",
@@ -37,7 +43,9 @@
     "venue": "Paul Brown Tiger Stadium",
     "date": "2005-09-24",
     "city": "Massillon",
-    "state": "OH"
+    "state": "OH",
+    "lat": 40.7965119,
+    "lng": -81.5231597
   },
   {
     "id": "2005-regional-championship-at-houston-texas",
@@ -47,7 +55,9 @@
     "venue": "Rice University",
     "date": "2005-10-01",
     "city": "Houston",
-    "state": "TX"
+    "state": "TX",
+    "lat": 29.7589382,
+    "lng": -95.3676974
   },
   {
     "id": "2005-regional-championship-at-la-joya-tx",
@@ -57,7 +67,9 @@
     "venue": "Coyote Stadium",
     "date": "2005-10-01",
     "city": "La Joya",
-    "state": "TX"
+    "state": "TX",
+    "lat": 26.2470165,
+    "lng": -98.4814092
   },
   {
     "id": "2005-regional-championship-at-long-beach-ca",
@@ -67,7 +79,9 @@
     "venue": "Long Beach City College",
     "date": "2005-10-08",
     "city": "Long Beach",
-    "state": "CA"
+    "state": "CA",
+    "lat": 33.7690164,
+    "lng": -118.191604
   },
   {
     "id": "2005-regional-championship-at-arlington-texas",
@@ -77,7 +91,9 @@
     "venue": "University of Texas at Arlington",
     "date": "2005-10-15",
     "city": "Arlington",
-    "state": "TX"
+    "state": "TX",
+    "lat": 32.7355816,
+    "lng": -97.1071186
   },
   {
     "id": "2005-regional-championship-at-pontiac-mi",
@@ -87,7 +103,9 @@
     "venue": "Silverdome",
     "date": "2005-10-15",
     "city": "City of Pontiac",
-    "state": "MI"
+    "state": "MI",
+    "lat": 42.6364796,
+    "lng": -83.2874969
   },
   {
     "id": "2005-regional-championship-at-flagstaff-az",
@@ -97,7 +115,9 @@
     "venue": "NAU Skydome",
     "date": "2005-10-22",
     "city": "Flagstaff",
-    "state": "AZ"
+    "state": "AZ",
+    "lat": 35.1987522,
+    "lng": -111.651822
   },
   {
     "id": "2005-regional-championship-at-st-louis-mo",
@@ -107,7 +127,9 @@
     "venue": "Edward Jones Dome",
     "date": "2005-10-22",
     "city": "Saint Louis",
-    "state": "MO"
+    "state": "MO",
+    "lat": 38.6254063,
+    "lng": -90.190009
   },
   {
     "id": "2005-regional-championship-at-indianapolis-in",
@@ -117,7 +139,9 @@
     "venue": "RCA Dome",
     "date": "2005-10-29",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   },
   {
     "id": "2005-regional-championship-at-st-petersburg-fl",
@@ -127,7 +151,9 @@
     "venue": "Tropicana Field",
     "date": "2005-10-29",
     "city": "Saint Petersburg",
-    "state": "FL"
+    "state": "FL",
+    "lat": 27.7712264,
+    "lng": -82.6340259
   },
   {
     "id": "2005-regional-championship-at-st-petersburg-florida",
@@ -137,7 +163,9 @@
     "venue": "Tropicana Field",
     "date": "2005-10-29",
     "city": "Saint Petersburg",
-    "state": "FL"
+    "state": "FL",
+    "lat": 27.7712264,
+    "lng": -82.6340259
   },
   {
     "id": "2005-regional-championship-at-atlanta-ga",
@@ -147,7 +175,9 @@
     "venue": "Georgia Dome",
     "date": "2005-11-05",
     "city": "Atlanta",
-    "state": "GA"
+    "state": "GA",
+    "lat": 33.7544657,
+    "lng": -84.3898151
   },
   {
     "id": "2005-regional-championship-at-san-antonio-tx",
@@ -157,7 +187,9 @@
     "venue": "Alamodome",
     "date": "2005-11-05",
     "city": "San Antonio",
-    "state": "TX"
+    "state": "TX",
+    "lat": 29.4246002,
+    "lng": -98.4951405
   },
   {
     "id": "2005-grand-nationals-championship-at-indianapolis-in",
@@ -167,6 +199,8 @@
     "venue": "RCA Dome",
     "date": "2005-11-10",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   }
 ]

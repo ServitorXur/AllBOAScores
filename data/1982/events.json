@@ -7,7 +7,9 @@
     "venue": "University of Toledo",
     "date": "1982-10-02",
     "city": "Toledo",
-    "state": "OH"
+    "state": "OH",
+    "lat": 41.6529143,
+    "lng": -83.5378173
   },
   {
     "id": "1982-regional-championship-at-cullowhee-nc",
@@ -17,7 +19,9 @@
     "venue": "Western Carolina University",
     "date": "1982-10-09",
     "city": "Cullowhee",
-    "state": "NC"
+    "state": "NC",
+    "lat": 35.3137739,
+    "lng": -83.1765814
   },
   {
     "id": "1982-midwest-regional-championship-at-indianapolis-in",
@@ -27,7 +31,9 @@
     "venue": "Lawrence Central",
     "date": "1982-10-16",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   },
   {
     "id": "1982-regional-championship-at-houston-tx",
@@ -37,7 +43,9 @@
     "venue": "University of Houston",
     "date": "1982-10-30",
     "city": "Houston",
-    "state": "TX"
+    "state": "TX",
+    "lat": 29.7589382,
+    "lng": -95.3676974
   },
   {
     "id": "1982-grand-national-championship-at-johnson-city-tn",
@@ -47,6 +55,8 @@
     "venue": "East Tennessee State University",
     "date": "1982-11-05",
     "city": "Johnson City",
-    "state": "TN"
+    "state": "TN",
+    "lat": 36.3167671,
+    "lng": -82.352903
   }
 ]

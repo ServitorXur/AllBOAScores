@@ -7,7 +7,9 @@
     "venue": "Arkansas State University",
     "date": "1985-10-05",
     "city": "Jonesboro",
-    "state": "AR"
+    "state": "AR",
+    "lat": 35.8348088,
+    "lng": -90.7045297
   },
   {
     "id": "1985-regional-championship-at-whitewater-wi",
@@ -17,7 +19,9 @@
     "venue": "University of Wisconsin-Whitewater",
     "date": "1985-10-05",
     "city": "Whitewater",
-    "state": "WI"
+    "state": "WI",
+    "lat": 42.8339562,
+    "lng": -88.7306517
   },
   {
     "id": "1985-regional-championship-at-morgantown-wv",
@@ -27,7 +31,9 @@
     "venue": "West Virginia University",
     "date": "1985-10-12",
     "city": "Morgantown",
-    "state": "WV"
+    "state": "WV",
+    "lat": 39.6296809,
+    "lng": -79.9559437
   },
   {
     "id": "1985-regional-championship-at-moscow-id",
@@ -37,7 +43,9 @@
     "venue": "University of Idaho",
     "date": "1985-10-12",
     "city": "Moscow",
-    "state": "ID"
+    "state": "ID",
+    "lat": 46.7323875,
+    "lng": -117.000165
   },
   {
     "id": "1985-regional-championship-at-houston-tx",
@@ -47,7 +55,9 @@
     "venue": "Rice University Stadium",
     "date": "1985-10-19",
     "city": "Houston",
-    "state": "TX"
+    "state": "TX",
+    "lat": 29.7589382,
+    "lng": -95.3676974
   },
   {
     "id": "1985-regional-championship-at-akron-oh",
@@ -57,7 +67,9 @@
     "venue": "Rubber Bowl",
     "date": "1985-10-26",
     "city": "Akron",
-    "state": "OH"
+    "state": "OH",
+    "lat": 41.083064,
+    "lng": -81.518485
   },
   {
     "id": "1985-regional-championship-at-indianapolis-in",
@@ -67,7 +79,9 @@
     "venue": "Lawrence Central High School",
     "date": "1985-11-02",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   },
   {
     "id": "1985-grand-national-championship-at-indianapolis-in",
@@ -77,6 +91,8 @@
     "venue": "Indianapolis Hoosier Dome",
     "date": "1985-11-15",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   }
 ]

@@ -7,7 +7,9 @@
     "venue": "Warhawk Stadium",
     "date": "1986-06-20",
     "city": "Whitewater",
-    "state": "WI"
+    "state": "WI",
+    "lat": 42.8339562,
+    "lng": -88.7306517
   },
   {
     "id": "1986-regional-championship-at-jonesboro-ar",
@@ -17,7 +19,9 @@
     "venue": "Arkansas State University",
     "date": "1986-10-04",
     "city": "Jonesboro",
-    "state": "AR"
+    "state": "AR",
+    "lat": 35.8348088,
+    "lng": -90.7045297
   },
   {
     "id": "1986-regional-championship-at-conroe-tx",
@@ -27,7 +31,9 @@
     "venue": "Conroe I.S.D. Stadium",
     "date": "1986-10-11",
     "city": "Conroe",
-    "state": "TX"
+    "state": "TX",
+    "lat": 30.3118769,
+    "lng": -95.4560512
   },
   {
     "id": "1986-regional-championship-at-corvallis-or",
@@ -37,7 +43,9 @@
     "venue": "Oregon State University",
     "date": "1986-10-18",
     "city": "Corvallis",
-    "state": "OR"
+    "state": "OR",
+    "lat": 44.5645659,
+    "lng": -123.2620435
   },
   {
     "id": "1986-regional-championship-at-morgantown-wv",
@@ -47,7 +55,9 @@
     "venue": "West Virginia University",
     "date": "1986-10-18",
     "city": "Morgantown",
-    "state": "WV"
+    "state": "WV",
+    "lat": 39.6296809,
+    "lng": -79.9559437
   },
   {
     "id": "1986-regional-championship-at-akron-oh",
@@ -57,7 +67,9 @@
     "venue": "Rubber Bowl",
     "date": "1986-11-01",
     "city": "Akron",
-    "state": "OH"
+    "state": "OH",
+    "lat": 41.083064,
+    "lng": -81.518485
   },
   {
     "id": "1986-grand-national-championship-at-indianapolis-in",
@@ -67,6 +79,8 @@
     "venue": "Indianapolis Hoosier Dome",
     "date": "1986-11-07",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   }
 ]

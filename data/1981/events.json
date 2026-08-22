@@ -7,7 +7,9 @@
     "venue": "Warhawk Stadium",
     "date": "1981-06-19",
     "city": "Whitewater",
-    "state": "WI"
+    "state": "WI",
+    "lat": 42.8339562,
+    "lng": -88.7306517
   },
   {
     "id": "1981-eastern-regional-championship-at-harrisonburg-va",
@@ -17,7 +19,9 @@
     "venue": "James Madison University",
     "date": "1981-10-03",
     "city": "Harrisonburg",
-    "state": "VA"
+    "state": "VA",
+    "lat": 38.4493315,
+    "lng": -78.8688833
   },
   {
     "id": "1981-northern-regional-championship-at-toledo-oh",
@@ -27,7 +31,9 @@
     "venue": "University of Toledo",
     "date": "1981-10-10",
     "city": "Toledo",
-    "state": "OH"
+    "state": "OH",
+    "lat": 41.6529143,
+    "lng": -83.5378173
   },
   {
     "id": "1981-midwest-regional-championship-at-ft-wayne-in",
@@ -37,7 +43,9 @@
     "venue": "Northrop High School",
     "date": "1981-10-24",
     "city": "Fort Wayne",
-    "state": "IN"
+    "state": "IN",
+    "lat": 41.0799898,
+    "lng": -85.1386015
   },
   {
     "id": "1981-southwestern-regional-championship-at-houston-tx",
@@ -47,7 +55,9 @@
     "venue": "Rice University",
     "date": "1981-10-31",
     "city": "Houston",
-    "state": "TX"
+    "state": "TX",
+    "lat": 29.7589382,
+    "lng": -95.3676974
   },
   {
     "id": "1981-grand-national-championship-at-johnson-city-tn",
@@ -57,6 +67,8 @@
     "venue": "Tennessee State University",
     "date": "1981-11-07",
     "city": "Johnson City",
-    "state": "TN"
+    "state": "TN",
+    "lat": 36.3167671,
+    "lng": -82.352903
   }
 ]

@@ -7,7 +7,9 @@
     "venue": "Warhawk Stadium",
     "date": "1980-06-20",
     "city": "Whitewater",
-    "state": "WI"
+    "state": "WI",
+    "lat": 42.8339562,
+    "lng": -88.7306517
   },
   {
     "id": "1980-northern-regional-championship-at-toledo-oh",
@@ -17,7 +19,9 @@
     "venue": "University of Toledo",
     "date": "1980-10-04",
     "city": "Toledo",
-    "state": "OH"
+    "state": "OH",
+    "lat": 41.6529143,
+    "lng": -83.5378173
   },
   {
     "id": "1980-northeastern-regional-championship-at-west-chester-pa",
@@ -27,7 +31,9 @@
     "venue": "West Chester State College",
     "date": "1980-10-11",
     "city": "West Chester",
-    "state": "PA"
+    "state": "PA",
+    "lat": 39.9597389,
+    "lng": -75.6044609
   },
   {
     "id": "1980-eastern-regional-championship-at-harrisonburg-va",
@@ -37,7 +43,9 @@
     "venue": "James Madison University",
     "date": "1980-11-01",
     "city": "Harrisonburg",
-    "state": "VA"
+    "state": "VA",
+    "lat": 38.4493315,
+    "lng": -78.8688833
   },
   {
     "id": "1980-southern-regional-championship-at-gonzalez-fl",
@@ -47,7 +55,9 @@
     "venue": "Tate High School",
     "date": "1980-11-01",
     "city": "Cantonment",
-    "state": "FL"
+    "state": "FL",
+    "lat": 30.605427,
+    "lng": -87.344442
   },
   {
     "id": "1980-mid-southern-regional-championship-at-jackson-tn",
@@ -57,7 +67,9 @@
     "venue": "Roth Rock Stadium",
     "date": "1980-11-08",
     "city": "Jackson",
-    "state": "MI"
+    "state": "MI",
+    "lat": 42.2416466,
+    "lng": -84.425589
   },
   {
     "id": "1980-southwestern-regional-championship-at-commerce-tx",
@@ -67,7 +79,9 @@
     "venue": "East Texas State University",
     "date": "1980-11-08",
     "city": "Palestine",
-    "state": "TX"
+    "state": "TX",
+    "lat": 31.7621153,
+    "lng": -95.6307891
   },
   {
     "id": "1980-grand-national-championship-at-jacksonville-fl",
@@ -77,6 +91,8 @@
     "venue": "The Gator Bowl",
     "date": "1980-11-28",
     "city": "Jacksonville",
-    "state": "FL"
+    "state": "FL",
+    "lat": 30.3262247,
+    "lng": -81.6579179
   }
 ]

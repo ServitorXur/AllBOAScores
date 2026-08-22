@@ -7,7 +7,9 @@
     "venue": "Warhawk Stadium",
     "date": "1987-06-19",
     "city": "Whitewater",
-    "state": "WI"
+    "state": "WI",
+    "lat": 42.8339562,
+    "lng": -88.7306517
   },
   {
     "id": "1987-regional-championship-at-morgantown-wv",
@@ -17,7 +19,9 @@
     "venue": "West Virginia University",
     "date": "1987-10-10",
     "city": "Morgantown",
-    "state": "WV"
+    "state": "WV",
+    "lat": 39.6296809,
+    "lng": -79.9559437
   },
   {
     "id": "1987-regional-championship-at-terre-haute-in",
@@ -27,7 +31,9 @@
     "venue": "Indiana State University",
     "date": "1987-10-10",
     "city": "Terre Haute",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.4667025,
+    "lng": -87.4139119
   },
   {
     "id": "1987-regional-championship-at-hattiesburg-ms",
@@ -37,7 +43,9 @@
     "venue": "University of Southern Mississippi",
     "date": "1987-10-17",
     "city": "Hattiesburg",
-    "state": "MS"
+    "state": "MS",
+    "lat": 31.3271189,
+    "lng": -89.2903392
   },
   {
     "id": "1987-regional-championship-at-houston-tx",
@@ -47,7 +55,9 @@
     "venue": "University of Houston",
     "date": "1987-10-24",
     "city": "Houston",
-    "state": "TX"
+    "state": "TX",
+    "lat": 29.7589382,
+    "lng": -95.3676974
   },
   {
     "id": "1987-regional-championship-at-toledo-oh",
@@ -57,7 +67,9 @@
     "venue": "University of Toledo",
     "date": "1987-10-31",
     "city": "Toledo",
-    "state": "OH"
+    "state": "OH",
+    "lat": 41.6529143,
+    "lng": -83.5378173
   },
   {
     "id": "1987-grand-national-championship-at-pontiac-mi",
@@ -67,6 +79,8 @@
     "venue": "Pontiac Silverdome",
     "date": "1987-11-13",
     "city": "Pontiac",
-    "state": "MI"
+    "state": "MI",
+    "lat": 42.6389216,
+    "lng": -83.2910468
   }
 ]

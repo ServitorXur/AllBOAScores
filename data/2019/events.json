@@ -7,7 +7,9 @@
     "venue": "Cardinal Stadium at the University of Louisville",
     "date": "2019-09-21",
     "city": "Louisville",
-    "state": "KY"
+    "state": "KY",
+    "lat": 38.2542376,
+    "lng": -85.759407
   },
   {
     "id": "2019-south-texas-regional-championship-at-mcallen-tx",
@@ -17,7 +19,9 @@
     "venue": "DQ Fan Field, McAllen Veterans Memorial Stadium",
     "date": "2019-09-21",
     "city": "McAllen",
-    "state": "TX"
+    "state": "TX",
+    "lat": 26.204114,
+    "lng": -98.2300605
   },
   {
     "id": "2019-toledo-regional-championship-at-toledo-oh",
@@ -27,7 +31,9 @@
     "venue": "The Glass Bowl, University of Toledo",
     "date": "2019-09-21",
     "city": "Toledo",
-    "state": "OH"
+    "state": "OH",
+    "lat": 41.6529143,
+    "lng": -83.5378173
   },
   {
     "id": "2019-austin-regional-championship-at-austin-tx",
@@ -37,7 +43,9 @@
     "venue": "Kelly Reeves Athletic Complex",
     "date": "2019-09-28",
     "city": "Austin",
-    "state": "TX"
+    "state": "TX",
+    "lat": 30.2711286,
+    "lng": -97.7436995
   },
   {
     "id": "2019-cedar-falls-regional-championship-at-cedar-falls-ia",
@@ -47,7 +55,9 @@
     "venue": "UNI Dome at University of Northern Iowa",
     "date": "2019-09-28",
     "city": "Cedar Falls",
-    "state": "IA"
+    "state": "IA",
+    "lat": 42.5361805,
+    "lng": -92.447758
   },
   {
     "id": "2019-flagstaff-regional-championship-at-flagstaff-az",
@@ -57,7 +67,9 @@
     "venue": "Walkup Skydome at Northern Arizona University",
     "date": "2019-09-28",
     "city": "Flagstaff",
-    "state": "AZ"
+    "state": "AZ",
+    "lat": 35.1987522,
+    "lng": -111.651822
   },
   {
     "id": "2019-obetz-regional-championship-at-obetz-oh",
@@ -67,7 +79,9 @@
     "venue": "Fortress Obetz",
     "date": "2019-09-28",
     "city": "Columbus",
-    "state": "OH"
+    "state": "OH",
+    "lat": 39.9622601,
+    "lng": -83.0007065
   },
   {
     "id": "2019-bedford-regional-championship-at-bedford-tx",
@@ -77,7 +91,9 @@
     "venue": "Pennington Field",
     "date": "2019-10-05",
     "city": "Bedford",
-    "state": "TX"
+    "state": "TX",
+    "lat": 32.844017,
+    "lng": -97.1430671
   },
   {
     "id": "2019-college-park-regional-championship-at-college-park-md",
@@ -87,7 +103,9 @@
     "venue": "University of Maryland",
     "date": "2019-10-05",
     "city": "College Park",
-    "state": "MD"
+    "state": "MD",
+    "lat": 38.980666,
+    "lng": -76.9369189
   },
   {
     "id": "2019-houston-regional-championship-at-houston-tx",
@@ -97,7 +115,9 @@
     "venue": "Legacy Stadium",
     "date": "2019-10-05",
     "city": "Houston",
-    "state": "TX"
+    "state": "TX",
+    "lat": 29.7589382,
+    "lng": -95.3676974
   },
   {
     "id": "2019-katy-regional-championship-at-katy-tx",
@@ -107,7 +127,9 @@
     "venue": "Legacy Stadium",
     "date": "2019-10-05",
     "city": "Katy",
-    "state": "TX"
+    "state": "TX",
+    "lat": 29.7857853,
+    "lng": -95.8243956
   },
   {
     "id": "2019-muncie-regional-championship-at-muncie-in",
@@ -117,7 +139,9 @@
     "venue": "Scheumann Stadium at Ball State University",
     "date": "2019-10-05",
     "city": "Muncie",
-    "state": "IN"
+    "state": "IN",
+    "lat": 40.1936892,
+    "lng": -85.3865271
   },
   {
     "id": "2019-johnson-city-regional-championship-at-johnson-city-tn",
@@ -127,7 +151,9 @@
     "venue": "Mini Dome at East Tennessee State University",
     "date": "2019-10-12",
     "city": "Johnson City",
-    "state": "TN"
+    "state": "TN",
+    "lat": 36.3167671,
+    "lng": -82.352903
   },
   {
     "id": "2019-midland-regional-championship-at-midland-tx",
@@ -137,7 +163,9 @@
     "venue": "Grande Communications Stadium",
     "date": "2019-10-12",
     "city": "Midland",
-    "state": "TX"
+    "state": "TX",
+    "lat": 31.83688,
+    "lng": -102.0103767
   },
   {
     "id": "2019-orlando-regional-championship-at-orlando-fl",
@@ -147,7 +175,9 @@
     "venue": "Camping World Stadium",
     "date": "2019-10-12",
     "city": "Orlando",
-    "state": "FL"
+    "state": "FL",
+    "lat": 28.5421218,
+    "lng": -81.379045
   },
   {
     "id": "2019-st-louis-super-regional-championship-at-st-louis-mo",
@@ -157,7 +187,9 @@
     "venue": "The Dome at America's Center",
     "date": "2019-10-18",
     "city": "St. Louis",
-    "state": "MO"
+    "state": "MO",
+    "lat": 38.6254063,
+    "lng": -90.190009
   },
   {
     "id": "2019-waco-regional-championship-at-waco-tx",
@@ -167,7 +199,9 @@
     "venue": "McLane Stadium at Baylor University",
     "date": "2019-10-19",
     "city": "Waco",
-    "state": "TX"
+    "state": "TX",
+    "lat": 31.5491899,
+    "lng": -97.1474628
   },
   {
     "id": "2019-indianapolis-super-regional-championship-at-indianapolis-in",
@@ -177,7 +211,9 @@
     "venue": "Lucas Oil Stadium",
     "date": "2019-10-25",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   },
   {
     "id": "2019-lynchburg-regional-championship-at-lynchburg-va",
@@ -187,7 +223,9 @@
     "venue": "Williams Stadium at Liberty University",
     "date": "2019-10-26",
     "city": "Lynchburg",
-    "state": "VA"
+    "state": "VA",
+    "lat": 37.4137536,
+    "lng": -79.1422464
   },
   {
     "id": "2019-powder-springs-regional-championship-at-powder-springs-ga",
@@ -197,7 +235,9 @@
     "venue": "McEachern H.S.",
     "date": "2019-10-26",
     "city": "Powder Springs",
-    "state": "GA"
+    "state": "GA",
+    "lat": 33.8595492,
+    "lng": -84.683824
   },
   {
     "id": "2019-san-antonio-super-regional-championship-at-san-antonio-tx",
@@ -207,7 +247,9 @@
     "venue": "The Alamodome",
     "date": "2019-11-01",
     "city": "San Antonio",
-    "state": "TX"
+    "state": "TX",
+    "lat": 29.4246002,
+    "lng": -98.4951405
   },
   {
     "id": "2019-bakersfield-regional-championship-at-bakersfield-ca",
@@ -217,7 +259,9 @@
     "venue": "Memorial Stadium, Bakersfield College",
     "date": "2019-11-02",
     "city": "Bakersfield",
-    "state": "CA"
+    "state": "CA",
+    "lat": 35.3738712,
+    "lng": -119.019463
   },
   {
     "id": "2019-st-george-regional-championship-at-st-george-ut",
@@ -227,7 +271,9 @@
     "venue": "Dixie University Stadium",
     "date": "2019-11-09",
     "city": "Saint George",
-    "state": "UT"
+    "state": "UT",
+    "lat": 37.1097636,
+    "lng": -113.553483
   },
   {
     "id": "2019-grand-national-championships-at-indianapolis-in",
@@ -237,6 +283,8 @@
     "venue": "Lucas Oil Stadium",
     "date": "2019-11-14",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   }
 ]

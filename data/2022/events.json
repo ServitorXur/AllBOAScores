@@ -7,7 +7,9 @@
     "venue": "Fortress Obetz",
     "date": "2022-09-17",
     "city": "Columbus",
-    "state": "OH"
+    "state": "OH",
+    "lat": 39.9622601,
+    "lng": -83.0007065
   },
   {
     "id": "2022-clarksville-regional-championship-at-clarksville-tn",
@@ -17,7 +19,9 @@
     "venue": "Fortera Stadium, Austin Peay State University",
     "date": "2022-09-17",
     "city": "Clarksville",
-    "state": "TN"
+    "state": "TN",
+    "lat": 36.5277607,
+    "lng": -87.3588703
   },
   {
     "id": "2022-new-mexico-regional-championship-at-las-cruces-nm",
@@ -27,7 +31,9 @@
     "venue": "Aggie Memorial Stadium, New Mexico State University",
     "date": "2022-09-17",
     "city": "Las Cruces",
-    "state": "NM"
+    "state": "NM",
+    "lat": 32.3140354,
+    "lng": -106.779807
   },
   {
     "id": "2022-south-texas-regional-championship-at-mcallen-tx",
@@ -37,7 +43,9 @@
     "venue": "McAllen Veterans Memorial Stadium",
     "date": "2022-09-17",
     "city": "McAllen",
-    "state": "TX"
+    "state": "TX",
+    "lat": 26.204114,
+    "lng": -98.2300605
   },
   {
     "id": "2022-austin-regional-championship-at-austin-tx",
@@ -47,7 +55,9 @@
     "venue": "Kelly Reeves Athletic Complex",
     "date": "2022-09-24",
     "city": "Austin",
-    "state": "TX"
+    "state": "TX",
+    "lat": 30.2711286,
+    "lng": -97.7436995
   },
   {
     "id": "2022-iowa-regional-championship-at-des-moines-ia",
@@ -57,7 +67,9 @@
     "venue": "Northwest Stadium",
     "date": "2022-09-24",
     "city": "Des Moines",
-    "state": "IA"
+    "state": "IA",
+    "lat": 41.5868654,
+    "lng": -93.6249494
   },
   {
     "id": "2022-north-houston-regional-championship-at-shenandoah-tx",
@@ -67,7 +79,9 @@
     "venue": "Woodforest Bank Stadium",
     "date": "2022-09-24",
     "city": "Spring",
-    "state": "TX"
+    "state": "TX",
+    "lat": 30.070979,
+    "lng": -95.4013419
   },
   {
     "id": "2022-northwest-ohio-regional-championship-at-toledo-oh",
@@ -77,7 +91,9 @@
     "venue": "Glass Bowl Stadium, University of Toledo",
     "date": "2022-09-24",
     "city": "Toledo",
-    "state": "OH"
+    "state": "OH",
+    "lat": 41.6529143,
+    "lng": -83.5378173
   },
   {
     "id": "2022-arizona-regional-championship-at-flagstaff-az",
@@ -87,7 +103,9 @@
     "venue": "J. Lawrence Walkup Skydome, Northern Arizona University",
     "date": "2022-10-01",
     "city": "Flagstaff",
-    "state": "AZ"
+    "state": "AZ",
+    "lat": 35.1987522,
+    "lng": -111.651822
   },
   {
     "id": "2022-louisville-regional-championship-at-louisville-ky",
@@ -97,7 +115,9 @@
     "venue": "Cardinal Stadium, University of Louisville",
     "date": "2022-10-01",
     "city": "Louisville",
-    "state": "KY"
+    "state": "KY",
+    "lat": 38.2542376,
+    "lng": -85.759407
   },
   {
     "id": "2022-west-houston-regional-championship-at-katy-tx",
@@ -107,7 +127,9 @@
     "venue": "Legacy Stadium",
     "date": "2022-10-01",
     "city": "Katy",
-    "state": "TX"
+    "state": "TX",
+    "lat": 29.7857853,
+    "lng": -95.8243956
   },
   {
     "id": "2022-dallas-ft-worth-regional-championship-at-bedford-tx",
@@ -117,7 +139,9 @@
     "venue": "Pennington Field",
     "date": "2022-10-08",
     "city": "Bedford",
-    "state": "TX"
+    "state": "TX",
+    "lat": 32.844017,
+    "lng": -97.1430671
   },
   {
     "id": "2022-mid-atlantic-regional-championship-at-newark-de",
@@ -127,7 +151,9 @@
     "venue": "Delaware Stadium, University of Delaware",
     "date": "2022-10-08",
     "city": "Newark",
-    "state": "DE"
+    "state": "DE",
+    "lat": 39.6828358,
+    "lng": -75.7515682
   },
   {
     "id": "2022-west-texas-regional-championship-at-midland-tx",
@@ -137,7 +163,9 @@
     "venue": "Astound Broadband Stadium",
     "date": "2022-10-08",
     "city": "Midland",
-    "state": "TX"
+    "state": "TX",
+    "lat": 31.83688,
+    "lng": -102.0103767
   },
   {
     "id": "2022-st-louis-super-regional-championship-at-st-louis-mo",
@@ -147,7 +175,9 @@
     "venue": "The Dome at America's Center",
     "date": "2022-10-14",
     "city": "St. Louis",
-    "state": "MO"
+    "state": "MO",
+    "lat": 38.6254063,
+    "lng": -90.190009
   },
   {
     "id": "2022-carolina-regional-championship-at-winston-salem-nc",
@@ -157,7 +187,9 @@
     "venue": "Truist Field, Wake Forest University",
     "date": "2022-10-15",
     "city": "Winston Salem",
-    "state": "NC"
+    "state": "NC",
+    "lat": 36.0998131,
+    "lng": -80.2440518
   },
   {
     "id": "2022-east-tennessee-regional-championship-at-johnson-city-tn",
@@ -167,7 +199,9 @@
     "venue": "Mountain States Health Alliance Athletic Center, East Tennessee State University",
     "date": "2022-10-15",
     "city": "Johnson City",
-    "state": "TN"
+    "state": "TN",
+    "lat": 36.3167671,
+    "lng": -82.352903
   },
   {
     "id": "2022-north-texas-regional-championship-at-prosper-tx",
@@ -177,7 +211,9 @@
     "venue": "Prosper ISD Children's Health Stadium",
     "date": "2022-10-15",
     "city": "Prosper",
-    "state": "TX"
+    "state": "TX",
+    "lat": 33.2371585,
+    "lng": -96.7977048
   },
   {
     "id": "2022-indianapolis-super-regional-championship-at-indianapolis-in",
@@ -187,7 +223,9 @@
     "venue": "Lucas Oil Stadium",
     "date": "2022-10-21",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   },
   {
     "id": "2022-orlando-regional-championship-at-orlando-fl",
@@ -197,7 +235,9 @@
     "venue": "Camping World Stadium",
     "date": "2022-10-22",
     "city": "Orlando",
-    "state": "FL"
+    "state": "FL",
+    "lat": 28.5421218,
+    "lng": -81.379045
   },
   {
     "id": "2022-alabama-regional-championship-at-jacksonville-al",
@@ -207,7 +247,9 @@
     "venue": "Burgess-Snow Field at Jacksonville State University Stadium",
     "date": "2022-10-29",
     "city": "Jacksonville",
-    "state": "AL"
+    "state": "AL",
+    "lat": 33.8137919,
+    "lng": -85.7612872
   },
   {
     "id": "2022-new-jersey-regional-championship-at-piscataway-nj",
@@ -217,7 +259,9 @@
     "venue": "SHI Stadium, Rutgers University",
     "date": "2022-10-29",
     "city": "Piscataway",
-    "state": "NJ"
+    "state": "NJ",
+    "lat": 40.5464326,
+    "lng": -74.4660542
   },
   {
     "id": "2022-waco-regional-championship-at-waco-tx",
@@ -227,7 +271,9 @@
     "venue": "McLane Stadium, Baylor University",
     "date": "2022-10-29",
     "city": "Waco",
-    "state": "TX"
+    "state": "TX",
+    "lat": 31.5491899,
+    "lng": -97.1474628
   },
   {
     "id": "2022-san-antonio-super-regional-championship-at-san-antonio-tx",
@@ -237,7 +283,9 @@
     "venue": "Alamodome",
     "date": "2022-11-04",
     "city": "San Antonio",
-    "state": "TX"
+    "state": "TX",
+    "lat": 29.4246002,
+    "lng": -98.4951405
   },
   {
     "id": "2022-utah-regional-championship-at-washington-ut",
@@ -247,7 +295,9 @@
     "venue": "Crimson Cliffs High School",
     "date": "2022-11-05",
     "city": "Washington",
-    "state": "UT"
+    "state": "UT",
+    "lat": 37.2393471,
+    "lng": -113.525776
   },
   {
     "id": "2022-grand-naonal-championships",
@@ -257,6 +307,8 @@
     "venue": "Lucas Oil Stadium",
     "date": "2022-11-10",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   }
 ]

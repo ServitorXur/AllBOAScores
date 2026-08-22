@@ -7,7 +7,9 @@
     "venue": "Kentucky Fair and Expo Center",
     "date": "2002-09-21",
     "city": "Louisville",
-    "state": "KY"
+    "state": "KY",
+    "lat": 38.2542376,
+    "lng": -85.759407
   },
   {
     "id": "2002-2002-9-28ohtlf",
@@ -17,7 +19,9 @@
     "venue": "University of Toledo",
     "date": "2002-09-28",
     "city": "Toledo",
-    "state": "OH"
+    "state": "OH",
+    "lat": 41.6529143,
+    "lng": -83.5378173
   },
   {
     "id": "2002-regional-championship-at-johnson-city-tn",
@@ -27,7 +31,9 @@
     "venue": "ETSU Mini Dome",
     "date": "2002-09-28",
     "city": "Johnson City",
-    "state": "TN"
+    "state": "TN",
+    "lat": 36.3167671,
+    "lng": -82.352903
   },
   {
     "id": "2002-regional-championship-at-toledo-oh",
@@ -37,7 +43,9 @@
     "venue": "University of Toledo",
     "date": "2002-09-28",
     "city": "Toledo",
-    "state": "OH"
+    "state": "OH",
+    "lat": 41.6529143,
+    "lng": -83.5378173
   },
   {
     "id": "2002-regional-championship-at-daytona-beach-fl",
@@ -47,7 +55,9 @@
     "venue": "Municipal Stadium",
     "date": "2002-10-05",
     "city": "Daytona Beach",
-    "state": "FL"
+    "state": "FL",
+    "lat": 29.2108147,
+    "lng": -81.0228331
   },
   {
     "id": "2002-regional-championship-at-daytona-fl",
@@ -57,7 +67,9 @@
     "venue": "Municipal Stadium",
     "date": "2002-10-05",
     "city": "San Jose",
-    "state": "CA"
+    "state": "CA",
+    "lat": 37.3361663,
+    "lng": -121.890591
   },
   {
     "id": "2002-regional-championship-at-huntsville-tx",
@@ -67,7 +79,9 @@
     "venue": "Sam Houston State University",
     "date": "2002-10-05",
     "city": "Huntsville",
-    "state": "TX"
+    "state": "TX",
+    "lat": 30.7235263,
+    "lng": -95.5507771
   },
   {
     "id": "2002-regional-championship-at-massillon-oh",
@@ -77,7 +91,9 @@
     "venue": "Paul Brown Tiger Stadium",
     "date": "2002-10-12",
     "city": "Massillon",
-    "state": "OH"
+    "state": "OH",
+    "lat": 40.7965119,
+    "lng": -81.5231597
   },
   {
     "id": "2002-regional-championship-at-st-louis-mo",
@@ -87,7 +103,9 @@
     "venue": "Edward Jones Dome",
     "date": "2002-10-12",
     "city": "Saint Louis",
-    "state": "MO"
+    "state": "MO",
+    "lat": 38.6254063,
+    "lng": -90.190009
   },
   {
     "id": "2002-regional-championship-at-arlington-tx",
@@ -97,7 +115,9 @@
     "venue": "University of Texas at Arlington",
     "date": "2002-10-19",
     "city": "Arlington",
-    "state": "TX"
+    "state": "TX",
+    "lat": 32.7355816,
+    "lng": -97.1071186
   },
   {
     "id": "2002-regional-championship-at-arlington-texas",
@@ -107,7 +127,9 @@
     "venue": "University of Texas at Arlington",
     "date": "2002-10-19",
     "city": "Arlington",
-    "state": "TX"
+    "state": "TX",
+    "lat": 32.7355816,
+    "lng": -97.1071186
   },
   {
     "id": "2002-regional-championship-at-hempstead-ny",
@@ -117,7 +139,9 @@
     "venue": "James M. Shuart Stadium",
     "date": "2002-10-19",
     "city": "Hempstead",
-    "state": "NY"
+    "state": "NY",
+    "lat": 40.6736812,
+    "lng": -73.6190736
   },
   {
     "id": "2002-regional-championship-at-youngstown-oh",
@@ -127,7 +151,9 @@
     "venue": "University of Youngstown",
     "date": "2002-10-26",
     "city": "Youngstown",
-    "state": "OH"
+    "state": "OH",
+    "lat": 41.1035786,
+    "lng": -80.6520161
   },
   {
     "id": "2002-grand-national-championships-at-indianapolis-in",
@@ -137,7 +163,9 @@
     "venue": "RCA DOME",
     "date": "2002-11-01",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   },
   {
     "id": "2002-regional-championship-at-atlanta-ga",
@@ -147,7 +175,9 @@
     "venue": "Georgia Dom",
     "date": "2002-11-02",
     "city": "Atlanta",
-    "state": "GA"
+    "state": "GA",
+    "lat": 33.7544657,
+    "lng": -84.3898151
   },
   {
     "id": "2002-regional-championship-at-san-antonio-tx",
@@ -157,7 +187,9 @@
     "venue": "Alamodome",
     "date": "2002-11-02",
     "city": "San Antonio",
-    "state": "TX"
+    "state": "TX",
+    "lat": 29.4246002,
+    "lng": -98.4951405
   },
   {
     "id": "2002-regional-championship-at-indianapolis-in",
@@ -167,7 +199,9 @@
     "venue": "RCA Dome",
     "date": "2002-11-09",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   },
   {
     "id": "2002-regional-championship-at-las-vegas-nv",
@@ -177,6 +211,8 @@
     "venue": "University of Nevada, Las Vegas",
     "date": "2002-11-09",
     "city": "Las Vegas",
-    "state": "NV"
+    "state": "NV",
+    "lat": 36.1674263,
+    "lng": -115.1484131
   }
 ]

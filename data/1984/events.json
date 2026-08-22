@@ -7,7 +7,9 @@
     "venue": "Warhawk Stadium",
     "date": "1984-06-15",
     "city": "Whitewater",
-    "state": "WI"
+    "state": "WI",
+    "lat": 42.8339562,
+    "lng": -88.7306517
   },
   {
     "id": "1984-regional-championship-at-joliet-il",
@@ -17,7 +19,9 @@
     "venue": "Memorial Stadium",
     "date": "1984-10-06",
     "city": "Joliet",
-    "state": "IL"
+    "state": "IL",
+    "lat": 41.5263603,
+    "lng": -88.0840212
   },
   {
     "id": "1984-regional-championship-at-columbus-oh",
@@ -27,7 +31,9 @@
     "venue": "Franklin County Stadium",
     "date": "1984-10-13",
     "city": "Columbus",
-    "state": "OH"
+    "state": "OH",
+    "lat": 39.9622601,
+    "lng": -83.0007065
   },
   {
     "id": "1984-regional-championship-at-pittsburgh-pa",
@@ -37,7 +43,9 @@
     "venue": "Latrobe High School",
     "date": "1984-10-20",
     "city": "Pittsburgh",
-    "state": "PA"
+    "state": "PA",
+    "lat": 40.4406968,
+    "lng": -80.0025666
   },
   {
     "id": "1984-regional-championship-at-east-tennessee-state-university",
@@ -47,7 +55,9 @@
     "venue": "ETSU Mini Dome",
     "date": "1984-10-27",
     "city": "Johnson City",
-    "state": "TN"
+    "state": "TN",
+    "lat": 36.3167671,
+    "lng": -82.352903
   },
   {
     "id": "1984-grand-national-championship-at-indianapolis-in",
@@ -57,6 +67,8 @@
     "venue": "The Hoosier Dome",
     "date": "1984-11-16",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   }
 ]

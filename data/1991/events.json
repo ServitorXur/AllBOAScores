@@ -7,7 +7,9 @@
     "venue": "Indianapolis Hoosier Dome",
     "date": "1991-09-28",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   },
   {
     "id": "1991-regional-championship-at-toledo-oh",
@@ -17,7 +19,9 @@
     "venue": "University of Toledo, Glass Bowl",
     "date": "1991-10-12",
     "city": "Toledo",
-    "state": "OH"
+    "state": "OH",
+    "lat": 41.6529143,
+    "lng": -83.5378173
   },
   {
     "id": "1991-regional-championship-at-fort-worth-tx",
@@ -27,7 +31,9 @@
     "venue": "Texas Christian University",
     "date": "1991-10-19",
     "city": "Fort Worth",
-    "state": "TX"
+    "state": "TX",
+    "lat": 32.753177,
+    "lng": -97.3327459
   },
   {
     "id": "1991-regional-championship-at-johnson-city-tn",
@@ -37,7 +43,9 @@
     "venue": "East Tennessee State University",
     "date": "1991-11-02",
     "city": "Johnson City",
-    "state": "TN"
+    "state": "TN",
+    "lat": 36.3167671,
+    "lng": -82.352903
   },
   {
     "id": "1991-grand-national-championship-at-indianapolis-in",
@@ -47,6 +55,8 @@
     "venue": "Indianapolis Hoosier Dome",
     "date": "1991-11-15",
     "city": "Indianapolis",
-    "state": "IN"
+    "state": "IN",
+    "lat": 39.7683331,
+    "lng": -86.1583502
   }
 ]
