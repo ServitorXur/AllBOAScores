@@ -284,8 +284,8 @@
     "date": "2025-11-01",
     "city": "Rancho Cucamonga",
     "state": "CA",
-    "lat": 34.1033192,
-    "lng": -117.575173
+    "lat": 34.1304707,
+    "lng": -117.5101687
   },
   {
     "id": "2025-2025-bands-of-america-idaho-regional-championship-presented-by-yamaha",
@@ -330,10 +330,10 @@
     "type": "Regional",
     "venue": "Greater Zion Stadium, Utah Tech University",
     "date": "2025-11-08",
-    "city": "Provo",
+    "city": "St. George",
     "state": "UT",
-    "lat": 40.2337289,
-    "lng": -111.6587085
+    "lat": 37.0995461,
+    "lng": -113.5673889
   },
   {
     "id": "2025-2025-bands-of-america-grand-national-championships-presented-by-yamaha",
