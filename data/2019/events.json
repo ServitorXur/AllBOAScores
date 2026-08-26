@@ -8,8 +8,8 @@
     "date": "2019-09-21",
     "city": "Louisville",
     "state": "KY",
-    "lat": 38.2542376,
-    "lng": -85.759407
+    "lat": 38.2060161,
+    "lng": -85.7587734
   },
   {
     "id": "2019-south-texas-regional-championship-at-mcallen-tx",
@@ -56,8 +56,8 @@
     "date": "2019-09-28",
     "city": "Cedar Falls",
     "state": "IA",
-    "lat": 42.5361805,
-    "lng": -92.447758
+    "lat": 42.5156866,
+    "lng": -92.4672611
   },
   {
     "id": "2019-flagstaff-regional-championship-at-flagstaff-az",
@@ -68,8 +68,8 @@
     "date": "2019-09-28",
     "city": "Flagstaff",
     "state": "AZ",
-    "lat": 35.1987522,
-    "lng": -111.651822
+    "lat": 35.1830867,
+    "lng": -111.654961
   },
   {
     "id": "2019-obetz-regional-championship-at-obetz-oh",
@@ -140,8 +140,8 @@
     "date": "2019-10-05",
     "city": "Muncie",
     "state": "IN",
-    "lat": 40.1936892,
-    "lng": -85.3865271
+    "lat": 40.2160071,
+    "lng": -85.4168254
   },
   {
     "id": "2019-johnson-city-regional-championship-at-johnson-city-tn",
@@ -200,8 +200,8 @@
     "date": "2019-10-19",
     "city": "Waco",
     "state": "TX",
-    "lat": 31.5491899,
-    "lng": -97.1474628
+    "lat": 31.5582247,
+    "lng": -97.1156821
   },
   {
     "id": "2019-indianapolis-super-regional-championship-at-indianapolis-in",
@@ -224,8 +224,8 @@
     "date": "2019-10-26",
     "city": "Lynchburg",
     "state": "VA",
-    "lat": 37.4137536,
-    "lng": -79.1422464
+    "lat": 37.3543075,
+    "lng": -79.1749196
   },
   {
     "id": "2019-powder-springs-regional-championship-at-powder-springs-ga",
@@ -236,8 +236,8 @@
     "date": "2019-10-26",
     "city": "Powder Springs",
     "state": "GA",
-    "lat": 33.8595492,
-    "lng": -84.683824
+    "lat": 33.8960695,
+    "lng": -84.67998
   },
   {
     "id": "2019-san-antonio-super-regional-championship-at-san-antonio-tx",
@@ -272,8 +272,8 @@
     "date": "2019-11-09",
     "city": "Saint George",
     "state": "UT",
-    "lat": 37.109967,
-    "lng": -113.5882916
+    "lat": 37.1030099,
+    "lng": -113.5653354
   },
   {
     "id": "2019-grand-national-championships-at-indianapolis-in",

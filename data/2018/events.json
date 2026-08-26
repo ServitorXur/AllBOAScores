@@ -8,8 +8,8 @@
     "date": "2018-09-22",
     "city": "McAllen",
     "state": "TX",
-    "lat": 26.204114,
-    "lng": -98.2300605
+    "lat": 26.2238881,
+    "lng": -98.2373019
   },
   {
     "id": "2018-midland-regional-championship-at-midland-tx",
@@ -188,8 +188,8 @@
     "date": "2018-10-26",
     "city": "St. Louis",
     "state": "MO",
-    "lat": 38.6254063,
-    "lng": -90.190009
+    "lat": 38.6327852,
+    "lng": -90.188551
   },
   {
     "id": "2018-powder-springs-regional-championship-at-powder-springs-ga",
@@ -200,8 +200,8 @@
     "date": "2018-10-27",
     "city": "Powder Springs",
     "state": "GA",
-    "lat": 33.8595492,
-    "lng": -84.683824
+    "lat": 33.8960695,
+    "lng": -84.67998
   },
   {
     "id": "2018-st-george-regional-championship-at-st-george-ut",
@@ -212,8 +212,8 @@
     "date": "2018-10-27",
     "city": "Saint George",
     "state": "UT",
-    "lat": 37.109967,
-    "lng": -113.5882916
+    "lat": 37.1030099,
+    "lng": -113.5653354
   },
   {
     "id": "2018-san-antonio-super-regional-championship-at-san-antonio-tx",
