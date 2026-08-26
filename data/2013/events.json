@@ -32,8 +32,8 @@
     "date": "2013-09-28",
     "city": "Austin",
     "state": "TX",
-    "lat": 30.2711286,
-    "lng": -97.7436995
+    "lat": 30.492488,
+    "lng": -97.7741
   },
   {
     "id": "2013-toledo-regional-championship-at-toledo-oh",
@@ -56,8 +56,8 @@
     "date": "2013-10-05",
     "city": "Conroe",
     "state": "TX",
-    "lat": 30.3118769,
-    "lng": -95.4560512
+    "lat": 30.1848671,
+    "lng": -95.4489906
   },
   {
     "id": "2013-muncie-regional-championship-at-muncie-in",
@@ -140,8 +140,8 @@
     "date": "2013-10-26",
     "city": "Atlanta",
     "state": "GA",
-    "lat": 33.7544657,
-    "lng": -84.3898151
+    "lat": 33.758056,
+    "lng": -84.401111
   },
   {
     "id": "2013-towson-regional-championship-at-towson-md",

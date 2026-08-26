@@ -56,8 +56,8 @@
     "date": "2022-09-24",
     "city": "Austin",
     "state": "TX",
-    "lat": 30.2711286,
-    "lng": -97.7436995
+    "lat": 30.492488,
+    "lng": -97.7741
   },
   {
     "id": "2022-iowa-regional-championship-at-des-moines-ia",
@@ -68,8 +68,8 @@
     "date": "2022-09-24",
     "city": "Des Moines",
     "state": "IA",
-    "lat": 41.5868654,
-    "lng": -93.6249494
+    "lat": 41.6373562,
+    "lng": -93.8914336
   },
   {
     "id": "2022-north-houston-regional-championship-at-shenandoah-tx",
@@ -80,8 +80,8 @@
     "date": "2022-09-24",
     "city": "Spring",
     "state": "TX",
-    "lat": 30.070979,
-    "lng": -95.4013419
+    "lat": 30.1848671,
+    "lng": -95.4489906
   },
   {
     "id": "2022-northwest-ohio-regional-championship-at-toledo-oh",
@@ -128,8 +128,8 @@
     "date": "2022-10-01",
     "city": "Katy",
     "state": "TX",
-    "lat": 29.8000522,
-    "lng": -95.8054778
+    "lat": 29.7966611,
+    "lng": -95.8108674
   },
   {
     "id": "2022-dallas-ft-worth-regional-championship-at-bedford-tx",

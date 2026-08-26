@@ -44,8 +44,8 @@
     "date": "2019-09-28",
     "city": "Austin",
     "state": "TX",
-    "lat": 30.2711286,
-    "lng": -97.7436995
+    "lat": 30.492488,
+    "lng": -97.7741
   },
   {
     "id": "2019-cedar-falls-regional-championship-at-cedar-falls-ia",
@@ -116,8 +116,8 @@
     "date": "2019-10-05",
     "city": "Houston",
     "state": "TX",
-    "lat": 29.7589382,
-    "lng": -95.3676974
+    "lat": 29.7966611,
+    "lng": -95.8108674
   },
   {
     "id": "2019-katy-regional-championship-at-katy-tx",
@@ -128,8 +128,8 @@
     "date": "2019-10-05",
     "city": "Katy",
     "state": "TX",
-    "lat": 29.8000522,
-    "lng": -95.8054778
+    "lat": 29.7966611,
+    "lng": -95.8108674
   },
   {
     "id": "2019-muncie-regional-championship-at-muncie-in",
@@ -164,8 +164,8 @@
     "date": "2019-10-12",
     "city": "Midland",
     "state": "TX",
-    "lat": 31.83688,
-    "lng": -102.0103767
+    "lat": 31.9893368,
+    "lng": -102.1539155
   },
   {
     "id": "2019-orlando-regional-championship-at-orlando-fl",

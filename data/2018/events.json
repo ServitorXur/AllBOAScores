@@ -20,8 +20,8 @@
     "date": "2018-09-22",
     "city": "Midland",
     "state": "TX",
-    "lat": 31.83688,
-    "lng": -102.0103767
+    "lat": 31.9893368,
+    "lng": -102.1539155
   },
   {
     "id": "2018-oxford-regional-championship-at-oxford-oh",
@@ -44,8 +44,8 @@
     "date": "2018-09-29",
     "city": "Austin",
     "state": "TX",
-    "lat": 30.2711286,
-    "lng": -97.7436995
+    "lat": 30.492488,
+    "lng": -97.7741
   },
   {
     "id": "2018-bowling-green-regional-championship-at-bowling-green-oh",
@@ -92,8 +92,8 @@
     "date": "2018-10-06",
     "city": "Houston",
     "state": "TX",
-    "lat": 29.7589382,
-    "lng": -95.3676974
+    "lat": 30.1848671,
+    "lng": -95.4489906
   },
   {
     "id": "2018-jacksonville-regional-championship-at-jacksonville-al",

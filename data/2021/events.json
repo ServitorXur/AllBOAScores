@@ -44,8 +44,8 @@
     "date": "2021-09-25",
     "city": "Austin",
     "state": "TX",
-    "lat": 30.2711286,
-    "lng": -97.7436995
+    "lat": 30.492488,
+    "lng": -97.7741
   },
   {
     "id": "2021-clarksville-regional-championship-at-clarksville-tn",
@@ -68,8 +68,8 @@
     "date": "2021-09-25",
     "city": "Houston",
     "state": "TX",
-    "lat": 29.7589382,
-    "lng": -95.3676974
+    "lat": 30.1848671,
+    "lng": -95.4489906
   },
   {
     "id": "2021-obetz-regional-championship-at-obetz-oh",
@@ -92,8 +92,8 @@
     "date": "2021-10-02",
     "city": "Katy",
     "state": "TX",
-    "lat": 29.8000522,
-    "lng": -95.8054778
+    "lat": 29.7966611,
+    "lng": -95.8108674
   },
   {
     "id": "2021-midland-regional-championship-at-midland-tx",
@@ -104,8 +104,8 @@
     "date": "2021-10-02",
     "city": "Midland",
     "state": "TX",
-    "lat": 31.83688,
-    "lng": -102.0103767
+    "lat": 31.9893368,
+    "lng": -102.1539155
   },
   {
     "id": "2021-toledo-regional-championship-at-toledo-oh",

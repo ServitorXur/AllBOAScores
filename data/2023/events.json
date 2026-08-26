@@ -32,8 +32,8 @@
     "date": "2023-09-23",
     "city": "Austin",
     "state": "TX",
-    "lat": 30.2711286,
-    "lng": -97.7436995
+    "lat": 30.492488,
+    "lng": -97.7741
   },
   {
     "id": "2023-2023-bands-of-america-central-ohio-regional-championship-presented-by-yamaha",
@@ -78,10 +78,10 @@
     "type": "Regional",
     "venue": "Northwest High School Stadium",
     "date": "2023-09-30",
-    "city": "Pasadena",
-    "state": "MD",
-    "lat": 39.155816,
-    "lng": -76.5528815
+    "city": "Waukee",
+    "state": "IA",
+    "lat": 41.6373562,
+    "lng": -93.8914336
   },
   {
     "id": "2023-2023-bands-of-america-north-houston-regional-championship-presented-by-yamaha",
@@ -90,10 +90,10 @@
     "type": "Regional",
     "venue": "Woodforest Bank Stadium",
     "date": "2023-09-30",
-    "city": "Prattville",
-    "state": "AL",
-    "lat": 32.4600136,
-    "lng": -86.4753174
+    "city": "Shenandoah",
+    "state": "TX",
+    "lat": 30.1848671,
+    "lng": -95.4489906
   },
   {
     "id": "2023-2023-bands-of-america-south-texas-regional-championship-presented-by-yamaha",
@@ -150,10 +150,10 @@
     "type": "Regional",
     "venue": "Simmons Bank Liberty Stadium",
     "date": "2023-10-07",
-    "city": "Columbia",
-    "state": "MO",
-    "lat": 38.951883,
-    "lng": -92.3337366
+    "city": "Memphis",
+    "state": "TN",
+    "lat": 35.1211305,
+    "lng": -89.9774153
   },
   {
     "id": "2023-2023-bands-of-america-northwest-ohio-regional-championship-presented-by",
@@ -176,8 +176,8 @@
     "date": "2023-10-07",
     "city": "Katy",
     "state": "TX",
-    "lat": 29.7857853,
-    "lng": -95.8243956
+    "lat": 29.7966611,
+    "lng": -95.8108674
   },
   {
     "id": "2023-2023-bands-of-america-west-houston-regional-championship-presented-by-yamaha",
@@ -188,8 +188,8 @@
     "date": "2023-10-07",
     "city": "Katy",
     "state": "TX",
-    "lat": 29.7857853,
-    "lng": -95.8243956
+    "lat": 29.7966611,
+    "lng": -95.8108674
   },
   {
     "id": "2023-2023-bands-of-america-carolina-regional-championship",

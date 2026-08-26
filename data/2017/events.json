@@ -32,8 +32,8 @@
     "date": "2017-09-23",
     "city": "Austin",
     "state": "TX",
-    "lat": 30.2711286,
-    "lng": -97.7436995
+    "lat": 30.492488,
+    "lng": -97.7741
   },
   {
     "id": "2017-clarksville-regional-championship-at-clarksville-tn",
@@ -92,8 +92,8 @@
     "date": "2017-10-07",
     "city": "Conroe",
     "state": "TX",
-    "lat": 30.3118769,
-    "lng": -95.4560512
+    "lat": 30.1848671,
+    "lng": -95.4489906
   },
   {
     "id": "2017-dayton-regional-championship-at-dayton-oh",
@@ -140,8 +140,8 @@
     "date": "2017-10-14",
     "city": "Midland",
     "state": "TX",
-    "lat": 31.83688,
-    "lng": -102.0103767
+    "lat": 31.9893368,
+    "lng": -102.1539155
   },
   {
     "id": "2017-winston-salem-regional-championship-at-winston-salem-nc",

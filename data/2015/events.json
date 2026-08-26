@@ -32,8 +32,8 @@
     "date": "2015-09-26",
     "city": "Austin",
     "state": "TX",
-    "lat": 30.2711286,
-    "lng": -97.7436995
+    "lat": 30.492488,
+    "lng": -97.7741
   },
   {
     "id": "2015-bowling-green-regional-championship-at-bowling-green-oh",
@@ -68,8 +68,8 @@
     "date": "2015-10-03",
     "city": "Conroe",
     "state": "TX",
-    "lat": 30.3118769,
-    "lng": -95.4560512
+    "lat": 30.1848671,
+    "lng": -95.4489906
   },
   {
     "id": "2015-dayton-regional-championship-at-dayton-oh",
@@ -188,8 +188,8 @@
     "date": "2015-10-30",
     "city": "Atlanta",
     "state": "GA",
-    "lat": 33.7544657,
-    "lng": -84.3898151
+    "lat": 33.758056,
+    "lng": -84.401111
   },
   {
     "id": "2015-san-antonio-regional-championship-at-san-antonio-tx",

@@ -20,8 +20,8 @@
     "date": "2024-09-21",
     "city": "Austin",
     "state": "TX",
-    "lat": 30.2711286,
-    "lng": -97.7436995
+    "lat": 30.492488,
+    "lng": -97.7741
   },
   {
     "id": "2024-2024-bands-of-america-new-mexico-regional-championship-presented-by-yamaha",
@@ -78,10 +78,10 @@
     "type": "Regional",
     "venue": "Northwest High School Stadium",
     "date": "2024-09-28",
-    "city": "Pasadena",
-    "state": "MD",
-    "lat": 39.155816,
-    "lng": -76.5528815
+    "city": "Waukee",
+    "state": "IA",
+    "lat": 41.6373562,
+    "lng": -93.8914336
   },
   {
     "id": "2024-2024-bands-of-america-north-houston-regional-championship-presented-by-yamaha",
@@ -90,10 +90,10 @@
     "type": "Regional",
     "venue": "Woodforest Bank Stadium",
     "date": "2024-09-28",
-    "city": "Prattville",
-    "state": "AL",
-    "lat": 32.4600136,
-    "lng": -86.4753174
+    "city": "Shenandoah",
+    "state": "TX",
+    "lat": 30.1848671,
+    "lng": -95.4489906
   },
   {
     "id": "2024-2024-bands-of-america-west-texas-regional-championship-presented-by-yamaha",
@@ -150,10 +150,10 @@
     "type": "Regional",
     "venue": "Simmons Bank Liberty Stadium",
     "date": "2024-10-05",
-    "city": "Columbia",
-    "state": "MO",
-    "lat": 38.951883,
-    "lng": -92.3337366
+    "city": "Memphis",
+    "state": "TN",
+    "lat": 35.1211305,
+    "lng": -89.9774153
   },
   {
     "id": "2024-2024-bands-of-america-south-houston-regional-championship-presented-by-yamaha",
