@@ -20,8 +20,8 @@
     "date": "2021-09-18",
     "city": "McAllen",
     "state": "TX",
-    "lat": 26.204114,
-    "lng": -98.2300605
+    "lat": 26.2238881,
+    "lng": -98.2373019
   },
   {
     "id": "2021-powder-springs-regional-championship-at-powder-springs-ga",
@@ -128,8 +128,8 @@
     "date": "2021-10-09",
     "city": "College Park",
     "state": "MD",
-    "lat": 38.980666,
-    "lng": -76.9369189
+    "lat": 38.9902987,
+    "lng": -76.9474534
   },
   {
     "id": "2021-dallas-ft-worth-regional-championship-at-dallas-ft-worth-tx",
@@ -138,10 +138,10 @@
     "type": "Regional",
     "venue": "Pennington Field, HEB ISD",
     "date": "2021-10-09",
-    "city": "Fort Worth",
+    "city": "Bedford",
     "state": "TX",
-    "lat": 32.753177,
-    "lng": -97.3327459
+    "lat": 32.8327183,
+    "lng": -97.1363983
   },
   {
     "id": "2021-iowa-regional-championship-at-cedar-falls-ia",

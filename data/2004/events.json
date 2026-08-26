@@ -152,8 +152,8 @@
     "date": "2004-10-16",
     "city": "Saint Louis",
     "state": "MO",
-    "lat": 38.6254063,
-    "lng": -90.190009
+    "lat": 38.6327852,
+    "lng": -90.188551
   },
   {
     "id": "2004-2004-10-16mop",
@@ -164,8 +164,8 @@
     "date": "2004-10-16",
     "city": "St. Louis",
     "state": "MO",
-    "lat": 38.6254063,
-    "lng": -90.190009
+    "lat": 38.6327852,
+    "lng": -90.188551
   },
   {
     "id": "2004-regional-championship-at-st-petersburg-fl",
@@ -236,8 +236,8 @@
     "date": "2004-10-30",
     "city": "Indianapolis",
     "state": "IN",
-    "lat": 39.7683331,
-    "lng": -86.1583502
+    "lat": 39.7636517,
+    "lng": -86.1640108
   },
   {
     "id": "2004-regional-championship-at-indianapolis-indiana",
@@ -248,8 +248,8 @@
     "date": "2004-10-30",
     "city": "Indianapolis",
     "state": "IN",
-    "lat": 39.7683331,
-    "lng": -86.1583502
+    "lat": 39.7636517,
+    "lng": -86.1640108
   },
   {
     "id": "2004-grand-national-championships-at-indianapolis-in",
@@ -260,7 +260,7 @@
     "date": "2004-11-06",
     "city": "Indianapolis",
     "state": "IN",
-    "lat": 39.7683331,
-    "lng": -86.1583502
+    "lat": 39.7636517,
+    "lng": -86.1640108
   }
 ]

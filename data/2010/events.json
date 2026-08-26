@@ -55,9 +55,9 @@
     "venue": "Burgess - Snow Field",
     "date": "2010-10-09",
     "city": "Jacksonville",
-    "state": "FL",
-    "lat": 30.3262247,
-    "lng": -81.6579179
+    "state": "AL",
+    "lat": 33.8203642,
+    "lng": -85.7662921
   },
   {
     "id": "2010-regional-championship-at-jacksonville-alabama",
@@ -128,8 +128,8 @@
     "date": "2010-10-16",
     "city": "Saint Louis",
     "state": "MO",
-    "lat": 38.6254063,
-    "lng": -90.190009
+    "lat": 38.6327852,
+    "lng": -90.188551
   },
   {
     "id": "2010-regional-championship-at-hemet-ca",
@@ -212,8 +212,8 @@
     "date": "2010-11-06",
     "city": "St. George",
     "state": "UT",
-    "lat": 37.1098772,
-    "lng": -113.5832063
+    "lat": 37.1030099,
+    "lng": -113.5653354
   },
   {
     "id": "2010-grand-national-championships-at-indianapolis-indiana",

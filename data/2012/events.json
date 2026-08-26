@@ -103,9 +103,9 @@
     "venue": "Paul Snow Stadium -‐ October 13",
     "date": "2012-10-13",
     "city": "Jacksonville",
-    "state": "FL",
-    "lat": 30.3262247,
-    "lng": -81.6579179
+    "state": "AL",
+    "lat": 33.8137919,
+    "lng": -85.7612872
   },
   {
     "id": "2012-indianapolis-super-regional-championship-at-indianapolis-in",
@@ -128,8 +128,8 @@
     "date": "2012-10-20",
     "city": "Saint Louis",
     "state": "MO",
-    "lat": 38.6254063,
-    "lng": -90.190009
+    "lat": 38.6327852,
+    "lng": -90.188551
   },
   {
     "id": "2012-atlanta-super-regional-championship-at-atlanta-ga",
@@ -138,10 +138,10 @@
     "type": "Super Regional",
     "venue": "Georgia Dome -‐ October 27",
     "date": "2012-10-27",
-    "city": "Winder",
+    "city": "Atlanta",
     "state": "GA",
-    "lat": 33.9919085,
-    "lng": -83.7184368
+    "lat": 33.7544657,
+    "lng": -84.3898151
   },
   {
     "id": "2012-glendora-regional-championship-at-glendora-ca",

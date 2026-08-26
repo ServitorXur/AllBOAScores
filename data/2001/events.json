@@ -126,10 +126,10 @@
     "type": "Regional",
     "venue": "Georgia Dome • October 27, 2001",
     "date": "2001-10-27",
-    "city": "Brunswick",
+    "city": "Atlanta",
     "state": "GA",
-    "lat": 31.1499528,
-    "lng": -81.4914894
+    "lat": 33.7544657,
+    "lng": -84.3898151
   },
   {
     "id": "2001-regional-championship-at-morgantown-wv",
@@ -164,8 +164,8 @@
     "date": "2001-11-03",
     "city": "Indianapolis",
     "state": "IN",
-    "lat": 39.7683331,
-    "lng": -86.1583502
+    "lat": 39.7636517,
+    "lng": -86.1640108
   },
   {
     "id": "2001-grand-national-championships",
@@ -176,7 +176,7 @@
     "date": "2001-11-08",
     "city": "Indianapolis",
     "state": "IN",
-    "lat": 39.7683331,
-    "lng": -86.1583502
+    "lat": 39.7636517,
+    "lng": -86.1640108
   }
 ]

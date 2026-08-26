@@ -186,10 +186,10 @@
     "type": "Super Regional",
     "venue": "Georgia Dome -‐ October 29",
     "date": "2016-10-29",
-    "city": "Winder",
+    "city": "Atlanta",
     "state": "GA",
-    "lat": 33.9919085,
-    "lng": -83.7184368
+    "lat": 33.7544657,
+    "lng": -84.3898151
   },
   {
     "id": "2016-long-beach-regional-championship-at-long-beach-ca",
@@ -199,9 +199,9 @@
     "venue": "Long Beach City College -‐ October 29",
     "date": "2016-10-29",
     "city": "Long Beach",
-    "state": "NY",
-    "lat": 40.5885508,
-    "lng": -73.6582631
+    "state": "CA",
+    "lat": 33.7690164,
+    "lng": -118.191604
   },
   {
     "id": "2016-st-george-regional-championship-at-st-george-ut",
