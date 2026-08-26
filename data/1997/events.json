@@ -8,8 +8,8 @@
     "date": "1997-09-27",
     "city": "Cincinnati",
     "state": "OH",
-    "lat": 39.1012809,
-    "lng": -84.5127405
+    "lat": 39.1315542,
+    "lng": -84.5202952
   },
   {
     "id": "1997-regional-championship-at-toledo-oh",
@@ -20,8 +20,8 @@
     "date": "1997-10-04",
     "city": "Toledo",
     "state": "OH",
-    "lat": 41.6529143,
-    "lng": -83.5378173
+    "lat": 41.6583953,
+    "lng": -83.6147907
   },
   {
     "id": "1997-regional-championship-at-morgantown-wv",
@@ -32,8 +32,8 @@
     "date": "1997-10-11",
     "city": "Morgantown",
     "state": "WV",
-    "lat": 39.6296809,
-    "lng": -79.9559437
+    "lat": 39.6348398,
+    "lng": -79.9542095
   },
   {
     "id": "1997-regional-championship-at-houston-tx",
@@ -44,8 +44,8 @@
     "date": "1997-10-18",
     "city": "Houston",
     "state": "TX",
-    "lat": 29.7589382,
-    "lng": -95.3676974
+    "lat": 29.7167915,
+    "lng": -95.4047811
   },
   {
     "id": "1997-regional-championship-at-johnson-city-tn",
@@ -56,8 +56,8 @@
     "date": "1997-10-18",
     "city": "Johnson City",
     "state": "TN",
-    "lat": 36.3167671,
-    "lng": -82.352903
+    "lat": 36.3024236,
+    "lng": -82.3692822
   },
   {
     "id": "1997-regional-championship-at-piscataway-nj",
@@ -68,8 +68,8 @@
     "date": "1997-10-18",
     "city": "Piscataway",
     "state": "NJ",
-    "lat": 40.5464326,
-    "lng": -74.4660542
+    "lat": 40.5204169,
+    "lng": -74.4645303
   },
   {
     "id": "1997-regional-championship-at-pitscataway-nj",
@@ -80,8 +80,8 @@
     "date": "1997-10-18",
     "city": "Piscataway",
     "state": "NJ",
-    "lat": 40.5464326,
-    "lng": -74.4660542
+    "lat": 40.5204169,
+    "lng": -74.4645303
   },
   {
     "id": "1997-regional-championship-at-st-louis-mo",
@@ -128,8 +128,8 @@
     "date": "1997-11-08",
     "city": "Waco",
     "state": "TX",
-    "lat": 31.5491899,
-    "lng": -97.1474628
+    "lat": 31.5504341,
+    "lng": -97.1102906
   },
   {
     "id": "1997-grand-national-championship-at-indianapolis-in",

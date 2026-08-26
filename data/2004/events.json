@@ -32,8 +32,8 @@
     "date": "2004-09-18",
     "city": "Massillon",
     "state": "OH",
-    "lat": 40.7965119,
-    "lng": -81.5231597
+    "lat": 40.793641,
+    "lng": -81.4997215
   },
   {
     "id": "2004-2004-9-25mif",
@@ -42,10 +42,10 @@
     "type": "Regional",
     "venue": "Silverdome",
     "date": "2004-09-25",
-    "city": "Launceston",
-    "state": "TAS",
-    "lat": null,
-    "lng": null
+    "city": "Pontiac",
+    "state": "MI",
+    "lat": 42.6379672,
+    "lng": -83.257684
   },
   {
     "id": "2004-2004-9-25mip",
@@ -54,10 +54,10 @@
     "type": "Regional",
     "venue": "Silverdome",
     "date": "2004-09-25",
-    "city": "Launceston",
-    "state": "TAS",
-    "lat": null,
-    "lng": null
+    "city": "Pontiac",
+    "state": "MI",
+    "lat": 42.6379672,
+    "lng": -83.257684
   },
   {
     "id": "2004-regional-championship-at-murfreesboro-tn",
@@ -68,8 +68,8 @@
     "date": "2004-09-25",
     "city": "Murfreesboro",
     "state": "TN",
-    "lat": 35.8460396,
-    "lng": -86.3921096
+    "lat": 35.8486008,
+    "lng": -86.3609036
   },
   {
     "id": "2004-regional-championship-at-huntsville-tx",
@@ -80,8 +80,8 @@
     "date": "2004-10-02",
     "city": "Huntsville",
     "state": "TX",
-    "lat": 30.7235263,
-    "lng": -95.5507771
+    "lat": 30.7133471,
+    "lng": -95.5449136
   },
   {
     "id": "2004-regional-championship-at-youngstown-oh",
@@ -92,8 +92,8 @@
     "date": "2004-10-02",
     "city": "Youngstown",
     "state": "OH",
-    "lat": 41.1035786,
-    "lng": -80.6520161
+    "lat": 41.1067218,
+    "lng": -80.6477542
   },
   {
     "id": "2004-regional-championship-at-arlington-texas",
@@ -104,8 +104,8 @@
     "date": "2004-10-09",
     "city": "Arlington",
     "state": "TX",
-    "lat": 32.7355816,
-    "lng": -97.1071186
+    "lat": 32.7315155,
+    "lng": -97.1171533
   },
   {
     "id": "2004-regional-championship-at-la-joya-tx",
@@ -140,8 +140,8 @@
     "date": "2004-10-09",
     "city": "Piscataway",
     "state": "NJ",
-    "lat": 40.5464326,
-    "lng": -74.4660542
+    "lat": 40.5204169,
+    "lng": -74.4645303
   },
   {
     "id": "2004-2004-10-16mof",
@@ -162,10 +162,10 @@
     "type": "Regional",
     "venue": "Edward Jones Dome October 15 and16, 2004",
     "date": "2004-10-16",
-    "city": null,
-    "state": null,
-    "lat": null,
-    "lng": null
+    "city": "St. Louis",
+    "state": "MO",
+    "lat": 38.6254063,
+    "lng": -90.190009
   },
   {
     "id": "2004-regional-championship-at-st-petersburg-fl",
@@ -176,8 +176,8 @@
     "date": "2004-10-16",
     "city": "Saint Petersburg",
     "state": "FL",
-    "lat": 27.7712264,
-    "lng": -82.6340259
+    "lat": 27.7680559,
+    "lng": -82.6532755
   },
   {
     "id": "2004-2004-10-23gaf",
@@ -224,8 +224,8 @@
     "date": "2004-10-29",
     "city": "San Antonio",
     "state": "TX",
-    "lat": 29.4246002,
-    "lng": -98.4951405
+    "lat": 29.4168923,
+    "lng": -98.4788949
   },
   {
     "id": "2004-regional-championship-at-indianapolis-in",

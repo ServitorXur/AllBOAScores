@@ -20,8 +20,8 @@
     "date": "2007-09-15",
     "city": "Ypsilanti",
     "state": "MI",
-    "lat": 42.241051,
-    "lng": -83.6117646
+    "lat": 42.2558724,
+    "lng": -83.6473747
   },
   {
     "id": "2007-regional-championship-at-clarksville-tn",
@@ -32,8 +32,8 @@
     "date": "2007-10-06",
     "city": "Clarksville",
     "state": "TN",
-    "lat": 36.5277607,
-    "lng": -87.3588703
+    "lat": 36.5342965,
+    "lng": -87.3543085
   },
   {
     "id": "2007-regional-championship-at-houston-tx",
@@ -56,8 +56,8 @@
     "date": "2007-10-06",
     "city": "Youngstown",
     "state": "OH",
-    "lat": 41.1035786,
-    "lng": -80.6520161
+    "lat": 41.1094863,
+    "lng": -80.6495505
   },
   {
     "id": "2007-regional-championship-at-arlington-tx",
@@ -68,8 +68,8 @@
     "date": "2007-10-13",
     "city": "Arlington",
     "state": "TX",
-    "lat": 32.7355816,
-    "lng": -97.1071186
+    "lat": 32.7284713,
+    "lng": -97.1120213
   },
   {
     "id": "2007-regional-championship-at-el-paso-tx",
@@ -92,8 +92,8 @@
     "date": "2007-10-13",
     "city": "Saint Petersburg",
     "state": "FL",
-    "lat": 27.7712264,
-    "lng": -82.6340259
+    "lat": 27.7680559,
+    "lng": -82.6532755
   },
   {
     "id": "2007-super-regional-championship-at-st-louis-missouri",
@@ -116,8 +116,8 @@
     "date": "2007-10-20",
     "city": "Towson",
     "state": "MD",
-    "lat": 39.3964591,
-    "lng": -76.6148148
+    "lat": 39.3885483,
+    "lng": -76.6158585
   },
   {
     "id": "2007-regional-championship-at-atlanta-ga",
@@ -140,8 +140,8 @@
     "date": "2007-10-27",
     "city": "Hempstead",
     "state": "NY",
-    "lat": 40.6736812,
-    "lng": -73.6190736
+    "lat": 40.715562,
+    "lng": -73.5962921
   },
   {
     "id": "2007-regional-championship-at-flagstaff-az",
@@ -176,8 +176,8 @@
     "date": "2007-11-03",
     "city": "San Antonio",
     "state": "TX",
-    "lat": 29.4246002,
-    "lng": -98.4951405
+    "lat": 29.4168923,
+    "lng": -98.4788949
   },
   {
     "id": "2007-regional-championship-at-los-angeles-ca",
@@ -188,8 +188,8 @@
     "date": "2007-11-10",
     "city": "Monterey Park",
     "state": "CA",
-    "lat": 34.051522,
-    "lng": -118.129807
+    "lat": 34.042866,
+    "lng": -118.1517174
   },
   {
     "id": "2007-regional-championship-at-monterey-park-ca",
@@ -200,8 +200,8 @@
     "date": "2007-11-10",
     "city": "Monterey Park",
     "state": "CA",
-    "lat": 34.051522,
-    "lng": -118.129807
+    "lat": 34.042866,
+    "lng": -118.1517174
   },
   {
     "id": "2007-grand-national-championships-at-indianapolis-indiana",

@@ -20,8 +20,8 @@
     "date": "1980-10-04",
     "city": "Toledo",
     "state": "OH",
-    "lat": 41.6529143,
-    "lng": -83.5378173
+    "lat": 41.6583953,
+    "lng": -83.6147907
   },
   {
     "id": "1980-northeastern-regional-championship-at-west-chester-pa",
@@ -44,8 +44,8 @@
     "date": "1980-11-01",
     "city": "Harrisonburg",
     "state": "VA",
-    "lat": 38.4493315,
-    "lng": -78.8688833
+    "lat": 38.4362412,
+    "lng": -78.8687576
   },
   {
     "id": "1980-southern-regional-championship-at-gonzalez-fl",
@@ -56,8 +56,8 @@
     "date": "1980-11-01",
     "city": "Cantonment",
     "state": "FL",
-    "lat": 30.605427,
-    "lng": -87.344442
+    "lat": 30.5744128,
+    "lng": -87.3011046
   },
   {
     "id": "1980-mid-southern-regional-championship-at-jackson-tn",
@@ -92,7 +92,7 @@
     "date": "1980-11-28",
     "city": "Jacksonville",
     "state": "FL",
-    "lat": 30.3262247,
-    "lng": -81.6579179
+    "lat": 30.3215709,
+    "lng": -81.6398592
   }
 ]

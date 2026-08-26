@@ -20,8 +20,8 @@
     "date": "2002-09-28",
     "city": "Toledo",
     "state": "OH",
-    "lat": 41.6529143,
-    "lng": -83.5378173
+    "lat": 41.6583953,
+    "lng": -83.6147907
   },
   {
     "id": "2002-regional-championship-at-johnson-city-tn",
@@ -32,8 +32,8 @@
     "date": "2002-09-28",
     "city": "Johnson City",
     "state": "TN",
-    "lat": 36.3167671,
-    "lng": -82.352903
+    "lat": 36.3037542,
+    "lng": -82.3708708
   },
   {
     "id": "2002-regional-championship-at-toledo-oh",
@@ -44,8 +44,8 @@
     "date": "2002-09-28",
     "city": "Toledo",
     "state": "OH",
-    "lat": 41.6529143,
-    "lng": -83.5378173
+    "lat": 41.6583953,
+    "lng": -83.6147907
   },
   {
     "id": "2002-regional-championship-at-daytona-beach-fl",
@@ -56,8 +56,8 @@
     "date": "2002-10-05",
     "city": "Daytona Beach",
     "state": "FL",
-    "lat": 29.2108147,
-    "lng": -81.0228331
+    "lat": 29.172821,
+    "lng": -81.1174973
   },
   {
     "id": "2002-regional-championship-at-daytona-fl",
@@ -68,8 +68,8 @@
     "date": "2002-10-05",
     "city": "San Jose",
     "state": "CA",
-    "lat": 37.3361663,
-    "lng": -121.890591
+    "lat": 37.3206076,
+    "lng": -121.8624134
   },
   {
     "id": "2002-regional-championship-at-huntsville-tx",
@@ -80,8 +80,8 @@
     "date": "2002-10-05",
     "city": "Huntsville",
     "state": "TX",
-    "lat": 30.7235263,
-    "lng": -95.5507771
+    "lat": 30.7133471,
+    "lng": -95.5449136
   },
   {
     "id": "2002-regional-championship-at-massillon-oh",
@@ -92,8 +92,8 @@
     "date": "2002-10-12",
     "city": "Massillon",
     "state": "OH",
-    "lat": 40.7965119,
-    "lng": -81.5231597
+    "lat": 40.793641,
+    "lng": -81.4997215
   },
   {
     "id": "2002-regional-championship-at-st-louis-mo",
@@ -116,8 +116,8 @@
     "date": "2002-10-19",
     "city": "Arlington",
     "state": "TX",
-    "lat": 32.7355816,
-    "lng": -97.1071186
+    "lat": 32.7315155,
+    "lng": -97.1171533
   },
   {
     "id": "2002-regional-championship-at-arlington-texas",
@@ -128,8 +128,8 @@
     "date": "2002-10-19",
     "city": "Arlington",
     "state": "TX",
-    "lat": 32.7355816,
-    "lng": -97.1071186
+    "lat": 32.7315155,
+    "lng": -97.1171533
   },
   {
     "id": "2002-regional-championship-at-hempstead-ny",
@@ -140,8 +140,8 @@
     "date": "2002-10-19",
     "city": "Hempstead",
     "state": "NY",
-    "lat": 40.6736812,
-    "lng": -73.6190736
+    "lat": 40.715562,
+    "lng": -73.5962921
   },
   {
     "id": "2002-regional-championship-at-youngstown-oh",
@@ -188,8 +188,8 @@
     "date": "2002-11-02",
     "city": "San Antonio",
     "state": "TX",
-    "lat": 29.4246002,
-    "lng": -98.4951405
+    "lat": 29.4168923,
+    "lng": -98.4788949
   },
   {
     "id": "2002-regional-championship-at-indianapolis-in",
@@ -212,7 +212,7 @@
     "date": "2002-11-09",
     "city": "Las Vegas",
     "state": "NV",
-    "lat": 36.1674263,
-    "lng": -115.1484131
+    "lat": 36.1079411,
+    "lng": -115.1439051
   }
 ]

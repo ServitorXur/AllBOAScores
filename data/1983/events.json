@@ -44,8 +44,8 @@
     "date": "1983-10-29",
     "city": "Houston",
     "state": "TX",
-    "lat": 29.7589382,
-    "lng": -95.3676974
+    "lat": 29.7167915,
+    "lng": -95.4047811
   },
   {
     "id": "1983-grand-national-championship-at-johnson-city-tn",
@@ -56,7 +56,7 @@
     "date": "1983-11-04",
     "city": "Johnson City",
     "state": "TN",
-    "lat": 36.3167671,
-    "lng": -82.352903
+    "lat": 36.3024236,
+    "lng": -82.3692822
   }
 ]

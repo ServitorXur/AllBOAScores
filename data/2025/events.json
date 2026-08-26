@@ -20,8 +20,8 @@
     "date": "2025-09-20",
     "city": "Las Cruces",
     "state": "NM",
-    "lat": 32.3140354,
-    "lng": -106.779807
+    "lat": 32.2796361,
+    "lng": -106.7411114
   },
   {
     "id": "2025-2025-bands-of-america-northwest-ohio-regional-championship-presented-by",
@@ -32,8 +32,8 @@
     "date": "2025-09-20",
     "city": "Toledo",
     "state": "OH",
-    "lat": 41.6529143,
-    "lng": -83.5378173
+    "lat": 41.6571852,
+    "lng": -83.6135953
   },
   {
     "id": "2025-2025-bands-of-america-south-texas-regional-championship-presented-by-yamaha",
@@ -44,8 +44,8 @@
     "date": "2025-09-20",
     "city": "McAllen",
     "state": "TX",
-    "lat": 26.204114,
-    "lng": -98.2300605
+    "lat": 26.2238881,
+    "lng": -98.2373019
   },
   {
     "id": "2025-2025-bands-of-america-central-ohio-regional-championship-presented-by-yamaha",
@@ -54,10 +54,10 @@
     "type": "Regional",
     "venue": "Historic Crew Stadium",
     "date": "2025-09-27",
-    "city": "Tulsipur",
-    "state": null,
-    "lat": null,
-    "lng": null
+    "city": "Columbus",
+    "state": "OH",
+    "lat": 40.009468,
+    "lng": -82.9911382
   },
   {
     "id": "2025-2025-bands-of-america-central-texas-regional-championship-presented-by-yamaha",
@@ -80,8 +80,8 @@
     "date": "2025-09-27",
     "city": "Louisville",
     "state": "KY",
-    "lat": 38.2542376,
-    "lng": -85.759407
+    "lat": 38.2060161,
+    "lng": -85.7587734
   },
   {
     "id": "2025-2025-bands-of-america-north-houston-regional-championship-presented-by-yamaha",
@@ -116,8 +116,8 @@
     "date": "2025-10-04",
     "city": "Conway",
     "state": "SC",
-    "lat": 33.8360035,
-    "lng": -79.0478143
+    "lat": 33.7929212,
+    "lng": -79.0174511
   },
   {
     "id": "2025-2025-bands-of-america-chattanooga-regional-championship-presented-by-yamaha",
@@ -128,8 +128,8 @@
     "date": "2025-10-04",
     "city": "Campbellsville",
     "state": "KY",
-    "lat": 37.3433974,
-    "lng": -85.3419069
+    "lat": 37.3426158,
+    "lng": -85.3513669
   },
   {
     "id": "2025-2025-bands-of-america-dallas-mid-cities-regional-championship-presented-by",
@@ -140,8 +140,8 @@
     "date": "2025-10-04",
     "city": "Bedford",
     "state": "TX",
-    "lat": 32.844017,
-    "lng": -97.1430671
+    "lat": 32.8327183,
+    "lng": -97.1363983
   },
   {
     "id": "2025-2025-bands-of-america-iowa-regional-championship-presented-by-yamaha",
@@ -198,10 +198,10 @@
     "type": "Regional",
     "venue": "Astound Broadband Stadium",
     "date": "2025-10-11",
-    "city": "Tulsipur",
-    "state": null,
-    "lat": null,
-    "lng": null
+    "city": "Midland",
+    "state": "TX",
+    "lat": 31.9893368,
+    "lng": -102.1539155
   },
   {
     "id": "2025-2025-bands-of-america-st-louis-super-regional-presented-by-yamaha",
@@ -212,8 +212,8 @@
     "date": "2025-10-17",
     "city": "St. Louis",
     "state": "MO",
-    "lat": 38.6254063,
-    "lng": -90.190009
+    "lat": 38.6327852,
+    "lng": -90.188551
   },
   {
     "id": "2025-2025-bands-of-america-ballad-health-east-tennessee-regional-championship",
@@ -222,10 +222,10 @@
     "type": "Regional",
     "venue": "Ballad Health Athletic Center",
     "date": "2025-10-18",
-    "city": "Flower Mound",
-    "state": "TX",
-    "lat": 33.0283854,
-    "lng": -97.0867203
+    "city": "Johnson City",
+    "state": "TN",
+    "lat": 36.3167671,
+    "lng": -82.352903
   },
   {
     "id": "2025-2025-bands-of-america-orlando-regional-championship-presented-by-yamaha",
@@ -236,8 +236,8 @@
     "date": "2025-10-18",
     "city": "Orlando",
     "state": "FL",
-    "lat": 28.5421218,
-    "lng": -81.379045
+    "lat": 28.5390398,
+    "lng": -81.4027504
   },
   {
     "id": "2025-2025-bands-of-america-waco-regional-championship-presented-by-yamaha",
@@ -248,8 +248,8 @@
     "date": "2025-10-18",
     "city": "Waco",
     "state": "TX",
-    "lat": 31.5491899,
-    "lng": -97.1474628
+    "lat": 31.5582247,
+    "lng": -97.1156821
   },
   {
     "id": "2025-2025-bands-of-america-indianapolis-super-regional-championship-presented-by",
@@ -260,8 +260,8 @@
     "date": "2025-10-24",
     "city": "Indianapolis",
     "state": "IN",
-    "lat": 39.7683331,
-    "lng": -86.1583502
+    "lat": 39.7590621,
+    "lng": -86.1638376
   },
   {
     "id": "2025-2025-bands-of-america-mid-atlantic-regional-championship-presented-by-yamaha",
@@ -272,8 +272,8 @@
     "date": "2025-10-25",
     "city": "Newark",
     "state": "DE",
-    "lat": 39.6828358,
-    "lng": -75.7515682
+    "lat": 39.6616707,
+    "lng": -75.7488991
   },
   {
     "id": "2025-2025-bands-of-america-california-regional-championship-presented-by-yamaha",
@@ -306,10 +306,10 @@
     "type": "Regional",
     "venue": "Doug Cochran Stadium, Cass High School",
     "date": "2025-11-01",
-    "city": "Midland",
-    "state": "TX",
-    "lat": 31.83688,
-    "lng": -102.0103767
+    "city": "White",
+    "state": "GA",
+    "lat": 34.283002,
+    "lng": -84.7633671
   },
   {
     "id": "2025-2025-bands-of-america-san-antonio-super-regional-championship-presented-by",
@@ -320,8 +320,8 @@
     "date": "2025-11-07",
     "city": "San Antonio",
     "state": "TX",
-    "lat": 29.4246002,
-    "lng": -98.4951405
+    "lat": 29.4168923,
+    "lng": -98.4788949
   },
   {
     "id": "2025-2025-bands-of-america-utah-regional-championship-presented-by-yamaha",
@@ -344,7 +344,7 @@
     "date": "2025-11-13",
     "city": "Indianapolis",
     "state": "IN",
-    "lat": 39.7683331,
-    "lng": -86.1583502
+    "lat": 39.7590621,
+    "lng": -86.1638376
   }
 ]

@@ -16,12 +16,12 @@
     "season": 2013,
     "name": "2013 Bands of America Monroeville Regional Championship",
     "type": "Regional",
-    "venue": null,
+    "venue": "Gateway High School",
     "date": "2013-09-21",
-    "city": null,
-    "state": null,
-    "lat": null,
-    "lng": null
+    "city": "Monroeville",
+    "state": "PA",
+    "lat": 40.4315061,
+    "lng": -79.7548388
   },
   {
     "id": "2013-austin-regional-championship-at-austin-tx",
@@ -44,8 +44,8 @@
     "date": "2013-09-28",
     "city": "Toledo",
     "state": "OH",
-    "lat": 41.6529143,
-    "lng": -83.5378173
+    "lat": 41.6571852,
+    "lng": -83.6135953
   },
   {
     "id": "2013-conroe-regional-championship-at-conroe-tx",
@@ -92,20 +92,20 @@
     "date": "2013-10-12",
     "city": "Hillsboro",
     "state": "OR",
-    "lat": 45.5228939,
-    "lng": -122.989827
+    "lat": 45.5543855,
+    "lng": -122.9069884
   },
   {
     "id": "2013-powder-springs-regional-championship-at-powder-springs-ga",
     "season": 2013,
     "name": "2013 Bands of America Powder Springs Regional Championship",
     "type": "Regional",
-    "venue": null,
+    "venue": "McEachern High School",
     "date": "2013-10-19",
-    "city": null,
-    "state": null,
-    "lat": null,
-    "lng": null
+    "city": "Powder Springs",
+    "state": "GA",
+    "lat": 33.8960695,
+    "lng": -84.67998
   },
   {
     "id": "2013-st-louis-super-regional-championship-at-st-louis-mo",
@@ -128,8 +128,8 @@
     "date": "2013-10-19",
     "city": "Winston-Salem",
     "state": "NC",
-    "lat": 36.0998131,
-    "lng": -80.2440518
+    "lat": 36.0826466,
+    "lng": -80.222069
   },
   {
     "id": "2013-atlanta-super-regional-championship-at-atlanta-ga",
@@ -152,8 +152,8 @@
     "date": "2013-10-26",
     "city": "Towson",
     "state": "MD",
-    "lat": 39.3964591,
-    "lng": -76.6148148
+    "lat": 39.3869768,
+    "lng": -76.6185804
   },
   {
     "id": "2013-san-antonio-super-regional-championship-at-san-antonio-tx",
@@ -164,8 +164,8 @@
     "date": "2013-11-02",
     "city": "San Antonio",
     "state": "TX",
-    "lat": 29.4246002,
-    "lng": -98.4951405
+    "lat": 29.4168923,
+    "lng": -98.4788949
   },
   {
     "id": "2013-indianapolis-super-regional-championship-at-indianapolis-in",
@@ -176,8 +176,8 @@
     "date": "2013-11-09",
     "city": "Indianapolis",
     "state": "IN",
-    "lat": 39.7683331,
-    "lng": -86.1583502
+    "lat": 39.7590621,
+    "lng": -86.1638376
   },
   {
     "id": "2013-long-beach-regional-championship-at-long-beach-ca",
@@ -188,8 +188,8 @@
     "date": "2013-11-09",
     "city": "Long Beach",
     "state": "CA",
-    "lat": 33.7690164,
-    "lng": -118.191604
+    "lat": 33.8282786,
+    "lng": -118.1363966
   },
   {
     "id": "2013-grand-national-championship-at-indianapolis-in",
@@ -200,7 +200,7 @@
     "date": "2013-11-14",
     "city": "Indianapolis",
     "state": "IN",
-    "lat": 39.7683331,
-    "lng": -86.1583502
+    "lat": 39.7590621,
+    "lng": -86.1638376
   }
 ]

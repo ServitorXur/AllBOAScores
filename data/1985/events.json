@@ -8,8 +8,8 @@
     "date": "1985-10-05",
     "city": "Jonesboro",
     "state": "AR",
-    "lat": 35.8348088,
-    "lng": -90.7045297
+    "lat": 35.8441163,
+    "lng": -90.6726325
   },
   {
     "id": "1985-regional-championship-at-whitewater-wi",
@@ -20,8 +20,8 @@
     "date": "1985-10-05",
     "city": "Whitewater",
     "state": "WI",
-    "lat": 42.8339562,
-    "lng": -88.7306517
+    "lat": 42.8443596,
+    "lng": -88.7436664
   },
   {
     "id": "1985-regional-championship-at-morgantown-wv",
@@ -32,8 +32,8 @@
     "date": "1985-10-12",
     "city": "Morgantown",
     "state": "WV",
-    "lat": 39.6296809,
-    "lng": -79.9559437
+    "lat": 39.6348398,
+    "lng": -79.9542095
   },
   {
     "id": "1985-regional-championship-at-moscow-id",
@@ -44,8 +44,8 @@
     "date": "1985-10-12",
     "city": "Moscow",
     "state": "ID",
-    "lat": 46.7323875,
-    "lng": -117.000165
+    "lat": 46.7237978,
+    "lng": -117.0206648
   },
   {
     "id": "1985-regional-championship-at-houston-tx",
@@ -56,8 +56,8 @@
     "date": "1985-10-19",
     "city": "Houston",
     "state": "TX",
-    "lat": 29.7589382,
-    "lng": -95.3676974
+    "lat": 29.7130529,
+    "lng": -95.4020704
   },
   {
     "id": "1985-regional-championship-at-akron-oh",
@@ -68,8 +68,8 @@
     "date": "1985-10-26",
     "city": "Akron",
     "state": "OH",
-    "lat": 41.083064,
-    "lng": -81.518485
+    "lat": 41.0394205,
+    "lng": -81.4561285
   },
   {
     "id": "1985-regional-championship-at-indianapolis-in",

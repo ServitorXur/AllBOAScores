@@ -20,8 +20,8 @@
     "date": "1984-10-06",
     "city": "Joliet",
     "state": "IL",
-    "lat": 41.5263603,
-    "lng": -88.0840212
+    "lat": 41.5202854,
+    "lng": -88.1525426
   },
   {
     "id": "1984-regional-championship-at-columbus-oh",
@@ -56,8 +56,8 @@
     "date": "1984-10-27",
     "city": "Johnson City",
     "state": "TN",
-    "lat": 36.3167671,
-    "lng": -82.352903
+    "lat": 36.3037542,
+    "lng": -82.3708708
   },
   {
     "id": "1984-grand-national-championship-at-indianapolis-in",
@@ -68,7 +68,7 @@
     "date": "1984-11-16",
     "city": "Indianapolis",
     "state": "IN",
-    "lat": 39.7683331,
-    "lng": -86.1583502
+    "lat": 39.7522238,
+    "lng": -86.1311507
   }
 ]

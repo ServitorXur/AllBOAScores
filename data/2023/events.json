@@ -8,8 +8,8 @@
     "date": "2023-09-16",
     "city": "Louisville",
     "state": "KY",
-    "lat": 38.2542376,
-    "lng": -85.759407
+    "lat": 38.2133224,
+    "lng": -85.7577075
   },
   {
     "id": "2023-2023-bands-of-america-wisconsin-regional-championship-presented-by-yamaha",
@@ -20,8 +20,8 @@
     "date": "2023-09-16",
     "city": "Whitewater",
     "state": "WI",
-    "lat": 42.8339562,
-    "lng": -88.7306517
+    "lat": 42.8443596,
+    "lng": -88.7436664
   },
   {
     "id": "2023-2023-bands-of-america-austin-regional-championship-presented-by-yamaha",
@@ -40,12 +40,12 @@
     "season": 2023,
     "name": "2023 Bands of America Central Ohio Regional Championship",
     "type": "Regional",
-    "venue": null,
+    "venue": "Fortress Obetz",
     "date": "2023-09-23",
-    "city": null,
-    "state": null,
-    "lat": null,
-    "lng": null
+    "city": "Obetz",
+    "state": "OH",
+    "lat": 39.885817,
+    "lng": -82.9444641
   },
   {
     "id": "2023-2023-bands-of-america-chattanooga-regional-championship-presented-by-yamaha",
@@ -56,8 +56,8 @@
     "date": "2023-09-23",
     "city": "Campbellsville",
     "state": "KY",
-    "lat": 37.3433974,
-    "lng": -85.3419069
+    "lat": 37.3426158,
+    "lng": -85.3513669
   },
   {
     "id": "2023-2023-bands-of-america-new-mexico-regional-championship-presented-by-yamaha",
@@ -114,10 +114,10 @@
     "type": "Regional",
     "venue": "Astound Broadband Stadium",
     "date": "2023-09-30",
-    "city": "Tulsipur",
-    "state": null,
-    "lat": null,
-    "lng": null
+    "city": "Midland",
+    "state": "TX",
+    "lat": 31.9893368,
+    "lng": -102.1539155
   },
   {
     "id": "2023-2023-bands-of-america-arizona-regional-championship-presented-by-yamaha",
@@ -128,8 +128,8 @@
     "date": "2023-10-07",
     "city": "Flagstaff",
     "state": "AZ",
-    "lat": 35.1987522,
-    "lng": -111.651822
+    "lat": 35.1830867,
+    "lng": -111.654961
   },
   {
     "id": "2023-2023-bands-of-america-dallas-mid-cities-regional-championship-presented-by",
@@ -248,8 +248,8 @@
     "date": "2023-10-20",
     "city": "Indianapolis",
     "state": "IN",
-    "lat": 39.7683331,
-    "lng": -86.1583502
+    "lat": 39.7590621,
+    "lng": -86.1638376
   },
   {
     "id": "2023-2023-bands-of-america-ballad-health-east-tennessee-regional-championship",
@@ -296,8 +296,8 @@
     "date": "2023-10-21",
     "city": "Orlando",
     "state": "FL",
-    "lat": 28.5421218,
-    "lng": -81.379045
+    "lat": 28.5390398,
+    "lng": -81.4027504
   },
   {
     "id": "2023-2023-bands-of-america-st-louis-super-regional-presented-by-yamaha",
@@ -308,8 +308,8 @@
     "date": "2023-10-27",
     "city": "St. Louis",
     "state": "MO",
-    "lat": 38.6254063,
-    "lng": -90.190009
+    "lat": 38.6327852,
+    "lng": -90.188551
   },
   {
     "id": "2023-2023-bands-of-america-new-jersey-regional-championship-presented-by",
@@ -320,8 +320,8 @@
     "date": "2023-10-28",
     "city": "Piscataway",
     "state": "NJ",
-    "lat": 40.5464326,
-    "lng": -74.4660542
+    "lat": 40.5135037,
+    "lng": -74.4651433
   },
   {
     "id": "2023-2023-bands-of-america-southern-california-regional-championship",
@@ -344,8 +344,8 @@
     "date": "2023-11-03",
     "city": "San Antonio",
     "state": "TX",
-    "lat": 29.4246002,
-    "lng": -98.4951405
+    "lat": 29.4168923,
+    "lng": -98.4788949
   },
   {
     "id": "2023-2023-bands-of-america-southeastern-regional-championship-presented-by-yamaha",
@@ -380,7 +380,7 @@
     "date": "2023-11-09",
     "city": "Indianapolis",
     "state": "IN",
-    "lat": 39.7683331,
-    "lng": -86.1583502
+    "lat": 39.7590621,
+    "lng": -86.1638376
   }
 ]

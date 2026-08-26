@@ -32,8 +32,8 @@
     "date": "2001-09-29",
     "city": "Johnson City",
     "state": "TN",
-    "lat": 36.3167671,
-    "lng": -82.352903
+    "lat": 36.3024236,
+    "lng": -82.3692822
   },
   {
     "id": "2001-regional-championship-at-orlando",
@@ -56,8 +56,8 @@
     "date": "2001-10-06",
     "city": "Las Vegas",
     "state": "NV",
-    "lat": 36.1674263,
-    "lng": -115.1484131
+    "lat": 36.0862687,
+    "lng": -115.0167365
   },
   {
     "id": "2001-regional-championship-at-san-antonio-tx",
@@ -68,8 +68,8 @@
     "date": "2001-10-06",
     "city": "San Antonio",
     "state": "TX",
-    "lat": 29.4246002,
-    "lng": -98.4951405
+    "lat": 29.4168923,
+    "lng": -98.4788949
   },
   {
     "id": "2001-regional-championship-at-hempstead",
@@ -80,8 +80,8 @@
     "date": "2001-10-13",
     "city": "Hempstead",
     "state": "NY",
-    "lat": 40.6736812,
-    "lng": -73.6190736
+    "lat": 40.7169083,
+    "lng": -73.6000225
   },
   {
     "id": "2001-regional-championship-at-st-louis",
@@ -92,8 +92,8 @@
     "date": "2001-10-13",
     "city": "St. Louis",
     "state": "MO",
-    "lat": 38.6254063,
-    "lng": -90.190009
+    "lat": 38.6327852,
+    "lng": -90.188551
   },
   {
     "id": "2001-regional-championship-at-arlington-tx",
@@ -116,8 +116,8 @@
     "date": "2001-10-20",
     "city": "Massillon",
     "state": "OH",
-    "lat": 40.7965119,
-    "lng": -81.5231597
+    "lat": 40.793641,
+    "lng": -81.4997215
   },
   {
     "id": "2001-regional-championship-at-atlanta",
@@ -140,8 +140,8 @@
     "date": "2001-10-27",
     "city": "Morgantown",
     "state": "WV",
-    "lat": 39.6296809,
-    "lng": -79.9559437
+    "lat": 39.6501842,
+    "lng": -79.9549877
   },
   {
     "id": "2001-regional-championship-at-houston-tx",
@@ -152,8 +152,8 @@
     "date": "2001-11-03",
     "city": "Houston",
     "state": "TX",
-    "lat": 29.7589382,
-    "lng": -95.3676974
+    "lat": 29.7167915,
+    "lng": -95.4047811
   },
   {
     "id": "2001-regional-championship-at-indianapolis",

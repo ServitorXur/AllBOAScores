@@ -20,8 +20,8 @@
     "date": "1986-10-04",
     "city": "Jonesboro",
     "state": "AR",
-    "lat": 35.8348088,
-    "lng": -90.7045297
+    "lat": 35.8441163,
+    "lng": -90.6726325
   },
   {
     "id": "1986-regional-championship-at-conroe-tx",
@@ -44,8 +44,8 @@
     "date": "1986-10-18",
     "city": "Corvallis",
     "state": "OR",
-    "lat": 44.5645659,
-    "lng": -123.2620435
+    "lat": 44.563056,
+    "lng": -123.2839234
   },
   {
     "id": "1986-regional-championship-at-morgantown-wv",
@@ -56,8 +56,8 @@
     "date": "1986-10-18",
     "city": "Morgantown",
     "state": "WV",
-    "lat": 39.6296809,
-    "lng": -79.9559437
+    "lat": 39.6348398,
+    "lng": -79.9542095
   },
   {
     "id": "1986-regional-championship-at-akron-oh",
@@ -68,8 +68,8 @@
     "date": "1986-11-01",
     "city": "Akron",
     "state": "OH",
-    "lat": 41.083064,
-    "lng": -81.518485
+    "lat": 41.0394205,
+    "lng": -81.4561285
   },
   {
     "id": "1986-grand-national-championship-at-indianapolis-in",

@@ -32,8 +32,8 @@
     "date": "1992-10-10",
     "city": "Morgantown",
     "state": "WV",
-    "lat": 39.6296809,
-    "lng": -79.9559437
+    "lat": 39.6485793,
+    "lng": -79.9585519
   },
   {
     "id": "1992-regional-championship-at-houston-tx",
@@ -44,8 +44,8 @@
     "date": "1992-10-17",
     "city": "Houston",
     "state": "TX",
-    "lat": 29.7589382,
-    "lng": -95.3676974
+    "lat": 29.7130529,
+    "lng": -95.4020704
   },
   {
     "id": "1992-regional-championship-at-johnson-city-tn",
@@ -56,8 +56,8 @@
     "date": "1992-10-17",
     "city": "Johnson City",
     "state": "TN",
-    "lat": 36.3167671,
-    "lng": -82.352903
+    "lat": 36.3024236,
+    "lng": -82.3692822
   },
   {
     "id": "1992-regional-championship-at-denton-tx",
@@ -68,8 +68,8 @@
     "date": "1992-10-24",
     "city": "Denton",
     "state": "TX",
-    "lat": 33.1838787,
-    "lng": -97.1413417
+    "lat": 33.2098922,
+    "lng": -97.1514763
   },
   {
     "id": "1992-regional-championship-at-hattiesburg-ms",
@@ -80,8 +80,8 @@
     "date": "1992-10-31",
     "city": "Hattiesburg",
     "state": "MS",
-    "lat": 31.3271189,
-    "lng": -89.2903392
+    "lat": 31.3286452,
+    "lng": -89.3367312
   },
   {
     "id": "1992-grand-national-championship-at-indianapolis-in",

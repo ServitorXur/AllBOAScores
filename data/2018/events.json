@@ -32,8 +32,8 @@
     "date": "2018-09-22",
     "city": "Oxford",
     "state": "OH",
-    "lat": 39.5103048,
-    "lng": -84.7420519
+    "lat": 39.5094198,
+    "lng": -84.7311546
   },
   {
     "id": "2018-austin-regional-championship-at-austin-tx",
@@ -56,8 +56,8 @@
     "date": "2018-09-29",
     "city": "Bowling Green",
     "state": "OH",
-    "lat": 41.3747744,
-    "lng": -83.6513229
+    "lat": 41.3795005,
+    "lng": -83.629789
   },
   {
     "id": "2018-clarksville-regional-championship-at-clarksville-tn",
@@ -68,8 +68,8 @@
     "date": "2018-09-29",
     "city": "Clarksville",
     "state": "TN",
-    "lat": 36.5277607,
-    "lng": -87.3588703
+    "lat": 36.5342965,
+    "lng": -87.3543085
   },
   {
     "id": "2018-bedford-regional-championship-at-bedford-tx",
@@ -80,8 +80,8 @@
     "date": "2018-10-06",
     "city": "Bedford",
     "state": "TX",
-    "lat": 32.844017,
-    "lng": -97.1430671
+    "lat": 32.8327183,
+    "lng": -97.1363983
   },
   {
     "id": "2018-houston-regional-championship-at-houston-tx",
@@ -104,8 +104,8 @@
     "date": "2018-10-06",
     "city": "Jacksonville",
     "state": "AL",
-    "lat": 33.8137919,
-    "lng": -85.7612872
+    "lat": 33.8249359,
+    "lng": -85.7641095
   },
   {
     "id": "2018-canton-regional-championship-at-canton-oh",
@@ -116,8 +116,8 @@
     "date": "2018-10-13",
     "city": "Canton",
     "state": "OH",
-    "lat": 40.7985464,
-    "lng": -81.3749508
+    "lat": 40.8198753,
+    "lng": -81.3980661
   },
   {
     "id": "2018-gaffney-regional-championship-at-gaffney-sc",
@@ -128,8 +128,8 @@
     "date": "2018-10-13",
     "city": "Gaffney",
     "state": "SC",
-    "lat": 35.0717945,
-    "lng": -81.6498195
+    "lat": 35.0668222,
+    "lng": -81.681416
   },
   {
     "id": "2018-orlando-regional-championship-at-orlando-fl",
@@ -140,8 +140,8 @@
     "date": "2018-10-13",
     "city": "Orlando",
     "state": "FL",
-    "lat": 28.5421218,
-    "lng": -81.379045
+    "lat": 28.5390398,
+    "lng": -81.4027504
   },
   {
     "id": "2018-indianapolis-super-regional-championship-at-indianapolis-in",
@@ -152,8 +152,8 @@
     "date": "2018-10-19",
     "city": "Indianapolis",
     "state": "IN",
-    "lat": 39.7683331,
-    "lng": -86.1583502
+    "lat": 39.7590621,
+    "lng": -86.1638376
   },
   {
     "id": "2018-newark-regional-championship-at-newark-de",
@@ -164,8 +164,8 @@
     "date": "2018-10-20",
     "city": "Newark",
     "state": "DE",
-    "lat": 39.6828358,
-    "lng": -75.7515682
+    "lat": 39.6616707,
+    "lng": -75.7488991
   },
   {
     "id": "2018-pleasant-hill-regional-championship-at-pleasant-hill-ca",
@@ -176,8 +176,8 @@
     "date": "2018-10-20",
     "city": "Pleasant Hill",
     "state": "CA",
-    "lat": 37.9479786,
-    "lng": -122.0607963
+    "lat": 37.9686779,
+    "lng": -122.0704218
   },
   {
     "id": "2018-st-louis-super-regional-championship-at-st-louis-mo",
@@ -212,8 +212,8 @@
     "date": "2018-10-27",
     "city": "Saint George",
     "state": "UT",
-    "lat": 37.1097636,
-    "lng": -113.553483
+    "lat": 37.109967,
+    "lng": -113.5882916
   },
   {
     "id": "2018-san-antonio-super-regional-championship-at-san-antonio-tx",
@@ -224,8 +224,8 @@
     "date": "2018-11-02",
     "city": "San Antonio",
     "state": "TX",
-    "lat": 29.4246002,
-    "lng": -98.4951405
+    "lat": 29.4168923,
+    "lng": -98.4788949
   },
   {
     "id": "2018-valley-glen-regional-championship-at-valley-glen-ca",
@@ -248,7 +248,7 @@
     "date": "2018-11-08",
     "city": "Indianapolis",
     "state": "IN",
-    "lat": 39.7683331,
-    "lng": -86.1583502
+    "lat": 39.7590621,
+    "lng": -86.1638376
   }
 ]

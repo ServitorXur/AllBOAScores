@@ -32,8 +32,8 @@
     "date": "2003-10-04",
     "city": "Johnson City",
     "state": "TN",
-    "lat": 36.3167671,
-    "lng": -82.352903
+    "lat": 36.3024236,
+    "lng": -82.3692822
   },
   {
     "id": "2003-regional-championship-at-massillon-oh",
@@ -44,8 +44,8 @@
     "date": "2003-10-04",
     "city": "Massillon",
     "state": "OH",
-    "lat": 40.7965119,
-    "lng": -81.5231597
+    "lat": 40.793641,
+    "lng": -81.4997215
   },
   {
     "id": "2003-regional-championship-at-houston-tx",
@@ -56,8 +56,8 @@
     "date": "2003-10-11",
     "city": "Houston",
     "state": "TX",
-    "lat": 29.7589382,
-    "lng": -95.3676974
+    "lat": 29.7167915,
+    "lng": -95.4047811
   },
   {
     "id": "2003-regional-championship-at-st-louis-mo",
@@ -80,8 +80,8 @@
     "date": "2003-10-18",
     "city": "Arlington",
     "state": "TX",
-    "lat": 32.7355816,
-    "lng": -97.1071186
+    "lat": 32.7315155,
+    "lng": -97.1171533
   },
   {
     "id": "2003-regional-championship-at-youngstown-oh",
@@ -92,8 +92,8 @@
     "date": "2003-10-18",
     "city": "Youngstown",
     "state": "OH",
-    "lat": 41.1035786,
-    "lng": -80.6520161
+    "lat": 41.1094863,
+    "lng": -80.6495505
   },
   {
     "id": "2003-regional-championship-at-atlanta-ga",
@@ -116,8 +116,8 @@
     "date": "2003-10-25",
     "city": "Bridgeport",
     "state": "CT",
-    "lat": 41.1792695,
-    "lng": -73.1887863
+    "lat": 41.1883404,
+    "lng": -73.2035066
   },
   {
     "id": "2003-regional-championship-at-phoenix-az",
@@ -140,8 +140,8 @@
     "date": "2003-11-01",
     "city": "San Antonio",
     "state": "TX",
-    "lat": 29.4246002,
-    "lng": -98.4951405
+    "lat": 29.4168923,
+    "lng": -98.4788949
   },
   {
     "id": "2003-regional-championship-at-indianapolis-in",
@@ -174,9 +174,9 @@
     "type": "Grand National",
     "venue": "RCA Dome",
     "date": "2003-11-15",
-    "city": "RCA Dome",
+    "city": "Indianapolis",
     "state": "IN",
-    "lat": null,
-    "lng": null
+    "lat": 39.7636517,
+    "lng": -86.1640108
   }
 ]

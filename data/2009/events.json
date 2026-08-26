@@ -32,8 +32,8 @@
     "date": "2009-10-03",
     "city": "Pearland",
     "state": "TX",
-    "lat": 29.5639758,
-    "lng": -95.2864299
+    "lat": 29.5387279,
+    "lng": -95.2673146
   },
   {
     "id": "2009-regional-championship-at-arlington-tx",
@@ -44,8 +44,8 @@
     "date": "2009-10-10",
     "city": "Arlington",
     "state": "TX",
-    "lat": 32.7355816,
-    "lng": -97.1071186
+    "lat": 32.7292271,
+    "lng": -97.1265803
   },
   {
     "id": "2009-regional-championship-at-towson-md",
@@ -56,8 +56,8 @@
     "date": "2009-10-10",
     "city": "Towson",
     "state": "MD",
-    "lat": 39.3964591,
-    "lng": -76.6148148
+    "lat": 39.3885483,
+    "lng": -76.6158585
   },
   {
     "id": "2009-regional-championship-at-ypsilanti-michigan",
@@ -68,8 +68,8 @@
     "date": "2009-10-10",
     "city": "Ypsilanti",
     "state": "MI",
-    "lat": 42.241051,
-    "lng": -83.6117646
+    "lat": 42.2558724,
+    "lng": -83.6473747
   },
   {
     "id": "2009-super-regional-championship-at-edward-jones-dome-st-louis",
@@ -80,8 +80,8 @@
     "date": "2009-10-16",
     "city": "Saint Louis",
     "state": "MO",
-    "lat": 38.6254063,
-    "lng": -90.190009
+    "lat": 38.6379299,
+    "lng": -90.2131357
   },
   {
     "id": "2009-super-regional-championship-at-st-louis-mo",
@@ -104,8 +104,8 @@
     "date": "2009-10-17",
     "city": "Massillon",
     "state": "OH",
-    "lat": 40.7965119,
-    "lng": -81.5231597
+    "lat": 40.793641,
+    "lng": -81.4997215
   },
   {
     "id": "2009-super-regional-championship-at-san-antonio-texas",
@@ -116,8 +116,8 @@
     "date": "2009-10-23",
     "city": "San Antonio",
     "state": "TX",
-    "lat": 29.4246002,
-    "lng": -98.4951405
+    "lat": 29.4168923,
+    "lng": -98.4788949
   },
   {
     "id": "2009-regional-championship-at-west-chester-pa",
@@ -152,8 +152,8 @@
     "date": "2009-10-31",
     "city": "Valencia",
     "state": "CA",
-    "lat": 34.4131941,
-    "lng": -118.559849
+    "lat": 34.4036974,
+    "lng": -118.5702319
   },
   {
     "id": "2009-regional-championship-at-indianapolis-in",
@@ -164,8 +164,8 @@
     "date": "2009-11-07",
     "city": "Indianapolis",
     "state": "IN",
-    "lat": 39.7683331,
-    "lng": -86.1583502
+    "lat": 39.7590621,
+    "lng": -86.1638376
   },
   {
     "id": "2009-regional-championship-at-st-george-ut",
@@ -188,7 +188,7 @@
     "date": "2009-11-12",
     "city": "Indianapolis",
     "state": "IN",
-    "lat": 39.7683331,
-    "lng": -86.1583502
+    "lat": 39.7590621,
+    "lng": -86.1638376
   }
 ]

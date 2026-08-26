@@ -16,12 +16,12 @@
     "season": 2010,
     "name": "2010 Bands of America Norwin Regional Championship",
     "type": "Regional",
-    "venue": "Norwin H.S.",
+    "venue": "Norwin High School",
     "date": "2010-09-25",
-    "city": "Toowoomba",
-    "state": "QLD",
-    "lat": null,
-    "lng": null
+    "city": "North Huntingdon",
+    "state": "PA",
+    "lat": 40.3246461,
+    "lng": -79.7228912
   },
   {
     "id": "2010-regional-championship-at-arlington-tx",
@@ -32,8 +32,8 @@
     "date": "2010-10-02",
     "city": "Arlington",
     "state": "TX",
-    "lat": 32.7355816,
-    "lng": -97.1071186
+    "lat": 32.7292271,
+    "lng": -97.1265803
   },
   {
     "id": "2010-regional-championship-at-kettering-ohio",
@@ -68,8 +68,8 @@
     "date": "2010-10-09",
     "city": "Jacksonville",
     "state": "AL",
-    "lat": 33.8137919,
-    "lng": -85.7612872
+    "lat": 33.8203642,
+    "lng": -85.7662921
   },
   {
     "id": "2010-regional-championship-at-pontiac-mi",
@@ -104,8 +104,8 @@
     "date": "2010-10-16",
     "city": "Akron",
     "state": "OH",
-    "lat": 41.083064,
-    "lng": -81.518485
+    "lat": 41.07251,
+    "lng": -81.5084807
   },
   {
     "id": "2010-regional-championship-at-akron-ohio",
@@ -116,8 +116,8 @@
     "date": "2010-10-16",
     "city": "Akron",
     "state": "OH",
-    "lat": 41.083064,
-    "lng": -81.518485
+    "lat": 41.07251,
+    "lng": -81.5084807
   },
   {
     "id": "2010-regional-championship-at-st-louis-missouri",
@@ -140,8 +140,8 @@
     "date": "2010-10-23",
     "city": "Hemet",
     "state": "CA",
-    "lat": 33.7475203,
-    "lng": -116.9719684
+    "lat": 33.7178667,
+    "lng": -117.0102668
   },
   {
     "id": "2010-regional-championship-at-towson-maryland",
@@ -152,8 +152,8 @@
     "date": "2010-10-23",
     "city": "Towson",
     "state": "MD",
-    "lat": 39.3964591,
-    "lng": -76.6148148
+    "lat": 39.3885483,
+    "lng": -76.6158585
   },
   {
     "id": "2010-regional-championship-at-atlanta-georgia",
@@ -188,8 +188,8 @@
     "date": "2010-10-30",
     "city": "San Antonio",
     "state": "TX",
-    "lat": 29.4246002,
-    "lng": -98.4951405
+    "lat": 29.4168923,
+    "lng": -98.4788949
   },
   {
     "id": "2010-regional-championship-at-indianapolis-in",
@@ -200,8 +200,8 @@
     "date": "2010-11-06",
     "city": "Indianapolis",
     "state": "IN",
-    "lat": 39.7683331,
-    "lng": -86.1583502
+    "lat": 39.7590621,
+    "lng": -86.1638376
   },
   {
     "id": "2010-regional-championship-at-st-george-ut",
@@ -224,7 +224,7 @@
     "date": "2010-11-11",
     "city": "Indianapolis",
     "state": "IN",
-    "lat": 39.7683331,
-    "lng": -86.1583502
+    "lat": 39.7590621,
+    "lng": -86.1638376
   }
 ]

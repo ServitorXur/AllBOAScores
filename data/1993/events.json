@@ -20,8 +20,8 @@
     "date": "1993-10-02",
     "city": "Toledo",
     "state": "OH",
-    "lat": 41.6529143,
-    "lng": -83.5378173
+    "lat": 41.6583953,
+    "lng": -83.6147907
   },
   {
     "id": "1993-regional-championship-at-atlanta-ga",
@@ -44,8 +44,8 @@
     "date": "1993-10-16",
     "city": "Morgantown",
     "state": "WV",
-    "lat": 39.6296809,
-    "lng": -79.9559437
+    "lat": 39.6348398,
+    "lng": -79.9542095
   },
   {
     "id": "1993-regional-championship-at-fullerton-ca",
@@ -56,8 +56,8 @@
     "date": "1993-10-30",
     "city": "Fullerton",
     "state": "CA",
-    "lat": 33.8708215,
-    "lng": -117.929416
+    "lat": 33.8830939,
+    "lng": -117.8852152
   },
   {
     "id": "1993-regional-championship-at-houston-tx",
@@ -68,8 +68,8 @@
     "date": "1993-11-06",
     "city": "Houston",
     "state": "TX",
-    "lat": 29.7589382,
-    "lng": -95.3676974
+    "lat": 29.7167915,
+    "lng": -95.4047811
   },
   {
     "id": "1993-grand-national-championship-at-indianapolis-in",

@@ -20,8 +20,8 @@
     "date": "1990-10-13",
     "city": "Houston",
     "state": "TX",
-    "lat": 29.7589382,
-    "lng": -95.3676974
+    "lat": 29.7130529,
+    "lng": -95.4020704
   },
   {
     "id": "1990-regional-championship-at-morgantown-wv",
@@ -32,8 +32,8 @@
     "date": "1990-10-20",
     "city": "Morgantown",
     "state": "WV",
-    "lat": 39.6296809,
-    "lng": -79.9559437
+    "lat": 39.6348398,
+    "lng": -79.9542095
   },
   {
     "id": "1990-regional-championship-at-hattiesburg-ms",
@@ -44,8 +44,8 @@
     "date": "1990-10-27",
     "city": "Hattiesburg",
     "state": "MS",
-    "lat": 31.3271189,
-    "lng": -89.2903392
+    "lat": 31.3286452,
+    "lng": -89.3367312
   },
   {
     "id": "1990-regional-championship-at-toledo-oh",

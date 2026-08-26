@@ -8,8 +8,8 @@
     "date": "2021-09-18",
     "city": "Dayton",
     "state": "OH",
-    "lat": 39.7589478,
-    "lng": -84.1916069
+    "lat": 39.7369274,
+    "lng": -84.1981121
   },
   {
     "id": "2021-mcallen-regional-championship-at-mcallen-tx",
@@ -56,8 +56,8 @@
     "date": "2021-09-25",
     "city": "Clarksville",
     "state": "TN",
-    "lat": 36.5277607,
-    "lng": -87.3588703
+    "lat": 36.5342965,
+    "lng": -87.3543085
   },
   {
     "id": "2021-north-houston-regional-championship-at-north-houston-tx",
@@ -92,8 +92,8 @@
     "date": "2021-10-02",
     "city": "Katy",
     "state": "TX",
-    "lat": 29.7857853,
-    "lng": -95.8243956
+    "lat": 29.8000522,
+    "lng": -95.8054778
   },
   {
     "id": "2021-midland-regional-championship-at-midland-tx",
@@ -116,8 +116,8 @@
     "date": "2021-10-02",
     "city": "Toledo",
     "state": "OH",
-    "lat": 41.6529143,
-    "lng": -83.5378173
+    "lat": 41.6571852,
+    "lng": -83.6135953
   },
   {
     "id": "2021-college-park-regional-championship-at-college-park-md",
@@ -152,8 +152,8 @@
     "date": "2021-10-09",
     "city": "Cedar Falls",
     "state": "IA",
-    "lat": 42.5361805,
-    "lng": -92.447758
+    "lat": 42.5156866,
+    "lng": -92.4672611
   },
   {
     "id": "2021-alabama-regional-championship-at-jacksonville-al",
@@ -164,8 +164,8 @@
     "date": "2021-10-16",
     "city": "Jacksonville",
     "state": "AL",
-    "lat": 33.8137919,
-    "lng": -85.7612872
+    "lat": 33.8249359,
+    "lng": -85.7641095
   },
   {
     "id": "2021-orlando-regional-championship-at-orlando-fl",
@@ -176,8 +176,8 @@
     "date": "2021-10-16",
     "city": "Orlando",
     "state": "FL",
-    "lat": 28.5421218,
-    "lng": -81.379045
+    "lat": 28.5390398,
+    "lng": -81.4027504
   },
   {
     "id": "2021-indianapolis-super-regional-championship-at-indianapolis-in",
@@ -188,8 +188,8 @@
     "date": "2021-10-22",
     "city": "Indianapolis",
     "state": "IN",
-    "lat": 39.7683331,
-    "lng": -86.1583502
+    "lat": 39.7590621,
+    "lng": -86.1638376
   },
   {
     "id": "2021-st-louis-super-regional-championship-at-st-louis-mo",
@@ -200,8 +200,8 @@
     "date": "2021-10-22",
     "city": "St. Louis",
     "state": "MO",
-    "lat": 38.6254063,
-    "lng": -90.190009
+    "lat": 38.6327852,
+    "lng": -90.188551
   },
   {
     "id": "2021-east-tennessee-regional-championship-at-johnson-city-tn",
@@ -212,8 +212,8 @@
     "date": "2021-10-30",
     "city": "Johnson City",
     "state": "TN",
-    "lat": 36.3167671,
-    "lng": -82.352903
+    "lat": 36.3024236,
+    "lng": -82.3692822
   },
   {
     "id": "2021-waco-regional-championship-at-waco-tx",
@@ -224,8 +224,8 @@
     "date": "2021-10-30",
     "city": "Waco",
     "state": "TX",
-    "lat": 31.5491899,
-    "lng": -97.1474628
+    "lat": 31.5082248,
+    "lng": -97.1598579
   },
   {
     "id": "2021-san-antonio-super-regional-championship-at-san-antonio-tx",
@@ -236,8 +236,8 @@
     "date": "2021-11-05",
     "city": "San Antonio",
     "state": "TX",
-    "lat": 29.4246002,
-    "lng": -98.4951405
+    "lat": 29.4168923,
+    "lng": -98.4788949
   },
   {
     "id": "2021-utah-regional-championship-at-st-george-ut",
@@ -248,8 +248,8 @@
     "date": "2021-11-06",
     "city": "Saint George",
     "state": "UT",
-    "lat": 37.1097636,
-    "lng": -113.553483
+    "lat": 37.109967,
+    "lng": -113.5882916
   },
   {
     "id": "2021-grand-national-championships-grand-nationals-prelims-championship-at-indianapolis-in",
@@ -260,8 +260,8 @@
     "date": "2021-11-11",
     "city": "Indianapolis",
     "state": "IN",
-    "lat": 39.7683331,
-    "lng": -86.1583502
+    "lat": 39.7590621,
+    "lng": -86.1638376
   },
   {
     "id": "2021-grand-national-championships-grand-national-championship-at-indianapolis-in",
@@ -272,8 +272,8 @@
     "date": "2021-11-13",
     "city": "Indianapolis",
     "state": "IN",
-    "lat": 39.7683331,
-    "lng": -86.1583502
+    "lat": 39.7590621,
+    "lng": -86.1638376
   },
   {
     "id": "2021-grand-national-championships-grand-national-semi-finals-championship-at-indianapolis-in",
@@ -284,7 +284,7 @@
     "date": "2021-11-13",
     "city": "Indianapolis",
     "state": "IN",
-    "lat": 39.7683331,
-    "lng": -86.1583502
+    "lat": 39.7590621,
+    "lng": -86.1638376
   }
 ]

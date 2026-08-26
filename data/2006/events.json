@@ -8,8 +8,8 @@
     "date": "2006-09-30",
     "city": "Murfreesboro",
     "state": "TN",
-    "lat": 35.8460396,
-    "lng": -86.3921096
+    "lat": 35.8486008,
+    "lng": -86.3609036
   },
   {
     "id": "2006-regional-championship-at-youngstown-oh",
@@ -20,8 +20,8 @@
     "date": "2006-09-30",
     "city": "Youngstown",
     "state": "OH",
-    "lat": 41.1035786,
-    "lng": -80.6520161
+    "lat": 41.1067218,
+    "lng": -80.6477542
   },
   {
     "id": "2006-regional-championship-at-arlington-tx",
@@ -32,8 +32,8 @@
     "date": "2006-10-07",
     "city": "Fort Worth",
     "state": "TX",
-    "lat": 32.753177,
-    "lng": -97.3327459
+    "lat": 32.7485139,
+    "lng": -97.3255424
   },
   {
     "id": "2006-regional-championship-at-ypsilanti-mi",
@@ -44,8 +44,8 @@
     "date": "2006-10-07",
     "city": "Ypsilanti",
     "state": "MI",
-    "lat": 42.241051,
-    "lng": -83.6117646
+    "lat": 42.2558724,
+    "lng": -83.6473747
   },
   {
     "id": "2006-regional-championship-at-flagstaff-az",
@@ -56,8 +56,8 @@
     "date": "2006-10-14",
     "city": "Flagstaff",
     "state": "AZ",
-    "lat": 35.1987522,
-    "lng": -111.651822
+    "lat": 35.1830867,
+    "lng": -111.654961
   },
   {
     "id": "2006-regional-championship-at-houston-pearland-tx",
@@ -92,8 +92,8 @@
     "date": "2006-10-14",
     "city": "Saint Petersburg",
     "state": "FL",
-    "lat": 27.7712264,
-    "lng": -82.6340259
+    "lat": 27.7680559,
+    "lng": -82.6532755
   },
   {
     "id": "2006-regional-championship-at-st-louis-mo",
@@ -116,8 +116,8 @@
     "date": "2006-10-21",
     "city": "Towson",
     "state": "MD",
-    "lat": 39.3964591,
-    "lng": -76.6148148
+    "lat": 39.3885483,
+    "lng": -76.6158585
   },
   {
     "id": "2006-super-regional-championship-at-st-louis-mo",
@@ -140,8 +140,8 @@
     "date": "2006-10-28",
     "city": "Los Angeles",
     "state": "CA",
-    "lat": 34.0536909,
-    "lng": -118.242766
+    "lat": 34.0139159,
+    "lng": -118.2877996
   },
   {
     "id": "2006-super-regional-championship-at-atlanta-georgia",
@@ -176,8 +176,8 @@
     "date": "2006-11-04",
     "city": "San Antonio",
     "state": "TX",
-    "lat": 29.4246002,
-    "lng": -98.4951405
+    "lat": 29.4168923,
+    "lng": -98.4788949
   },
   {
     "id": "2006-grand-national-championships-at-indianapolis-indiana",

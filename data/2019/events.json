@@ -32,8 +32,8 @@
     "date": "2019-09-21",
     "city": "Toledo",
     "state": "OH",
-    "lat": 41.6529143,
-    "lng": -83.5378173
+    "lat": 41.6566438,
+    "lng": -83.6136126
   },
   {
     "id": "2019-austin-regional-championship-at-austin-tx",
@@ -92,8 +92,8 @@
     "date": "2019-10-05",
     "city": "Bedford",
     "state": "TX",
-    "lat": 32.844017,
-    "lng": -97.1430671
+    "lat": 32.8327183,
+    "lng": -97.1363983
   },
   {
     "id": "2019-college-park-regional-championship-at-college-park-md",
@@ -104,8 +104,8 @@
     "date": "2019-10-05",
     "city": "College Park",
     "state": "MD",
-    "lat": 38.980666,
-    "lng": -76.9369189
+    "lat": 38.9784587,
+    "lng": -76.9282678
   },
   {
     "id": "2019-houston-regional-championship-at-houston-tx",
@@ -128,8 +128,8 @@
     "date": "2019-10-05",
     "city": "Katy",
     "state": "TX",
-    "lat": 29.7857853,
-    "lng": -95.8243956
+    "lat": 29.8000522,
+    "lng": -95.8054778
   },
   {
     "id": "2019-muncie-regional-championship-at-muncie-in",
@@ -176,8 +176,8 @@
     "date": "2019-10-12",
     "city": "Orlando",
     "state": "FL",
-    "lat": 28.5421218,
-    "lng": -81.379045
+    "lat": 28.5390398,
+    "lng": -81.4027504
   },
   {
     "id": "2019-st-louis-super-regional-championship-at-st-louis-mo",
@@ -188,8 +188,8 @@
     "date": "2019-10-18",
     "city": "St. Louis",
     "state": "MO",
-    "lat": 38.6254063,
-    "lng": -90.190009
+    "lat": 38.6327852,
+    "lng": -90.188551
   },
   {
     "id": "2019-waco-regional-championship-at-waco-tx",
@@ -212,8 +212,8 @@
     "date": "2019-10-25",
     "city": "Indianapolis",
     "state": "IN",
-    "lat": 39.7683331,
-    "lng": -86.1583502
+    "lat": 39.7590621,
+    "lng": -86.1638376
   },
   {
     "id": "2019-lynchburg-regional-championship-at-lynchburg-va",
@@ -248,8 +248,8 @@
     "date": "2019-11-01",
     "city": "San Antonio",
     "state": "TX",
-    "lat": 29.4246002,
-    "lng": -98.4951405
+    "lat": 29.4168923,
+    "lng": -98.4788949
   },
   {
     "id": "2019-bakersfield-regional-championship-at-bakersfield-ca",
@@ -260,8 +260,8 @@
     "date": "2019-11-02",
     "city": "Bakersfield",
     "state": "CA",
-    "lat": 35.3738712,
-    "lng": -119.019463
+    "lat": 35.4071699,
+    "lng": -118.9693712
   },
   {
     "id": "2019-st-george-regional-championship-at-st-george-ut",
@@ -272,8 +272,8 @@
     "date": "2019-11-09",
     "city": "Saint George",
     "state": "UT",
-    "lat": 37.1097636,
-    "lng": -113.553483
+    "lat": 37.109967,
+    "lng": -113.5882916
   },
   {
     "id": "2019-grand-national-championships-at-indianapolis-in",
@@ -284,7 +284,7 @@
     "date": "2019-11-14",
     "city": "Indianapolis",
     "state": "IN",
-    "lat": 39.7683331,
-    "lng": -86.1583502
+    "lat": 39.7590621,
+    "lng": -86.1638376
   }
 ]

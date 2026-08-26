@@ -8,8 +8,8 @@
     "date": "2008-09-20",
     "city": "Centerville",
     "state": "IA",
-    "lat": 40.7344306,
-    "lng": -92.8742102
+    "lat": 40.7283525,
+    "lng": -92.8763794
   },
   {
     "id": "2008-regional-championship-at-massillon-oh",
@@ -20,8 +20,8 @@
     "date": "2008-09-27",
     "city": "Massillon",
     "state": "OH",
-    "lat": 40.7965119,
-    "lng": -81.5231597
+    "lat": 40.793641,
+    "lng": -81.4997215
   },
   {
     "id": "2008-sound-check-at-lucas-oil-stadium",
@@ -32,8 +32,8 @@
     "date": "2008-09-27",
     "city": "Indianapolis",
     "state": "IN",
-    "lat": 39.7683331,
-    "lng": -86.1583502
+    "lat": 39.7962479,
+    "lng": -86.234816
   },
   {
     "id": "2008-regional-championship-at-arlington-texas",
@@ -44,8 +44,8 @@
     "date": "2008-10-04",
     "city": "Arlington",
     "state": "TX",
-    "lat": 32.7355816,
-    "lng": -97.1071186
+    "lat": 32.7292271,
+    "lng": -97.1265803
   },
   {
     "id": "2008-regional-championship-at-murray-ky",
@@ -56,8 +56,8 @@
     "date": "2008-10-04",
     "city": "Murray",
     "state": "KY",
-    "lat": 36.6106122,
-    "lng": -88.3021092
+    "lat": 36.6212848,
+    "lng": -88.3174792
   },
   {
     "id": "2008-regional-championship-at-houston-tx",
@@ -92,8 +92,8 @@
     "date": "2008-10-11",
     "city": "Ypsilanti",
     "state": "MI",
-    "lat": 42.241051,
-    "lng": -83.6117646
+    "lat": 42.2558724,
+    "lng": -83.6473747
   },
   {
     "id": "2008-regional-championship-at-st-louis-mo",
@@ -116,8 +116,8 @@
     "date": "2008-10-18",
     "city": "Towson",
     "state": "MD",
-    "lat": 39.3964591,
-    "lng": -76.6148148
+    "lat": 39.3885483,
+    "lng": -76.6158585
   },
   {
     "id": "2008-regional-championship-at-las-vegas-nv",
@@ -128,8 +128,8 @@
     "date": "2008-10-25",
     "city": "Las Vegas",
     "state": "NV",
-    "lat": 36.1674263,
-    "lng": -115.1484131
+    "lat": 36.0862687,
+    "lng": -115.0167365
   },
   {
     "id": "2008-super-regional-championship-at-atlanta-ga",
@@ -152,8 +152,8 @@
     "date": "2008-10-31",
     "city": "San Antonio",
     "state": "TX",
-    "lat": 29.4246002,
-    "lng": -98.4951405
+    "lat": 29.4168923,
+    "lng": -98.4788949
   },
   {
     "id": "2008-regional-championship-at-indianapolis-in",
@@ -164,8 +164,8 @@
     "date": "2008-11-08",
     "city": "Indianapolis",
     "state": "IN",
-    "lat": 39.7683331,
-    "lng": -86.1583502
+    "lat": 39.7590621,
+    "lng": -86.1638376
   },
   {
     "id": "2008-regional-championship-at-los-angeles-ca",
@@ -176,8 +176,8 @@
     "date": "2008-11-08",
     "city": "Monterey Park",
     "state": "CA",
-    "lat": 34.051522,
-    "lng": -118.129807
+    "lat": 34.042866,
+    "lng": -118.1517174
   },
   {
     "id": "2008-regional-championship-at-monterey-park-ca",
@@ -188,8 +188,8 @@
     "date": "2008-11-08",
     "city": "Monterey Park",
     "state": "CA",
-    "lat": 34.051522,
-    "lng": -118.129807
+    "lat": 34.042866,
+    "lng": -118.1517174
   },
   {
     "id": "2008-grand-national-championships-at-indianapolis-indiana",
@@ -200,7 +200,7 @@
     "date": "2008-11-13",
     "city": "Indianapolis",
     "state": "IN",
-    "lat": 39.7683331,
-    "lng": -86.1583502
+    "lat": 39.7590621,
+    "lng": -86.1638376
   }
 ]

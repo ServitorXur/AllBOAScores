@@ -20,8 +20,8 @@
     "date": "2011-09-24",
     "city": "Richmond",
     "state": "KY",
-    "lat": 37.7478572,
-    "lng": -84.2946539
+    "lat": 37.7341619,
+    "lng": -84.3011984
   },
   {
     "id": "2011-regional-championship-at-arlington-tx",
@@ -32,8 +32,8 @@
     "date": "2011-10-01",
     "city": "Arlington",
     "state": "TX",
-    "lat": 32.7355816,
-    "lng": -97.1071186
+    "lat": 32.7292271,
+    "lng": -97.1265803
   },
   {
     "id": "2011-regional-championship-at-mason-oh",
@@ -52,12 +52,12 @@
     "season": 2011,
     "name": "2011 Bands of America Conroe Regional Championship",
     "type": "Regional",
-    "venue": null,
+    "venue": "Woodforest Bank Stadium",
     "date": "2011-10-08",
-    "city": null,
-    "state": null,
-    "lat": null,
-    "lng": null
+    "city": "Conroe",
+    "state": "TX",
+    "lat": 30.3118769,
+    "lng": -95.4560512
   },
   {
     "id": "2011-regional-championship-at-jacksonville-al",
@@ -92,8 +92,8 @@
     "date": "2011-10-15",
     "city": "Akron",
     "state": "OH",
-    "lat": 41.083064,
-    "lng": -81.518485
+    "lat": 41.07251,
+    "lng": -81.5084807
   },
   {
     "id": "2011-super-regional-championship-at-st-louis-mo",
@@ -116,8 +116,8 @@
     "date": "2011-10-22",
     "city": "Towson",
     "state": "MD",
-    "lat": 39.3964591,
-    "lng": -76.6148148
+    "lat": 39.3885483,
+    "lng": -76.6158585
   },
   {
     "id": "2011-regional-championship-at-st-george-ut",
@@ -152,8 +152,8 @@
     "date": "2011-11-05",
     "city": "Indianapolis",
     "state": "IN",
-    "lat": 39.7683331,
-    "lng": -86.1583502
+    "lat": 39.7590621,
+    "lng": -86.1638376
   },
   {
     "id": "2011-super-regional-championship-at-san-antonio-texas",
@@ -164,8 +164,8 @@
     "date": "2011-11-05",
     "city": "San Antonio",
     "state": "TX",
-    "lat": 29.4246002,
-    "lng": -98.4951405
+    "lat": 29.4168923,
+    "lng": -98.4788949
   },
   {
     "id": "2011-grand-national-championships-at-indianapolis-indiana",
@@ -176,7 +176,7 @@
     "date": "2011-11-10",
     "city": "Indianapolis",
     "state": "IN",
-    "lat": 39.7683331,
-    "lng": -86.1583502
+    "lat": 39.7590621,
+    "lng": -86.1638376
   }
 ]

@@ -8,8 +8,8 @@
     "date": "1982-10-02",
     "city": "Toledo",
     "state": "OH",
-    "lat": 41.6529143,
-    "lng": -83.5378173
+    "lat": 41.6583953,
+    "lng": -83.6147907
   },
   {
     "id": "1982-regional-championship-at-cullowhee-nc",
@@ -20,8 +20,8 @@
     "date": "1982-10-09",
     "city": "Cullowhee",
     "state": "NC",
-    "lat": 35.3137739,
-    "lng": -83.1765814
+    "lat": 35.3100146,
+    "lng": -83.1990402
   },
   {
     "id": "1982-midwest-regional-championship-at-indianapolis-in",
@@ -44,8 +44,8 @@
     "date": "1982-10-30",
     "city": "Houston",
     "state": "TX",
-    "lat": 29.7589382,
-    "lng": -95.3676974
+    "lat": 29.7207902,
+    "lng": -95.3440627
   },
   {
     "id": "1982-grand-national-championship-at-johnson-city-tn",
@@ -56,7 +56,7 @@
     "date": "1982-11-05",
     "city": "Johnson City",
     "state": "TN",
-    "lat": 36.3167671,
-    "lng": -82.352903
+    "lat": 36.3024236,
+    "lng": -82.3692822
   }
 ]

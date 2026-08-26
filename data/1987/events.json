@@ -20,8 +20,8 @@
     "date": "1987-10-10",
     "city": "Morgantown",
     "state": "WV",
-    "lat": 39.6296809,
-    "lng": -79.9559437
+    "lat": 39.6348398,
+    "lng": -79.9542095
   },
   {
     "id": "1987-regional-championship-at-terre-haute-in",
@@ -32,8 +32,8 @@
     "date": "1987-10-10",
     "city": "Terre Haute",
     "state": "IN",
-    "lat": 39.4667025,
-    "lng": -87.4139119
+    "lat": 39.4709168,
+    "lng": -87.4092073
   },
   {
     "id": "1987-regional-championship-at-hattiesburg-ms",
@@ -44,8 +44,8 @@
     "date": "1987-10-17",
     "city": "Hattiesburg",
     "state": "MS",
-    "lat": 31.3271189,
-    "lng": -89.2903392
+    "lat": 31.3286452,
+    "lng": -89.3367312
   },
   {
     "id": "1987-regional-championship-at-houston-tx",
@@ -56,8 +56,8 @@
     "date": "1987-10-24",
     "city": "Houston",
     "state": "TX",
-    "lat": 29.7589382,
-    "lng": -95.3676974
+    "lat": 29.7207902,
+    "lng": -95.3440627
   },
   {
     "id": "1987-regional-championship-at-toledo-oh",
@@ -68,8 +68,8 @@
     "date": "1987-10-31",
     "city": "Toledo",
     "state": "OH",
-    "lat": 41.6529143,
-    "lng": -83.5378173
+    "lat": 41.6583953,
+    "lng": -83.6147907
   },
   {
     "id": "1987-grand-national-championship-at-pontiac-mi",

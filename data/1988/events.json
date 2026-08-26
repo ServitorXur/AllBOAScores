@@ -20,8 +20,8 @@
     "date": "1988-10-01",
     "city": "Akron",
     "state": "OH",
-    "lat": 41.083064,
-    "lng": -81.518485
+    "lat": 41.0757383,
+    "lng": -81.5114532
   },
   {
     "id": "1988-regional-championship-at-normal-il",
@@ -32,8 +32,8 @@
     "date": "1988-10-08",
     "city": "Normal",
     "state": "IL",
-    "lat": 40.5092961,
-    "lng": -88.9843937
+    "lat": 40.5179938,
+    "lng": -89.0084607
   },
   {
     "id": "1988-regional-championship-at-morgantown-wv",
@@ -44,8 +44,8 @@
     "date": "1988-10-15",
     "city": "Morgantown",
     "state": "WV",
-    "lat": 39.6296809,
-    "lng": -79.9559437
+    "lat": 39.6348398,
+    "lng": -79.9542095
   },
   {
     "id": "1988-regional-championship-at-hattiesburg-ms",
@@ -56,8 +56,8 @@
     "date": "1988-10-22",
     "city": "Hattiesburg",
     "state": "MS",
-    "lat": 31.3271189,
-    "lng": -89.2903392
+    "lat": 31.3286452,
+    "lng": -89.3367312
   },
   {
     "id": "1988-western-regional-championship-at-stockton-ca",
@@ -68,8 +68,8 @@
     "date": "1988-10-29",
     "city": "Stockton",
     "state": "CA",
-    "lat": 37.9577016,
-    "lng": -121.290779
+    "lat": 37.9804238,
+    "lng": -121.3128472
   },
   {
     "id": "1988-regional-championship-at-houston-tx",
@@ -80,8 +80,8 @@
     "date": "1988-11-05",
     "city": "Houston",
     "state": "TX",
-    "lat": 29.7589382,
-    "lng": -95.3676974
+    "lat": 29.7130529,
+    "lng": -95.4020704
   },
   {
     "id": "1988-southwest-regional-championship-at-houston-tx",
@@ -92,8 +92,8 @@
     "date": "1988-11-05",
     "city": "Houston",
     "state": "TX",
-    "lat": 29.7589382,
-    "lng": -95.3676974
+    "lat": 29.7167915,
+    "lng": -95.4047811
   },
   {
     "id": "1988-grand-national-championship-at-pontiac-mi",
