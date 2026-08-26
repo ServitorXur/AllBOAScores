@@ -54,10 +54,10 @@
     "type": "Regional",
     "venue": "Fortress Obetz",
     "date": "2024-09-21",
-    "city": "Columbus",
+    "city": "Obetz",
     "state": "OH",
-    "lat": 39.9622601,
-    "lng": -83.0007065
+    "lat": 39.885817,
+    "lng": -82.9444641
   },
   {
     "id": "2024-2024-bands-of-america-central-texas-regional-championship-presented-by-yamaha",
@@ -200,8 +200,8 @@
     "date": "2024-10-12",
     "city": "Prosper",
     "state": "TX",
-    "lat": 33.2371585,
-    "lng": -96.7977048
+    "lat": 33.2607559,
+    "lng": -96.8042646
   },
   {
     "id": "2024-2024-bands-of-america-southeastern-regional-championship-presented-by-yamaha",

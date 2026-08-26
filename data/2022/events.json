@@ -6,10 +6,10 @@
     "type": "Regional",
     "venue": "Fortress Obetz",
     "date": "2022-09-17",
-    "city": "Columbus",
+    "city": "Obetz",
     "state": "OH",
-    "lat": 39.9622601,
-    "lng": -83.0007065
+    "lat": 39.885817,
+    "lng": -82.9444641
   },
   {
     "id": "2022-clarksville-regional-championship-at-clarksville-tn",
@@ -212,8 +212,8 @@
     "date": "2022-10-15",
     "city": "Prosper",
     "state": "TX",
-    "lat": 33.2371585,
-    "lng": -96.7977048
+    "lat": 33.2607559,
+    "lng": -96.8042646
   },
   {
     "id": "2022-indianapolis-super-regional-championship-at-indianapolis-in",

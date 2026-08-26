@@ -8,8 +8,8 @@
     "date": "2010-09-25",
     "city": "Louisville",
     "state": "KY",
-    "lat": 38.2542376,
-    "lng": -85.759407
+    "lat": 38.2060161,
+    "lng": -85.7587734
   },
   {
     "id": "2010-regional-championship-at-norwin-pa",
@@ -78,10 +78,10 @@
     "type": "Regional",
     "venue": "Silverdome",
     "date": "2010-10-09",
-    "city": "City of Pontiac",
+    "city": "Pontiac",
     "state": "MI",
-    "lat": 42.6364796,
-    "lng": -83.2874969
+    "lat": 42.6379672,
+    "lng": -83.257684
   },
   {
     "id": "2010-regional-championship-at-the-woodlands-tx",

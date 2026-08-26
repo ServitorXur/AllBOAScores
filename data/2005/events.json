@@ -102,10 +102,10 @@
     "type": "Regional",
     "venue": "Silverdome",
     "date": "2005-10-15",
-    "city": "City of Pontiac",
+    "city": "Pontiac",
     "state": "MI",
-    "lat": 42.6364796,
-    "lng": -83.2874969
+    "lat": 42.6379672,
+    "lng": -83.257684
   },
   {
     "id": "2005-regional-championship-at-flagstaff-az",
