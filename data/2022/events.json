@@ -104,8 +104,8 @@
     "date": "2022-10-01",
     "city": "Flagstaff",
     "state": "AZ",
-    "lat": 35.1830867,
-    "lng": -111.654961
+    "lat": 35.1805983,
+    "lng": -111.652899
   },
   {
     "id": "2022-louisville-regional-championship-at-louisville-ky",
@@ -200,8 +200,8 @@
     "date": "2022-10-15",
     "city": "Johnson City",
     "state": "TN",
-    "lat": 36.3167671,
-    "lng": -82.352903
+    "lat": 36.2985597,
+    "lng": -82.3750337
   },
   {
     "id": "2022-north-texas-regional-championship-at-prosper-tx",
