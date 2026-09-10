@@ -9,7 +9,9 @@
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6571852,
-    "lng": -83.6135953
+    "lng": -83.6135953,
+    "address": "North Glass Bowl Drive, Toledo, OH 43607",
+    "timezone": "America/New_York"
   },
   {
     "id": "2024-2024-bands-of-america-austin-regional-championship-presented-by-yamaha",
@@ -21,7 +23,9 @@
     "city": "Austin",
     "state": "TX",
     "lat": 30.492488,
-    "lng": -97.7741
+    "lng": -97.7741,
+    "address": "10211 West Parmer Lane, Austin, TX 78717",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2024-2024-bands-of-america-new-mexico-regional-championship-presented-by-yamaha",
@@ -33,7 +37,9 @@
     "city": "Albuquerque",
     "state": "NM",
     "lat": 35.0669178,
-    "lng": -106.6282458
+    "lng": -106.6282458,
+    "address": "Avenida César Chávez Southeast, Albuquerque, NM 87106",
+    "timezone": "America/Denver"
   },
   {
     "id": "2024-2024-bands-of-america-south-texas-regional-championship-presented-by-yamaha",
@@ -45,7 +51,9 @@
     "city": "McAllen",
     "state": "TX",
     "lat": 26.2238881,
-    "lng": -98.2373019
+    "lng": -98.2373019,
+    "address": "Bulldog Drive, McAllen, TX 78501",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2024-central-ohio-regional-championship-at-obetz-oh",
@@ -57,7 +65,9 @@
     "city": "Obetz",
     "state": "OH",
     "lat": 39.885817,
-    "lng": -82.9444641
+    "lng": -82.9444641,
+    "address": "Speedway Lane, Obetz, OH 43027",
+    "timezone": "America/New_York"
   },
   {
     "id": "2024-2024-bands-of-america-central-texas-regional-championship-presented-by-yamaha",
@@ -69,7 +79,9 @@
     "city": "San Marcos",
     "state": "TX",
     "lat": 29.8910885,
-    "lng": -97.9376214
+    "lng": -97.9376214,
+    "address": "Peques Street, San Marcos, TX 78666",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2024-2024-bands-of-america-iowa-regional-championship-presented-by-yamaha",
@@ -81,7 +93,9 @@
     "city": "Waukee",
     "state": "IA",
     "lat": 41.6254148,
-    "lng": -93.891364
+    "lng": -93.891364,
+    "address": "North 10th Street, Waukee, IA 50263",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2024-2024-bands-of-america-north-houston-regional-championship-presented-by-yamaha",
@@ -93,7 +107,9 @@
     "city": "Shenandoah",
     "state": "TX",
     "lat": 30.1848671,
-    "lng": -95.4489906
+    "lng": -95.4489906,
+    "address": "Main, Shenandoah, TX 77385",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2024-2024-bands-of-america-west-texas-regional-championship-presented-by-yamaha",
@@ -105,7 +121,9 @@
     "city": "Odessa",
     "state": "TX",
     "lat": 31.9208888,
-    "lng": -102.3645399
+    "lng": -102.3645399,
+    "address": "Charles Walker Road, Odessa, TX 79765",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2024-2024-bands-of-america-arizona-regional-championship-presented-by-yamaha",
@@ -117,7 +135,9 @@
     "city": "Flagstaff",
     "state": "AZ",
     "lat": 35.1805983,
-    "lng": -111.652899
+    "lng": -111.652899,
+    "address": "1701 South San Francisco Street, Flagstaff, AZ 86011",
+    "timezone": "America/Phoenix"
   },
   {
     "id": "2024-2024-bands-of-america-chattanooga-regional-championship-presented-by-yamaha",
@@ -129,7 +149,9 @@
     "city": "Campbellsville",
     "state": "KY",
     "lat": 37.3426158,
-    "lng": -85.3513669
+    "lng": -85.3513669,
+    "address": "Chandler Avenue, Campbellsville, KY 42718",
+    "timezone": "America/New_York"
   },
   {
     "id": "2024-2024-bands-of-america-dallas-mid-cities-regional-championship-presented-by",
@@ -141,7 +163,9 @@
     "city": "Bedford",
     "state": "TX",
     "lat": 32.8327183,
-    "lng": -97.1363983
+    "lng": -97.1363983,
+    "address": "H E B Drive, Bedford, TX 76022",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2024-2024-bands-of-america-memphis-regional-championship-presented-by-yamaha",
@@ -153,7 +177,9 @@
     "city": "Memphis",
     "state": "TN",
     "lat": 35.1211305,
-    "lng": -89.9774153
+    "lng": -89.9774153,
+    "address": "Home Run Lane, Memphis, TN 38114",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2024-2024-bands-of-america-south-houston-regional-championship-presented-by-yamaha",
@@ -165,7 +191,9 @@
     "city": "League City",
     "state": "TX",
     "lat": 29.5182996,
-    "lng": -95.1354753
+    "lng": -95.1354753,
+    "address": "1955 NASA Boulevard, League City, TX 77598",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2024-2024-bands-of-america-carolina-regional-championship-presented-by-yamaha",
@@ -177,7 +205,9 @@
     "city": "Conway",
     "state": "SC",
     "lat": 33.7929212,
-    "lng": -79.0174511
+    "lng": -79.0174511,
+    "address": "SC 544, Conway, SC 29588",
+    "timezone": "America/New_York"
   },
   {
     "id": "2024-2024-bands-of-america-idaho-regional-championship-presented-by-yamaha",
@@ -189,7 +219,9 @@
     "city": "Moscow",
     "state": "ID",
     "lat": 46.7262411,
-    "lng": -117.0174374
+    "lng": -117.0174374,
+    "address": "1000 Stadium Drive, Moscow, ID 83843",
+    "timezone": "America/Los_Angeles"
   },
   {
     "id": "2024-2024-bands-of-america-north-texas-regional-championship-presented-by-yamaha",
@@ -201,7 +233,9 @@
     "city": "Prosper",
     "state": "TX",
     "lat": 33.2607559,
-    "lng": -96.8042646
+    "lng": -96.8042646,
+    "address": "Inner Loop Drive, Prosper, TX 75078",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2024-2024-bands-of-america-southeastern-regional-championship-presented-by-yamaha",
@@ -213,7 +247,9 @@
     "city": "Vestavia Hills",
     "state": "AL",
     "lat": 33.4206132,
-    "lng": -86.7801312
+    "lng": -86.7801312,
+    "address": "Lime Rock Road, Vestavia Hills, AL 35216",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2024-2024-bands-of-america-indianapolis-super-regional-championship-presented-by",
@@ -225,7 +261,9 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
-    "lng": -86.1638376
+    "lng": -86.1638376,
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "2024-2024-bands-of-america-ballad-health-east-tennessee-regional-championship",
@@ -237,7 +275,9 @@
     "city": "Johnson City",
     "state": "TN",
     "lat": 36.2985597,
-    "lng": -82.3750337
+    "lng": -82.3750337,
+    "address": "J L Seehorn Jr Road, Johnson City, TN 37684",
+    "timezone": "America/New_York"
   },
   {
     "id": "2024-2024-bands-of-america-mid-atlantic-regional-championship-presented-by-yamaha",
@@ -249,7 +289,9 @@
     "city": "Newark",
     "state": "DE",
     "lat": 39.6616707,
-    "lng": -75.7488991
+    "lng": -75.7488991,
+    "address": "Richardson Lane, Newark, DE 19713",
+    "timezone": "America/New_York"
   },
   {
     "id": "2024-2024-bands-of-america-waco-regional-championship-presented-by-yamaha",
@@ -261,7 +303,9 @@
     "city": "Waco",
     "state": "TX",
     "lat": 31.5582247,
-    "lng": -97.1156821
+    "lng": -97.1156821,
+    "address": "Sheila and Walter Umphrey Bridge, Waco, TX 76798",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2024-2024-bands-of-america-new-jersey-regional-championship-presented-by-yamaha",
@@ -273,7 +317,9 @@
     "city": "Piscataway",
     "state": "NJ",
     "lat": 40.5135037,
-    "lng": -74.4651433
+    "lng": -74.4651433,
+    "address": "Sutphen Road, Piscataway, NJ 08855",
+    "timezone": "America/New_York"
   },
   {
     "id": "2024-2024-bands-of-america-orlando-regional-championship-presented-by-yamaha",
@@ -285,7 +331,9 @@
     "city": "Orlando",
     "state": "FL",
     "lat": 28.5390398,
-    "lng": -81.4027504
+    "lng": -81.4027504,
+    "address": "West Church Street, Orlando, FL 32805",
+    "timezone": "America/New_York"
   },
   {
     "id": "2024-2024-bands-of-america-st-louis-super-regional-championship-presented-by-yamaha",
@@ -297,7 +345,9 @@
     "city": "St. Louis",
     "state": "MO",
     "lat": 38.6327852,
-    "lng": -90.188551
+    "lng": -90.188551,
+    "address": "701 Convention Plaza, St. Louis, MO 63101",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2024-2024-bands-of-america-california-regional-championship-presented-by-yamaha",
@@ -309,7 +359,9 @@
     "city": "Rancho Cucamonga",
     "state": "CA",
     "lat": 34.1304707,
-    "lng": -117.5101687
+    "lng": -117.5101687,
+    "address": "13500 Victoria Street, Rancho Cucamonga, CA 91739",
+    "timezone": "America/Los_Angeles"
   },
   {
     "id": "2024-2024-bands-of-america-san-antonio-super-regional-championship-presented-by",
@@ -321,7 +373,9 @@
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
-    "lng": -98.4788949
+    "lng": -98.4788949,
+    "address": "100 Montana Street, San Antonio, TX 78203",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2024-2024-bands-of-america-utah-regional-championship-presented-by-yamaha",
@@ -333,7 +387,9 @@
     "city": "St. George",
     "state": "UT",
     "lat": 37.0995461,
-    "lng": -113.5673889
+    "lng": -113.5673889,
+    "address": "800 East, St. George, UT 84771",
+    "timezone": "America/Denver"
   },
   {
     "id": "2024-2024-bands-of-america-grand-national-championships-presented-by-yamaha",
@@ -345,6 +401,8 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
-    "lng": -86.1638376
+    "lng": -86.1638376,
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
+    "timezone": "America/Indiana/Indianapolis"
   }
 ]

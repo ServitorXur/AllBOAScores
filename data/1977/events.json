@@ -9,6 +9,8 @@
     "city": "Whitewater",
     "state": "WI",
     "lat": 42.8469937,
-    "lng": -88.7449823
+    "lng": -88.7449823,
+    "address": "West Schwager Drive, Whitewater, WI 53190",
+    "timezone": "America/Chicago"
   }
 ]

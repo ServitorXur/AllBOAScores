@@ -9,7 +9,9 @@
     "city": "Cincinnati",
     "state": "OH",
     "lat": 39.1311213,
-    "lng": -84.5162298
+    "lng": -84.5162298,
+    "address": "Bearcat Way, Cincinnati, OH 45221",
+    "timezone": "America/New_York"
   },
   {
     "id": "1995-regional-championship-at-toledo-oh",
@@ -21,7 +23,9 @@
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6571852,
-    "lng": -83.6135953
+    "lng": -83.6135953,
+    "address": "North Glass Bowl Drive, Toledo, OH 43607",
+    "timezone": "America/New_York"
   },
   {
     "id": "1995-regional-championship-at-morgantown-wv",
@@ -33,7 +37,9 @@
     "city": "Morgantown",
     "state": "WV",
     "lat": 39.6348398,
-    "lng": -79.9542095
+    "lng": -79.9542095,
+    "address": "1550 University Avenue, Morgantown, WV 26505",
+    "timezone": "America/New_York"
   },
   {
     "id": "1995-regional-championship-at-johnson-city-tn",
@@ -45,7 +51,9 @@
     "city": "Johnson City",
     "state": "TN",
     "lat": 36.3024236,
-    "lng": -82.3692822
+    "lng": -82.3692822,
+    "address": "1276 Gilbreath Drive, Johnson City, TN 37614",
+    "timezone": "America/New_York"
   },
   {
     "id": "1995-regional-championship-at-atlanta-ga",
@@ -57,7 +65,9 @@
     "city": "Atlanta",
     "state": "GA",
     "lat": 33.758056,
-    "lng": -84.401111
+    "lng": -84.401111,
+    "address": "1 Backyard Way, Atlanta, GA 30313",
+    "timezone": "America/New_York"
   },
   {
     "id": "1995-regional-championship-at-fullerton-ca",
@@ -69,7 +79,9 @@
     "city": "Fullerton",
     "state": "CA",
     "lat": 33.8830939,
-    "lng": -117.8852152
+    "lng": -117.8852152,
+    "address": "800 North State College Boulevard, Fullerton, CA 92831",
+    "timezone": "America/Los_Angeles"
   },
   {
     "id": "1995-regional-championship-at-san-antonio-tx",
@@ -81,7 +93,9 @@
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
-    "lng": -98.4788949
+    "lng": -98.4788949,
+    "address": "100 Montana Street, San Antonio, TX 78203",
+    "timezone": "America/Chicago"
   },
   {
     "id": "1995-regional-championship-at-houston-tx",
@@ -93,7 +107,9 @@
     "city": "Houston",
     "state": "TX",
     "lat": 29.7207902,
-    "lng": -95.3440627
+    "lng": -95.3440627,
+    "address": "4800 Calhoun Road, Houston, TX 77004",
+    "timezone": "America/Chicago"
   },
   {
     "id": "1995-regional-championship-at-indianapolis-in",
@@ -105,7 +121,9 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
-    "lng": -86.1640108
+    "lng": -86.1640108,
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "1995-grand-national-championship-at-indianapolis-in",
@@ -117,6 +135,8 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
-    "lng": -86.1640108
+    "lng": -86.1640108,
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
+    "timezone": "America/Indiana/Indianapolis"
   }
 ]

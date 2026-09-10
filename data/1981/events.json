@@ -9,7 +9,9 @@
     "city": "Whitewater",
     "state": "WI",
     "lat": 42.8469937,
-    "lng": -88.7449823
+    "lng": -88.7449823,
+    "address": "West Schwager Drive, Whitewater, WI 53190",
+    "timezone": "America/Chicago"
   },
   {
     "id": "1981-eastern-regional-championship-at-harrisonburg-va",
@@ -21,7 +23,9 @@
     "city": "Harrisonburg",
     "state": "VA",
     "lat": 38.4362412,
-    "lng": -78.8687576
+    "lng": -78.8687576,
+    "address": "800 South Main Street, Harrisonburg, VA 22807",
+    "timezone": "America/New_York"
   },
   {
     "id": "1981-northern-regional-championship-at-toledo-oh",
@@ -33,7 +37,9 @@
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6583953,
-    "lng": -83.6147907
+    "lng": -83.6147907,
+    "address": "2801 West Bancroft Street, Toledo, OH 43606",
+    "timezone": "America/New_York"
   },
   {
     "id": "1981-midwest-regional-championship-at-ft-wayne-in",
@@ -45,7 +51,9 @@
     "city": "Fort Wayne",
     "state": "IN",
     "lat": 41.1452895,
-    "lng": -85.140416
+    "lng": -85.140416,
+    "address": "Coldwater Road, Fort Wayne, IN 46825",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "1981-southwestern-regional-championship-at-houston-tx",
@@ -57,7 +65,9 @@
     "city": "Houston",
     "state": "TX",
     "lat": 29.7167915,
-    "lng": -95.4047811
+    "lng": -95.4047811,
+    "address": "6100 Main Street, Houston, TX 77005",
+    "timezone": "America/Chicago"
   },
   {
     "id": "1981-grand-national-championship-at-johnson-city-tn",
@@ -69,6 +79,8 @@
     "city": "Johnson City",
     "state": "TN",
     "lat": 36.3024236,
-    "lng": -82.3692822
+    "lng": -82.3692822,
+    "address": "1276 Gilbreath Drive, Johnson City, TN 37614",
+    "timezone": "America/New_York"
   }
 ]

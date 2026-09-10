@@ -9,7 +9,9 @@
     "city": "Whitewater",
     "state": "WI",
     "lat": 42.8469937,
-    "lng": -88.7449823
+    "lng": -88.7449823,
+    "address": "West Schwager Drive, Whitewater, WI 53190",
+    "timezone": "America/Chicago"
   },
   {
     "id": "1979-northern-regional-championship-at-toledo-oh",
@@ -21,7 +23,9 @@
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6583953,
-    "lng": -83.6147907
+    "lng": -83.6147907,
+    "address": "2801 West Bancroft Street, Toledo, OH 43606",
+    "timezone": "America/New_York"
   },
   {
     "id": "1979-southern-regional-championship-at-gonzalez-fl",
@@ -33,6 +37,8 @@
     "city": "Cantonment",
     "state": "FL",
     "lat": 30.605427,
-    "lng": -87.344442
+    "lng": -87.344442,
+    "address": "988 Muscogee Road, Cantonment, FL 32533",
+    "timezone": "America/Chicago"
   }
 ]

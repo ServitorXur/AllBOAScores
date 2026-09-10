@@ -9,7 +9,9 @@
     "city": "Cincinnati",
     "state": "OH",
     "lat": 39.1315542,
-    "lng": -84.5202952
+    "lng": -84.5202952,
+    "address": "Clifton Avenue, Cincinnati, OH 45221",
+    "timezone": "America/New_York"
   },
   {
     "id": "1997-regional-championship-at-toledo-oh",
@@ -21,7 +23,9 @@
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6583953,
-    "lng": -83.6147907
+    "lng": -83.6147907,
+    "address": "2801 West Bancroft Street, Toledo, OH 43606",
+    "timezone": "America/New_York"
   },
   {
     "id": "1997-regional-championship-at-morgantown-wv",
@@ -33,7 +37,9 @@
     "city": "Morgantown",
     "state": "WV",
     "lat": 39.6348398,
-    "lng": -79.9542095
+    "lng": -79.9542095,
+    "address": "1550 University Avenue, Morgantown, WV 26505",
+    "timezone": "America/New_York"
   },
   {
     "id": "1997-regional-championship-at-houston-tx",
@@ -45,7 +51,9 @@
     "city": "Houston",
     "state": "TX",
     "lat": 29.7167915,
-    "lng": -95.4047811
+    "lng": -95.4047811,
+    "address": "6100 Main Street, Houston, TX 77005",
+    "timezone": "America/Chicago"
   },
   {
     "id": "1997-regional-championship-at-johnson-city-tn",
@@ -57,7 +65,9 @@
     "city": "Johnson City",
     "state": "TN",
     "lat": 36.3024236,
-    "lng": -82.3692822
+    "lng": -82.3692822,
+    "address": "1276 Gilbreath Drive, Johnson City, TN 37614",
+    "timezone": "America/New_York"
   },
   {
     "id": "1997-regional-championship-at-piscataway-nj",
@@ -69,7 +79,9 @@
     "city": "Piscataway",
     "state": "NJ",
     "lat": 40.5204169,
-    "lng": -74.4645303
+    "lng": -74.4645303,
+    "address": "Scarlet Knight Way, Piscataway, NJ 08855",
+    "timezone": "America/New_York"
   },
   {
     "id": "1997-regional-championship-at-pitscataway-nj",
@@ -81,7 +93,9 @@
     "city": "Piscataway",
     "state": "NJ",
     "lat": 40.5204169,
-    "lng": -74.4645303
+    "lng": -74.4645303,
+    "address": "Scarlet Knight Way, Piscataway, NJ 08855",
+    "timezone": "America/New_York"
   },
   {
     "id": "1997-regional-championship-at-st-louis-mo",
@@ -93,7 +107,9 @@
     "city": "Saint Louis",
     "state": "MO",
     "lat": 38.6327852,
-    "lng": -90.188551
+    "lng": -90.188551,
+    "address": "701 Convention Plaza, Saint Louis, MO 63101",
+    "timezone": "America/Chicago"
   },
   {
     "id": "1997-regional-championship-at-atlanta-ga",
@@ -105,7 +121,9 @@
     "city": "Atlanta",
     "state": "GA",
     "lat": 33.758056,
-    "lng": -84.401111
+    "lng": -84.401111,
+    "address": "1 Backyard Way, Atlanta, GA 30313",
+    "timezone": "America/New_York"
   },
   {
     "id": "1997-regional-championship-at-indianapolis-in",
@@ -117,7 +135,9 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
-    "lng": -86.1640108
+    "lng": -86.1640108,
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "1997-regional-championship-at-waco-tx",
@@ -129,7 +149,9 @@
     "city": "Waco",
     "state": "TX",
     "lat": 31.5504341,
-    "lng": -97.1102906
+    "lng": -97.1102906,
+    "address": "1301 South University Parks Drive, Waco, TX 76706",
+    "timezone": "America/Chicago"
   },
   {
     "id": "1997-grand-national-championship-at-indianapolis-in",
@@ -141,6 +163,8 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
-    "lng": -86.1640108
+    "lng": -86.1640108,
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
+    "timezone": "America/Indiana/Indianapolis"
   }
 ]

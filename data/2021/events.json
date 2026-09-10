@@ -9,7 +9,9 @@
     "city": "Dayton",
     "state": "OH",
     "lat": 39.7369274,
-    "lng": -84.1981121
+    "lng": -84.1981121,
+    "address": "South Edwin C. Moses Boulevard, Dayton, OH 45409",
+    "timezone": "America/New_York"
   },
   {
     "id": "2021-mcallen-regional-championship-at-mcallen-tx",
@@ -21,7 +23,9 @@
     "city": "McAllen",
     "state": "TX",
     "lat": 26.2238881,
-    "lng": -98.2373019
+    "lng": -98.2373019,
+    "address": "Bulldog Drive, McAllen, TX 78501",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2021-powder-springs-regional-championship-at-powder-springs-ga",
@@ -33,7 +37,9 @@
     "city": "Powder Springs",
     "state": "GA",
     "lat": 33.8960695,
-    "lng": -84.67998
+    "lng": -84.67998,
+    "address": "2400 New Macland Road, Powder Springs, GA 30127",
+    "timezone": "America/New_York"
   },
   {
     "id": "2021-austin-regional-championship-at-austin-tx",
@@ -45,7 +51,9 @@
     "city": "Austin",
     "state": "TX",
     "lat": 30.492488,
-    "lng": -97.7741
+    "lng": -97.7741,
+    "address": "10211 West Parmer Lane, Austin, TX 78717",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2021-clarksville-regional-championship-at-clarksville-tn",
@@ -57,7 +65,9 @@
     "city": "Clarksville",
     "state": "TN",
     "lat": 36.5342965,
-    "lng": -87.3543085
+    "lng": -87.3543085,
+    "address": "601 College Street, Clarksville, TN 37044",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2021-north-houston-regional-championship-at-north-houston-tx",
@@ -69,7 +79,9 @@
     "city": "Houston",
     "state": "TX",
     "lat": 30.1848671,
-    "lng": -95.4489906
+    "lng": -95.4489906,
+    "address": "Main, Houston, TX 77385",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2021-obetz-regional-championship-at-obetz-oh",
@@ -81,7 +93,9 @@
     "city": "Obetz",
     "state": "OH",
     "lat": 39.885817,
-    "lng": -82.9444641
+    "lng": -82.9444641,
+    "address": "Speedway Lane, Obetz, OH 43027",
+    "timezone": "America/New_York"
   },
   {
     "id": "2021-katy-regional-championship-at-katy-tx",
@@ -93,7 +107,9 @@
     "city": "Katy",
     "state": "TX",
     "lat": 29.8000522,
-    "lng": -95.8054778
+    "lng": -95.8054778,
+    "address": "Franz Road, Katy, TX 77449",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2021-midland-regional-championship-at-midland-tx",
@@ -105,7 +121,9 @@
     "city": "Midland",
     "state": "TX",
     "lat": 31.9893368,
-    "lng": -102.1539155
+    "lng": -102.1539155,
+    "address": "Martin Luther King Jr. Circle, Midland, TX 77906",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2021-toledo-regional-championship-at-toledo-oh",
@@ -117,7 +135,9 @@
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6571852,
-    "lng": -83.6135953
+    "lng": -83.6135953,
+    "address": "North Glass Bowl Drive, Toledo, OH 43607",
+    "timezone": "America/New_York"
   },
   {
     "id": "2021-college-park-regional-championship-at-college-park-md",
@@ -129,7 +149,9 @@
     "city": "College Park",
     "state": "MD",
     "lat": 38.9902987,
-    "lng": -76.9474534
+    "lng": -76.9474534,
+    "address": "Stadium Drive, College Park, MD 20742",
+    "timezone": "America/New_York"
   },
   {
     "id": "2021-dallas-ft-worth-regional-championship-at-dallas-ft-worth-tx",
@@ -141,7 +163,9 @@
     "city": "Bedford",
     "state": "TX",
     "lat": 32.8327183,
-    "lng": -97.1363983
+    "lng": -97.1363983,
+    "address": "H E B Drive, Bedford, TX 76022",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2021-iowa-regional-championship-at-cedar-falls-ia",
@@ -153,7 +177,9 @@
     "city": "Cedar Falls",
     "state": "IA",
     "lat": 42.5156866,
-    "lng": -92.4672611
+    "lng": -92.4672611,
+    "address": "2401 Hudson Road Trail, Cedar Falls, IA 50614",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2021-alabama-regional-championship-at-jacksonville-al",
@@ -165,7 +191,9 @@
     "city": "Jacksonville",
     "state": "AL",
     "lat": 33.8249359,
-    "lng": -85.7641095
+    "lng": -85.7641095,
+    "address": "700 Pelham Road North, Jacksonville, AL 36265",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2021-orlando-regional-championship-at-orlando-fl",
@@ -177,7 +205,9 @@
     "city": "Orlando",
     "state": "FL",
     "lat": 28.5390398,
-    "lng": -81.4027504
+    "lng": -81.4027504,
+    "address": "West Church Street, Orlando, FL 32805",
+    "timezone": "America/New_York"
   },
   {
     "id": "2021-indianapolis-super-regional-championship-at-indianapolis-in",
@@ -189,7 +219,9 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
-    "lng": -86.1638376
+    "lng": -86.1638376,
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "2021-st-louis-super-regional-championship-at-st-louis-mo",
@@ -201,7 +233,9 @@
     "city": "St. Louis",
     "state": "MO",
     "lat": 38.6327852,
-    "lng": -90.188551
+    "lng": -90.188551,
+    "address": "701 Convention Plaza, St. Louis, MO 63101",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2021-east-tennessee-regional-championship-at-johnson-city-tn",
@@ -213,7 +247,9 @@
     "city": "Johnson City",
     "state": "TN",
     "lat": 36.3024236,
-    "lng": -82.3692822
+    "lng": -82.3692822,
+    "address": "1276 Gilbreath Drive, Johnson City, TN 37614",
+    "timezone": "America/New_York"
   },
   {
     "id": "2021-waco-regional-championship-at-waco-tx",
@@ -225,7 +261,9 @@
     "city": "Waco",
     "state": "TX",
     "lat": 31.5082248,
-    "lng": -97.1598579
+    "lng": -97.1598579,
+    "address": "1401 South New Road, Waco, TX 76711",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2021-san-antonio-super-regional-championship-at-san-antonio-tx",
@@ -237,7 +275,9 @@
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
-    "lng": -98.4788949
+    "lng": -98.4788949,
+    "address": "100 Montana Street, San Antonio, TX 78203",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2021-utah-regional-championship-at-st-george-ut",
@@ -249,7 +289,9 @@
     "city": "Saint George",
     "state": "UT",
     "lat": 37.1030099,
-    "lng": -113.5653354
+    "lng": -113.5653354,
+    "address": "225 University Avenue, Saint George, UT 84771",
+    "timezone": "America/Denver"
   },
   {
     "id": "2021-grand-national-championships-grand-nationals-prelims-championship-at-indianapolis-in",
@@ -261,7 +303,9 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
-    "lng": -86.1638376
+    "lng": -86.1638376,
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "2021-grand-national-championships-grand-national-championship-at-indianapolis-in",
@@ -273,7 +317,9 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
-    "lng": -86.1638376
+    "lng": -86.1638376,
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "2021-grand-national-championships-grand-national-semi-finals-championship-at-indianapolis-in",
@@ -285,6 +331,8 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
-    "lng": -86.1638376
+    "lng": -86.1638376,
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
+    "timezone": "America/Indiana/Indianapolis"
   }
 ]

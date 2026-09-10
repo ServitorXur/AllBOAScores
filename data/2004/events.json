@@ -9,7 +9,9 @@
     "city": "Louisville",
     "state": "KY",
     "lat": 38.2060161,
-    "lng": -85.7587734
+    "lng": -85.7587734,
+    "address": "South Floyd Street, Louisville, KY 40292",
+    "timezone": "America/Kentucky/Louisville"
   },
   {
     "id": "2004-regional-championship-at-louisville-kentucky",
@@ -21,7 +23,9 @@
     "city": "Louisville",
     "state": "KY",
     "lat": 38.2060161,
-    "lng": -85.7587734
+    "lng": -85.7587734,
+    "address": "South Floyd Street, Louisville, KY 40292",
+    "timezone": "America/Kentucky/Louisville"
   },
   {
     "id": "2004-regional-championship-at-massillon-oh",
@@ -33,7 +37,9 @@
     "city": "Massillon",
     "state": "OH",
     "lat": 40.793641,
-    "lng": -81.4997215
+    "lng": -81.4997215,
+    "address": "Russell Boulevard Southeast, Massillon, OH 44646",
+    "timezone": "America/New_York"
   },
   {
     "id": "2004-2004-9-25mif",
@@ -45,7 +51,9 @@
     "city": "Pontiac",
     "state": "MI",
     "lat": 42.6379672,
-    "lng": -83.257684
+    "lng": -83.257684,
+    "address": "1 West Silverdome Industrial Park, Pontiac, MI 48342",
+    "timezone": "America/Detroit"
   },
   {
     "id": "2004-2004-9-25mip",
@@ -57,7 +65,9 @@
     "city": "Pontiac",
     "state": "MI",
     "lat": 42.6379672,
-    "lng": -83.257684
+    "lng": -83.257684,
+    "address": "1 West Silverdome Industrial Park, Pontiac, MI 48342",
+    "timezone": "America/Detroit"
   },
   {
     "id": "2004-regional-championship-at-murfreesboro-tn",
@@ -69,7 +79,9 @@
     "city": "Murfreesboro",
     "state": "TN",
     "lat": 35.8486008,
-    "lng": -86.3609036
+    "lng": -86.3609036,
+    "address": "1301 East Main Street, Murfreesboro, TN 37132",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2004-regional-championship-at-huntsville-tx",
@@ -81,7 +93,9 @@
     "city": "Huntsville",
     "state": "TX",
     "lat": 30.7133471,
-    "lng": -95.5449136
+    "lng": -95.5449136,
+    "address": "1905 University Avenue, Huntsville, TX 77340",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2004-regional-championship-at-youngstown-oh",
@@ -93,7 +107,9 @@
     "city": "Youngstown",
     "state": "OH",
     "lat": 41.1067218,
-    "lng": -80.6477542
+    "lng": -80.6477542,
+    "address": "1 University Plaza, Youngstown, OH 44555",
+    "timezone": "America/New_York"
   },
   {
     "id": "2004-regional-championship-at-arlington-texas",
@@ -105,7 +121,9 @@
     "city": "Arlington",
     "state": "TX",
     "lat": 32.7315155,
-    "lng": -97.1171533
+    "lng": -97.1171533,
+    "address": "500 West Nedderman Drive, Arlington, TX 76019",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2004-regional-championship-at-la-joya-tx",
@@ -117,7 +135,9 @@
     "city": "La Joya",
     "state": "TX",
     "lat": 26.2525224,
-    "lng": -98.4730072
+    "lng": -98.4730072,
+    "address": "604 North Coyote Drive, La Joya, TX 78560",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2004-regional-championship-at-la-joya-texas",
@@ -129,7 +149,9 @@
     "city": "La Joya",
     "state": "TX",
     "lat": 26.2525224,
-    "lng": -98.4730072
+    "lng": -98.4730072,
+    "address": "604 North Coyote Drive, La Joya, TX 78560",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2004-regional-championship-at-piscataway-nj",
@@ -141,7 +163,9 @@
     "city": "Piscataway",
     "state": "NJ",
     "lat": 40.5204169,
-    "lng": -74.4645303
+    "lng": -74.4645303,
+    "address": "Scarlet Knight Way, Piscataway, NJ 08855",
+    "timezone": "America/New_York"
   },
   {
     "id": "2004-2004-10-16mof",
@@ -153,7 +177,9 @@
     "city": "Saint Louis",
     "state": "MO",
     "lat": 38.6327852,
-    "lng": -90.188551
+    "lng": -90.188551,
+    "address": "701 Convention Plaza, Saint Louis, MO 63101",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2004-2004-10-16mop",
@@ -165,7 +191,9 @@
     "city": "St. Louis",
     "state": "MO",
     "lat": 38.6327852,
-    "lng": -90.188551
+    "lng": -90.188551,
+    "address": "701 Convention Plaza, St. Louis, MO 63101",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2004-regional-championship-at-st-petersburg-fl",
@@ -177,7 +205,9 @@
     "city": "Saint Petersburg",
     "state": "FL",
     "lat": 27.7680559,
-    "lng": -82.6532755
+    "lng": -82.6532755,
+    "address": "Pinellas Trail, Saint Petersburg, FL 33701",
+    "timezone": "America/New_York"
   },
   {
     "id": "2004-2004-10-23gaf",
@@ -189,7 +219,9 @@
     "city": "Atlanta",
     "state": "GA",
     "lat": 33.758056,
-    "lng": -84.401111
+    "lng": -84.401111,
+    "address": "1 Backyard Way, Atlanta, GA 30313",
+    "timezone": "America/New_York"
   },
   {
     "id": "2004-2004-10-23gap",
@@ -201,7 +233,9 @@
     "city": "Atlanta",
     "state": "GA",
     "lat": 33.758056,
-    "lng": -84.401111
+    "lng": -84.401111,
+    "address": "1 Backyard Way, Atlanta, GA 30313",
+    "timezone": "America/New_York"
   },
   {
     "id": "2004-regional-championship-at-las-vegas-nv",
@@ -213,7 +247,9 @@
     "city": "Las Vegas",
     "state": "NV",
     "lat": 36.1674263,
-    "lng": -115.1484131
+    "lng": -115.1484131,
+    "address": "495 South Main Street, Las Vegas, NV 89101",
+    "timezone": "America/Los_Angeles"
   },
   {
     "id": "2004-regional-championship-at-san-antonio-tx",
@@ -225,7 +261,9 @@
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
-    "lng": -98.4788949
+    "lng": -98.4788949,
+    "address": "100 Montana Street, San Antonio, TX 78203",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2004-regional-championship-at-indianapolis-in",
@@ -237,7 +275,9 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
-    "lng": -86.1640108
+    "lng": -86.1640108,
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "2004-regional-championship-at-indianapolis-indiana",
@@ -249,7 +289,9 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
-    "lng": -86.1640108
+    "lng": -86.1640108,
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "2004-grand-national-championships-at-indianapolis-in",
@@ -261,6 +303,8 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
-    "lng": -86.1640108
+    "lng": -86.1640108,
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
+    "timezone": "America/Indiana/Indianapolis"
   }
 ]

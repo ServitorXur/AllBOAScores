@@ -9,7 +9,9 @@
     "city": "Louisville",
     "state": "KY",
     "lat": 38.2060161,
-    "lng": -85.7587734
+    "lng": -85.7587734,
+    "address": "South Floyd Street, Louisville, KY 40292",
+    "timezone": "America/Kentucky/Louisville"
   },
   {
     "id": "2014-monroeville-regional-championship-at-monroeville-pa",
@@ -21,7 +23,9 @@
     "city": "Monroeville",
     "state": "PA",
     "lat": 40.4315061,
-    "lng": -79.7548388
+    "lng": -79.7548388,
+    "address": "Gateway Campus Boulevard, Monroeville, PA 15146",
+    "timezone": "America/New_York"
   },
   {
     "id": "2014-austin-regional-championship-at-austin-tx",
@@ -33,7 +37,9 @@
     "city": "Austin",
     "state": "TX",
     "lat": 30.492488,
-    "lng": -97.7741
+    "lng": -97.7741,
+    "address": "10211 West Parmer Lane, Austin, TX 78717",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2014-dayton-regional-championship-at-dayton-oh",
@@ -45,7 +51,9 @@
     "city": "Dayton",
     "state": "OH",
     "lat": 39.7369274,
-    "lng": -84.1981121
+    "lng": -84.1981121,
+    "address": "South Edwin C. Moses Boulevard, Dayton, OH 45409",
+    "timezone": "America/New_York"
   },
   {
     "id": "2014-powder-springs-regional-championship-at-powder-springs-ga",
@@ -57,7 +65,9 @@
     "city": "Powder Springs",
     "state": "GA",
     "lat": 33.8959058,
-    "lng": -84.6771383
+    "lng": -84.6771383,
+    "address": "2400 New Macland Road, Powder Springs, GA 30127",
+    "timezone": "America/New_York"
   },
   {
     "id": "2014-denton-regional-championship-at-denton-tx",
@@ -69,7 +79,9 @@
     "city": "Denton",
     "state": "TX",
     "lat": 33.2039397,
-    "lng": -97.1594204
+    "lng": -97.1594204,
+    "address": "South Bonnie Brae Street, Denton, TX 76203",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2014-toledo-regional-championship-at-toledo-oh",
@@ -81,7 +93,9 @@
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6571852,
-    "lng": -83.6135953
+    "lng": -83.6135953,
+    "address": "North Glass Bowl Drive, Toledo, OH 43607",
+    "timezone": "America/New_York"
   },
   {
     "id": "2014-conroe-regional-championship-at-conroe-tx",
@@ -93,7 +107,9 @@
     "city": "Conroe",
     "state": "TX",
     "lat": 30.1848671,
-    "lng": -95.4489906
+    "lng": -95.4489906,
+    "address": "Main, Conroe, TX 77385",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2014-jacksonville-regional-championship-at-jacksonville-al",
@@ -105,7 +121,9 @@
     "city": "Jacksonville",
     "state": "FL",
     "lat": 30.3262247,
-    "lng": -81.6579179
+    "lng": -81.6579179,
+    "address": "25 West Bay Street, Jacksonville, FL 32202",
+    "timezone": "America/New_York"
   },
   {
     "id": "2014-winston-salem-regional-championship-at-winston-salem-nc",
@@ -117,7 +135,9 @@
     "city": "Winston Salem",
     "state": "NC",
     "lat": 36.133893,
-    "lng": -80.2755578
+    "lng": -80.2755578,
+    "address": "1834 Wake Forest Road, Winston Salem, NC 27109",
+    "timezone": "America/New_York"
   },
   {
     "id": "2014-st-louis-super-regional-championship-at-st-louis-mo",
@@ -129,7 +149,9 @@
     "city": "Saint Louis",
     "state": "MO",
     "lat": 38.6327852,
-    "lng": -90.188551
+    "lng": -90.188551,
+    "address": "701 Convention Plaza, Saint Louis, MO 63101",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2014-tacoma-regional-championship-at-tacoma-wa",
@@ -141,7 +163,9 @@
     "city": "Tacoma",
     "state": "WA",
     "lat": 47.2368872,
-    "lng": -122.4269522
+    "lng": -122.4269522,
+    "address": "2727 East D Street, Tacoma, WA 98421",
+    "timezone": "America/Los_Angeles"
   },
   {
     "id": "2014-indianapolis-super-regional-championship-at-indianapolis-in",
@@ -153,7 +177,9 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
-    "lng": -86.1638376
+    "lng": -86.1638376,
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "2014-newark-regional-championship-at-newark-de",
@@ -165,7 +191,9 @@
     "city": "Dover",
     "state": "DE",
     "lat": 39.158168,
-    "lng": -75.5243682
+    "lng": -75.5243682,
+    "address": "3 Loockerman Plaza, Dover, DE 19901",
+    "timezone": "America/New_York"
   },
   {
     "id": "2014-atlanta-super-regional-championship-at-atlanta-ga",
@@ -177,7 +205,9 @@
     "city": "Atlanta",
     "state": "GA",
     "lat": 33.758056,
-    "lng": -84.401111
+    "lng": -84.401111,
+    "address": "1 Backyard Way, Atlanta, GA 30313",
+    "timezone": "America/New_York"
   },
   {
     "id": "2014-san-antonio-super-regional-championship-at-san-antonio-tx",
@@ -189,7 +219,9 @@
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
-    "lng": -98.4788949
+    "lng": -98.4788949,
+    "address": "100 Montana Street, San Antonio, TX 78203",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2014-st-george-regional-championship-at-st-george-ut",
@@ -201,7 +233,9 @@
     "city": "St. George",
     "state": "UT",
     "lat": 37.0504121,
-    "lng": -113.5660552
+    "lng": -113.5660552,
+    "address": "South 840 East, St. George, UT 84790",
+    "timezone": "America/Denver"
   },
   {
     "id": "2014-long-beach-regional-championship-at-long-beach-ca",
@@ -213,7 +247,9 @@
     "city": "Long Beach",
     "state": "CA",
     "lat": 33.8282786,
-    "lng": -118.1363966
+    "lng": -118.1363966,
+    "address": "Lew Davis Street, Long Beach, CA 90846",
+    "timezone": "America/Los_Angeles"
   },
   {
     "id": "2014-grand-national-championships",
@@ -225,6 +261,8 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
-    "lng": -86.1638376
+    "lng": -86.1638376,
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
+    "timezone": "America/Indiana/Indianapolis"
   }
 ]

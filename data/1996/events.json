@@ -9,7 +9,9 @@
     "city": "Cincinnati",
     "state": "OH",
     "lat": 39.1315542,
-    "lng": -84.5202952
+    "lng": -84.5202952,
+    "address": "Clifton Avenue, Cincinnati, OH 45221",
+    "timezone": "America/New_York"
   },
   {
     "id": "1996-regional-championship-at-charleston-wv",
@@ -21,7 +23,9 @@
     "city": "Charleston",
     "state": "WV",
     "lat": 38.344247,
-    "lng": -81.6151641
+    "lng": -81.6151641,
+    "address": "Franks Court, Charleston, WV 25311",
+    "timezone": "America/New_York"
   },
   {
     "id": "1996-regional-championship-at-bensalem-pa",
@@ -33,7 +37,9 @@
     "city": "Bensalem",
     "state": "PA",
     "lat": 40.1045549,
-    "lng": -74.951279
+    "lng": -74.951279,
+    "address": "2980 Knights Road, Bensalem, PA 19020",
+    "timezone": "America/New_York"
   },
   {
     "id": "1996-regional-championship-at-houston-tx",
@@ -45,7 +51,9 @@
     "city": "Houston",
     "state": "TX",
     "lat": 29.7167915,
-    "lng": -95.4047811
+    "lng": -95.4047811,
+    "address": "6100 Main Street, Houston, TX 77005",
+    "timezone": "America/Chicago"
   },
   {
     "id": "1996-regional-championship-at-johnson-city-tn",
@@ -57,7 +65,9 @@
     "city": "Johnson City",
     "state": "TN",
     "lat": 36.3024236,
-    "lng": -82.3692822
+    "lng": -82.3692822,
+    "address": "1276 Gilbreath Drive, Johnson City, TN 37614",
+    "timezone": "America/New_York"
   },
   {
     "id": "1996-regional-championship-at-toledo-oh",
@@ -69,7 +79,9 @@
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6583953,
-    "lng": -83.6147907
+    "lng": -83.6147907,
+    "address": "2801 West Bancroft Street, Toledo, OH 43606",
+    "timezone": "America/New_York"
   },
   {
     "id": "1996-regional-championship-at-atlanta-ga",
@@ -81,7 +93,9 @@
     "city": "Atlanta",
     "state": "GA",
     "lat": 33.758056,
-    "lng": -84.401111
+    "lng": -84.401111,
+    "address": "1 Backyard Way, Atlanta, GA 30313",
+    "timezone": "America/New_York"
   },
   {
     "id": "1996-regional-championship-at-torrance-ca",
@@ -93,7 +107,9 @@
     "city": "Torrance",
     "state": "CA",
     "lat": 33.8838447,
-    "lng": -118.330278
+    "lng": -118.330278,
+    "address": "16007 Crenshaw Boulevard, Torrance, CA 90506",
+    "timezone": "America/Los_Angeles"
   },
   {
     "id": "1996-regional-championship-at-denton-tx",
@@ -105,7 +121,9 @@
     "city": "Denton",
     "state": "TX",
     "lat": 33.2098922,
-    "lng": -97.1514763
+    "lng": -97.1514763,
+    "address": "1155 Union Circle, Denton, TX 76203",
+    "timezone": "America/Chicago"
   },
   {
     "id": "1996-regional-championship-at-indianapolis-in",
@@ -117,7 +135,9 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
-    "lng": -86.1640108
+    "lng": -86.1640108,
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "1996-grand-national-championship-at-indianapolis-in",
@@ -129,6 +149,8 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
-    "lng": -86.1640108
+    "lng": -86.1640108,
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
+    "timezone": "America/Indiana/Indianapolis"
   }
 ]

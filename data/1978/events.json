@@ -9,7 +9,9 @@
     "city": "Whitewater",
     "state": "WI",
     "lat": 42.8469937,
-    "lng": -88.7449823
+    "lng": -88.7449823,
+    "address": "West Schwager Drive, Whitewater, WI 53190",
+    "timezone": "America/Chicago"
   },
   {
     "id": "1978-southern-regional-championship-at-jackson-ms",
@@ -21,6 +23,8 @@
     "city": "Jackson",
     "state": "MS",
     "lat": 32.3244419,
-    "lng": -90.1734757
+    "lng": -90.1734757,
+    "address": "Riverside Drive, Jackson, MS 39202",
+    "timezone": "America/Chicago"
   }
 ]

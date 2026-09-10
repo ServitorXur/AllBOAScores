@@ -9,7 +9,9 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
-    "lng": -86.1640108
+    "lng": -86.1640108,
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "1992-regional-championship-at-toledo-oh",
@@ -21,7 +23,9 @@
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6529143,
-    "lng": -83.5378173
+    "lng": -83.5378173,
+    "address": "Erie Street Bike Lane, Toledo, OH 43604",
+    "timezone": "America/New_York"
   },
   {
     "id": "1992-regional-championship-at-morgantown-wv",
@@ -33,7 +37,9 @@
     "city": "Morgantown",
     "state": "WV",
     "lat": 39.6485793,
-    "lng": -79.9585519
+    "lng": -79.9585519,
+    "address": "101 Law School Drive, Morgantown, WV 26506",
+    "timezone": "America/New_York"
   },
   {
     "id": "1992-regional-championship-at-houston-tx",
@@ -45,7 +51,9 @@
     "city": "Houston",
     "state": "TX",
     "lat": 29.7130529,
-    "lng": -95.4020704
+    "lng": -95.4020704,
+    "address": "University Boulevard, Houston, TX 77005",
+    "timezone": "America/Chicago"
   },
   {
     "id": "1992-regional-championship-at-johnson-city-tn",
@@ -57,7 +65,9 @@
     "city": "Johnson City",
     "state": "TN",
     "lat": 36.3024236,
-    "lng": -82.3692822
+    "lng": -82.3692822,
+    "address": "1276 Gilbreath Drive, Johnson City, TN 37614",
+    "timezone": "America/New_York"
   },
   {
     "id": "1992-regional-championship-at-denton-tx",
@@ -69,7 +79,9 @@
     "city": "Denton",
     "state": "TX",
     "lat": 33.2098922,
-    "lng": -97.1514763
+    "lng": -97.1514763,
+    "address": "1155 Union Circle, Denton, TX 76203",
+    "timezone": "America/Chicago"
   },
   {
     "id": "1992-regional-championship-at-hattiesburg-ms",
@@ -81,7 +93,9 @@
     "city": "Hattiesburg",
     "state": "MS",
     "lat": 31.3286452,
-    "lng": -89.3367312
+    "lng": -89.3367312,
+    "address": "118 College Drive, Hattiesburg, MS 39406",
+    "timezone": "America/Chicago"
   },
   {
     "id": "1992-grand-national-championship-at-indianapolis-in",
@@ -93,6 +107,8 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
-    "lng": -86.1640108
+    "lng": -86.1640108,
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
+    "timezone": "America/Indiana/Indianapolis"
   }
 ]

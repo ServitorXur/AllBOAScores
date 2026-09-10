@@ -9,7 +9,9 @@
     "city": "Louisville",
     "state": "KY",
     "lat": 38.2060161,
-    "lng": -85.7587734
+    "lng": -85.7587734,
+    "address": "South Floyd Street, Louisville, KY 40292",
+    "timezone": "America/Kentucky/Louisville"
   },
   {
     "id": "2012-louisville-regional-finals-championship-at-louisville-kentucky",
@@ -21,7 +23,9 @@
     "city": "Louisville",
     "state": "KY",
     "lat": 38.2060161,
-    "lng": -85.7587734
+    "lng": -85.7587734,
+    "address": "South Floyd Street, Louisville, KY 40292",
+    "timezone": "America/Kentucky/Louisville"
   },
   {
     "id": "2012-monroeville-regional-championship-at-monroeville-pa",
@@ -33,7 +37,9 @@
     "city": "Monroeville",
     "state": "PA",
     "lat": 40.4335167,
-    "lng": -79.7606192
+    "lng": -79.7606192,
+    "address": "4205 Monroeville Boulevard, Monroeville, PA 15146",
+    "timezone": "America/New_York"
   },
   {
     "id": "2012-denton-championship-at-denton-tx",
@@ -45,7 +51,9 @@
     "city": "Denton",
     "state": "TX",
     "lat": 33.2039397,
-    "lng": -97.1594204
+    "lng": -97.1594204,
+    "address": "South Bonnie Brae Street, Denton, TX 76203",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2012-kettering-regional-championship-at-kettering-ohio",
@@ -57,7 +65,9 @@
     "city": "Kettering",
     "state": "OH",
     "lat": 39.6936631,
-    "lng": -84.1662258
+    "lng": -84.1662258,
+    "address": "Storms Road, Kettering, OH 45429",
+    "timezone": "America/New_York"
   },
   {
     "id": "2012-conroe-regional-championship-at-conroe-tx",
@@ -69,7 +79,9 @@
     "city": "Conroe",
     "state": "TX",
     "lat": 30.1848671,
-    "lng": -95.4489906
+    "lng": -95.4489906,
+    "address": "Main, Conroe, TX 77385",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2012-pontiac-regional-championship-at-pontiac-mi",
@@ -81,7 +93,9 @@
     "city": "Pontiac",
     "state": "MI",
     "lat": 42.6389216,
-    "lng": -83.2910468
+    "lng": -83.2910468,
+    "address": "50 North Perry Street, Pontiac, MI 48342",
+    "timezone": "America/Detroit"
   },
   {
     "id": "2012-akron-regional-championship-at-akron-oh",
@@ -93,7 +107,9 @@
     "city": "Akron",
     "state": "OH",
     "lat": 41.07251,
-    "lng": -81.5084807
+    "lng": -81.5084807,
+    "address": "Vine Street, Akron, OH 44304",
+    "timezone": "America/New_York"
   },
   {
     "id": "2012-jacksonville-regional-championship-at-jacksonville-al",
@@ -105,7 +121,9 @@
     "city": "Jacksonville",
     "state": "AL",
     "lat": 33.8137919,
-    "lng": -85.7612872
+    "lng": -85.7612872,
+    "address": "41 Public Square West, Jacksonville, AL 36265",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2012-indianapolis-super-regional-championship-at-indianapolis-in",
@@ -117,7 +135,9 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
-    "lng": -86.1638376
+    "lng": -86.1638376,
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "2012-st-louis-super-regional-championship-at-st-louis-mo",
@@ -129,7 +149,9 @@
     "city": "Saint Louis",
     "state": "MO",
     "lat": 38.6327852,
-    "lng": -90.188551
+    "lng": -90.188551,
+    "address": "701 Convention Plaza, Saint Louis, MO 63101",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2012-atlanta-super-regional-championship-at-atlanta-ga",
@@ -141,7 +163,9 @@
     "city": "Atlanta",
     "state": "GA",
     "lat": 33.758056,
-    "lng": -84.401111
+    "lng": -84.401111,
+    "address": "1 Backyard Way, Atlanta, GA 30313",
+    "timezone": "America/New_York"
   },
   {
     "id": "2012-glendora-regional-championship-at-glendora-ca",
@@ -153,7 +177,9 @@
     "city": "Glendora",
     "state": "CA",
     "lat": 34.1343151,
-    "lng": -117.8856927
+    "lng": -117.8856927,
+    "address": "1000 West Foothill Boulevard, Glendora, CA 91741",
+    "timezone": "America/Los_Angeles"
   },
   {
     "id": "2012-towson-regional-championship-at-towson-md",
@@ -165,7 +191,9 @@
     "city": "Towson",
     "state": "MD",
     "lat": 39.3885483,
-    "lng": -76.6158585
+    "lng": -76.6158585,
+    "address": "Auburn Drive, Towson, MD 21252",
+    "timezone": "America/New_York"
   },
   {
     "id": "2012-st-george-regional-championship-at-st-george-ut",
@@ -177,7 +205,9 @@
     "city": "St. George",
     "state": "UT",
     "lat": 37.0504121,
-    "lng": -113.5660552
+    "lng": -113.5660552,
+    "address": "South 840 East, St. George, UT 84790",
+    "timezone": "America/Denver"
   },
   {
     "id": "2012-indianapolis-grand-national-championship-at-indianapolis-in",
@@ -189,7 +219,9 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
-    "lng": -86.1638376
+    "lng": -86.1638376,
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "2012-san-antonio-super-regional-championship-at-san-antonio-tx",
@@ -201,6 +233,8 @@
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
-    "lng": -98.4788949
+    "lng": -98.4788949,
+    "address": "100 Montana Street, San Antonio, TX 78203",
+    "timezone": "America/Chicago"
   }
 ]

@@ -9,7 +9,9 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
-    "lng": -86.1640108
+    "lng": -86.1640108,
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "1991-regional-championship-at-toledo-oh",
@@ -21,7 +23,9 @@
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6583953,
-    "lng": -83.6147907
+    "lng": -83.6147907,
+    "address": "2801 West Bancroft Street, Toledo, OH 43606",
+    "timezone": "America/New_York"
   },
   {
     "id": "1991-regional-championship-at-fort-worth-tx",
@@ -33,7 +37,9 @@
     "city": "Fort Worth",
     "state": "TX",
     "lat": 32.7080148,
-    "lng": -97.3611939
+    "lng": -97.3611939,
+    "address": "South University Drive, Fort Worth, TX 76129",
+    "timezone": "America/Chicago"
   },
   {
     "id": "1991-regional-championship-at-johnson-city-tn",
@@ -45,7 +51,9 @@
     "city": "Johnson City",
     "state": "TN",
     "lat": 36.3024236,
-    "lng": -82.3692822
+    "lng": -82.3692822,
+    "address": "1276 Gilbreath Drive, Johnson City, TN 37614",
+    "timezone": "America/New_York"
   },
   {
     "id": "1991-grand-national-championship-at-indianapolis-in",
@@ -57,6 +65,8 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
-    "lng": -86.1640108
+    "lng": -86.1640108,
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
+    "timezone": "America/Indiana/Indianapolis"
   }
 ]

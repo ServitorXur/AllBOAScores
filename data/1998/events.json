@@ -9,7 +9,9 @@
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6566438,
-    "lng": -83.6136126
+    "lng": -83.6136126,
+    "address": "1745 Stadium Drive, Toledo, OH 43606",
+    "timezone": "America/New_York"
   },
   {
     "id": "1998-regional-championship-at-morgantown-wv",
@@ -21,7 +23,9 @@
     "city": "Morgantown",
     "state": "WV",
     "lat": 39.6348398,
-    "lng": -79.9542095
+    "lng": -79.9542095,
+    "address": "1550 University Avenue, Morgantown, WV 26505",
+    "timezone": "America/New_York"
   },
   {
     "id": "1998-regional-championship-at-orlando-fl",
@@ -33,7 +37,9 @@
     "city": "Orlando",
     "state": "FL",
     "lat": 28.5390398,
-    "lng": -81.4027504
+    "lng": -81.4027504,
+    "address": "West Church Street, Orlando, FL 32805",
+    "timezone": "America/New_York"
   },
   {
     "id": "1998-regional-championship-at-hempstead-ny",
@@ -45,7 +51,9 @@
     "city": "Hempstead",
     "state": "NY",
     "lat": 40.7169083,
-    "lng": -73.6000225
+    "lng": -73.6000225,
+    "address": "Hofstra Boulevard, Hempstead, NY 11549",
+    "timezone": "America/New_York"
   },
   {
     "id": "1998-regional-championship-at-san-antonio-tx",
@@ -57,7 +65,9 @@
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
-    "lng": -98.4788949
+    "lng": -98.4788949,
+    "address": "100 Montana Street, San Antonio, TX 78203",
+    "timezone": "America/Chicago"
   },
   {
     "id": "1998-regional-championship-at-cincinnati-oh",
@@ -69,7 +79,9 @@
     "city": "Cincinnati",
     "state": "OH",
     "lat": 39.1315542,
-    "lng": -84.5202952
+    "lng": -84.5202952,
+    "address": "Clifton Avenue, Cincinnati, OH 45221",
+    "timezone": "America/New_York"
   },
   {
     "id": "1998-regional-championship-at-st-louis-mo",
@@ -81,7 +93,9 @@
     "city": "Saint Louis",
     "state": "MO",
     "lat": 38.6327852,
-    "lng": -90.188551
+    "lng": -90.188551,
+    "address": "701 Convention Plaza, Saint Louis, MO 63101",
+    "timezone": "America/Chicago"
   },
   {
     "id": "1998-regional-championship-at-las-vegas-nv",
@@ -93,7 +107,9 @@
     "city": "Las Vegas",
     "state": "NV",
     "lat": 36.1079411,
-    "lng": -115.1439051
+    "lng": -115.1439051,
+    "address": "4505 South Maryland Parkway, Las Vegas, NV 89154",
+    "timezone": "America/Los_Angeles"
   },
   {
     "id": "1998-regional-championship-at-indianapolis-in",
@@ -105,7 +121,9 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
-    "lng": -86.1640108
+    "lng": -86.1640108,
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "1998-regional-championship-at-johnson-city-tn",
@@ -117,7 +135,9 @@
     "city": "Johnson City",
     "state": "TN",
     "lat": 36.3024236,
-    "lng": -82.3692822
+    "lng": -82.3692822,
+    "address": "1276 Gilbreath Drive, Johnson City, TN 37614",
+    "timezone": "America/New_York"
   },
   {
     "id": "1998-regional-championship-at-atlanta-ga",
@@ -129,7 +149,9 @@
     "city": "Atlanta",
     "state": "GA",
     "lat": 33.758056,
-    "lng": -84.401111
+    "lng": -84.401111,
+    "address": "1 Backyard Way, Atlanta, GA 30313",
+    "timezone": "America/New_York"
   },
   {
     "id": "1998-regional-championship-at-houston-tx",
@@ -141,7 +163,9 @@
     "city": "Houston",
     "state": "TX",
     "lat": 29.7167915,
-    "lng": -95.4047811
+    "lng": -95.4047811,
+    "address": "6100 Main Street, Houston, TX 77005",
+    "timezone": "America/Chicago"
   },
   {
     "id": "1998-grand-national-championship-at-indianapolis-in",
@@ -153,6 +177,8 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
-    "lng": -86.1640108
+    "lng": -86.1640108,
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
+    "timezone": "America/Indiana/Indianapolis"
   }
 ]

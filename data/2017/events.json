@@ -9,7 +9,9 @@
     "city": "Canton",
     "state": "OH",
     "lat": 40.8198753,
-    "lng": -81.3980661
+    "lng": -81.3980661,
+    "address": "George Halas Drive Northwest, Canton, OH 44711",
+    "timezone": "America/New_York"
   },
   {
     "id": "2017-powder-springs-regional-championship-at-powder-springs-ga",
@@ -21,7 +23,9 @@
     "city": "Powder Springs",
     "state": "GA",
     "lat": 33.8960695,
-    "lng": -84.67998
+    "lng": -84.67998,
+    "address": "2400 New Macland Road, Powder Springs, GA 30127",
+    "timezone": "America/New_York"
   },
   {
     "id": "2017-austin-regional-championship-at-austin-tx",
@@ -33,7 +37,9 @@
     "city": "Austin",
     "state": "TX",
     "lat": 30.492488,
-    "lng": -97.7741
+    "lng": -97.7741,
+    "address": "10211 West Parmer Lane, Austin, TX 78717",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2017-clarksville-regional-championship-at-clarksville-tn",
@@ -45,7 +51,9 @@
     "city": "Clarksville",
     "state": "TN",
     "lat": 36.5342965,
-    "lng": -87.3543085
+    "lng": -87.3543085,
+    "address": "601 College Street, Clarksville, TN 37044",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2017-toledo-regional-championship-at-toledo-oh",
@@ -57,7 +65,9 @@
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6583953,
-    "lng": -83.6147907
+    "lng": -83.6147907,
+    "address": "2801 West Bancroft Street, Toledo, OH 43606",
+    "timezone": "America/New_York"
   },
   {
     "id": "2017-dallas-ft-worth-regional-championship-at-dallas-ft-worth-tx",
@@ -69,7 +79,9 @@
     "city": "Dallas",
     "state": "NC",
     "lat": 35.3160119,
-    "lng": -81.1765654
+    "lng": -81.1765654,
+    "address": "West Trade Street, Dallas, NC 28034",
+    "timezone": "America/New_York"
   },
   {
     "id": "2017-mcallen-regional-championship-at-mcallen-tx",
@@ -81,7 +93,9 @@
     "city": "McAllen",
     "state": "TX",
     "lat": 26.2238881,
-    "lng": -98.2373019
+    "lng": -98.2373019,
+    "address": "Bulldog Drive, McAllen, TX 78501",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2017-conroe-regional-championship-at-conroe-tx",
@@ -93,7 +107,9 @@
     "city": "Conroe",
     "state": "TX",
     "lat": 30.1848671,
-    "lng": -95.4489906
+    "lng": -95.4489906,
+    "address": "Main, Conroe, TX 77385",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2017-dayton-regional-championship-at-dayton-oh",
@@ -105,7 +121,9 @@
     "city": "Dayton",
     "state": "OH",
     "lat": 39.7369274,
-    "lng": -84.1981121
+    "lng": -84.1981121,
+    "address": "South Edwin C. Moses Boulevard, Dayton, OH 45409",
+    "timezone": "America/New_York"
   },
   {
     "id": "2017-jacksonville-regional-championship-at-jacksonville-al",
@@ -117,7 +135,9 @@
     "city": "Jacksonville",
     "state": "AL",
     "lat": 33.8249359,
-    "lng": -85.7641095
+    "lng": -85.7641095,
+    "address": "700 Pelham Road North, Jacksonville, AL 36265",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2017-newark-regional-championship-at-newark-de",
@@ -129,7 +149,9 @@
     "city": "Newark",
     "state": "DE",
     "lat": 39.6802837,
-    "lng": -75.7530984
+    "lng": -75.7530984,
+    "address": "South College Avenue, Newark, DE 19713",
+    "timezone": "America/New_York"
   },
   {
     "id": "2017-midland-regional-championship-at-midland-tx",
@@ -141,7 +163,9 @@
     "city": "Midland",
     "state": "TX",
     "lat": 31.9893368,
-    "lng": -102.1539155
+    "lng": -102.1539155,
+    "address": "Martin Luther King Jr. Circle, Midland, TX 77906",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2017-winston-salem-regional-championship-at-winston-salem-nc",
@@ -153,7 +177,9 @@
     "city": "Salem",
     "state": "TN",
     "lat": 35.8092325,
-    "lng": -86.4772144
+    "lng": -86.4772144,
+    "address": "4068 Old Salem Road, Salem, TN 37153",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2017-st-louis-super-regional-championship-at-st-louis-mo",
@@ -165,7 +191,9 @@
     "city": "St. Louis",
     "state": "MO",
     "lat": 38.6327852,
-    "lng": -90.188551
+    "lng": -90.188551,
+    "address": "701 Convention Plaza, St. Louis, MO 63101",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2017-indianapolis-super-regional-championship-at-indianapolis-in",
@@ -177,7 +205,9 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
-    "lng": -86.1638376
+    "lng": -86.1638376,
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "2017-atlanta-super-regional-championship-at-atlanta-ga",
@@ -189,7 +219,9 @@
     "city": "Atlanta",
     "state": "GA",
     "lat": 33.7554123,
-    "lng": -84.4008493
+    "lng": -84.4008493,
+    "address": "1414 Andrew Young International Boulevard, Atlanta, GA 30313",
+    "timezone": "America/New_York"
   },
   {
     "id": "2017-downey-regional-championship-at-downey-ca",
@@ -201,7 +233,9 @@
     "city": "Downey",
     "state": "CA",
     "lat": 33.9404441,
-    "lng": -118.1292846
+    "lng": -118.1292846,
+    "address": "3rd Street, Downey, CA 90241",
+    "timezone": "America/Los_Angeles"
   },
   {
     "id": "2017-san-jose-regional-championship-at-san-jose-ca",
@@ -213,7 +247,9 @@
     "city": "San Jose",
     "state": "CA",
     "lat": 37.3196895,
-    "lng": -121.8683139
+    "lng": -121.8683139,
+    "address": "East Alma Avenue, San Jose, CA 95192",
+    "timezone": "America/Los_Angeles"
   },
   {
     "id": "2017-san-antonio-super-regional-championship-at-san-antonio-tx",
@@ -225,7 +261,9 @@
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
-    "lng": -98.4788949
+    "lng": -98.4788949,
+    "address": "100 Montana Street, San Antonio, TX 78203",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2017-st-george-regional-championship-at-st-george-ut",
@@ -237,7 +275,9 @@
     "city": "St. George",
     "state": "UT",
     "lat": 37.0504121,
-    "lng": -113.5660552
+    "lng": -113.5660552,
+    "address": "South 840 East, St. George, UT 84790",
+    "timezone": "America/Denver"
   },
   {
     "id": "2017-grand-national-championships-indianapolis-in",
@@ -249,7 +289,9 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
-    "lng": -86.1638376
+    "lng": -86.1638376,
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "2017-grand-national-championships-indiananapolis-in",
@@ -261,6 +303,8 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
-    "lng": -86.1638376
+    "lng": -86.1638376,
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
+    "timezone": "America/Indiana/Indianapolis"
   }
 ]

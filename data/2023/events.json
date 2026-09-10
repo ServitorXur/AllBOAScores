@@ -9,7 +9,9 @@
     "city": "Louisville",
     "state": "KY",
     "lat": 38.2133224,
-    "lng": -85.7577075
+    "lng": -85.7577075,
+    "address": "2301 South 3rd Street, Louisville, KY 40292",
+    "timezone": "America/Kentucky/Louisville"
   },
   {
     "id": "2023-2023-bands-of-america-wisconsin-regional-championship-presented-by-yamaha",
@@ -21,7 +23,9 @@
     "city": "Whitewater",
     "state": "WI",
     "lat": 42.8443596,
-    "lng": -88.7436664
+    "lng": -88.7436664,
+    "address": "800 West Main Street, Whitewater, WI 53190",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2023-2023-bands-of-america-austin-regional-championship-presented-by-yamaha",
@@ -33,7 +37,9 @@
     "city": "Austin",
     "state": "TX",
     "lat": 30.492488,
-    "lng": -97.7741
+    "lng": -97.7741,
+    "address": "10211 West Parmer Lane, Austin, TX 78717",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2023-2023-bands-of-america-central-ohio-regional-championship-presented-by-yamaha",
@@ -45,7 +51,9 @@
     "city": "Obetz",
     "state": "OH",
     "lat": 39.885817,
-    "lng": -82.9444641
+    "lng": -82.9444641,
+    "address": "Speedway Lane, Obetz, OH 43027",
+    "timezone": "America/New_York"
   },
   {
     "id": "2023-2023-bands-of-america-chattanooga-regional-championship-presented-by-yamaha",
@@ -57,7 +65,9 @@
     "city": "Campbellsville",
     "state": "KY",
     "lat": 37.3426158,
-    "lng": -85.3513669
+    "lng": -85.3513669,
+    "address": "Chandler Avenue, Campbellsville, KY 42718",
+    "timezone": "America/New_York"
   },
   {
     "id": "2023-2023-bands-of-america-new-mexico-regional-championship-presented-by-yamaha",
@@ -69,7 +79,9 @@
     "city": "Las Cruces",
     "state": "NM",
     "lat": 32.2796361,
-    "lng": -106.7411114
+    "lng": -106.7411114,
+    "address": "1810 East University Avenue, Las Cruces, NM 88004",
+    "timezone": "America/Denver"
   },
   {
     "id": "2023-2023-bands-of-america-iowa-regional-championship-presented-by-yamaha",
@@ -81,7 +93,9 @@
     "city": "Waukee",
     "state": "IA",
     "lat": 41.6254148,
-    "lng": -93.891364
+    "lng": -93.891364,
+    "address": "North 10th Street, Waukee, IA 50263",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2023-2023-bands-of-america-north-houston-regional-championship-presented-by-yamaha",
@@ -93,7 +107,9 @@
     "city": "Shenandoah",
     "state": "TX",
     "lat": 30.1848671,
-    "lng": -95.4489906
+    "lng": -95.4489906,
+    "address": "Main, Shenandoah, TX 77385",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2023-2023-bands-of-america-south-texas-regional-championship-presented-by-yamaha",
@@ -105,7 +121,9 @@
     "city": "Yuma",
     "state": "AZ",
     "lat": 32.7210307,
-    "lng": -114.6203217
+    "lng": -114.6203217,
+    "address": "Harold C Giss Parkway, Yuma, AZ 85364",
+    "timezone": "America/Phoenix"
   },
   {
     "id": "2023-2023-bands-of-america-west-texas-regional-championship-presented-by-yamaha",
@@ -117,7 +135,9 @@
     "city": "Midland",
     "state": "TX",
     "lat": 31.9893368,
-    "lng": -102.1539155
+    "lng": -102.1539155,
+    "address": "Martin Luther King Jr. Circle, Midland, TX 77906",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2023-2023-bands-of-america-arizona-regional-championship-presented-by-yamaha",
@@ -129,7 +149,9 @@
     "city": "Flagstaff",
     "state": "AZ",
     "lat": 35.1830867,
-    "lng": -111.654961
+    "lng": -111.654961,
+    "address": "1 Runke Drive, Flagstaff, AZ 86001",
+    "timezone": "America/Phoenix"
   },
   {
     "id": "2023-2023-bands-of-america-dallas-mid-cities-regional-championship-presented-by",
@@ -141,7 +163,9 @@
     "city": "Bedford",
     "state": "TX",
     "lat": 32.844017,
-    "lng": -97.1430671
+    "lng": -97.1430671,
+    "address": "2381 Forest Ridge Drive, Bedford, TX 76021",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2023-2023-bands-of-america-memphis-regional-championship-presented-by-yamaha",
@@ -153,7 +177,9 @@
     "city": "Memphis",
     "state": "TN",
     "lat": 35.1211305,
-    "lng": -89.9774153
+    "lng": -89.9774153,
+    "address": "Home Run Lane, Memphis, TN 38114",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2023-2023-bands-of-america-northwest-ohio-regional-championship-presented-by",
@@ -165,7 +191,9 @@
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6529143,
-    "lng": -83.5378173
+    "lng": -83.5378173,
+    "address": "Erie Street Bike Lane, Toledo, OH 43604",
+    "timezone": "America/New_York"
   },
   {
     "id": "2023-2023-bands-of-america-west-houston-regional-championship-presented-by",
@@ -177,7 +205,9 @@
     "city": "Katy",
     "state": "TX",
     "lat": 29.8000522,
-    "lng": -95.8054778
+    "lng": -95.8054778,
+    "address": "Franz Road, Katy, TX 77449",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2023-2023-bands-of-america-west-houston-regional-championship-presented-by-yamaha",
@@ -189,7 +219,9 @@
     "city": "Katy",
     "state": "TX",
     "lat": 29.8000522,
-    "lng": -95.8054778
+    "lng": -95.8054778,
+    "address": "Franz Road, Katy, TX 77449",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2023-2023-bands-of-america-carolina-regional-championship",
@@ -201,7 +233,9 @@
     "city": "Conway",
     "state": "SC",
     "lat": 33.8360035,
-    "lng": -79.0478143
+    "lng": -79.0478143,
+    "address": "1101 4th Avenue, Conway, SC 29526",
+    "timezone": "America/New_York"
   },
   {
     "id": "2023-2023-bands-of-america-carolina-regional-championship-presented-by",
@@ -213,7 +247,9 @@
     "city": "Conway",
     "state": "SC",
     "lat": 33.8360035,
-    "lng": -79.0478143
+    "lng": -79.0478143,
+    "address": "1101 4th Avenue, Conway, SC 29526",
+    "timezone": "America/New_York"
   },
   {
     "id": "2023-2023-bands-of-america-north-texas-regional-championship",
@@ -225,7 +261,9 @@
     "city": "Prosper",
     "state": "TX",
     "lat": 33.2607559,
-    "lng": -96.8042646
+    "lng": -96.8042646,
+    "address": "Inner Loop Drive, Prosper, TX 75078",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2023-2023-bands-of-america-north-texas-regional-championship-presented-by",
@@ -237,7 +275,9 @@
     "city": "Prosper",
     "state": "TX",
     "lat": 33.2607559,
-    "lng": -96.8042646
+    "lng": -96.8042646,
+    "address": "Inner Loop Drive, Prosper, TX 75078",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2023-2023-bands-of-america-indianapolis-super-regional-championship-presented-by",
@@ -249,7 +289,9 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
-    "lng": -86.1638376
+    "lng": -86.1638376,
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "2023-2023-bands-of-america-ballad-health-east-tennessee-regional-championship",
@@ -261,7 +303,9 @@
     "city": "Johnson City",
     "state": "TN",
     "lat": 36.2985597,
-    "lng": -82.3750337
+    "lng": -82.3750337,
+    "address": "J L Seehorn Jr Road, Johnson City, TN 37684",
+    "timezone": "America/New_York"
   },
   {
     "id": "2023-2023-bands-of-america-mid-atlantic-regional-championship-presented-by",
@@ -273,7 +317,9 @@
     "city": "Baltimore",
     "state": "MD",
     "lat": 39.2908816,
-    "lng": -76.610759
+    "lng": -76.610759,
+    "address": "100 Holliday Street, Baltimore, MD 21202",
+    "timezone": "America/New_York"
   },
   {
     "id": "2023-2023-bands-of-america-mid-atlantic-regional-championship-presented-by-yamaha",
@@ -285,7 +331,9 @@
     "city": "Baltimore",
     "state": "MD",
     "lat": 39.2908816,
-    "lng": -76.610759
+    "lng": -76.610759,
+    "address": "100 Holliday Street, Baltimore, MD 21202",
+    "timezone": "America/New_York"
   },
   {
     "id": "2023-2023-bands-of-america-orlando-regional-championship-presented-by-yamaha",
@@ -297,7 +345,9 @@
     "city": "Orlando",
     "state": "FL",
     "lat": 28.5390398,
-    "lng": -81.4027504
+    "lng": -81.4027504,
+    "address": "West Church Street, Orlando, FL 32805",
+    "timezone": "America/New_York"
   },
   {
     "id": "2023-2023-bands-of-america-st-louis-super-regional-presented-by-yamaha",
@@ -309,7 +359,9 @@
     "city": "St. Louis",
     "state": "MO",
     "lat": 38.6327852,
-    "lng": -90.188551
+    "lng": -90.188551,
+    "address": "701 Convention Plaza, St. Louis, MO 63101",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2023-2023-bands-of-america-new-jersey-regional-championship-presented-by",
@@ -321,7 +373,9 @@
     "city": "Piscataway",
     "state": "NJ",
     "lat": 40.5135037,
-    "lng": -74.4651433
+    "lng": -74.4651433,
+    "address": "Sutphen Road, Piscataway, NJ 08855",
+    "timezone": "America/New_York"
   },
   {
     "id": "2023-2023-bands-of-america-southern-california-regional-championship",
@@ -333,7 +387,9 @@
     "city": "Riverside",
     "state": "CA",
     "lat": 33.9824949,
-    "lng": -117.374238
+    "lng": -117.374238,
+    "address": "Main Street, Riverside, CA 92501",
+    "timezone": "America/Los_Angeles"
   },
   {
     "id": "2023-2023-bands-of-america-san-antonio-super-regional-presented-by-yamaha",
@@ -345,7 +401,9 @@
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
-    "lng": -98.4788949
+    "lng": -98.4788949,
+    "address": "100 Montana Street, San Antonio, TX 78203",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2023-2023-bands-of-america-southeastern-regional-championship-presented-by-yamaha",
@@ -357,7 +415,9 @@
     "city": "Troy",
     "state": "NY",
     "lat": 42.7284117,
-    "lng": -73.6917878
+    "lng": -73.6917878,
+    "address": "72 2nd Street, Troy, NY 12180",
+    "timezone": "America/New_York"
   },
   {
     "id": "2023-2023-bands-of-america-utah-regional-championship-presented-by-yamaha",
@@ -369,7 +429,9 @@
     "city": "St. George",
     "state": "UT",
     "lat": 37.0995461,
-    "lng": -113.5673889
+    "lng": -113.5673889,
+    "address": "800 East, St. George, UT 84771",
+    "timezone": "America/Denver"
   },
   {
     "id": "2023-2023-bands-of-america-grand-national-championships-presented-by-yamaha",
@@ -381,6 +443,8 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
-    "lng": -86.1638376
+    "lng": -86.1638376,
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
+    "timezone": "America/Indiana/Indianapolis"
   }
 ]

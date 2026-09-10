@@ -9,7 +9,9 @@
     "city": "Obetz",
     "state": "OH",
     "lat": 39.885817,
-    "lng": -82.9444641
+    "lng": -82.9444641,
+    "address": "Speedway Lane, Obetz, OH 43027",
+    "timezone": "America/New_York"
   },
   {
     "id": "2022-clarksville-regional-championship-at-clarksville-tn",
@@ -21,7 +23,9 @@
     "city": "Clarksville",
     "state": "TN",
     "lat": 36.5364403,
-    "lng": -87.3526275
+    "lng": -87.3526275,
+    "address": "Governors Plaza, Clarksville, TN 37044",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2022-new-mexico-regional-championship-at-las-cruces-nm",
@@ -33,7 +37,9 @@
     "city": "Las Cruces",
     "state": "NM",
     "lat": 32.2796361,
-    "lng": -106.7411114
+    "lng": -106.7411114,
+    "address": "1810 East University Avenue, Las Cruces, NM 88004",
+    "timezone": "America/Denver"
   },
   {
     "id": "2022-south-texas-regional-championship-at-mcallen-tx",
@@ -45,7 +51,9 @@
     "city": "McAllen",
     "state": "TX",
     "lat": 26.2238881,
-    "lng": -98.2373019
+    "lng": -98.2373019,
+    "address": "Bulldog Drive, McAllen, TX 78501",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2022-austin-regional-championship-at-austin-tx",
@@ -57,7 +65,9 @@
     "city": "Austin",
     "state": "TX",
     "lat": 30.492488,
-    "lng": -97.7741
+    "lng": -97.7741,
+    "address": "10211 West Parmer Lane, Austin, TX 78717",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2022-iowa-regional-championship-at-des-moines-ia",
@@ -69,7 +79,9 @@
     "city": "Des Moines",
     "state": "IA",
     "lat": 41.6254148,
-    "lng": -93.891364
+    "lng": -93.891364,
+    "address": "North 10th Street, Des Moines, IA 50263",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2022-north-houston-regional-championship-at-shenandoah-tx",
@@ -81,7 +93,9 @@
     "city": "Spring",
     "state": "TX",
     "lat": 30.1848671,
-    "lng": -95.4489906
+    "lng": -95.4489906,
+    "address": "Main, Spring, TX 77385",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2022-northwest-ohio-regional-championship-at-toledo-oh",
@@ -93,7 +107,9 @@
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6571852,
-    "lng": -83.6135953
+    "lng": -83.6135953,
+    "address": "North Glass Bowl Drive, Toledo, OH 43607",
+    "timezone": "America/New_York"
   },
   {
     "id": "2022-arizona-regional-championship-at-flagstaff-az",
@@ -105,7 +121,9 @@
     "city": "Flagstaff",
     "state": "AZ",
     "lat": 35.1805983,
-    "lng": -111.652899
+    "lng": -111.652899,
+    "address": "1701 South San Francisco Street, Flagstaff, AZ 86011",
+    "timezone": "America/Phoenix"
   },
   {
     "id": "2022-louisville-regional-championship-at-louisville-ky",
@@ -117,7 +135,9 @@
     "city": "Louisville",
     "state": "KY",
     "lat": 38.2060161,
-    "lng": -85.7587734
+    "lng": -85.7587734,
+    "address": "South Floyd Street, Louisville, KY 40292",
+    "timezone": "America/Kentucky/Louisville"
   },
   {
     "id": "2022-west-houston-regional-championship-at-katy-tx",
@@ -129,7 +149,9 @@
     "city": "Katy",
     "state": "TX",
     "lat": 29.8000522,
-    "lng": -95.8054778
+    "lng": -95.8054778,
+    "address": "Franz Road, Katy, TX 77449",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2022-dallas-ft-worth-regional-championship-at-bedford-tx",
@@ -141,7 +163,9 @@
     "city": "Bedford",
     "state": "TX",
     "lat": 32.8327183,
-    "lng": -97.1363983
+    "lng": -97.1363983,
+    "address": "H E B Drive, Bedford, TX 76022",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2022-mid-atlantic-regional-championship-at-newark-de",
@@ -153,7 +177,9 @@
     "city": "Newark",
     "state": "DE",
     "lat": 39.6616707,
-    "lng": -75.7488991
+    "lng": -75.7488991,
+    "address": "Richardson Lane, Newark, DE 19713",
+    "timezone": "America/New_York"
   },
   {
     "id": "2022-west-texas-regional-championship-at-midland-tx",
@@ -165,7 +191,9 @@
     "city": "Midland",
     "state": "TX",
     "lat": 31.9893368,
-    "lng": -102.1539155
+    "lng": -102.1539155,
+    "address": "Martin Luther King Jr. Circle, Midland, TX 77906",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2022-st-louis-super-regional-championship-at-st-louis-mo",
@@ -177,7 +205,9 @@
     "city": "St. Louis",
     "state": "MO",
     "lat": 38.6327852,
-    "lng": -90.188551
+    "lng": -90.188551,
+    "address": "701 Convention Plaza, St. Louis, MO 63101",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2022-carolina-regional-championship-at-winston-salem-nc",
@@ -189,7 +219,9 @@
     "city": "Winston Salem",
     "state": "NC",
     "lat": 36.1305718,
-    "lng": -80.2545585
+    "lng": -80.2545585,
+    "address": "Piccolo Lane, Winston Salem, NC 27109",
+    "timezone": "America/New_York"
   },
   {
     "id": "2022-east-tennessee-regional-championship-at-johnson-city-tn",
@@ -201,7 +233,9 @@
     "city": "Johnson City",
     "state": "TN",
     "lat": 36.2985597,
-    "lng": -82.3750337
+    "lng": -82.3750337,
+    "address": "J L Seehorn Jr Road, Johnson City, TN 37684",
+    "timezone": "America/New_York"
   },
   {
     "id": "2022-north-texas-regional-championship-at-prosper-tx",
@@ -213,7 +247,9 @@
     "city": "Prosper",
     "state": "TX",
     "lat": 33.2607559,
-    "lng": -96.8042646
+    "lng": -96.8042646,
+    "address": "Inner Loop Drive, Prosper, TX 75078",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2022-indianapolis-super-regional-championship-at-indianapolis-in",
@@ -225,7 +261,9 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
-    "lng": -86.1638376
+    "lng": -86.1638376,
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "2022-orlando-regional-championship-at-orlando-fl",
@@ -237,7 +275,9 @@
     "city": "Orlando",
     "state": "FL",
     "lat": 28.5390398,
-    "lng": -81.4027504
+    "lng": -81.4027504,
+    "address": "West Church Street, Orlando, FL 32805",
+    "timezone": "America/New_York"
   },
   {
     "id": "2022-alabama-regional-championship-at-jacksonville-al",
@@ -249,7 +289,9 @@
     "city": "Jacksonville",
     "state": "AL",
     "lat": 33.8137919,
-    "lng": -85.7612872
+    "lng": -85.7612872,
+    "address": "41 Public Square West, Jacksonville, AL 36265",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2022-new-jersey-regional-championship-at-piscataway-nj",
@@ -261,7 +303,9 @@
     "city": "Piscataway",
     "state": "NJ",
     "lat": 40.5135037,
-    "lng": -74.4651433
+    "lng": -74.4651433,
+    "address": "Sutphen Road, Piscataway, NJ 08855",
+    "timezone": "America/New_York"
   },
   {
     "id": "2022-waco-regional-championship-at-waco-tx",
@@ -273,7 +317,9 @@
     "city": "Waco",
     "state": "TX",
     "lat": 31.5582247,
-    "lng": -97.1156821
+    "lng": -97.1156821,
+    "address": "Sheila and Walter Umphrey Bridge, Waco, TX 76798",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2022-san-antonio-super-regional-championship-at-san-antonio-tx",
@@ -285,7 +331,9 @@
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
-    "lng": -98.4788949
+    "lng": -98.4788949,
+    "address": "100 Montana Street, San Antonio, TX 78203",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2022-utah-regional-championship-at-washington-ut",
@@ -297,7 +345,9 @@
     "city": "Washington",
     "state": "UT",
     "lat": 37.0708631,
-    "lng": -113.5085935
+    "lng": -113.5085935,
+    "address": "Titan Lane, Washington, UT 84790",
+    "timezone": "America/Denver"
   },
   {
     "id": "2022-grand-naonal-championships",
@@ -309,6 +359,8 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
-    "lng": -86.1638376
+    "lng": -86.1638376,
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
+    "timezone": "America/Indiana/Indianapolis"
   }
 ]

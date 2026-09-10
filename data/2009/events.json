@@ -9,7 +9,9 @@
     "city": "Louisville",
     "state": "KY",
     "lat": 38.2060161,
-    "lng": -85.7587734
+    "lng": -85.7587734,
+    "address": "South Floyd Street, Louisville, KY 40292",
+    "timezone": "America/Kentucky/Louisville"
   },
   {
     "id": "2009-regional-championship-at-centerville-ohio",
@@ -21,7 +23,9 @@
     "city": "Oak Hill",
     "state": "OH",
     "lat": 38.8939646,
-    "lng": -82.573495
+    "lng": -82.573495,
+    "address": "173 Maple Street, Oak Hill, OH 45656",
+    "timezone": "America/New_York"
   },
   {
     "id": "2009-regional-championship-at-pearland-tx",
@@ -33,7 +37,9 @@
     "city": "Pearland",
     "state": "TX",
     "lat": 29.5387279,
-    "lng": -95.2673146
+    "lng": -95.2673146,
+    "address": "Oiler Drive, Pearland, TX 77581",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2009-regional-championship-at-arlington-tx",
@@ -45,7 +51,9 @@
     "city": "Arlington",
     "state": "TX",
     "lat": 32.7292271,
-    "lng": -97.1265803
+    "lng": -97.1265803,
+    "address": "Freeman Court, Arlington, TX 76013",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2009-regional-championship-at-towson-md",
@@ -57,7 +65,9 @@
     "city": "Towson",
     "state": "MD",
     "lat": 39.3885483,
-    "lng": -76.6158585
+    "lng": -76.6158585,
+    "address": "Auburn Drive, Towson, MD 21252",
+    "timezone": "America/New_York"
   },
   {
     "id": "2009-regional-championship-at-ypsilanti-michigan",
@@ -69,7 +79,9 @@
     "city": "Ypsilanti",
     "state": "MI",
     "lat": 42.2558724,
-    "lng": -83.6473747
+    "lng": -83.6473747,
+    "address": "Westview Street, Ypsilanti, MI 48197",
+    "timezone": "America/Detroit"
   },
   {
     "id": "2009-super-regional-championship-at-edward-jones-dome-st-louis",
@@ -81,7 +93,9 @@
     "city": "Saint Louis",
     "state": "MO",
     "lat": 38.6379299,
-    "lng": -90.2131357
+    "lng": -90.2131357,
+    "address": "2625 Doctor Martin Luther King Drive, Saint Louis, MO 63106",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2009-super-regional-championship-at-st-louis-mo",
@@ -93,7 +107,9 @@
     "city": "Saint Louis",
     "state": "MO",
     "lat": 38.6327852,
-    "lng": -90.188551
+    "lng": -90.188551,
+    "address": "701 Convention Plaza, Saint Louis, MO 63101",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2009-regional-championship-at-massillon-ohio",
@@ -105,7 +121,9 @@
     "city": "Massillon",
     "state": "OH",
     "lat": 40.793641,
-    "lng": -81.4997215
+    "lng": -81.4997215,
+    "address": "Russell Boulevard Southeast, Massillon, OH 44646",
+    "timezone": "America/New_York"
   },
   {
     "id": "2009-super-regional-championship-at-san-antonio-texas",
@@ -117,7 +135,9 @@
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
-    "lng": -98.4788949
+    "lng": -98.4788949,
+    "address": "100 Montana Street, San Antonio, TX 78203",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2009-regional-championship-at-west-chester-pa",
@@ -129,7 +149,9 @@
     "city": "West Chester",
     "state": "PA",
     "lat": 39.9597389,
-    "lng": -75.6044609
+    "lng": -75.6044609,
+    "address": "1 East Market Street, West Chester, PA 19382",
+    "timezone": "America/New_York"
   },
   {
     "id": "2009-super-regional-championship-at-atlanta-georgia",
@@ -141,7 +163,9 @@
     "city": "Atlanta",
     "state": "GA",
     "lat": 33.758056,
-    "lng": -84.401111
+    "lng": -84.401111,
+    "address": "1 Backyard Way, Atlanta, GA 30313",
+    "timezone": "America/New_York"
   },
   {
     "id": "2009-regional-championship-at-santa-clarita-ca",
@@ -153,7 +177,9 @@
     "city": "Valencia",
     "state": "CA",
     "lat": 34.4036974,
-    "lng": -118.5702319
+    "lng": -118.5702319,
+    "address": "Valencia Boulevard, Valencia, CA 91381",
+    "timezone": "America/Los_Angeles"
   },
   {
     "id": "2009-regional-championship-at-indianapolis-in",
@@ -165,7 +191,9 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
-    "lng": -86.1638376
+    "lng": -86.1638376,
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "2009-regional-championship-at-st-george-ut",
@@ -177,7 +205,9 @@
     "city": "St. George",
     "state": "UT",
     "lat": 37.1030099,
-    "lng": -113.5653354
+    "lng": -113.5653354,
+    "address": "225 University Avenue, St. George, UT 84771",
+    "timezone": "America/Denver"
   },
   {
     "id": "2009-grand-national-championships-at-indianapolis-indiana",
@@ -189,6 +219,8 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
-    "lng": -86.1638376
+    "lng": -86.1638376,
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
+    "timezone": "America/Indiana/Indianapolis"
   }
 ]

@@ -9,7 +9,9 @@
     "city": "Jonesboro",
     "state": "AR",
     "lat": 35.8441163,
-    "lng": -90.6726325
+    "lng": -90.6726325,
+    "address": "2105 Aggie Road, Jonesboro, AR 72401",
+    "timezone": "America/Chicago"
   },
   {
     "id": "1985-regional-championship-at-whitewater-wi",
@@ -21,7 +23,9 @@
     "city": "Whitewater",
     "state": "WI",
     "lat": 42.8443596,
-    "lng": -88.7436664
+    "lng": -88.7436664,
+    "address": "800 West Main Street, Whitewater, WI 53190",
+    "timezone": "America/Chicago"
   },
   {
     "id": "1985-regional-championship-at-morgantown-wv",
@@ -33,7 +37,9 @@
     "city": "Morgantown",
     "state": "WV",
     "lat": 39.6348398,
-    "lng": -79.9542095
+    "lng": -79.9542095,
+    "address": "1550 University Avenue, Morgantown, WV 26505",
+    "timezone": "America/New_York"
   },
   {
     "id": "1985-regional-championship-at-moscow-id",
@@ -45,7 +51,9 @@
     "city": "Moscow",
     "state": "ID",
     "lat": 46.7237978,
-    "lng": -117.0206648
+    "lng": -117.0206648,
+    "address": "Perimeter Drive, Moscow, ID 83844",
+    "timezone": "America/Los_Angeles"
   },
   {
     "id": "1985-regional-championship-at-houston-tx",
@@ -57,7 +65,9 @@
     "city": "Houston",
     "state": "TX",
     "lat": 29.7130529,
-    "lng": -95.4020704
+    "lng": -95.4020704,
+    "address": "University Boulevard, Houston, TX 77005",
+    "timezone": "America/Chicago"
   },
   {
     "id": "1985-regional-championship-at-akron-oh",
@@ -69,7 +79,9 @@
     "city": "Akron",
     "state": "OH",
     "lat": 41.0394205,
-    "lng": -81.4561285
+    "lng": -81.4561285,
+    "address": "Derby Downs Drive, Akron, OH 44312",
+    "timezone": "America/New_York"
   },
   {
     "id": "1985-regional-championship-at-indianapolis-in",
@@ -81,7 +93,9 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7683331,
-    "lng": -86.1583502
+    "lng": -86.1583502,
+    "address": "Monument Circle, Indianapolis, IN 46282",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "1985-grand-national-championship-at-indianapolis-in",
@@ -93,6 +107,8 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
-    "lng": -86.1640108
+    "lng": -86.1640108,
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
+    "timezone": "America/Indiana/Indianapolis"
   }
 ]

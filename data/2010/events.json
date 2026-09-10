@@ -9,7 +9,9 @@
     "city": "Louisville",
     "state": "KY",
     "lat": 38.2060161,
-    "lng": -85.7587734
+    "lng": -85.7587734,
+    "address": "South Floyd Street, Louisville, KY 40292",
+    "timezone": "America/Kentucky/Louisville"
   },
   {
     "id": "2010-regional-championship-at-norwin-pa",
@@ -21,7 +23,9 @@
     "city": "North Huntingdon",
     "state": "PA",
     "lat": 40.3246461,
-    "lng": -79.7228912
+    "lng": -79.7228912,
+    "address": "North Huntingdon, PA 15642",
+    "timezone": "America/New_York"
   },
   {
     "id": "2010-regional-championship-at-arlington-tx",
@@ -33,7 +37,9 @@
     "city": "Arlington",
     "state": "TX",
     "lat": 32.7292271,
-    "lng": -97.1265803
+    "lng": -97.1265803,
+    "address": "Freeman Court, Arlington, TX 76013",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2010-regional-championship-at-kettering-ohio",
@@ -45,7 +51,9 @@
     "city": "Dayton",
     "state": "OH",
     "lat": 39.7589478,
-    "lng": -84.1916069
+    "lng": -84.1916069,
+    "address": "20 South Main Street, Dayton, OH 45423",
+    "timezone": "America/New_York"
   },
   {
     "id": "2010-regional-championship-at-jacksonville-al",
@@ -57,7 +65,9 @@
     "city": "Jacksonville",
     "state": "AL",
     "lat": 33.8203642,
-    "lng": -85.7662921
+    "lng": -85.7662921,
+    "address": "Street Avenue, Jacksonville, AL 36265",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2010-regional-championship-at-jacksonville-alabama",
@@ -69,7 +79,9 @@
     "city": "Jacksonville",
     "state": "AL",
     "lat": 33.8203642,
-    "lng": -85.7662921
+    "lng": -85.7662921,
+    "address": "Street Avenue, Jacksonville, AL 36265",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2010-regional-championship-at-pontiac-mi",
@@ -81,7 +93,9 @@
     "city": "Pontiac",
     "state": "MI",
     "lat": 42.6379672,
-    "lng": -83.257684
+    "lng": -83.257684,
+    "address": "1 West Silverdome Industrial Park, Pontiac, MI 48342",
+    "timezone": "America/Detroit"
   },
   {
     "id": "2010-regional-championship-at-the-woodlands-tx",
@@ -93,7 +107,9 @@
     "city": "Spring",
     "state": "TX",
     "lat": 30.1848671,
-    "lng": -95.4489906
+    "lng": -95.4489906,
+    "address": "Main, Spring, TX 77385",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2010-regional-championship-at-akron-oh",
@@ -105,7 +121,9 @@
     "city": "Akron",
     "state": "OH",
     "lat": 41.07251,
-    "lng": -81.5084807
+    "lng": -81.5084807,
+    "address": "Vine Street, Akron, OH 44304",
+    "timezone": "America/New_York"
   },
   {
     "id": "2010-regional-championship-at-akron-ohio",
@@ -117,7 +135,9 @@
     "city": "Akron",
     "state": "OH",
     "lat": 41.07251,
-    "lng": -81.5084807
+    "lng": -81.5084807,
+    "address": "Vine Street, Akron, OH 44304",
+    "timezone": "America/New_York"
   },
   {
     "id": "2010-regional-championship-at-st-louis-missouri",
@@ -129,7 +149,9 @@
     "city": "Saint Louis",
     "state": "MO",
     "lat": 38.6327852,
-    "lng": -90.188551
+    "lng": -90.188551,
+    "address": "701 Convention Plaza, Saint Louis, MO 63101",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2010-regional-championship-at-hemet-ca",
@@ -141,7 +163,9 @@
     "city": "Hemet",
     "state": "CA",
     "lat": 33.7178667,
-    "lng": -117.0102668
+    "lng": -117.0102668,
+    "address": "3401 Mustang Way, Hemet, CA 92545",
+    "timezone": "America/Los_Angeles"
   },
   {
     "id": "2010-regional-championship-at-towson-maryland",
@@ -153,7 +177,9 @@
     "city": "Towson",
     "state": "MD",
     "lat": 39.3885483,
-    "lng": -76.6158585
+    "lng": -76.6158585,
+    "address": "Auburn Drive, Towson, MD 21252",
+    "timezone": "America/New_York"
   },
   {
     "id": "2010-regional-championship-at-atlanta-georgia",
@@ -165,7 +191,9 @@
     "city": "Atlanta",
     "state": "GA",
     "lat": 33.758056,
-    "lng": -84.401111
+    "lng": -84.401111,
+    "address": "1 Backyard Way, Atlanta, GA 30313",
+    "timezone": "America/New_York"
   },
   {
     "id": "2010-super-regional-championship-at-atlanta-georgia",
@@ -177,7 +205,9 @@
     "city": "Atlanta",
     "state": "GA",
     "lat": 33.758056,
-    "lng": -84.401111
+    "lng": -84.401111,
+    "address": "1 Backyard Way, Atlanta, GA 30313",
+    "timezone": "America/New_York"
   },
   {
     "id": "2010-super-regional-championship-at-san-antonio-texas",
@@ -189,7 +219,9 @@
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
-    "lng": -98.4788949
+    "lng": -98.4788949,
+    "address": "100 Montana Street, San Antonio, TX 78203",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2010-regional-championship-at-indianapolis-in",
@@ -201,7 +233,9 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
-    "lng": -86.1638376
+    "lng": -86.1638376,
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "2010-regional-championship-at-st-george-ut",
@@ -213,7 +247,9 @@
     "city": "St. George",
     "state": "UT",
     "lat": 37.1030099,
-    "lng": -113.5653354
+    "lng": -113.5653354,
+    "address": "225 University Avenue, St. George, UT 84771",
+    "timezone": "America/Denver"
   },
   {
     "id": "2010-grand-national-championships-at-indianapolis-indiana",
@@ -225,6 +261,8 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
-    "lng": -86.1638376
+    "lng": -86.1638376,
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
+    "timezone": "America/Indiana/Indianapolis"
   }
 ]

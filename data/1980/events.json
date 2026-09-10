@@ -9,7 +9,9 @@
     "city": "Whitewater",
     "state": "WI",
     "lat": 42.8469937,
-    "lng": -88.7449823
+    "lng": -88.7449823,
+    "address": "West Schwager Drive, Whitewater, WI 53190",
+    "timezone": "America/Chicago"
   },
   {
     "id": "1980-northern-regional-championship-at-toledo-oh",
@@ -21,7 +23,9 @@
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6583953,
-    "lng": -83.6147907
+    "lng": -83.6147907,
+    "address": "2801 West Bancroft Street, Toledo, OH 43606",
+    "timezone": "America/New_York"
   },
   {
     "id": "1980-northeastern-regional-championship-at-west-chester-pa",
@@ -33,7 +37,9 @@
     "city": "West Chester",
     "state": "PA",
     "lat": 39.9597389,
-    "lng": -75.6044609
+    "lng": -75.6044609,
+    "address": "1 East Market Street, West Chester, PA 19382",
+    "timezone": "America/New_York"
   },
   {
     "id": "1980-eastern-regional-championship-at-harrisonburg-va",
@@ -45,7 +51,9 @@
     "city": "Harrisonburg",
     "state": "VA",
     "lat": 38.4362412,
-    "lng": -78.8687576
+    "lng": -78.8687576,
+    "address": "800 South Main Street, Harrisonburg, VA 22807",
+    "timezone": "America/New_York"
   },
   {
     "id": "1980-southern-regional-championship-at-gonzalez-fl",
@@ -57,7 +65,9 @@
     "city": "Cantonment",
     "state": "FL",
     "lat": 30.5744128,
-    "lng": -87.3011046
+    "lng": -87.3011046,
+    "address": "Staff Drive, Cantonment, FL 32533",
+    "timezone": "America/Chicago"
   },
   {
     "id": "1980-mid-southern-regional-championship-at-jackson-tn",
@@ -69,7 +79,9 @@
     "city": "Jackson",
     "state": "TN",
     "lat": 35.6144446,
-    "lng": -88.8177418
+    "lng": -88.8177418,
+    "address": "207 East Main Street, Jackson, TN 38301",
+    "timezone": "America/Chicago"
   },
   {
     "id": "1980-southwestern-regional-championship-at-commerce-tx",
@@ -81,7 +93,9 @@
     "city": "Palestine",
     "state": "TX",
     "lat": 31.7621153,
-    "lng": -95.6307891
+    "lng": -95.6307891,
+    "address": "198 Avenue A, Palestine, TX 75801",
+    "timezone": "America/Chicago"
   },
   {
     "id": "1980-grand-national-championship-at-jacksonville-fl",
@@ -93,6 +107,8 @@
     "city": "Jacksonville",
     "state": "FL",
     "lat": 30.3215709,
-    "lng": -81.6398592
+    "lng": -81.6398592,
+    "address": "1408 Gator Bowl Boulevard, Jacksonville, FL 32202",
+    "timezone": "America/New_York"
   }
 ]

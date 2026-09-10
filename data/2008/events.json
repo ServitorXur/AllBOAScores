@@ -9,7 +9,9 @@
     "city": "Centerville",
     "state": "OH",
     "lat": 39.6254626,
-    "lng": -84.1482195
+    "lng": -84.1482195,
+    "address": "Glencroft Place, Centerville, OH 45459",
+    "timezone": "America/New_York"
   },
   {
     "id": "2008-regional-championship-at-massillon-oh",
@@ -21,7 +23,9 @@
     "city": "Massillon",
     "state": "OH",
     "lat": 40.793641,
-    "lng": -81.4997215
+    "lng": -81.4997215,
+    "address": "Russell Boulevard Southeast, Massillon, OH 44646",
+    "timezone": "America/New_York"
   },
   {
     "id": "2008-sound-check-at-lucas-oil-stadium",
@@ -33,7 +37,9 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7962479,
-    "lng": -86.234816
+    "lng": -86.234816,
+    "address": "Gate 3, Indianapolis, IN 46222",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "2008-regional-championship-at-arlington-texas",
@@ -45,7 +51,9 @@
     "city": "Arlington",
     "state": "TX",
     "lat": 32.7292271,
-    "lng": -97.1265803
+    "lng": -97.1265803,
+    "address": "Freeman Court, Arlington, TX 76013",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2008-regional-championship-at-murray-ky",
@@ -57,7 +65,9 @@
     "city": "Murray",
     "state": "KY",
     "lat": 36.6212848,
-    "lng": -88.3174792
+    "lng": -88.3174792,
+    "address": "Ic-8101A, Murray, KY 42071",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2008-regional-championship-at-houston-tx",
@@ -69,7 +79,9 @@
     "city": "Houston",
     "state": "TX",
     "lat": 29.5380231,
-    "lng": -95.2711558
+    "lng": -95.2711558,
+    "address": "Pearland Parkway, Houston, TX 77581",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2008-regional-championship-at-orlando-fl",
@@ -81,7 +93,9 @@
     "city": "Orlando",
     "state": "FL",
     "lat": 28.5390398,
-    "lng": -81.4027504
+    "lng": -81.4027504,
+    "address": "West Church Street, Orlando, FL 32805",
+    "timezone": "America/New_York"
   },
   {
     "id": "2008-regional-championship-at-ypsilanti-mi",
@@ -93,7 +107,9 @@
     "city": "Ypsilanti",
     "state": "MI",
     "lat": 42.2558724,
-    "lng": -83.6473747
+    "lng": -83.6473747,
+    "address": "Westview Street, Ypsilanti, MI 48197",
+    "timezone": "America/Detroit"
   },
   {
     "id": "2008-regional-championship-at-st-louis-mo",
@@ -105,7 +121,9 @@
     "city": "Saint Louis",
     "state": "MO",
     "lat": 38.6327852,
-    "lng": -90.188551
+    "lng": -90.188551,
+    "address": "701 Convention Plaza, Saint Louis, MO 63101",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2008-regional-championship-at-towson-md",
@@ -117,7 +135,9 @@
     "city": "Towson",
     "state": "MD",
     "lat": 39.3885483,
-    "lng": -76.6158585
+    "lng": -76.6158585,
+    "address": "Auburn Drive, Towson, MD 21252",
+    "timezone": "America/New_York"
   },
   {
     "id": "2008-regional-championship-at-las-vegas-nv",
@@ -129,7 +149,9 @@
     "city": "Las Vegas",
     "state": "NV",
     "lat": 36.0862687,
-    "lng": -115.0167365
+    "lng": -115.0167365,
+    "address": "East Russell Road, Las Vegas, NV 89112",
+    "timezone": "America/Los_Angeles"
   },
   {
     "id": "2008-super-regional-championship-at-atlanta-ga",
@@ -141,7 +163,9 @@
     "city": "Atlanta",
     "state": "GA",
     "lat": 33.758056,
-    "lng": -84.401111
+    "lng": -84.401111,
+    "address": "1 Backyard Way, Atlanta, GA 30313",
+    "timezone": "America/New_York"
   },
   {
     "id": "2008-super-regional-championship-at-san-antonio-tx",
@@ -153,7 +177,9 @@
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
-    "lng": -98.4788949
+    "lng": -98.4788949,
+    "address": "100 Montana Street, San Antonio, TX 78203",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2008-regional-championship-at-indianapolis-in",
@@ -165,7 +191,9 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
-    "lng": -86.1638376
+    "lng": -86.1638376,
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "2008-regional-championship-at-los-angeles-ca",
@@ -177,7 +205,9 @@
     "city": "Monterey Park",
     "state": "CA",
     "lat": 34.042866,
-    "lng": -118.1517174
+    "lng": -118.1517174,
+    "address": "West Floral Drive, Monterey Park, CA 91754",
+    "timezone": "America/Los_Angeles"
   },
   {
     "id": "2008-regional-championship-at-monterey-park-ca",
@@ -189,7 +219,9 @@
     "city": "Monterey Park",
     "state": "CA",
     "lat": 34.042866,
-    "lng": -118.1517174
+    "lng": -118.1517174,
+    "address": "West Floral Drive, Monterey Park, CA 91754",
+    "timezone": "America/Los_Angeles"
   },
   {
     "id": "2008-grand-national-championships-at-indianapolis-indiana",
@@ -201,6 +233,8 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
-    "lng": -86.1638376
+    "lng": -86.1638376,
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
+    "timezone": "America/Indiana/Indianapolis"
   }
 ]

@@ -9,7 +9,9 @@
     "city": "Whitewater",
     "state": "WI",
     "lat": 42.8469937,
-    "lng": -88.7449823
+    "lng": -88.7449823,
+    "address": "West Schwager Drive, Whitewater, WI 53190",
+    "timezone": "America/Chicago"
   },
   {
     "id": "1986-regional-championship-at-jonesboro-ar",
@@ -21,7 +23,9 @@
     "city": "Jonesboro",
     "state": "AR",
     "lat": 35.8441163,
-    "lng": -90.6726325
+    "lng": -90.6726325,
+    "address": "2105 Aggie Road, Jonesboro, AR 72401",
+    "timezone": "America/Chicago"
   },
   {
     "id": "1986-regional-championship-at-conroe-tx",
@@ -33,7 +37,9 @@
     "city": "Conroe",
     "state": "TX",
     "lat": 30.3118769,
-    "lng": -95.4560512
+    "lng": -95.4560512,
+    "address": "299 North Pacific Street, Conroe, TX 77301",
+    "timezone": "America/Chicago"
   },
   {
     "id": "1986-regional-championship-at-corvallis-or",
@@ -45,7 +51,9 @@
     "city": "Corvallis",
     "state": "OR",
     "lat": 44.563056,
-    "lng": -123.2839234
+    "lng": -123.2839234,
+    "address": "1500 Southwest Jefferson Way, Corvallis, OR 97331",
+    "timezone": "America/Los_Angeles"
   },
   {
     "id": "1986-regional-championship-at-morgantown-wv",
@@ -57,7 +65,9 @@
     "city": "Morgantown",
     "state": "WV",
     "lat": 39.6348398,
-    "lng": -79.9542095
+    "lng": -79.9542095,
+    "address": "1550 University Avenue, Morgantown, WV 26505",
+    "timezone": "America/New_York"
   },
   {
     "id": "1986-regional-championship-at-akron-oh",
@@ -69,7 +79,9 @@
     "city": "Akron",
     "state": "OH",
     "lat": 41.0394205,
-    "lng": -81.4561285
+    "lng": -81.4561285,
+    "address": "Derby Downs Drive, Akron, OH 44312",
+    "timezone": "America/New_York"
   },
   {
     "id": "1986-grand-national-championship-at-indianapolis-in",
@@ -81,6 +93,8 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
-    "lng": -86.1640108
+    "lng": -86.1640108,
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
+    "timezone": "America/Indiana/Indianapolis"
   }
 ]

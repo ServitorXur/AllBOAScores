@@ -9,7 +9,9 @@
     "city": "Whitewater",
     "state": "WI",
     "lat": 42.8469937,
-    "lng": -88.7449823
+    "lng": -88.7449823,
+    "address": "West Schwager Drive, Whitewater, WI 53190",
+    "timezone": "America/Chicago"
   },
   {
     "id": "1983-northeastern-regional-championship-at-pittsburgh-pa",
@@ -21,7 +23,9 @@
     "city": "Pittsburgh",
     "state": "PA",
     "lat": 40.4406968,
-    "lng": -80.0025666
+    "lng": -80.0025666,
+    "address": "Market Square, Pittsburgh, PA 15222",
+    "timezone": "America/New_York"
   },
   {
     "id": "1983-midwest-regional-championship-at-indianapolis-in",
@@ -33,7 +37,9 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7683331,
-    "lng": -86.1583502
+    "lng": -86.1583502,
+    "address": "Monument Circle, Indianapolis, IN 46282",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "1983-southwestern-regional-championship-at-houston-tx",
@@ -45,7 +51,9 @@
     "city": "Houston",
     "state": "TX",
     "lat": 29.7167915,
-    "lng": -95.4047811
+    "lng": -95.4047811,
+    "address": "6100 Main Street, Houston, TX 77005",
+    "timezone": "America/Chicago"
   },
   {
     "id": "1983-grand-national-championship-at-johnson-city-tn",
@@ -57,6 +65,8 @@
     "city": "Johnson City",
     "state": "TN",
     "lat": 36.3024236,
-    "lng": -82.3692822
+    "lng": -82.3692822,
+    "address": "1276 Gilbreath Drive, Johnson City, TN 37614",
+    "timezone": "America/New_York"
   }
 ]

@@ -9,7 +9,172 @@
     "city": "Las Cruces",
     "state": "NM",
     "lat": 32.2729032,
-    "lng": -106.7434927
+    "lng": -106.7434927,
+    "address": "1780 East University Avenue, Las Cruces, NM 88003",
+    "sourceUrl": "https://marching.musicforall.org/new-mexico-regional/",
+    "timezone": "America/Denver",
+    "schedule": [
+      {
+        "bandId": "valencia-h-s-nm",
+        "bandName": "Valencia H.S.",
+        "bandState": "NM",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T15:00:00.000Z",
+        "venueTime": "09:00",
+        "venueTimeZoneAbbr": "MDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "alamogordo-h-s-nm",
+        "bandName": "Alamogordo H.S.",
+        "bandState": "NM",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T15:12:00.000Z",
+        "venueTime": "09:12",
+        "venueTimeZoneAbbr": "MDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "mayfield-h-s-nm",
+        "bandName": "Mayfield H.S.",
+        "bandState": "NM",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T15:24:00.000Z",
+        "venueTime": "09:24",
+        "venueTimeZoneAbbr": "MDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "walden-grove-h-s-az",
+        "bandName": "Walden Grove H.S.",
+        "bandState": "AZ",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T15:36:00.000Z",
+        "venueTime": "09:36",
+        "venueTimeZoneAbbr": "MDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "centennial-h-s-nm",
+        "bandName": "Centennial H.S.",
+        "bandState": "NM",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T15:48:00.000Z",
+        "venueTime": "09:48",
+        "venueTimeZoneAbbr": "MDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "americas-h-s-tx",
+        "bandName": "Americas H.S.",
+        "bandState": "TX",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T16:00:00.000Z",
+        "venueTime": "10:00",
+        "venueTimeZoneAbbr": "MDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "las-cruces-h-s-nm",
+        "bandName": "Las Cruces H.S.",
+        "bandState": "NM",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T16:12:00.000Z",
+        "venueTime": "10:12",
+        "venueTimeZoneAbbr": "MDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "pebble-hills-h-s-tx",
+        "bandName": "Pebble Hills H.S.",
+        "bandState": "TX",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T16:36:00.000Z",
+        "venueTime": "10:36",
+        "venueTimeZoneAbbr": "MDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "organ-mountain-h-s-nm",
+        "bandName": "Organ Mountain H.S.",
+        "bandState": "NM",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T16:48:00.000Z",
+        "venueTime": "10:48",
+        "venueTimeZoneAbbr": "MDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "pecos-h-s-tx",
+        "bandName": "Pecos H.S.",
+        "bandState": "TX",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T17:00:00.000Z",
+        "venueTime": "11:00",
+        "venueTimeZoneAbbr": "MDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "goddard-h-s-nm",
+        "bandName": "Goddard H.S.",
+        "bandState": "NM",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T17:12:00.000Z",
+        "venueTime": "11:12",
+        "venueTimeZoneAbbr": "MDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "eastwood-h-s-tx",
+        "bandName": "Eastwood H.S.",
+        "bandState": "TX",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T17:24:00.000Z",
+        "venueTime": "11:24",
+        "venueTimeZoneAbbr": "MDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "bel-air-h-s-tx",
+        "bandName": "Bel Air H.S.",
+        "bandState": "TX",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T17:36:00.000Z",
+        "venueTime": "11:36",
+        "venueTimeZoneAbbr": "MDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "del-valle-h-s-tx",
+        "bandName": "Del Valle H.S.",
+        "bandState": "TX",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T17:48:00.000Z",
+        "venueTime": "11:48",
+        "venueTimeZoneAbbr": "MDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "eastlake-h-s-tx",
+        "bandName": "Eastlake H.S.",
+        "bandState": "TX",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T18:00:00.000Z",
+        "venueTime": "12:00",
+        "venueTimeZoneAbbr": "MDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "new-mexico-state-university",
+        "bandName": "New Mexico State University",
+        "bandState": null,
+        "round": "Prelims",
+        "startsAt": "2026-09-19T18:12:00.000Z",
+        "venueTime": "12:12",
+        "venueTimeZoneAbbr": "MDT",
+        "exhibition": true
+      }
+    ]
   },
   {
     "id": "2026-south-texas-regional",
@@ -21,7 +186,252 @@
     "city": "McAllen",
     "state": "TX",
     "lat": 26.2238881,
-    "lng": -98.2373019
+    "lng": -98.2373019,
+    "address": "Bulldog Drive, McAllen, TX 78501",
+    "sourceUrl": "https://marching.musicforall.org/south-texas-regional/",
+    "timezone": "America/Chicago",
+    "schedule": [
+      {
+        "bandId": "grulla-h-s-tx",
+        "bandName": "Grulla H.S.",
+        "bandState": "TX",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T12:48:00.000Z",
+        "venueTime": "07:48",
+        "venueTimeZoneAbbr": "CDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "united-h-s-tx",
+        "bandName": "United H.S.",
+        "bandState": "TX",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T13:00:00.000Z",
+        "venueTime": "08:00",
+        "venueTimeZoneAbbr": "CDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "edinburg-h-s-tx",
+        "bandName": "Edinburg H.S.",
+        "bandState": "TX",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T13:12:00.000Z",
+        "venueTime": "08:12",
+        "venueTimeZoneAbbr": "CDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "harlingen-h-s-tx",
+        "bandName": "Harlingen H.S.",
+        "bandState": "TX",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T13:24:00.000Z",
+        "venueTime": "08:24",
+        "venueTimeZoneAbbr": "CDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "mission-h-s-tx",
+        "bandName": "Mission H.S.",
+        "bandState": "TX",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T13:36:00.000Z",
+        "venueTime": "08:36",
+        "venueTimeZoneAbbr": "CDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "rio-grande-city-h-s-tx",
+        "bandName": "Rio Grande City H.S.",
+        "bandState": "TX",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T13:48:00.000Z",
+        "venueTime": "08:48",
+        "venueTimeZoneAbbr": "CDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "mcallen-h-s-tx",
+        "bandName": "McAllen H.S.",
+        "bandState": "TX",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T14:00:00.000Z",
+        "venueTime": "09:00",
+        "venueTimeZoneAbbr": "CDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "los-fresnos-h-s-tx",
+        "bandName": "Los Fresnos H.S.",
+        "bandState": "TX",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T14:24:00.000Z",
+        "venueTime": "09:24",
+        "venueTimeZoneAbbr": "CDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "sharyland-h-s-tx",
+        "bandName": "Sharyland H.S.",
+        "bandState": "TX",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T14:36:00.000Z",
+        "venueTime": "09:36",
+        "venueTimeZoneAbbr": "CDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "mcallen-nikki-rowe-h-s-tx",
+        "bandName": "McAllen Nikki Rowe H.S.",
+        "bandState": "TX",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T14:48:00.000Z",
+        "venueTime": "09:48",
+        "venueTimeZoneAbbr": "CDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "gladys-porter-early-college-h-s-tx",
+        "bandName": "Gladys Porter Early College H.S.",
+        "bandState": "TX",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T15:00:00.000Z",
+        "venueTime": "10:00",
+        "venueTimeZoneAbbr": "CDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "economedes-h-s-tx",
+        "bandName": "Economedes H.S.",
+        "bandState": "TX",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T15:12:00.000Z",
+        "venueTime": "10:12",
+        "venueTimeZoneAbbr": "CDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "edinburg-north-h-s-tx",
+        "bandName": "Edinburg North H.S.",
+        "bandState": "TX",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T15:24:00.000Z",
+        "venueTime": "10:24",
+        "venueTimeZoneAbbr": "CDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "psja-early-college-h-s-tx",
+        "bandName": "PSJA Early College H.S.",
+        "bandState": "TX",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T15:36:00.000Z",
+        "venueTime": "10:36",
+        "venueTimeZoneAbbr": "CDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "mcallen-memorial-h-s-tx",
+        "bandName": "McAllen Memorial H.S.",
+        "bandState": "TX",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T15:48:00.000Z",
+        "venueTime": "10:48",
+        "venueTimeZoneAbbr": "CDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "santa-rosa-h-s-tx",
+        "bandName": "Santa Rosa H.S.",
+        "bandState": "TX",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T16:24:00.000Z",
+        "venueTime": "11:24",
+        "venueTimeZoneAbbr": "CDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "valley-view-h-s-tx",
+        "bandName": "Valley View H.S.",
+        "bandState": "TX",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T16:36:00.000Z",
+        "venueTime": "11:36",
+        "venueTimeZoneAbbr": "CDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "harlingen-south-h-s-tx",
+        "bandName": "Harlingen South H.S.",
+        "bandState": "TX",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T16:48:00.000Z",
+        "venueTime": "11:48",
+        "venueTimeZoneAbbr": "CDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "roma-h-s-tx",
+        "bandName": "Roma H.S.",
+        "bandState": "TX",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T17:00:00.000Z",
+        "venueTime": "12:00",
+        "venueTimeZoneAbbr": "CDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "pioneer-h-s-tx",
+        "bandName": "Pioneer H.S.",
+        "bandState": "TX",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T17:12:00.000Z",
+        "venueTime": "12:12",
+        "venueTimeZoneAbbr": "CDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "robert-vela-h-s-tx",
+        "bandName": "Robert Vela H.S.",
+        "bandState": "TX",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T17:24:00.000Z",
+        "venueTime": "12:24",
+        "venueTimeZoneAbbr": "CDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "hidalgo-early-college-h-s-tx",
+        "bandName": "Hidalgo Early College H.S.",
+        "bandState": "TX",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T17:36:00.000Z",
+        "venueTime": "12:36",
+        "venueTimeZoneAbbr": "CDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "port-isabel-early-college-h-s-tx",
+        "bandName": "Port Isabel Early College H.S.",
+        "bandState": "TX",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T17:48:00.000Z",
+        "venueTime": "12:48",
+        "venueTimeZoneAbbr": "CDT",
+        "exhibition": false
+      },
+      {
+        "bandId": "john-b-alexander-h-s-tx",
+        "bandName": "John B. Alexander H.S.",
+        "bandState": "TX",
+        "round": "Prelims",
+        "startsAt": "2026-09-19T18:00:00.000Z",
+        "venueTime": "13:00",
+        "venueTimeZoneAbbr": "CDT",
+        "exhibition": false
+      }
+    ]
   },
   {
     "id": "2026-arizona-regional",
@@ -33,7 +443,152 @@
     "city": "Flagstaff",
     "state": "AZ",
     "lat": 35.1805983,
-    "lng": -111.652899
+    "lng": -111.652899,
+    "address": "1701 South San Francisco Street, Flagstaff, AZ 86011",
+    "sourceUrl": "https://marching.musicforall.org/arizona-regional/",
+    "timezone": "America/Phoenix",
+    "schedule": [
+      {
+        "bandId": "sandra-day-o-connor-h-s-az",
+        "bandName": "Sandra Day O'Connor H.S.",
+        "bandState": "AZ",
+        "round": "Prelims",
+        "startsAt": "2026-09-26T19:15:00.000Z",
+        "venueTime": "12:15",
+        "venueTimeZoneAbbr": "MST",
+        "exhibition": false
+      },
+      {
+        "bandId": "volcano-vista-h-s-nm",
+        "bandName": "Volcano Vista H.S.",
+        "bandState": "NM",
+        "round": "Prelims",
+        "startsAt": "2026-09-26T19:30:00.000Z",
+        "venueTime": "12:30",
+        "venueTimeZoneAbbr": "MST",
+        "exhibition": false
+      },
+      {
+        "bandId": "edmond-memorial-h-s-ok",
+        "bandName": "Edmond Memorial H.S.",
+        "bandState": "OK",
+        "round": "Prelims",
+        "startsAt": "2026-09-26T19:45:00.000Z",
+        "venueTime": "12:45",
+        "venueTimeZoneAbbr": "MST",
+        "exhibition": false
+      },
+      {
+        "bandId": "arbor-view-h-s-nv",
+        "bandName": "Arbor View H.S.",
+        "bandState": "NV",
+        "round": "Prelims",
+        "startsAt": "2026-09-26T20:00:00.000Z",
+        "venueTime": "13:00",
+        "venueTimeZoneAbbr": "MST",
+        "exhibition": false
+      },
+      {
+        "bandId": "ironwood-h-s-az",
+        "bandName": "Ironwood H.S.",
+        "bandState": "AZ",
+        "round": "Prelims",
+        "startsAt": "2026-09-26T20:15:00.000Z",
+        "venueTime": "13:15",
+        "venueTimeZoneAbbr": "MST",
+        "exhibition": false
+      },
+      {
+        "bandId": "covina-h-s-ca",
+        "bandName": "Covina H.S.",
+        "bandState": "CA",
+        "round": "Prelims",
+        "startsAt": "2026-09-26T20:30:00.000Z",
+        "venueTime": "13:30",
+        "venueTimeZoneAbbr": "MST",
+        "exhibition": false
+      },
+      {
+        "bandId": "desert-vista-h-s-az",
+        "bandName": "Desert Vista H.S.",
+        "bandState": "AZ",
+        "round": "Prelims",
+        "startsAt": "2026-09-26T21:15:00.000Z",
+        "venueTime": "14:15",
+        "venueTimeZoneAbbr": "MST",
+        "exhibition": false
+      },
+      {
+        "bandId": "mountain-ridge-h-s-az",
+        "bandName": "Mountain Ridge H.S.",
+        "bandState": "AZ",
+        "round": "Prelims",
+        "startsAt": "2026-09-26T21:30:00.000Z",
+        "venueTime": "14:30",
+        "venueTimeZoneAbbr": "MST",
+        "exhibition": false
+      },
+      {
+        "bandId": "cienega-h-s-az",
+        "bandName": "Cienega H.S.",
+        "bandState": "AZ",
+        "round": "Prelims",
+        "startsAt": "2026-09-26T21:45:00.000Z",
+        "venueTime": "14:45",
+        "venueTimeZoneAbbr": "MST",
+        "exhibition": false
+      },
+      {
+        "bandId": "corona-del-sol-h-s-az",
+        "bandName": "Corona del Sol H.S.",
+        "bandState": "AZ",
+        "round": "Prelims",
+        "startsAt": "2026-09-26T22:00:00.000Z",
+        "venueTime": "15:00",
+        "venueTimeZoneAbbr": "MST",
+        "exhibition": false
+      },
+      {
+        "bandId": "foothill-h-s-nv",
+        "bandName": "Foothill H.S.",
+        "bandState": "NV",
+        "round": "Prelims",
+        "startsAt": "2026-09-26T22:15:00.000Z",
+        "venueTime": "15:15",
+        "venueTimeZoneAbbr": "MST",
+        "exhibition": false
+      },
+      {
+        "bandId": "buchanan-h-s-ca",
+        "bandName": "Buchanan H.S.",
+        "bandState": "CA",
+        "round": "Prelims",
+        "startsAt": "2026-09-26T22:30:00.000Z",
+        "venueTime": "15:30",
+        "venueTimeZoneAbbr": "MST",
+        "exhibition": false
+      },
+      {
+        "bandId": "catalina-foothills-h-s-az",
+        "bandName": "Catalina Foothills H.S.",
+        "bandState": "AZ",
+        "round": "Prelims",
+        "startsAt": "2026-09-26T22:45:00.000Z",
+        "venueTime": "15:45",
+        "venueTimeZoneAbbr": "MST",
+        "exhibition": false
+      },
+      {
+        "bandId": "northern-arizona-university",
+        "bandName": "Northern Arizona University",
+        "bandState": null,
+        "round": "Prelims",
+        "startsAt": "2026-09-26T23:00:00.000Z",
+        "venueTime": "16:00",
+        "venueTimeZoneAbbr": "MST",
+        "exhibition": true
+      }
+    ]
   },
   {
     "id": "2026-central-ohio-regional",
@@ -45,7 +600,10 @@
     "city": "Columbus",
     "state": "OH",
     "lat": 40.009468,
-    "lng": -82.9911382
+    "lng": -82.9911382,
+    "address": "Silver Drive, Columbus, OH 43211",
+    "sourceUrl": "https://marching.musicforall.org/central-ohio-regional/",
+    "timezone": "America/New_York"
   },
   {
     "id": "2026-dallas-mid-cities-regional",
@@ -57,7 +615,10 @@
     "city": "Bedford",
     "state": "TX",
     "lat": 32.8327183,
-    "lng": -97.1363983
+    "lng": -97.1363983,
+    "address": "H E B Drive, Bedford, TX 76022",
+    "sourceUrl": "https://marching.musicforall.org/dallas-mid-cities-regional/",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2026-north-houston-regional",
@@ -69,7 +630,10 @@
     "city": "Shenandoah",
     "state": "TX",
     "lat": 30.1848671,
-    "lng": -95.4489906
+    "lng": -95.4489906,
+    "address": "Main, Shenandoah, TX 77385",
+    "sourceUrl": "https://marching.musicforall.org/north-houston-regional/",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2026-chattanooga-regional",
@@ -81,7 +645,10 @@
     "city": "Chattanooga",
     "state": "TN",
     "lat": 35.0363053,
-    "lng": -85.3157148
+    "lng": -85.3157148,
+    "address": "Chestnut Street, Chattanooga, TN 37408",
+    "sourceUrl": "https://marching.musicforall.org/chattanooga-regional/",
+    "timezone": "America/New_York"
   },
   {
     "id": "2026-iowa-regional",
@@ -93,7 +660,10 @@
     "city": "Cedar Falls",
     "state": "IA",
     "lat": 42.5102697,
-    "lng": -92.4630553
+    "lng": -92.4630553,
+    "address": "1227 West 27th Street, Cedar Falls, IA 50614",
+    "sourceUrl": "https://marching.musicforall.org/iowa-regional/",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2026-kentucky-regional",
@@ -105,7 +675,10 @@
     "city": "Louisville",
     "state": "KY",
     "lat": 38.2133224,
-    "lng": -85.7577075
+    "lng": -85.7577075,
+    "address": "2301 South 3rd Street, Louisville, KY 40292",
+    "sourceUrl": "https://marching.musicforall.org/kentucky-regional/",
+    "timezone": "America/Kentucky/Louisville"
   },
   {
     "id": "2026-northwest-ohio-regional",
@@ -117,7 +690,10 @@
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6583953,
-    "lng": -83.6147907
+    "lng": -83.6147907,
+    "address": "2801 West Bancroft Street, Toledo, OH 43606",
+    "sourceUrl": "https://marching.musicforall.org/northwest-ohio-regional/",
+    "timezone": "America/New_York"
   },
   {
     "id": "2026-south-houston-regional",
@@ -129,7 +705,10 @@
     "city": "Iowa Colony",
     "state": "TX",
     "lat": 29.4616047,
-    "lng": -95.4054488
+    "lng": -95.4054488,
+    "address": "4505 CR 78, Iowa Colony, TX 77583",
+    "sourceUrl": "https://marching.musicforall.org/south-houston-regional/",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2026-carolina-regional",
@@ -141,7 +720,10 @@
     "city": "Conway",
     "state": "SC",
     "lat": 33.7953227,
-    "lng": -79.0126825
+    "lng": -79.0126825,
+    "address": "100 Chanticleer Drive West, Conway, SC 29528",
+    "sourceUrl": "https://marching.musicforall.org/carolina-regional/",
+    "timezone": "America/New_York"
   },
   {
     "id": "2026-central-texas-regional",
@@ -153,7 +735,10 @@
     "city": "San Marcos",
     "state": "TX",
     "lat": 29.8910885,
-    "lng": -97.9376214
+    "lng": -97.9376214,
+    "address": "Peques Street, San Marcos, TX 78666",
+    "sourceUrl": "https://marching.musicforall.org/central-texas-regional/",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2026-north-texas-regional",
@@ -165,7 +750,10 @@
     "city": "Prosper",
     "state": "TX",
     "lat": 33.2371585,
-    "lng": -96.7977048
+    "lng": -96.7977048,
+    "address": "198 North Church Street, Prosper, TX 75078",
+    "sourceUrl": "https://marching.musicforall.org/north-texas-regional/",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2026-west-texas-regional",
@@ -177,7 +765,10 @@
     "city": "Midland",
     "state": "TX",
     "lat": 31.9893368,
-    "lng": -102.1539155
+    "lng": -102.1539155,
+    "address": "Martin Luther King Jr. Circle, Midland, TX 77906",
+    "sourceUrl": "https://marching.musicforall.org/west-texas-regional/",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2026-indianapolis-super-regional",
@@ -189,7 +780,10 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
-    "lng": -86.1638376
+    "lng": -86.1638376,
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
+    "sourceUrl": "https://marching.musicforall.org/indianapolis-super-regional/",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "2026-east-tennessee-regional",
@@ -201,7 +795,10 @@
     "city": "Johnson City",
     "state": "TN",
     "lat": 36.3167671,
-    "lng": -82.352903
+    "lng": -82.352903,
+    "address": "Buffalo Street, Johnson City, TN 37605",
+    "sourceUrl": "https://marching.musicforall.org/ballad-health-east-tennessee-regional/",
+    "timezone": "America/New_York"
   },
   {
     "id": "2026-mid-atlantic-regional",
@@ -213,7 +810,10 @@
     "city": "Newark",
     "state": "DE",
     "lat": 39.6802837,
-    "lng": -75.7530984
+    "lng": -75.7530984,
+    "address": "South College Avenue, Newark, DE 19713",
+    "sourceUrl": "https://marching.musicforall.org/mid-atlantic-regional/",
+    "timezone": "America/New_York"
   },
   {
     "id": "2026-st-louis-super-regional",
@@ -225,7 +825,10 @@
     "city": "St. Louis",
     "state": "MO",
     "lat": 38.6327852,
-    "lng": -90.188551
+    "lng": -90.188551,
+    "address": "701 Convention Plaza, St. Louis, MO 63101",
+    "sourceUrl": "https://marching.musicforall.org/st-louis-super-regional/",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2026-california-regional",
@@ -237,7 +840,10 @@
     "city": "Rancho Cucamonga",
     "state": "CA",
     "lat": 34.1304707,
-    "lng": -117.5101687
+    "lng": -117.5101687,
+    "address": "13500 Victoria Street, Rancho Cucamonga, CA 91739",
+    "sourceUrl": "https://marching.musicforall.org/california-regional/",
+    "timezone": "America/Los_Angeles"
   },
   {
     "id": "2026-memphis-regional",
@@ -249,7 +855,10 @@
     "city": "Memphis",
     "state": "TN",
     "lat": 35.1211305,
-    "lng": -89.9774153
+    "lng": -89.9774153,
+    "address": "Home Run Lane, Memphis, TN 38114",
+    "sourceUrl": "https://marching.musicforall.org/memphis-regional/",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2026-waco-regional",
@@ -261,7 +870,10 @@
     "city": "Waco",
     "state": "TX",
     "lat": 31.5504341,
-    "lng": -97.1102906
+    "lng": -97.1102906,
+    "address": "1301 South University Parks Drive, Waco, TX 76706",
+    "sourceUrl": "https://marching.musicforall.org/waco-regional/",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2026-middle-tennessee-regional",
@@ -273,7 +885,10 @@
     "city": "Cookeville",
     "state": "TN",
     "lat": 36.1780904,
-    "lng": -85.5061882
+    "lng": -85.5061882,
+    "address": "West 12th Street, Cookeville, TN 38501",
+    "sourceUrl": "https://marching.musicforall.org/middle-tennessee-regional/",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2026-idaho-regional",
@@ -285,7 +900,10 @@
     "city": "Moscow",
     "state": "ID",
     "lat": 46.7262411,
-    "lng": -117.0174374
+    "lng": -117.0174374,
+    "address": "1000 Stadium Drive, Moscow, ID 83843",
+    "sourceUrl": "https://marching.musicforall.org/idaho-regional/",
+    "timezone": "America/Los_Angeles"
   },
   {
     "id": "2026-central-florida-regional",
@@ -297,7 +915,10 @@
     "city": "Clearwater",
     "state": "FL",
     "lat": 27.9594275,
-    "lng": -82.7565545
+    "lng": -82.7565545,
+    "address": "1521 Gulf to Bay Boulevard, Clearwater, FL 33765",
+    "sourceUrl": "https://marching.musicforall.org/central-florida-regional/",
+    "timezone": "America/New_York"
   },
   {
     "id": "2026-san-antonio-super-regional",
@@ -309,7 +930,10 @@
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
-    "lng": -98.4788949
+    "lng": -98.4788949,
+    "address": "100 Montana Street, San Antonio, TX 78203",
+    "sourceUrl": "https://marching.musicforall.org/san-antonio-super-regional/",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2026-utah-regional",
@@ -321,7 +945,10 @@
     "city": "St. George",
     "state": "UT",
     "lat": 37.1030099,
-    "lng": -113.5653354
+    "lng": -113.5653354,
+    "address": "225 University Avenue, St. George, UT 84771",
+    "sourceUrl": "https://marching.musicforall.org/utah-regional/",
+    "timezone": "America/Denver"
   },
   {
     "id": "2026-grand-national-championships",
@@ -333,6 +960,9 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
-    "lng": -86.1638376
+    "lng": -86.1638376,
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
+    "sourceUrl": "https://marching.musicforall.org/grand-national-championships/",
+    "timezone": "America/Indiana/Indianapolis"
   }
 ]

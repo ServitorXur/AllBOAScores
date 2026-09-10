@@ -9,7 +9,9 @@
     "city": "Irwin",
     "state": "PA",
     "lat": 40.3301738,
-    "lng": -79.7093339
+    "lng": -79.7093339,
+    "address": "303 6th Street, Irwin, PA 15642",
+    "timezone": "America/New_York"
   },
   {
     "id": "2011-regional-championship-at-richmond-ky",
@@ -21,7 +23,9 @@
     "city": "Richmond",
     "state": "KY",
     "lat": 37.7341619,
-    "lng": -84.3011984
+    "lng": -84.3011984,
+    "address": "Bristol Drive, Richmond, KY 40475",
+    "timezone": "America/New_York"
   },
   {
     "id": "2011-regional-championship-at-arlington-tx",
@@ -33,7 +37,9 @@
     "city": "Arlington",
     "state": "TX",
     "lat": 32.7292271,
-    "lng": -97.1265803
+    "lng": -97.1265803,
+    "address": "Freeman Court, Arlington, TX 76013",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2011-regional-championship-at-mason-oh",
@@ -45,7 +51,9 @@
     "city": "Mason",
     "state": "OH",
     "lat": 39.3600586,
-    "lng": -84.309939
+    "lng": -84.309939,
+    "address": "West Main Street, Mason, OH 45040",
+    "timezone": "America/New_York"
   },
   {
     "id": "2011-regional-championship-at-conroe-tx",
@@ -57,7 +65,9 @@
     "city": "Conroe",
     "state": "TX",
     "lat": 30.3118769,
-    "lng": -95.4560512
+    "lng": -95.4560512,
+    "address": "299 North Pacific Street, Conroe, TX 77301",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2011-regional-championship-at-jacksonville-al",
@@ -69,7 +79,9 @@
     "city": "Jacksonville",
     "state": "AL",
     "lat": 33.8137919,
-    "lng": -85.7612872
+    "lng": -85.7612872,
+    "address": "41 Public Square West, Jacksonville, AL 36265",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2011-regional-championship-at-pontiac-mi",
@@ -81,7 +93,9 @@
     "city": "Waterford",
     "state": "MI",
     "lat": 42.7022527,
-    "lng": -83.402718
+    "lng": -83.402718,
+    "address": "5799 Dixie Highway, Waterford, MI 48329",
+    "timezone": "America/Detroit"
   },
   {
     "id": "2011-regional-championship-at-akron-oh",
@@ -93,7 +107,9 @@
     "city": "Akron",
     "state": "OH",
     "lat": 41.07251,
-    "lng": -81.5084807
+    "lng": -81.5084807,
+    "address": "Vine Street, Akron, OH 44304",
+    "timezone": "America/New_York"
   },
   {
     "id": "2011-super-regional-championship-at-st-louis-mo",
@@ -105,7 +121,9 @@
     "city": "Saint Louis",
     "state": "MO",
     "lat": 38.6327852,
-    "lng": -90.188551
+    "lng": -90.188551,
+    "address": "701 Convention Plaza, Saint Louis, MO 63101",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2011-regional-championship-at-towson-maryland",
@@ -117,7 +135,9 @@
     "city": "Towson",
     "state": "MD",
     "lat": 39.3885483,
-    "lng": -76.6158585
+    "lng": -76.6158585,
+    "address": "Auburn Drive, Towson, MD 21252",
+    "timezone": "America/New_York"
   },
   {
     "id": "2011-regional-championship-at-st-george-ut",
@@ -129,7 +149,9 @@
     "city": "St. George",
     "state": "UT",
     "lat": 37.1030099,
-    "lng": -113.5653354
+    "lng": -113.5653354,
+    "address": "225 University Avenue, St. George, UT 84771",
+    "timezone": "America/Denver"
   },
   {
     "id": "2011-super-regional-championship-at-atlanta-ga",
@@ -141,7 +163,9 @@
     "city": "Atlanta",
     "state": "GA",
     "lat": 33.758056,
-    "lng": -84.401111
+    "lng": -84.401111,
+    "address": "1 Backyard Way, Atlanta, GA 30313",
+    "timezone": "America/New_York"
   },
   {
     "id": "2011-super-regional-championship-at-indianapolis-in",
@@ -153,7 +177,9 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
-    "lng": -86.1638376
+    "lng": -86.1638376,
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "2011-super-regional-championship-at-san-antonio-texas",
@@ -165,7 +191,9 @@
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
-    "lng": -98.4788949
+    "lng": -98.4788949,
+    "address": "100 Montana Street, San Antonio, TX 78203",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2011-grand-national-championships-at-indianapolis-indiana",
@@ -177,6 +205,8 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
-    "lng": -86.1638376
+    "lng": -86.1638376,
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
+    "timezone": "America/Indiana/Indianapolis"
   }
 ]

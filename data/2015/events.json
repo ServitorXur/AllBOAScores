@@ -9,7 +9,9 @@
     "city": "Clarksville",
     "state": "TN",
     "lat": 36.5342965,
-    "lng": -87.3543085
+    "lng": -87.3543085,
+    "address": "601 College Street, Clarksville, TN 37044",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2015-monroeville-regional-championship-at-monroeville-pa",
@@ -21,7 +23,9 @@
     "city": "Monroeville",
     "state": "PA",
     "lat": 40.4315061,
-    "lng": -79.7548388
+    "lng": -79.7548388,
+    "address": "Gateway Campus Boulevard, Monroeville, PA 15146",
+    "timezone": "America/New_York"
   },
   {
     "id": "2015-austin-regional-championship-at-austin-tx",
@@ -33,7 +37,9 @@
     "city": "Austin",
     "state": "TX",
     "lat": 30.492488,
-    "lng": -97.7741
+    "lng": -97.7741,
+    "address": "10211 West Parmer Lane, Austin, TX 78717",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2015-bowling-green-regional-championship-at-bowling-green-oh",
@@ -45,7 +51,9 @@
     "city": "Bowling Green",
     "state": "OH",
     "lat": 41.3795005,
-    "lng": -83.629789
+    "lng": -83.629789,
+    "address": "1001 East Wooster Street, Bowling Green, OH 43403",
+    "timezone": "America/New_York"
   },
   {
     "id": "2015-mcallen-regional-championship-at-mcallen-tx",
@@ -57,7 +65,9 @@
     "city": "McAllen",
     "state": "TX",
     "lat": 26.2238881,
-    "lng": -98.2373019
+    "lng": -98.2373019,
+    "address": "Bulldog Drive, McAllen, TX 78501",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2015-conroe-regional-championship-at-conroe-tx",
@@ -69,7 +79,9 @@
     "city": "Conroe",
     "state": "TX",
     "lat": 30.1848671,
-    "lng": -95.4489906
+    "lng": -95.4489906,
+    "address": "Main, Conroe, TX 77385",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2015-dayton-regional-championship-at-dayton-oh",
@@ -81,7 +93,9 @@
     "city": "Dayton",
     "state": "OH",
     "lat": 39.7369274,
-    "lng": -84.1981121
+    "lng": -84.1981121,
+    "address": "South Edwin C. Moses Boulevard, Dayton, OH 45409",
+    "timezone": "America/New_York"
   },
   {
     "id": "2015-powder-springs-regional-championship-at-powder-springs-ga",
@@ -93,7 +107,9 @@
     "city": "Powder Springs",
     "state": "GA",
     "lat": 33.8960695,
-    "lng": -84.67998
+    "lng": -84.67998,
+    "address": "2400 New Macland Road, Powder Springs, GA 30127",
+    "timezone": "America/New_York"
   },
   {
     "id": "2015-arlington-regional-championship-at-arlington-tx",
@@ -105,7 +121,9 @@
     "city": "Arlington",
     "state": "TX",
     "lat": 32.7284713,
-    "lng": -97.1120213
+    "lng": -97.1120213,
+    "address": "701 South Nedderman Drive, Arlington, TX 76013",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2015-jacksonville-regional-championship-at-jacksonville-al",
@@ -117,7 +135,9 @@
     "city": "Jacksonville",
     "state": "AL",
     "lat": 33.8249359,
-    "lng": -85.7641095
+    "lng": -85.7641095,
+    "address": "700 Pelham Road North, Jacksonville, AL 36265",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2015-winston-salem-regional-championship-at-winston-salem-nc",
@@ -129,7 +149,9 @@
     "city": "Winston Salem",
     "state": "NC",
     "lat": 36.133893,
-    "lng": -80.2755578
+    "lng": -80.2755578,
+    "address": "1834 Wake Forest Road, Winston Salem, NC 27109",
+    "timezone": "America/New_York"
   },
   {
     "id": "2015-st-louis-super-regional-championship-at-st-louis-mo",
@@ -141,7 +163,9 @@
     "city": "Saint Louis",
     "state": "MO",
     "lat": 38.6327852,
-    "lng": -90.188551
+    "lng": -90.188551,
+    "address": "701 Convention Plaza, Saint Louis, MO 63101",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2015-newark-regional-championship-at-newark-de",
@@ -153,7 +177,9 @@
     "city": "Newark",
     "state": "DE",
     "lat": 39.6802837,
-    "lng": -75.7530984
+    "lng": -75.7530984,
+    "address": "South College Avenue, Newark, DE 19713",
+    "timezone": "America/New_York"
   },
   {
     "id": "2015-indianapolis-super-regional-championship-at-indianapolis-in",
@@ -165,7 +191,9 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
-    "lng": -86.1638376
+    "lng": -86.1638376,
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "2015-long-beach-regional-championship-at-long-beach-ca",
@@ -177,7 +205,9 @@
     "city": "Long Beach",
     "state": "CA",
     "lat": 33.8282786,
-    "lng": -118.1363966
+    "lng": -118.1363966,
+    "address": "Lew Davis Street, Long Beach, CA 90846",
+    "timezone": "America/Los_Angeles"
   },
   {
     "id": "2015-atlanta-super-regional-championship-at-atlanta-ga",
@@ -189,7 +219,9 @@
     "city": "Atlanta",
     "state": "GA",
     "lat": 33.758056,
-    "lng": -84.401111
+    "lng": -84.401111,
+    "address": "1 Backyard Way, Atlanta, GA 30313",
+    "timezone": "America/New_York"
   },
   {
     "id": "2015-san-antonio-regional-championship-at-san-antonio-tx",
@@ -201,7 +233,9 @@
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
-    "lng": -98.4788949
+    "lng": -98.4788949,
+    "address": "100 Montana Street, San Antonio, TX 78203",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2015-san-antonio-super-regional-championship-at-san-antonio-tx",
@@ -213,7 +247,9 @@
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
-    "lng": -98.4788949
+    "lng": -98.4788949,
+    "address": "100 Montana Street, San Antonio, TX 78203",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2015-st-george-regional-championship-at-st-george-ut",
@@ -225,7 +261,9 @@
     "city": "Saint George",
     "state": "UT",
     "lat": 37.1030099,
-    "lng": -113.5653354
+    "lng": -113.5653354,
+    "address": "225 University Avenue, Saint George, UT 84771",
+    "timezone": "America/Denver"
   },
   {
     "id": "2015-american-canyon-regional-championship-at-american-canyon-ca",
@@ -237,7 +275,9 @@
     "city": "American Canyon",
     "state": "CA",
     "lat": 38.1668511,
-    "lng": -122.2378008
+    "lng": -122.2378008,
+    "address": "3000 Newell Drive, American Canyon, CA 94503",
+    "timezone": "America/Los_Angeles"
   },
   {
     "id": "2015-grand-national-championships",
@@ -249,6 +289,8 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
-    "lng": -86.1638376
+    "lng": -86.1638376,
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
+    "timezone": "America/Indiana/Indianapolis"
   }
 ]

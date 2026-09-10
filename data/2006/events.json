@@ -9,7 +9,9 @@
     "city": "Murfreesboro",
     "state": "TN",
     "lat": 35.8486008,
-    "lng": -86.3609036
+    "lng": -86.3609036,
+    "address": "1301 East Main Street, Murfreesboro, TN 37132",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2006-regional-championship-at-youngstown-oh",
@@ -21,7 +23,9 @@
     "city": "Youngstown",
     "state": "OH",
     "lat": 41.1067218,
-    "lng": -80.6477542
+    "lng": -80.6477542,
+    "address": "1 University Plaza, Youngstown, OH 44555",
+    "timezone": "America/New_York"
   },
   {
     "id": "2006-regional-championship-at-arlington-tx",
@@ -33,7 +37,9 @@
     "city": "Fort Worth",
     "state": "TX",
     "lat": 32.7485139,
-    "lng": -97.3255424
+    "lng": -97.3255424,
+    "address": "1501 Commerce Street, Fort Worth, TX 76102",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2006-regional-championship-at-ypsilanti-mi",
@@ -45,7 +51,9 @@
     "city": "Ypsilanti",
     "state": "MI",
     "lat": 42.2558724,
-    "lng": -83.6473747
+    "lng": -83.6473747,
+    "address": "Westview Street, Ypsilanti, MI 48197",
+    "timezone": "America/Detroit"
   },
   {
     "id": "2006-regional-championship-at-flagstaff-az",
@@ -57,7 +65,9 @@
     "city": "Flagstaff",
     "state": "AZ",
     "lat": 35.1830867,
-    "lng": -111.654961
+    "lng": -111.654961,
+    "address": "1 Runke Drive, Flagstaff, AZ 86001",
+    "timezone": "America/Phoenix"
   },
   {
     "id": "2006-regional-championship-at-houston-pearland-tx",
@@ -69,7 +79,9 @@
     "city": "Houston",
     "state": "TX",
     "lat": 29.5380231,
-    "lng": -95.2711558
+    "lng": -95.2711558,
+    "address": "Pearland Parkway, Houston, TX 77581",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2006-regional-championship-at-houston-tx",
@@ -81,7 +93,9 @@
     "city": "Houston",
     "state": "TX",
     "lat": 29.5380231,
-    "lng": -95.2711558
+    "lng": -95.2711558,
+    "address": "Pearland Parkway, Houston, TX 77581",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2006-regional-championship-at-st-petersburg-fl",
@@ -93,7 +107,9 @@
     "city": "Saint Petersburg",
     "state": "FL",
     "lat": 27.7680559,
-    "lng": -82.6532755
+    "lng": -82.6532755,
+    "address": "Pinellas Trail, Saint Petersburg, FL 33701",
+    "timezone": "America/New_York"
   },
   {
     "id": "2006-regional-championship-at-st-louis-mo",
@@ -105,7 +121,9 @@
     "city": "Saint Louis",
     "state": "MO",
     "lat": 38.6327852,
-    "lng": -90.188551
+    "lng": -90.188551,
+    "address": "701 Convention Plaza, Saint Louis, MO 63101",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2006-regional-championship-at-towson-md",
@@ -117,7 +135,9 @@
     "city": "Towson",
     "state": "MD",
     "lat": 39.3885483,
-    "lng": -76.6158585
+    "lng": -76.6158585,
+    "address": "Auburn Drive, Towson, MD 21252",
+    "timezone": "America/New_York"
   },
   {
     "id": "2006-super-regional-championship-at-st-louis-mo",
@@ -129,7 +149,9 @@
     "city": "Saint Louis",
     "state": "MO",
     "lat": 38.6327852,
-    "lng": -90.188551
+    "lng": -90.188551,
+    "address": "701 Convention Plaza, Saint Louis, MO 63101",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2006-regional-championship-at-los-angeles-ca",
@@ -141,7 +163,9 @@
     "city": "Los Angeles",
     "state": "CA",
     "lat": 34.0139159,
-    "lng": -118.2877996
+    "lng": -118.2877996,
+    "address": "Olympic Gateway, Los Angeles, CA 90089",
+    "timezone": "America/Los_Angeles"
   },
   {
     "id": "2006-super-regional-championship-at-atlanta-georgia",
@@ -153,7 +177,9 @@
     "city": "Atlanta",
     "state": "GA",
     "lat": 33.758056,
-    "lng": -84.401111
+    "lng": -84.401111,
+    "address": "1 Backyard Way, Atlanta, GA 30313",
+    "timezone": "America/New_York"
   },
   {
     "id": "2006-regional-championship-at-indianapolis-in",
@@ -165,7 +191,9 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
-    "lng": -86.1640108
+    "lng": -86.1640108,
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "2006-regional-championship-at-san-antonio-tx",
@@ -177,7 +205,9 @@
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
-    "lng": -98.4788949
+    "lng": -98.4788949,
+    "address": "100 Montana Street, San Antonio, TX 78203",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2006-grand-national-championships-at-indianapolis-indiana",
@@ -189,7 +219,9 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
-    "lng": -86.1640108
+    "lng": -86.1640108,
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "2006-grand-national-championship-at-indianapolis-indiana",
@@ -201,6 +233,8 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
-    "lng": -86.1640108
+    "lng": -86.1640108,
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
+    "timezone": "America/Indiana/Indianapolis"
   }
 ]

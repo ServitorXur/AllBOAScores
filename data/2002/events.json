@@ -9,7 +9,9 @@
     "city": "Louisville",
     "state": "KY",
     "lat": 38.2542376,
-    "lng": -85.759407
+    "lng": -85.759407,
+    "address": "West Jefferson Street, Louisville, KY 40212",
+    "timezone": "America/Kentucky/Louisville"
   },
   {
     "id": "2002-2002-9-28ohtlf",
@@ -21,7 +23,9 @@
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6583953,
-    "lng": -83.6147907
+    "lng": -83.6147907,
+    "address": "2801 West Bancroft Street, Toledo, OH 43606",
+    "timezone": "America/New_York"
   },
   {
     "id": "2002-regional-championship-at-johnson-city-tn",
@@ -33,7 +37,9 @@
     "city": "Johnson City",
     "state": "TN",
     "lat": 36.3037542,
-    "lng": -82.3708708
+    "lng": -82.3708708,
+    "address": "West State of Franklin Road, Johnson City, TN 37684",
+    "timezone": "America/New_York"
   },
   {
     "id": "2002-regional-championship-at-toledo-oh",
@@ -45,7 +51,9 @@
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6583953,
-    "lng": -83.6147907
+    "lng": -83.6147907,
+    "address": "2801 West Bancroft Street, Toledo, OH 43606",
+    "timezone": "America/New_York"
   },
   {
     "id": "2002-regional-championship-at-daytona-beach-fl",
@@ -57,7 +65,9 @@
     "city": "Daytona Beach",
     "state": "FL",
     "lat": 29.172821,
-    "lng": -81.1174973
+    "lng": -81.1174973,
+    "address": "Cabot Cliffs Drive, Daytona Beach, FL 32124",
+    "timezone": "America/New_York"
   },
   {
     "id": "2002-regional-championship-at-daytona-fl",
@@ -69,7 +79,9 @@
     "city": "Daytona",
     "state": "FL",
     "lat": 29.172821,
-    "lng": -81.1174973
+    "lng": -81.1174973,
+    "address": "Cabot Cliffs Drive, Daytona, FL 32124",
+    "timezone": "America/New_York"
   },
   {
     "id": "2002-regional-championship-at-huntsville-tx",
@@ -81,7 +93,9 @@
     "city": "Huntsville",
     "state": "TX",
     "lat": 30.7133471,
-    "lng": -95.5449136
+    "lng": -95.5449136,
+    "address": "1905 University Avenue, Huntsville, TX 77340",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2002-regional-championship-at-massillon-oh",
@@ -93,7 +107,9 @@
     "city": "Massillon",
     "state": "OH",
     "lat": 40.793641,
-    "lng": -81.4997215
+    "lng": -81.4997215,
+    "address": "Russell Boulevard Southeast, Massillon, OH 44646",
+    "timezone": "America/New_York"
   },
   {
     "id": "2002-regional-championship-at-st-louis-mo",
@@ -105,7 +121,9 @@
     "city": "Saint Louis",
     "state": "MO",
     "lat": 38.6327852,
-    "lng": -90.188551
+    "lng": -90.188551,
+    "address": "701 Convention Plaza, Saint Louis, MO 63101",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2002-regional-championship-at-arlington-tx",
@@ -117,7 +135,9 @@
     "city": "Arlington",
     "state": "TX",
     "lat": 32.7315155,
-    "lng": -97.1171533
+    "lng": -97.1171533,
+    "address": "500 West Nedderman Drive, Arlington, TX 76019",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2002-regional-championship-at-arlington-texas",
@@ -129,7 +149,9 @@
     "city": "Arlington",
     "state": "TX",
     "lat": 32.7315155,
-    "lng": -97.1171533
+    "lng": -97.1171533,
+    "address": "500 West Nedderman Drive, Arlington, TX 76019",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2002-regional-championship-at-hempstead-ny",
@@ -141,7 +163,9 @@
     "city": "Hempstead",
     "state": "NY",
     "lat": 40.715562,
-    "lng": -73.5962921
+    "lng": -73.5962921,
+    "address": "Baldwin Court, Hempstead, NY 11553",
+    "timezone": "America/New_York"
   },
   {
     "id": "2002-regional-championship-at-youngstown-oh",
@@ -153,7 +177,9 @@
     "city": "Youngstown",
     "state": "OH",
     "lat": 41.1035786,
-    "lng": -80.6520161
+    "lng": -80.6520161,
+    "address": "236 West Wood Street, Youngstown, OH 44502",
+    "timezone": "America/New_York"
   },
   {
     "id": "2002-grand-national-championships-at-indianapolis-in",
@@ -165,7 +191,9 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7683331,
-    "lng": -86.1583502
+    "lng": -86.1583502,
+    "address": "Monument Circle, Indianapolis, IN 46282",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "2002-regional-championship-at-atlanta-ga",
@@ -177,7 +205,9 @@
     "city": "Atlanta",
     "state": "GA",
     "lat": 33.7544657,
-    "lng": -84.3898151
+    "lng": -84.3898151,
+    "address": "33 Gilmer Street Southeast, Atlanta, GA 30303",
+    "timezone": "America/New_York"
   },
   {
     "id": "2002-regional-championship-at-san-antonio-tx",
@@ -189,7 +219,9 @@
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
-    "lng": -98.4788949
+    "lng": -98.4788949,
+    "address": "100 Montana Street, San Antonio, TX 78203",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2002-regional-championship-at-indianapolis-in",
@@ -201,7 +233,9 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
-    "lng": -86.1640108
+    "lng": -86.1640108,
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "2002-regional-championship-at-las-vegas-nv",
@@ -213,6 +247,8 @@
     "city": "Las Vegas",
     "state": "NV",
     "lat": 36.1079411,
-    "lng": -115.1439051
+    "lng": -115.1439051,
+    "address": "4505 South Maryland Parkway, Las Vegas, NV 89154",
+    "timezone": "America/Los_Angeles"
   }
 ]

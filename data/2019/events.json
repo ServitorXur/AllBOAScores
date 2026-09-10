@@ -9,7 +9,9 @@
     "city": "Louisville",
     "state": "KY",
     "lat": 38.2060161,
-    "lng": -85.7587734
+    "lng": -85.7587734,
+    "address": "South Floyd Street, Louisville, KY 40292",
+    "timezone": "America/Kentucky/Louisville"
   },
   {
     "id": "2019-south-texas-regional-championship-at-mcallen-tx",
@@ -21,7 +23,9 @@
     "city": "McAllen",
     "state": "TX",
     "lat": 26.2238881,
-    "lng": -98.2373019
+    "lng": -98.2373019,
+    "address": "Bulldog Drive, McAllen, TX 78501",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2019-toledo-regional-championship-at-toledo-oh",
@@ -33,7 +37,9 @@
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6566438,
-    "lng": -83.6136126
+    "lng": -83.6136126,
+    "address": "1745 Stadium Drive, Toledo, OH 43606",
+    "timezone": "America/New_York"
   },
   {
     "id": "2019-austin-regional-championship-at-austin-tx",
@@ -45,7 +51,9 @@
     "city": "Austin",
     "state": "TX",
     "lat": 30.492488,
-    "lng": -97.7741
+    "lng": -97.7741,
+    "address": "10211 West Parmer Lane, Austin, TX 78717",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2019-cedar-falls-regional-championship-at-cedar-falls-ia",
@@ -57,7 +65,9 @@
     "city": "Cedar Falls",
     "state": "IA",
     "lat": 42.5156866,
-    "lng": -92.4672611
+    "lng": -92.4672611,
+    "address": "2401 Hudson Road Trail, Cedar Falls, IA 50614",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2019-flagstaff-regional-championship-at-flagstaff-az",
@@ -69,7 +79,9 @@
     "city": "Flagstaff",
     "state": "AZ",
     "lat": 35.1805983,
-    "lng": -111.652899
+    "lng": -111.652899,
+    "address": "1701 South San Francisco Street, Flagstaff, AZ 86011",
+    "timezone": "America/Phoenix"
   },
   {
     "id": "2019-obetz-regional-championship-at-obetz-oh",
@@ -81,7 +93,9 @@
     "city": "Obetz",
     "state": "OH",
     "lat": 39.885817,
-    "lng": -82.9444641
+    "lng": -82.9444641,
+    "address": "Speedway Lane, Obetz, OH 43027",
+    "timezone": "America/New_York"
   },
   {
     "id": "2019-bedford-regional-championship-at-bedford-tx",
@@ -93,7 +107,9 @@
     "city": "Bedford",
     "state": "TX",
     "lat": 32.8327183,
-    "lng": -97.1363983
+    "lng": -97.1363983,
+    "address": "H E B Drive, Bedford, TX 76022",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2019-college-park-regional-championship-at-college-park-md",
@@ -105,7 +121,9 @@
     "city": "College Park",
     "state": "MD",
     "lat": 38.9784587,
-    "lng": -76.9282678
+    "lng": -76.9282678,
+    "address": "4931 Calvert Road, College Park, MD 20740",
+    "timezone": "America/New_York"
   },
   {
     "id": "2019-houston-regional-championship-at-houston-tx",
@@ -117,7 +135,9 @@
     "city": "Houston",
     "state": "TX",
     "lat": 29.8000522,
-    "lng": -95.8054778
+    "lng": -95.8054778,
+    "address": "Franz Road, Houston, TX 77449",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2019-katy-regional-championship-at-katy-tx",
@@ -129,7 +149,9 @@
     "city": "Katy",
     "state": "TX",
     "lat": 29.8000522,
-    "lng": -95.8054778
+    "lng": -95.8054778,
+    "address": "Franz Road, Katy, TX 77449",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2019-muncie-regional-championship-at-muncie-in",
@@ -141,7 +163,9 @@
     "city": "Muncie",
     "state": "IN",
     "lat": 40.2160071,
-    "lng": -85.4168254
+    "lng": -85.4168254,
+    "address": "North Richmond Drive, Muncie, IN 47304",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "2019-johnson-city-regional-championship-at-johnson-city-tn",
@@ -153,7 +177,9 @@
     "city": "Johnson City",
     "state": "TN",
     "lat": 36.2985597,
-    "lng": -82.3750337
+    "lng": -82.3750337,
+    "address": "J L Seehorn Jr Road, Johnson City, TN 37684",
+    "timezone": "America/New_York"
   },
   {
     "id": "2019-midland-regional-championship-at-midland-tx",
@@ -165,7 +191,9 @@
     "city": "Midland",
     "state": "TX",
     "lat": 31.9893368,
-    "lng": -102.1539155
+    "lng": -102.1539155,
+    "address": "Martin Luther King Jr. Circle, Midland, TX 77906",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2019-orlando-regional-championship-at-orlando-fl",
@@ -177,7 +205,9 @@
     "city": "Orlando",
     "state": "FL",
     "lat": 28.5390398,
-    "lng": -81.4027504
+    "lng": -81.4027504,
+    "address": "West Church Street, Orlando, FL 32805",
+    "timezone": "America/New_York"
   },
   {
     "id": "2019-st-louis-super-regional-championship-at-st-louis-mo",
@@ -189,7 +219,9 @@
     "city": "St. Louis",
     "state": "MO",
     "lat": 38.6327852,
-    "lng": -90.188551
+    "lng": -90.188551,
+    "address": "701 Convention Plaza, St. Louis, MO 63101",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2019-waco-regional-championship-at-waco-tx",
@@ -201,7 +233,9 @@
     "city": "Waco",
     "state": "TX",
     "lat": 31.5582247,
-    "lng": -97.1156821
+    "lng": -97.1156821,
+    "address": "Sheila and Walter Umphrey Bridge, Waco, TX 76798",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2019-indianapolis-super-regional-championship-at-indianapolis-in",
@@ -213,7 +247,9 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
-    "lng": -86.1638376
+    "lng": -86.1638376,
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
+    "timezone": "America/Indiana/Indianapolis"
   },
   {
     "id": "2019-lynchburg-regional-championship-at-lynchburg-va",
@@ -225,7 +261,9 @@
     "city": "Lynchburg",
     "state": "VA",
     "lat": 37.3543075,
-    "lng": -79.1749196
+    "lng": -79.1749196,
+    "address": "University Boulevard, Lynchburg, VA 24515",
+    "timezone": "America/New_York"
   },
   {
     "id": "2019-powder-springs-regional-championship-at-powder-springs-ga",
@@ -237,7 +275,9 @@
     "city": "Powder Springs",
     "state": "GA",
     "lat": 33.8960695,
-    "lng": -84.67998
+    "lng": -84.67998,
+    "address": "2400 New Macland Road, Powder Springs, GA 30127",
+    "timezone": "America/New_York"
   },
   {
     "id": "2019-san-antonio-super-regional-championship-at-san-antonio-tx",
@@ -249,7 +289,9 @@
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
-    "lng": -98.4788949
+    "lng": -98.4788949,
+    "address": "100 Montana Street, San Antonio, TX 78203",
+    "timezone": "America/Chicago"
   },
   {
     "id": "2019-bakersfield-regional-championship-at-bakersfield-ca",
@@ -261,7 +303,9 @@
     "city": "Bakersfield",
     "state": "CA",
     "lat": 35.4071699,
-    "lng": -118.9693712
+    "lng": -118.9693712,
+    "address": "Mount Vernon Avenue, Bakersfield, CA 93305",
+    "timezone": "America/Los_Angeles"
   },
   {
     "id": "2019-st-george-regional-championship-at-st-george-ut",
@@ -273,7 +317,9 @@
     "city": "Saint George",
     "state": "UT",
     "lat": 37.1030099,
-    "lng": -113.5653354
+    "lng": -113.5653354,
+    "address": "225 University Avenue, Saint George, UT 84771",
+    "timezone": "America/Denver"
   },
   {
     "id": "2019-grand-national-championships-at-indianapolis-in",
@@ -285,6 +331,8 @@
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
-    "lng": -86.1638376
+    "lng": -86.1638376,
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
+    "timezone": "America/Indiana/Indianapolis"
   }
 ]
