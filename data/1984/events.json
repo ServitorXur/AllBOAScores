@@ -5,13 +5,17 @@
     "name": "1984 Bands of America Summer National Championship",
     "type": "National",
     "venue": "Warhawk Stadium",
+    "address": "West Schwager Drive, Whitewater, WI 53190",
     "date": "1984-06-15",
     "city": "Whitewater",
     "state": "WI",
     "lat": 42.8469937,
     "lng": -88.7449823,
-    "address": "West Schwager Drive, Whitewater, WI 53190",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1984-regional-championship-at-joliet-il",
@@ -19,13 +23,17 @@
     "name": "1984 Bands of America Joliet Regional Championship",
     "type": "Regional",
     "venue": "Memorial Stadium",
+    "address": "West Jefferson Street, Joliet, IL 60435",
     "date": "1984-10-06",
     "city": "Joliet",
     "state": "IL",
     "lat": 41.5202854,
     "lng": -88.1525426,
-    "address": "West Jefferson Street, Joliet, IL 60435",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1984-regional-championship-at-columbus-oh",
@@ -33,13 +41,17 @@
     "name": "1984 Bands of America Columbus Regional Championship",
     "type": "Regional",
     "venue": "Franklin County Stadium",
+    "address": "10 West Broad Street, Columbus, OH 43215",
     "date": "1984-10-13",
     "city": "Columbus",
     "state": "OH",
     "lat": 39.9622601,
     "lng": -83.0007065,
-    "address": "10 West Broad Street, Columbus, OH 43215",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1984-regional-championship-at-pittsburgh-pa",
@@ -47,13 +59,17 @@
     "name": "1984 Bands of America Pittsburgh Regional Championship",
     "type": "Regional",
     "venue": "Latrobe High School",
+    "address": "Market Square, Pittsburgh, PA 15222",
     "date": "1984-10-20",
     "city": "Pittsburgh",
     "state": "PA",
     "lat": 40.4406968,
     "lng": -80.0025666,
-    "address": "Market Square, Pittsburgh, PA 15222",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1984-regional-championship-at-east-tennessee-state-university",
@@ -61,13 +77,17 @@
     "name": "1984 Bands of America East Tennessee State University Regional Championship",
     "type": "Regional",
     "venue": "ETSU Mini Dome",
+    "address": "West State of Franklin Road, Johnson City, TN 37684",
     "date": "1984-10-27",
     "city": "Johnson City",
     "state": "TN",
     "lat": 36.3037542,
     "lng": -82.3708708,
-    "address": "West State of Franklin Road, Johnson City, TN 37684",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1984-grand-national-championship-at-indianapolis-in",
@@ -75,12 +95,16 @@
     "name": "1984 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "The Hoosier Dome",
+    "address": "Prospect Street, Indianapolis, IN 46203",
     "date": "1984-11-16",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7522238,
     "lng": -86.1311507,
-    "address": "Prospect Street, Indianapolis, IN 46203",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   }
 ]

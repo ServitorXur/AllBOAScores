@@ -5,13 +5,17 @@
     "name": "2018 Bands of America McAllen Regional Championship",
     "type": "Regional",
     "venue": "DQ Fan Field at McAllen Memorial Stadium",
+    "address": "Bulldog Drive, McAllen, TX 78501",
     "date": "2018-09-22",
     "city": "McAllen",
     "state": "TX",
     "lat": 26.2238881,
     "lng": -98.2373019,
-    "address": "Bulldog Drive, McAllen, TX 78501",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2018-midland-regional-championship-at-midland-tx",
@@ -19,13 +23,17 @@
     "name": "2018 Bands of America Midland Regional Championship",
     "type": "Regional",
     "venue": "Grande Communications Stadium",
+    "address": "Martin Luther King Jr. Circle, Midland, TX 77906",
     "date": "2018-09-22",
     "city": "Midland",
     "state": "TX",
     "lat": 31.9893368,
     "lng": -102.1539155,
-    "address": "Martin Luther King Jr. Circle, Midland, TX 77906",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2018-oxford-regional-championship-at-oxford-oh",
@@ -33,13 +41,17 @@
     "name": "2018 Bands of America Oxford Regional Championship",
     "type": "Regional",
     "venue": "Miami University -‐ September 22",
+    "address": "Bishop Circle, Oxford, OH 45056",
     "date": "2018-09-22",
     "city": "Oxford",
     "state": "OH",
     "lat": 39.5094198,
     "lng": -84.7311546,
-    "address": "Bishop Circle, Oxford, OH 45056",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2018-austin-regional-championship-at-austin-tx",
@@ -47,13 +59,17 @@
     "name": "2018 Bands of America Austin Regional Championship",
     "type": "Regional",
     "venue": "Kelly Reeves Athletic Complex",
+    "address": "10211 West Parmer Lane, Austin, TX 78717",
     "date": "2018-09-29",
     "city": "Austin",
     "state": "TX",
     "lat": 30.492488,
     "lng": -97.7741,
-    "address": "10211 West Parmer Lane, Austin, TX 78717",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2018-bowling-green-regional-championship-at-bowling-green-oh",
@@ -61,13 +77,17 @@
     "name": "2018 Bands of America Bowling Green Regional Championship",
     "type": "Regional",
     "venue": "Bowling Green State University",
+    "address": "1001 East Wooster Street, Bowling Green, OH 43403",
     "date": "2018-09-29",
     "city": "Bowling Green",
     "state": "OH",
     "lat": 41.3795005,
     "lng": -83.629789,
-    "address": "1001 East Wooster Street, Bowling Green, OH 43403",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2018-clarksville-regional-championship-at-clarksville-tn",
@@ -75,13 +95,17 @@
     "name": "2018 Bands of America Clarksville Regional Championship",
     "type": "Regional",
     "venue": "Austin Peay State University",
+    "address": "601 College Street, Clarksville, TN 37044",
     "date": "2018-09-29",
     "city": "Clarksville",
     "state": "TN",
     "lat": 36.5342965,
     "lng": -87.3543085,
-    "address": "601 College Street, Clarksville, TN 37044",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2018-bedford-regional-championship-at-bedford-tx",
@@ -89,13 +113,17 @@
     "name": "2018 Bands of America Bedford Regional Championship",
     "type": "Regional",
     "venue": "Pennington Field",
+    "address": "H E B Drive, Bedford, TX 76022",
     "date": "2018-10-06",
     "city": "Bedford",
     "state": "TX",
     "lat": 32.8327183,
     "lng": -97.1363983,
-    "address": "H E B Drive, Bedford, TX 76022",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2018-houston-regional-championship-at-houston-tx",
@@ -103,13 +131,17 @@
     "name": "2018 Bands of America Houston Regional Championship",
     "type": "Regional",
     "venue": "Woodforest Bank Stadium",
+    "address": "Main, Houston, TX 77385",
     "date": "2018-10-06",
     "city": "Houston",
     "state": "TX",
     "lat": 30.1848671,
     "lng": -95.4489906,
-    "address": "Main, Houston, TX 77385",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2018-jacksonville-regional-championship-at-jacksonville-al",
@@ -117,13 +149,17 @@
     "name": "2018 Bands of America Jacksonville Regional Championship",
     "type": "Regional",
     "venue": "Jacksonville State University -‐ October 6",
+    "address": "700 Pelham Road North, Jacksonville, AL 36265",
     "date": "2018-10-06",
     "city": "Jacksonville",
     "state": "AL",
     "lat": 33.8249359,
     "lng": -85.7641095,
-    "address": "700 Pelham Road North, Jacksonville, AL 36265",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2018-canton-regional-championship-at-canton-oh",
@@ -131,13 +167,17 @@
     "name": "2018 Bands of America Canton Regional Championship",
     "type": "Regional",
     "venue": "Tom Benson Hall of Fame Stadium",
+    "address": "George Halas Drive Northwest, Canton, OH 44711",
     "date": "2018-10-13",
     "city": "Canton",
     "state": "OH",
     "lat": 40.8198753,
     "lng": -81.3980661,
-    "address": "George Halas Drive Northwest, Canton, OH 44711",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2018-gaffney-regional-championship-at-gaffney-sc",
@@ -145,13 +185,17 @@
     "name": "2018 Bands of America Gaffney Regional Championship",
     "type": "Regional",
     "venue": "Gaffney High School",
+    "address": "Twin Lakes Road, Gaffney, SC 29341",
     "date": "2018-10-13",
     "city": "Gaffney",
     "state": "SC",
     "lat": 35.0668222,
     "lng": -81.681416,
-    "address": "Twin Lakes Road, Gaffney, SC 29341",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2018-orlando-regional-championship-at-orlando-fl",
@@ -159,13 +203,17 @@
     "name": "2018 Bands of America Orlando Regional Championship",
     "type": "Regional",
     "venue": "Camping World Stadium -‐ October 13",
+    "address": "West Church Street, Orlando, FL 32805",
     "date": "2018-10-13",
     "city": "Orlando",
     "state": "FL",
     "lat": 28.5390398,
     "lng": -81.4027504,
-    "address": "West Church Street, Orlando, FL 32805",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2018-indianapolis-super-regional-championship-at-indianapolis-in",
@@ -173,13 +221,17 @@
     "name": "2018 Bands of America Indianapolis Super Regional Championship",
     "type": "Super Regional",
     "venue": "Lucas Oil Stadium",
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
     "date": "2018-10-19",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
     "lng": -86.1638376,
-    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2018-newark-regional-championship-at-newark-de",
@@ -187,13 +239,17 @@
     "name": "2018 Bands of America Newark Regional Championship",
     "type": "Regional",
     "venue": "Delaware Stadium",
+    "address": "Richardson Lane, Newark, DE 19713",
     "date": "2018-10-20",
     "city": "Newark",
     "state": "DE",
     "lat": 39.6616707,
     "lng": -75.7488991,
-    "address": "Richardson Lane, Newark, DE 19713",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2018-pleasant-hill-regional-championship-at-pleasant-hill-ca",
@@ -201,13 +257,17 @@
     "name": "2018 Bands of America Pleasant Hill Regional Championship",
     "type": "Regional",
     "venue": "Diablo Valley College",
+    "address": "321 Golf Club Road, Pleasant Hill, CA 94523",
     "date": "2018-10-20",
     "city": "Pleasant Hill",
     "state": "CA",
     "lat": 37.9686779,
     "lng": -122.0704218,
-    "address": "321 Golf Club Road, Pleasant Hill, CA 94523",
-    "timezone": "America/Los_Angeles"
+    "timezone": "America/Los_Angeles",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2018-st-louis-super-regional-championship-at-st-louis-mo",
@@ -215,13 +275,17 @@
     "name": "2018 Bands of America St. Louis Super Regional Championship",
     "type": "Super Regional",
     "venue": "Dome at America's Center",
+    "address": "701 Convention Plaza, St. Louis, MO 63101",
     "date": "2018-10-26",
     "city": "St. Louis",
     "state": "MO",
     "lat": 38.6327852,
     "lng": -90.188551,
-    "address": "701 Convention Plaza, St. Louis, MO 63101",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2018-powder-springs-regional-championship-at-powder-springs-ga",
@@ -229,13 +293,17 @@
     "name": "2018 Bands of America Powder Springs Regional Championship",
     "type": "Regional",
     "venue": "McEachern H.S.",
+    "address": "2400 New Macland Road, Powder Springs, GA 30127",
     "date": "2018-10-27",
     "city": "Powder Springs",
     "state": "GA",
     "lat": 33.8960695,
     "lng": -84.67998,
-    "address": "2400 New Macland Road, Powder Springs, GA 30127",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2018-st-george-regional-championship-at-st-george-ut",
@@ -243,13 +311,17 @@
     "name": "2018 Bands of America St. George Regional Championship",
     "type": "Regional",
     "venue": "Dixie State University",
+    "address": "225 University Avenue, Saint George, UT 84771",
     "date": "2018-10-27",
     "city": "Saint George",
     "state": "UT",
     "lat": 37.1030099,
     "lng": -113.5653354,
-    "address": "225 University Avenue, Saint George, UT 84771",
-    "timezone": "America/Denver"
+    "timezone": "America/Denver",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2018-san-antonio-super-regional-championship-at-san-antonio-tx",
@@ -257,13 +329,17 @@
     "name": "2018 Bands of America San Antonio Super Regional Championship",
     "type": "Super Regional",
     "venue": "Alamodome",
+    "address": "100 Montana Street, San Antonio, TX 78203",
     "date": "2018-11-02",
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
     "lng": -98.4788949,
-    "address": "100 Montana Street, San Antonio, TX 78203",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2018-valley-glen-regional-championship-at-valley-glen-ca",
@@ -271,13 +347,17 @@
     "name": "2018 Bands of America Valley Glen Regional Championship",
     "type": "Regional",
     "venue": "Monarch Stadium",
+    "address": "East Pine Street, Exeter, CA 93221",
     "date": "2018-11-03",
     "city": "Exeter",
     "state": "CA",
     "lat": 36.2961694,
     "lng": -119.1420953,
-    "address": "East Pine Street, Exeter, CA 93221",
-    "timezone": "America/Los_Angeles"
+    "timezone": "America/Los_Angeles",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2018-grand-national-championships-at-indianapolis-in",
@@ -285,12 +365,16 @@
     "name": "2018 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "Lucas Oil Stadium",
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
     "date": "2018-11-08",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
     "lng": -86.1638376,
-    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   }
 ]

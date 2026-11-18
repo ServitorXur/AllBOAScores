@@ -5,13 +5,17 @@
     "name": "2021 Bands of America Dayton Regional Championship",
     "type": "Regional",
     "venue": "Welcome Stadium",
+    "address": "South Edwin C. Moses Boulevard, Dayton, OH 45409",
     "date": "2021-09-18",
     "city": "Dayton",
     "state": "OH",
     "lat": 39.7369274,
     "lng": -84.1981121,
-    "address": "South Edwin C. Moses Boulevard, Dayton, OH 45409",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2021-mcallen-regional-championship-at-mcallen-tx",
@@ -19,13 +23,17 @@
     "name": "2021 Bands of America McAllen Regional Championship",
     "type": "Regional",
     "venue": "DQ Fan Field, McAllen Veterans Memorial Stadium",
+    "address": "Bulldog Drive, McAllen, TX 78501",
     "date": "2021-09-18",
     "city": "McAllen",
     "state": "TX",
     "lat": 26.2238881,
     "lng": -98.2373019,
-    "address": "Bulldog Drive, McAllen, TX 78501",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2021-powder-springs-regional-championship-at-powder-springs-ga",
@@ -33,13 +41,17 @@
     "name": "2021 Bands of America Powder Springs Regional Championship",
     "type": "Regional",
     "venue": "McEachern H.S.",
+    "address": "2400 New Macland Road, Powder Springs, GA 30127",
     "date": "2021-09-18",
     "city": "Powder Springs",
     "state": "GA",
     "lat": 33.8960695,
     "lng": -84.67998,
-    "address": "2400 New Macland Road, Powder Springs, GA 30127",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2021-austin-regional-championship-at-austin-tx",
@@ -47,13 +59,17 @@
     "name": "2021 Bands of America Austin Regional Championship",
     "type": "Regional",
     "venue": "Kelly Reeves Athletic Complex",
+    "address": "10211 West Parmer Lane, Austin, TX 78717",
     "date": "2021-09-25",
     "city": "Austin",
     "state": "TX",
     "lat": 30.492488,
     "lng": -97.7741,
-    "address": "10211 West Parmer Lane, Austin, TX 78717",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2021-clarksville-regional-championship-at-clarksville-tn",
@@ -61,13 +77,17 @@
     "name": "2021 Bands of America Clarksville Regional Championship",
     "type": "Regional",
     "venue": "Austin Peay State University",
+    "address": "601 College Street, Clarksville, TN 37044",
     "date": "2021-09-25",
     "city": "Clarksville",
     "state": "TN",
     "lat": 36.5342965,
     "lng": -87.3543085,
-    "address": "601 College Street, Clarksville, TN 37044",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2021-north-houston-regional-championship-at-north-houston-tx",
@@ -75,13 +95,17 @@
     "name": "2021 Bands of America North Houston Regional Championship",
     "type": "Regional",
     "venue": "Woodforest Bank Stadium",
+    "address": "Main, Houston, TX 77385",
     "date": "2021-09-25",
     "city": "Houston",
     "state": "TX",
     "lat": 30.1848671,
     "lng": -95.4489906,
-    "address": "Main, Houston, TX 77385",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2021-obetz-regional-championship-at-obetz-oh",
@@ -89,13 +113,17 @@
     "name": "2021 Bands of America Obetz Regional Championship",
     "type": "Regional",
     "venue": "Fortress Obetz",
+    "address": "Speedway Lane, Obetz, OH 43027",
     "date": "2021-09-25",
     "city": "Obetz",
     "state": "OH",
     "lat": 39.885817,
     "lng": -82.9444641,
-    "address": "Speedway Lane, Obetz, OH 43027",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2021-katy-regional-championship-at-katy-tx",
@@ -103,13 +131,17 @@
     "name": "2021 Bands of America Katy Regional Championship",
     "type": "Regional",
     "venue": "Legacy Stadium, Katy ISD",
+    "address": "Franz Road, Katy, TX 77449",
     "date": "2021-10-02",
     "city": "Katy",
     "state": "TX",
     "lat": 29.8000522,
     "lng": -95.8054778,
-    "address": "Franz Road, Katy, TX 77449",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2021-midland-regional-championship-at-midland-tx",
@@ -117,13 +149,17 @@
     "name": "2021 Bands of America Midland Regional Championship",
     "type": "Regional",
     "venue": "Grande Communications Stadium",
+    "address": "Martin Luther King Jr. Circle, Midland, TX 77906",
     "date": "2021-10-02",
     "city": "Midland",
     "state": "TX",
     "lat": 31.9893368,
     "lng": -102.1539155,
-    "address": "Martin Luther King Jr. Circle, Midland, TX 77906",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2021-toledo-regional-championship-at-toledo-oh",
@@ -131,13 +167,17 @@
     "name": "2021 Bands of America Toledo Regional Championship",
     "type": "Regional",
     "venue": "Glass Bowl Stadium, University of Toledo",
+    "address": "North Glass Bowl Drive, Toledo, OH 43607",
     "date": "2021-10-02",
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6571852,
     "lng": -83.6135953,
-    "address": "North Glass Bowl Drive, Toledo, OH 43607",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2021-college-park-regional-championship-at-college-park-md",
@@ -145,13 +185,17 @@
     "name": "2021 Bands of America College Park Regional Championship",
     "type": "Regional",
     "venue": "CapitalOne Field at Maryland Stadium, University of Maryland",
+    "address": "Stadium Drive, College Park, MD 20742",
     "date": "2021-10-09",
     "city": "College Park",
     "state": "MD",
     "lat": 38.9902987,
     "lng": -76.9474534,
-    "address": "Stadium Drive, College Park, MD 20742",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2021-dallas-ft-worth-regional-championship-at-dallas-ft-worth-tx",
@@ -159,13 +203,17 @@
     "name": "2021 Bands of America Dallas/Ft. Worth Regional Championship",
     "type": "Regional",
     "venue": "Pennington Field, HEB ISD",
+    "address": "H E B Drive, Bedford, TX 76022",
     "date": "2021-10-09",
     "city": "Bedford",
     "state": "TX",
     "lat": 32.8327183,
     "lng": -97.1363983,
-    "address": "H E B Drive, Bedford, TX 76022",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2021-iowa-regional-championship-at-cedar-falls-ia",
@@ -173,13 +221,17 @@
     "name": "2021 Bands of America Iowa Regional Championship",
     "type": "Regional",
     "venue": "UNI-Dome, University of Northern Iowa",
+    "address": "2401 Hudson Road Trail, Cedar Falls, IA 50614",
     "date": "2021-10-09",
     "city": "Cedar Falls",
     "state": "IA",
     "lat": 42.5156866,
     "lng": -92.4672611,
-    "address": "2401 Hudson Road Trail, Cedar Falls, IA 50614",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2021-alabama-regional-championship-at-jacksonville-al",
@@ -187,13 +239,17 @@
     "name": "2021 Bands of America Alabama Regional Championship",
     "type": "Regional",
     "venue": "Jacksonville State University",
+    "address": "700 Pelham Road North, Jacksonville, AL 36265",
     "date": "2021-10-16",
     "city": "Jacksonville",
     "state": "AL",
     "lat": 33.8249359,
     "lng": -85.7641095,
-    "address": "700 Pelham Road North, Jacksonville, AL 36265",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2021-orlando-regional-championship-at-orlando-fl",
@@ -201,13 +257,17 @@
     "name": "2021 Bands of America Orlando Regional Championship",
     "type": "Regional",
     "venue": "Camping World Stadium",
+    "address": "West Church Street, Orlando, FL 32805",
     "date": "2021-10-16",
     "city": "Orlando",
     "state": "FL",
     "lat": 28.5390398,
     "lng": -81.4027504,
-    "address": "West Church Street, Orlando, FL 32805",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2021-indianapolis-super-regional-championship-at-indianapolis-in",
@@ -215,13 +275,17 @@
     "name": "2021 Bands of America Indianapolis Super Regional Championship",
     "type": "Super Regional",
     "venue": "Lucas Oil Stadium",
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
     "date": "2021-10-22",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
     "lng": -86.1638376,
-    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2021-st-louis-super-regional-championship-at-st-louis-mo",
@@ -229,13 +293,17 @@
     "name": "2021 Bands of America St. Louis Super Regional Championship",
     "type": "Super Regional",
     "venue": "The Dome at America's Center",
+    "address": "701 Convention Plaza, St. Louis, MO 63101",
     "date": "2021-10-22",
     "city": "St. Louis",
     "state": "MO",
     "lat": 38.6327852,
     "lng": -90.188551,
-    "address": "701 Convention Plaza, St. Louis, MO 63101",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2021-east-tennessee-regional-championship-at-johnson-city-tn",
@@ -243,13 +311,17 @@
     "name": "2021 Bands of America East Tennessee Regional Championship",
     "type": "Regional",
     "venue": "East Tennessee State University",
+    "address": "1276 Gilbreath Drive, Johnson City, TN 37614",
     "date": "2021-10-30",
     "city": "Johnson City",
     "state": "TN",
     "lat": 36.3024236,
     "lng": -82.3692822,
-    "address": "1276 Gilbreath Drive, Johnson City, TN 37614",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2021-waco-regional-championship-at-waco-tx",
@@ -257,13 +329,17 @@
     "name": "2021 Bands of America Waco Regional Championship",
     "type": "Regional",
     "venue": "Waco ISD Stadium",
+    "address": "1401 South New Road, Waco, TX 76711",
     "date": "2021-10-30",
     "city": "Waco",
     "state": "TX",
     "lat": 31.5082248,
     "lng": -97.1598579,
-    "address": "1401 South New Road, Waco, TX 76711",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2021-san-antonio-super-regional-championship-at-san-antonio-tx",
@@ -271,13 +347,17 @@
     "name": "2021 Bands of America San Antonio Super Regional Championship",
     "type": "Super Regional",
     "venue": "Alamodome",
+    "address": "100 Montana Street, San Antonio, TX 78203",
     "date": "2021-11-05",
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
     "lng": -98.4788949,
-    "address": "100 Montana Street, San Antonio, TX 78203",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2021-utah-regional-championship-at-st-george-ut",
@@ -285,13 +365,17 @@
     "name": "2021 Bands of America Utah Regional Championship",
     "type": "Regional",
     "venue": "Dixie State University",
+    "address": "225 University Avenue, Saint George, UT 84771",
     "date": "2021-11-06",
     "city": "Saint George",
     "state": "UT",
     "lat": 37.1030099,
     "lng": -113.5653354,
-    "address": "225 University Avenue, Saint George, UT 84771",
-    "timezone": "America/Denver"
+    "timezone": "America/Denver",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2021-grand-national-championships-grand-nationals-prelims-championship-at-indianapolis-in",
@@ -299,13 +383,17 @@
     "name": "2021 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "Lucas Oil Stadium",
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
     "date": "2021-11-11",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
     "lng": -86.1638376,
-    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2021-grand-national-championships-grand-national-championship-at-indianapolis-in",
@@ -313,13 +401,17 @@
     "name": "2021 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "Lucas Oil Stadium",
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
     "date": "2021-11-13",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
     "lng": -86.1638376,
-    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2021-grand-national-championships-grand-national-semi-finals-championship-at-indianapolis-in",
@@ -327,12 +419,16 @@
     "name": "2021 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "Lucas Oil Stadium",
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
     "date": "2021-11-13",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
     "lng": -86.1638376,
-    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   }
 ]

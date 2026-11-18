@@ -1974,6 +1974,12 @@
     "state": "TX"
   },
   {
+    "id": "oakville-sr-h-s-mo",
+    "name": "Oakville Sr. H.S.",
+    "city": null,
+    "state": "MO"
+  },
+  {
     "id": "orchard-park-h-s-ny",
     "name": "Orchard Park H.S.",
     "city": null,
@@ -1996,12 +2002,6 @@
     "name": "Waterford H.S.",
     "city": null,
     "state": "OH"
-  },
-  {
-    "id": "oakville-sr-h-s-mo",
-    "name": "Oakville Sr. H.S.",
-    "city": null,
-    "state": "MO"
   },
   {
     "id": "belleville-east-h-s-il",

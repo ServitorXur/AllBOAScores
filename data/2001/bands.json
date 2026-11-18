@@ -408,6 +408,12 @@
     "state": "MI"
   },
   {
+    "id": "calallen-h-s-tx",
+    "name": "Calallen H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
     "id": "jenison-h-s-mi",
     "name": "Jenison H.S.",
     "city": null,
@@ -696,6 +702,12 @@
     "state": "OK"
   },
   {
+    "id": "uvalde-h-s-tx",
+    "name": "Uvalde H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
     "id": "lewisville-h-s-tx",
     "name": "Lewisville H.S.",
     "city": null,
@@ -736,6 +748,12 @@
     "name": "John I. Leonard H.S.",
     "city": null,
     "state": "FL"
+  },
+  {
+    "id": "seguin-h-s-tx",
+    "name": "Seguin H.S.",
+    "city": null,
+    "state": "TX"
   },
   {
     "id": "james-bowie-h-s-tx",
@@ -1020,6 +1038,12 @@
     "state": null
   },
   {
+    "id": "smithson-valley-h-s-tx",
+    "name": "Smithson Valley H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
     "id": "llano-h-s-tx",
     "name": "Llano H.S.",
     "city": null,
@@ -1040,6 +1064,12 @@
   {
     "id": "westwood-h-s-tx",
     "name": "Westwood H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
+    "id": "john-b-connally-h-s-tx",
+    "name": "John B. Connally H.S.",
     "city": null,
     "state": "TX"
   },
@@ -1542,24 +1572,6 @@
     "state": "NV"
   },
   {
-    "id": "lewisville-h-s-tx-tx",
-    "name": "Lewisville H.S., TX",
-    "city": null,
-    "state": "TX"
-  },
-  {
-    "id": "john-b-connally-h-s-tx-tx",
-    "name": "John B. Connally H.S., TX",
-    "city": null,
-    "state": "TX"
-  },
-  {
-    "id": "seguin-h-s-tx-tx",
-    "name": "Seguin H.S., TX",
-    "city": null,
-    "state": "TX"
-  },
-  {
     "id": "judson-sr-h-s-tx",
     "name": "Judson Sr. H.S.",
     "city": null,
@@ -1578,38 +1590,14 @@
     "state": "TX"
   },
   {
-    "id": "douglas-macarthur-h-s-tx-tx",
-    "name": "Douglas MacArthur H.S., TX",
-    "city": null,
-    "state": "TX"
-  },
-  {
-    "id": "smithson-valley-h-s-tx-tx",
-    "name": "Smithson Valley H.S., TX",
-    "city": null,
-    "state": "TX"
-  },
-  {
-    "id": "samuel-clemens-h-s-tx-tx",
-    "name": "Samuel Clemens H.S., TX",
+    "id": "samuel-clemens-h-s-tx",
+    "name": "Samuel Clemens H.S.",
     "city": null,
     "state": "TX"
   },
   {
     "id": "san-benito-h-s-tx",
     "name": "San Benito H.S.",
-    "city": null,
-    "state": "TX"
-  },
-  {
-    "id": "uvalde-h-s-tx-tx",
-    "name": "Uvalde H.S., TX",
-    "city": null,
-    "state": "TX"
-  },
-  {
-    "id": "calallen-h-s-tx-tx",
-    "name": "Calallen H.S., TX",
     "city": null,
     "state": "TX"
   },

@@ -1152,6 +1152,12 @@
     "state": "TX"
   },
   {
+    "id": "oakville-sr-h-s-mo",
+    "name": "Oakville Sr. H.S.",
+    "city": null,
+    "state": "MO"
+  },
+  {
     "id": "carlton-j-kell-h-s-ga",
     "name": "Carlton J. Kell H.S.",
     "city": null,
@@ -1282,12 +1288,6 @@
     "name": "Columbus North H.S.",
     "city": null,
     "state": "IN"
-  },
-  {
-    "id": "oakville-sr-h-s-mo",
-    "name": "Oakville Sr. H.S.",
-    "city": null,
-    "state": "MO"
   },
   {
     "id": "daviess-county-h-s-ky",
@@ -1735,39 +1735,21 @@
   },
   {
     "id": "wakeland-h-s-tx",
-    "name": "Wakeland H.S., TX,",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "l-d-bell-h-s-tx-tx",
-    "name": "L.D. Bell H.S., TX",
+    "name": "Wakeland H.S.",
     "city": null,
     "state": "TX"
   },
   {
-    "id": "haltom-h-s-tx-tx",
-    "name": "Haltom H.S., TX",
+    "id": "north-shore-sr-h-s-tx",
+    "name": "North Shore Sr. H.S.",
     "city": null,
     "state": "TX"
   },
   {
-    "id": "north-shore-sr-h-s-tx-tx",
-    "name": "North Shore Sr. H.S., TX",
-    "city": null,
-    "state": "TX"
-  },
-  {
-    "id": "clovis-h-s-nm-nm",
-    "name": "Clovis H.S., NM",
+    "id": "clovis-h-s-nm",
+    "name": "Clovis H.S.",
     "city": null,
     "state": "NM"
-  },
-  {
-    "id": "trinity-h-s-tx-tx",
-    "name": "Trinity H.S., TX",
-    "city": null,
-    "state": "TX"
   },
   {
     "id": "palestine-h-s-tx",
@@ -1776,14 +1758,8 @@
     "state": "TX"
   },
   {
-    "id": "skiatook-h-s-ok-ok",
-    "name": "Skiatook H.S., OK",
-    "city": null,
-    "state": "OK"
-  },
-  {
-    "id": "lovejoy-h-s-tx-tx",
-    "name": "Lovejoy H.S., TX",
+    "id": "lovejoy-h-s-tx",
+    "name": "Lovejoy H.S.",
     "city": null,
     "state": "TX"
   },

@@ -5,13 +5,17 @@
     "name": "2005 Bands of America Oxford Regional Championship",
     "type": "Regional",
     "venue": "Yager Stadium",
+    "address": "Cradle of Coaches Plaza, Oxford, OH 45056",
     "date": "2005-09-17",
     "city": "Oxford",
     "state": "OH",
     "lat": 39.5194147,
     "lng": -84.7330855,
-    "address": "Cradle of Coaches Plaza, Oxford, OH 45056",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2005-regional-championship-at-oxford-ohio",
@@ -19,13 +23,17 @@
     "name": "2005 Bands of America Oxford Regional Championship",
     "type": "Regional",
     "venue": "Yager Stadium",
+    "address": "Cradle of Coaches Plaza, Oxford, OH 45056",
     "date": "2005-09-17",
     "city": "Oxford",
     "state": "OH",
     "lat": 39.5194147,
     "lng": -84.7330855,
-    "address": "Cradle of Coaches Plaza, Oxford, OH 45056",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2005-regional-championship-at-bowling-green-kentucky",
@@ -33,13 +41,17 @@
     "name": "2005 Bands of America Bowling Green Regional Championship",
     "type": "Regional",
     "venue": "Western KY Univ.",
+    "address": "401 East 10th Avenue, Bowling Green, KY 42101",
     "date": "2005-09-24",
     "city": "Bowling Green",
     "state": "KY",
     "lat": 36.9929203,
     "lng": -86.4428677,
-    "address": "401 East 10th Avenue, Bowling Green, KY 42101",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2005-regional-championship-at-massillon-ohio",
@@ -47,13 +59,17 @@
     "name": "2005 Bands of America Massillon Regional Championship",
     "type": "Regional",
     "venue": "Paul Brown Tiger Stadium",
+    "address": "Russell Boulevard Southeast, Massillon, OH 44646",
     "date": "2005-09-24",
     "city": "Massillon",
     "state": "OH",
     "lat": 40.793641,
     "lng": -81.4997215,
-    "address": "Russell Boulevard Southeast, Massillon, OH 44646",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2005-regional-championship-at-houston-texas",
@@ -61,13 +77,17 @@
     "name": "2005 Bands of America Houston Regional Championship",
     "type": "Regional",
     "venue": "Rice University",
+    "address": "6100 Main Street, Houston, TX 77005",
     "date": "2005-10-01",
     "city": "Houston",
     "state": "TX",
     "lat": 29.7167915,
     "lng": -95.4047811,
-    "address": "6100 Main Street, Houston, TX 77005",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2005-regional-championship-at-la-joya-tx",
@@ -75,13 +95,17 @@
     "name": "2005 Bands of America La Joya Regional Championship",
     "type": "Regional",
     "venue": "Coyote Stadium",
+    "address": "604 North Coyote Drive, La Joya, TX 78560",
     "date": "2005-10-01",
     "city": "La Joya",
     "state": "TX",
     "lat": 26.2525224,
     "lng": -98.4730072,
-    "address": "604 North Coyote Drive, La Joya, TX 78560",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2005-regional-championship-at-long-beach-ca",
@@ -89,13 +113,17 @@
     "name": "2005 Bands of America Long Beach Regional Championship",
     "type": "Regional",
     "venue": "Long Beach City College",
+    "address": "East Broadway, Long Beach, CA 90803",
     "date": "2005-10-08",
     "city": "Long Beach",
     "state": "CA",
     "lat": 33.7690164,
     "lng": -118.191604,
-    "address": "East Broadway, Long Beach, CA 90803",
-    "timezone": "America/Los_Angeles"
+    "timezone": "America/Los_Angeles",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2005-regional-championship-at-arlington-texas",
@@ -103,13 +131,17 @@
     "name": "2005 Bands of America Arlington Regional Championship",
     "type": "Regional",
     "venue": "University of Texas at Arlington",
+    "address": "500 West Nedderman Drive, Arlington, TX 76019",
     "date": "2005-10-15",
     "city": "Arlington",
     "state": "TX",
     "lat": 32.7315155,
     "lng": -97.1171533,
-    "address": "500 West Nedderman Drive, Arlington, TX 76019",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2005-regional-championship-at-pontiac-mi",
@@ -117,13 +149,17 @@
     "name": "2005 Bands of America Pontiac Regional Championship",
     "type": "Regional",
     "venue": "Silverdome",
+    "address": "1 West Silverdome Industrial Park, Pontiac, MI 48342",
     "date": "2005-10-15",
     "city": "Pontiac",
     "state": "MI",
     "lat": 42.6379672,
     "lng": -83.257684,
-    "address": "1 West Silverdome Industrial Park, Pontiac, MI 48342",
-    "timezone": "America/Detroit"
+    "timezone": "America/Detroit",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2005-regional-championship-at-flagstaff-az",
@@ -131,13 +167,17 @@
     "name": "2005 Bands of America Flagstaff Regional Championship",
     "type": "Regional",
     "venue": "NAU Skydome",
+    "address": "1701 South San Francisco Street, Flagstaff, AZ 86011",
     "date": "2005-10-22",
     "city": "Flagstaff",
     "state": "AZ",
     "lat": 35.1805983,
     "lng": -111.652899,
-    "address": "1701 South San Francisco Street, Flagstaff, AZ 86011",
-    "timezone": "America/Phoenix"
+    "timezone": "America/Phoenix",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2005-regional-championship-at-st-louis-mo",
@@ -145,13 +185,17 @@
     "name": "2005 Bands of America St. Louis Regional Championship",
     "type": "Regional",
     "venue": "Edward Jones Dome",
+    "address": "701 Convention Plaza, Saint Louis, MO 63101",
     "date": "2005-10-22",
     "city": "Saint Louis",
     "state": "MO",
     "lat": 38.6327852,
     "lng": -90.188551,
-    "address": "701 Convention Plaza, Saint Louis, MO 63101",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2005-regional-championship-at-indianapolis-in",
@@ -159,13 +203,17 @@
     "name": "2005 Bands of America Indianapolis Regional Championship",
     "type": "Regional",
     "venue": "RCA Dome",
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
     "date": "2005-10-29",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
     "lng": -86.1640108,
-    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2005-regional-championship-at-st-petersburg-fl",
@@ -173,13 +221,17 @@
     "name": "2005 Bands of America St. Petersburg Regional Championship",
     "type": "Regional",
     "venue": "Tropicana Field",
+    "address": "Pinellas Trail, Saint Petersburg, FL 33701",
     "date": "2005-10-29",
     "city": "Saint Petersburg",
     "state": "FL",
     "lat": 27.7680559,
     "lng": -82.6532755,
-    "address": "Pinellas Trail, Saint Petersburg, FL 33701",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2005-regional-championship-at-st-petersburg-florida",
@@ -187,13 +239,17 @@
     "name": "2005 Bands of America St. Petersburg Regional Championship",
     "type": "Regional",
     "venue": "Tropicana Field",
+    "address": "Pinellas Trail, Saint Petersburg, FL 33701",
     "date": "2005-10-29",
     "city": "Saint Petersburg",
     "state": "FL",
     "lat": 27.7680559,
     "lng": -82.6532755,
-    "address": "Pinellas Trail, Saint Petersburg, FL 33701",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2005-regional-championship-at-atlanta-ga",
@@ -201,13 +257,17 @@
     "name": "2005 Bands of America Atlanta Regional Championship",
     "type": "Regional",
     "venue": "Georgia Dome",
+    "address": "1 Backyard Way, Atlanta, GA 30313",
     "date": "2005-11-05",
     "city": "Atlanta",
     "state": "GA",
     "lat": 33.758056,
     "lng": -84.401111,
-    "address": "1 Backyard Way, Atlanta, GA 30313",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2005-regional-championship-at-san-antonio-tx",
@@ -215,13 +275,17 @@
     "name": "2005 Bands of America San Antonio Regional Championship",
     "type": "Regional",
     "venue": "Alamodome",
+    "address": "100 Montana Street, San Antonio, TX 78203",
     "date": "2005-11-05",
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
     "lng": -98.4788949,
-    "address": "100 Montana Street, San Antonio, TX 78203",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2005-grand-nationals-championship-at-indianapolis-in",
@@ -229,12 +293,16 @@
     "name": "2005 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "RCA Dome",
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
     "date": "2005-11-10",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
     "lng": -86.1640108,
-    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   }
 ]

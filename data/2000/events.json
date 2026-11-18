@@ -5,13 +5,17 @@
     "name": "2000 Bands of America Louisville Regional Championship",
     "type": "Regional",
     "venue": "Cardinal Stadium",
+    "address": "South Floyd Street, Louisville, KY 40292",
     "date": "2000-09-23",
     "city": "Louisville",
     "state": "KY",
     "lat": 38.2060161,
     "lng": -85.7587734,
-    "address": "South Floyd Street, Louisville, KY 40292",
-    "timezone": "America/Kentucky/Louisville"
+    "timezone": "America/Kentucky/Louisville",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2000-regional-championship-at-toledo-oh",
@@ -19,13 +23,17 @@
     "name": "2000 Bands of America Toledo Regional Championship",
     "type": "Regional",
     "venue": "University of Toledo",
+    "address": "2801 West Bancroft Street, Toledo, OH 43606",
     "date": "2000-09-23",
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6583953,
     "lng": -83.6147907,
-    "address": "2801 West Bancroft Street, Toledo, OH 43606",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2000-regional-championship-at-hempstead-ny",
@@ -33,13 +41,17 @@
     "name": "2000 Bands of America Hempstead Regional Championship",
     "type": "Regional",
     "venue": "Hofstra University",
+    "address": "Hofstra Boulevard, Hempstead, NY 11549",
     "date": "2000-10-07",
     "city": "Hempstead",
     "state": "NY",
     "lat": 40.7169083,
     "lng": -73.6000225,
-    "address": "Hofstra Boulevard, Hempstead, NY 11549",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2000-regional-championship-at-san-antonio-tx",
@@ -47,13 +59,17 @@
     "name": "2000 Bands of America San Antonio Regional Championship",
     "type": "Regional",
     "venue": "Alamodome",
+    "address": "100 Montana Street, San Antonio, TX 78203",
     "date": "2000-10-07",
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
     "lng": -98.4788949,
-    "address": "100 Montana Street, San Antonio, TX 78203",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2000-regional-championship-at-san-antonion-tx",
@@ -61,13 +77,17 @@
     "name": "2000 Bands of America San Antonion Regional Championship",
     "type": "Regional",
     "venue": "Alamodome",
+    "address": "100 Montana Street, San Antonio, TX 78203",
     "date": "2000-10-07",
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
     "lng": -98.4788949,
-    "address": "100 Montana Street, San Antonio, TX 78203",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2000-regional-championship-at-johnson-city-tn",
@@ -75,13 +95,17 @@
     "name": "2000 Bands of America Johnson City Regional Championship",
     "type": "Regional",
     "venue": "East Tennessee State University",
+    "address": "1276 Gilbreath Drive, Johnson City, TN 37614",
     "date": "2000-10-14",
     "city": "Johnson City",
     "state": "TN",
     "lat": 36.3024236,
     "lng": -82.3692822,
-    "address": "1276 Gilbreath Drive, Johnson City, TN 37614",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2000-regional-championship-at-morgantown-wv",
@@ -89,13 +113,17 @@
     "name": "2000 Bands of America Morgantown Regional Championship",
     "type": "Regional",
     "venue": "West Virginia University",
+    "address": "1550 University Avenue, Morgantown, WV 26505",
     "date": "2000-10-14",
     "city": "Morgantown",
     "state": "WV",
     "lat": 39.6348398,
     "lng": -79.9542095,
-    "address": "1550 University Avenue, Morgantown, WV 26505",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2000-regional-championship-at-atlanta-ga",
@@ -103,13 +131,17 @@
     "name": "2000 Bands of America Atlanta Regional Championship",
     "type": "Regional",
     "venue": "Alamodome",
+    "address": "33 Gilmer Street Southeast, Atlanta, GA 30303",
     "date": "2000-10-21",
     "city": "Atlanta",
     "state": "GA",
     "lat": 33.7544657,
     "lng": -84.3898151,
-    "address": "33 Gilmer Street Southeast, Atlanta, GA 30303",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2000-regional-championship-at-st-louis-mo",
@@ -117,13 +149,17 @@
     "name": "2000 Bands of America St. Louis Regional Championship",
     "type": "Regional",
     "venue": "Trans World Dome",
+    "address": "701 Convention Plaza, Saint Louis, MO 63101",
     "date": "2000-10-21",
     "city": "Saint Louis",
     "state": "MO",
     "lat": 38.6327852,
     "lng": -90.188551,
-    "address": "701 Convention Plaza, Saint Louis, MO 63101",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2000-regional-championship-at-las-vegas-nv",
@@ -131,13 +167,17 @@
     "name": "2000 Bands of America Las Vegas Regional Championship",
     "type": "Regional",
     "venue": "Silverado HS",
+    "address": "Spencer Street, Las Vegas, NV 89123",
     "date": "2000-10-28",
     "city": "Las Vegas",
     "state": "NV",
     "lat": 36.0243238,
     "lng": -115.1295066,
-    "address": "Spencer Street, Las Vegas, NV 89123",
-    "timezone": "America/Los_Angeles"
+    "timezone": "America/Los_Angeles",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2000-regional-championship-at-orlando-fl",
@@ -145,13 +185,17 @@
     "name": "2000 Bands of America Orlando Regional Championship",
     "type": "Regional",
     "venue": "Citrus Bowl",
+    "address": "West Church Street, Orlando, FL 32805",
     "date": "2000-10-28",
     "city": "Orlando",
     "state": "FL",
     "lat": 28.5390398,
     "lng": -81.4027504,
-    "address": "West Church Street, Orlando, FL 32805",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2000-regional-championship-at-houston-tx",
@@ -159,13 +203,17 @@
     "name": "2000 Bands of America Houston Regional Championship",
     "type": "Regional",
     "venue": "Alief Stadium",
+    "address": "Alief Clodine Road, Houston, TX 77082",
     "date": "2000-11-04",
     "city": "Houston",
     "state": "TX",
     "lat": 29.7128688,
     "lng": -95.5964262,
-    "address": "Alief Clodine Road, Houston, TX 77082",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2000-regional-championship-at-indianapolis-in",
@@ -173,13 +221,17 @@
     "name": "2000 Bands of America Indianapolis Regional Championship",
     "type": "Regional",
     "venue": "RCA Dome",
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
     "date": "2000-11-04",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
     "lng": -86.1640108,
-    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2000-grand-national-championship-at-indianapolis-in",
@@ -187,12 +239,16 @@
     "name": "2000 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "RCA Dome",
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
     "date": "2000-11-09",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
     "lng": -86.1640108,
-    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   }
 ]

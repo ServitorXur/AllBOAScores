@@ -5,13 +5,17 @@
     "name": "2002 Bands of America Louisville Regional Championship",
     "type": "Regional",
     "venue": "Kentucky Fair and Expo Center",
+    "address": "West Jefferson Street, Louisville, KY 40212",
     "date": "2002-09-21",
     "city": "Louisville",
     "state": "KY",
     "lat": 38.2542376,
     "lng": -85.759407,
-    "address": "West Jefferson Street, Louisville, KY 40212",
-    "timezone": "America/Kentucky/Louisville"
+    "timezone": "America/Kentucky/Louisville",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2002-2002-9-28ohtlf",
@@ -19,13 +23,17 @@
     "name": "2002.9.28ohtlf",
     "type": "Regional",
     "venue": "University of Toledo",
+    "address": "2801 West Bancroft Street, Toledo, OH 43606",
     "date": "2002-09-28",
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6583953,
     "lng": -83.6147907,
-    "address": "2801 West Bancroft Street, Toledo, OH 43606",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2002-regional-championship-at-johnson-city-tn",
@@ -33,13 +41,17 @@
     "name": "2002 Bands of America Johnson City Regional Championship",
     "type": "Regional",
     "venue": "ETSU Mini Dome",
+    "address": "West State of Franklin Road, Johnson City, TN 37684",
     "date": "2002-09-28",
     "city": "Johnson City",
     "state": "TN",
     "lat": 36.3037542,
     "lng": -82.3708708,
-    "address": "West State of Franklin Road, Johnson City, TN 37684",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2002-regional-championship-at-toledo-oh",
@@ -47,13 +59,17 @@
     "name": "2002 Bands of America Toledo Regional Championship",
     "type": "Regional",
     "venue": "University of Toledo",
+    "address": "2801 West Bancroft Street, Toledo, OH 43606",
     "date": "2002-09-28",
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6583953,
     "lng": -83.6147907,
-    "address": "2801 West Bancroft Street, Toledo, OH 43606",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2002-regional-championship-at-daytona-beach-fl",
@@ -61,13 +77,17 @@
     "name": "2002 Bands of America Daytona Beach Regional Championship",
     "type": "Regional",
     "venue": "Municipal Stadium",
+    "address": "Cabot Cliffs Drive, Daytona Beach, FL 32124",
     "date": "2002-10-05",
     "city": "Daytona Beach",
     "state": "FL",
     "lat": 29.172821,
     "lng": -81.1174973,
-    "address": "Cabot Cliffs Drive, Daytona Beach, FL 32124",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2002-regional-championship-at-daytona-fl",
@@ -75,13 +95,17 @@
     "name": "2002 Bands of America Daytona Regional Championship",
     "type": "Regional",
     "venue": "Municipal Stadium",
+    "address": "Cabot Cliffs Drive, Daytona, FL 32124",
     "date": "2002-10-05",
     "city": "Daytona",
     "state": "FL",
     "lat": 29.172821,
     "lng": -81.1174973,
-    "address": "Cabot Cliffs Drive, Daytona, FL 32124",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2002-regional-championship-at-huntsville-tx",
@@ -89,13 +113,17 @@
     "name": "2002 Bands of America Huntsville Regional Championship",
     "type": "Regional",
     "venue": "Sam Houston State University",
+    "address": "1905 University Avenue, Huntsville, TX 77340",
     "date": "2002-10-05",
     "city": "Huntsville",
     "state": "TX",
     "lat": 30.7133471,
     "lng": -95.5449136,
-    "address": "1905 University Avenue, Huntsville, TX 77340",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2002-regional-championship-at-massillon-oh",
@@ -103,13 +131,17 @@
     "name": "2002 Bands of America Massillon Regional Championship",
     "type": "Regional",
     "venue": "Paul Brown Tiger Stadium",
+    "address": "Russell Boulevard Southeast, Massillon, OH 44646",
     "date": "2002-10-12",
     "city": "Massillon",
     "state": "OH",
     "lat": 40.793641,
     "lng": -81.4997215,
-    "address": "Russell Boulevard Southeast, Massillon, OH 44646",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2002-regional-championship-at-st-louis-mo",
@@ -117,13 +149,17 @@
     "name": "2002 Bands of America St. Louis Regional Championship",
     "type": "Regional",
     "venue": "Edward Jones Dome",
+    "address": "701 Convention Plaza, Saint Louis, MO 63101",
     "date": "2002-10-12",
     "city": "Saint Louis",
     "state": "MO",
     "lat": 38.6327852,
     "lng": -90.188551,
-    "address": "701 Convention Plaza, Saint Louis, MO 63101",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2002-regional-championship-at-arlington-tx",
@@ -131,13 +167,17 @@
     "name": "2002 Bands of America Arlington Regional Championship",
     "type": "Regional",
     "venue": "University of Texas at Arlington",
+    "address": "500 West Nedderman Drive, Arlington, TX 76019",
     "date": "2002-10-19",
     "city": "Arlington",
     "state": "TX",
     "lat": 32.7315155,
     "lng": -97.1171533,
-    "address": "500 West Nedderman Drive, Arlington, TX 76019",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2002-regional-championship-at-arlington-texas",
@@ -145,13 +185,17 @@
     "name": "2002 Bands of America Arlington Regional Championship",
     "type": "Regional",
     "venue": "University of Texas at Arlington",
+    "address": "500 West Nedderman Drive, Arlington, TX 76019",
     "date": "2002-10-19",
     "city": "Arlington",
     "state": "TX",
     "lat": 32.7315155,
     "lng": -97.1171533,
-    "address": "500 West Nedderman Drive, Arlington, TX 76019",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2002-regional-championship-at-hempstead-ny",
@@ -159,13 +203,17 @@
     "name": "2002 Bands of America Hempstead Regional Championship",
     "type": "Regional",
     "venue": "James M. Shuart Stadium",
+    "address": "Baldwin Court, Hempstead, NY 11553",
     "date": "2002-10-19",
     "city": "Hempstead",
     "state": "NY",
     "lat": 40.715562,
     "lng": -73.5962921,
-    "address": "Baldwin Court, Hempstead, NY 11553",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2002-regional-championship-at-youngstown-oh",
@@ -173,13 +221,17 @@
     "name": "2002 Bands of America Youngstown Regional Championship",
     "type": "Regional",
     "venue": "University of Youngstown",
+    "address": "236 West Wood Street, Youngstown, OH 44502",
     "date": "2002-10-26",
     "city": "Youngstown",
     "state": "OH",
     "lat": 41.1035786,
     "lng": -80.6520161,
-    "address": "236 West Wood Street, Youngstown, OH 44502",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2002-grand-national-championships-at-indianapolis-in",
@@ -187,13 +239,17 @@
     "name": "2002 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "RCA DOME",
+    "address": "Monument Circle, Indianapolis, IN 46282",
     "date": "2002-11-01",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7683331,
     "lng": -86.1583502,
-    "address": "Monument Circle, Indianapolis, IN 46282",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2002-regional-championship-at-atlanta-ga",
@@ -201,13 +257,17 @@
     "name": "2002 Bands of America Atlanta Regional Championship",
     "type": "Regional",
     "venue": "Georgia Dom",
+    "address": "33 Gilmer Street Southeast, Atlanta, GA 30303",
     "date": "2002-11-02",
     "city": "Atlanta",
     "state": "GA",
     "lat": 33.7544657,
     "lng": -84.3898151,
-    "address": "33 Gilmer Street Southeast, Atlanta, GA 30303",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2002-regional-championship-at-san-antonio-tx",
@@ -215,13 +275,17 @@
     "name": "2002 Bands of America San Antonio Regional Championship",
     "type": "Regional",
     "venue": "Alamodome",
+    "address": "100 Montana Street, San Antonio, TX 78203",
     "date": "2002-11-02",
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
     "lng": -98.4788949,
-    "address": "100 Montana Street, San Antonio, TX 78203",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2002-regional-championship-at-indianapolis-in",
@@ -229,13 +293,17 @@
     "name": "2002 Bands of America Indianapolis Regional Championship",
     "type": "Regional",
     "venue": "RCA Dome",
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
     "date": "2002-11-09",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
     "lng": -86.1640108,
-    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2002-regional-championship-at-las-vegas-nv",
@@ -243,12 +311,16 @@
     "name": "2002 Bands of America Las Vegas Regional Championship",
     "type": "Regional",
     "venue": "University of Nevada, Las Vegas",
+    "address": "4505 South Maryland Parkway, Las Vegas, NV 89154",
     "date": "2002-11-09",
     "city": "Las Vegas",
     "state": "NV",
     "lat": 36.1079411,
     "lng": -115.1439051,
-    "address": "4505 South Maryland Parkway, Las Vegas, NV 89154",
-    "timezone": "America/Los_Angeles"
+    "timezone": "America/Los_Angeles",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   }
 ]

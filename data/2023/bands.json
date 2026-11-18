@@ -1326,6 +1326,12 @@
     "state": "OH"
   },
   {
+    "id": "john-hardin-h-s-ky",
+    "name": "John Hardin H.S.",
+    "city": null,
+    "state": "KY"
+  },
+  {
     "id": "clear-brook-h-s-tx",
     "name": "Clear Brook H.S.",
     "city": null,
@@ -1789,9 +1795,21 @@
   },
   {
     "id": "wakeland-h-s-tx",
-    "name": "Wakeland H.S., TX,",
+    "name": "Wakeland H.S.",
     "city": null,
-    "state": null
+    "state": "TX"
+  },
+  {
+    "id": "clovis-h-s-nm",
+    "name": "Clovis H.S.",
+    "city": null,
+    "state": "NM"
+  },
+  {
+    "id": "lovejoy-h-s-tx",
+    "name": "Lovejoy H.S.",
+    "city": null,
+    "state": "TX"
   },
   {
     "id": "southmoore-h-s-ok",
@@ -1996,12 +2014,6 @@
     "name": "Urbana H.S.",
     "city": null,
     "state": "MD"
-  },
-  {
-    "id": "clovis-h-s-nm",
-    "name": "Clovis H.S.",
-    "city": null,
-    "state": "NM"
   },
   {
     "id": "highland-h-s-id",
@@ -2494,12 +2506,6 @@
     "name": "Ridgeline H.S.",
     "city": null,
     "state": "UT"
-  },
-  {
-    "id": "john-hardin-h-s-ky",
-    "name": "John Hardin H.S.",
-    "city": null,
-    "state": "KY"
   },
   {
     "id": "station-camp-h-s-tn",
@@ -3456,12 +3462,6 @@
     "state": "NJ"
   },
   {
-    "id": "lovejoy-h-s-tx",
-    "name": "Lovejoy H.S.",
-    "city": null,
-    "state": "TX"
-  },
-  {
     "id": "argyle-h-s-tx",
     "name": "Argyle H.S.",
     "city": null,
@@ -3832,12 +3832,6 @@
     "name": "Damien H.S.",
     "city": null,
     "state": "CA"
-  },
-  {
-    "id": "wakeland-h-s",
-    "name": "Wakeland H.S.",
-    "city": null,
-    "state": null
   },
   {
     "id": "sandra-day-o-connor-h-s",

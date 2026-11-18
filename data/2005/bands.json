@@ -1140,6 +1140,12 @@
     "state": "TX"
   },
   {
+    "id": "samuel-clemens-h-s-tx",
+    "name": "Samuel Clemens H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
     "id": "chantilly-h-s-va",
     "name": "Chantilly H.S.",
     "city": null,
@@ -1350,12 +1356,6 @@
     "state": "GA"
   },
   {
-    "id": "samuel-clemens-h-s-tx",
-    "name": "Samuel Clemens H.S.",
-    "city": null,
-    "state": "TX"
-  },
-  {
     "id": "william-s-hart-h-s-ca",
     "name": "William S. Hart H.S.",
     "city": null,
@@ -1492,6 +1492,12 @@
     "name": "Marshall Senior H.S.",
     "city": null,
     "state": "MN"
+  },
+  {
+    "id": "oakville-sr-h-s-mo",
+    "name": "Oakville Sr. H.S.",
+    "city": null,
+    "state": "MO"
   },
   {
     "id": "carlton-j-kell-h-s-ga",
@@ -1720,12 +1726,6 @@
     "name": "Columbus North H.S.",
     "city": null,
     "state": "IN"
-  },
-  {
-    "id": "oakville-sr-h-s-mo",
-    "name": "Oakville Sr. H.S.",
-    "city": null,
-    "state": "MO"
   },
   {
     "id": "lakota-west-h-s-oh",

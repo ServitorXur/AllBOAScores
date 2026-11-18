@@ -5,13 +5,17 @@
     "name": "1988 Bands of America Summer National Championship",
     "type": "National",
     "venue": "Warhawk Stadium",
+    "address": "West Schwager Drive, Whitewater, WI 53190",
     "date": "1988-06-18",
     "city": "Whitewater",
     "state": "WI",
     "lat": 42.8469937,
     "lng": -88.7449823,
-    "address": "West Schwager Drive, Whitewater, WI 53190",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1988-regional-championship-at-akron-oh",
@@ -19,13 +23,17 @@
     "name": "1988 Bands of America Akron Regional Championship",
     "type": "Regional",
     "venue": "University of Akron",
+    "address": "Carroll Street, Akron, OH 44304",
     "date": "1988-10-01",
     "city": "Akron",
     "state": "OH",
     "lat": 41.0757383,
     "lng": -81.5114532,
-    "address": "Carroll Street, Akron, OH 44304",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1988-regional-championship-at-normal-il",
@@ -33,13 +41,17 @@
     "name": "1988 Bands of America Normal Regional Championship",
     "type": "Regional",
     "venue": "Illinois State University",
+    "address": "Gregory Street, Normal, IL 61790",
     "date": "1988-10-08",
     "city": "Normal",
     "state": "IL",
     "lat": 40.5179938,
     "lng": -89.0084607,
-    "address": "Gregory Street, Normal, IL 61790",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1988-regional-championship-at-morgantown-wv",
@@ -47,13 +59,17 @@
     "name": "1988 Bands of America Morgantown Regional Championship",
     "type": "Regional",
     "venue": "West Virginia University",
+    "address": "1550 University Avenue, Morgantown, WV 26505",
     "date": "1988-10-15",
     "city": "Morgantown",
     "state": "WV",
     "lat": 39.6348398,
     "lng": -79.9542095,
-    "address": "1550 University Avenue, Morgantown, WV 26505",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1988-regional-championship-at-hattiesburg-ms",
@@ -61,13 +77,17 @@
     "name": "1988 Bands of America Hattiesburg Regional Championship",
     "type": "Regional",
     "venue": "University of Southern Mississippi",
+    "address": "118 College Drive, Hattiesburg, MS 39406",
     "date": "1988-10-22",
     "city": "Hattiesburg",
     "state": "MS",
     "lat": 31.3286452,
     "lng": -89.3367312,
-    "address": "118 College Drive, Hattiesburg, MS 39406",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1988-western-regional-championship-at-stockton-ca",
@@ -75,13 +95,17 @@
     "name": "1988 Bands of America Western Regional Championship",
     "type": "Regional",
     "venue": "University of the Pacific",
+    "address": "3601 Pacific Avenue, Stockton, CA 95211",
     "date": "1988-10-29",
     "city": "Stockton",
     "state": "CA",
     "lat": 37.9804238,
     "lng": -121.3128472,
-    "address": "3601 Pacific Avenue, Stockton, CA 95211",
-    "timezone": "America/Los_Angeles"
+    "timezone": "America/Los_Angeles",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1988-regional-championship-at-houston-tx",
@@ -89,13 +113,17 @@
     "name": "1988 Bands of America Houston Regional Championship",
     "type": "Regional",
     "venue": "Rice University Stadium",
+    "address": "University Boulevard, Houston, TX 77005",
     "date": "1988-11-05",
     "city": "Houston",
     "state": "TX",
     "lat": 29.7130529,
     "lng": -95.4020704,
-    "address": "University Boulevard, Houston, TX 77005",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1988-southwest-regional-championship-at-houston-tx",
@@ -103,13 +131,17 @@
     "name": "1988 Bands of America Southwest Regional Championship",
     "type": "Regional",
     "venue": "Rice University",
+    "address": "6100 Main Street, Houston, TX 77005",
     "date": "1988-11-05",
     "city": "Houston",
     "state": "TX",
     "lat": 29.7167915,
     "lng": -95.4047811,
-    "address": "6100 Main Street, Houston, TX 77005",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1988-grand-national-championship-at-pontiac-mi",
@@ -117,12 +149,16 @@
     "name": "1988 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "Pontiac Silverdome",
+    "address": "50 North Perry Street, Pontiac, MI 48342",
     "date": "1988-11-11",
     "city": "Pontiac",
     "state": "MI",
     "lat": 42.6389216,
     "lng": -83.2910468,
-    "address": "50 North Perry Street, Pontiac, MI 48342",
-    "timezone": "America/Detroit"
+    "timezone": "America/Detroit",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   }
 ]

@@ -5,13 +5,17 @@
     "name": "2023 Bands of America Kentucky Regional Championship",
     "type": "Regional",
     "venue": "University of Louisville, L&N Federal Credit Union Stadium",
+    "address": "2301 South 3rd Street, Louisville, KY 40292",
     "date": "2023-09-16",
     "city": "Louisville",
     "state": "KY",
     "lat": 38.2133224,
     "lng": -85.7577075,
-    "address": "2301 South 3rd Street, Louisville, KY 40292",
-    "timezone": "America/Kentucky/Louisville"
+    "timezone": "America/Kentucky/Louisville",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2023-2023-bands-of-america-wisconsin-regional-championship-presented-by-yamaha",
@@ -19,13 +23,17 @@
     "name": "2023 Bands of America Wisconsin Regional Championship",
     "type": "Regional",
     "venue": "University of Wisconsin - Whitewater, Perkins Stadium",
+    "address": "800 West Main Street, Whitewater, WI 53190",
     "date": "2023-09-16",
     "city": "Whitewater",
     "state": "WI",
     "lat": 42.8443596,
     "lng": -88.7436664,
-    "address": "800 West Main Street, Whitewater, WI 53190",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2023-2023-bands-of-america-austin-regional-championship-presented-by-yamaha",
@@ -33,13 +41,17 @@
     "name": "2023 Bands of America Austin Regional Championship",
     "type": "Regional",
     "venue": "Kelly Reeves Athletic Complex",
+    "address": "10211 West Parmer Lane, Austin, TX 78717",
     "date": "2023-09-23",
     "city": "Austin",
     "state": "TX",
     "lat": 30.492488,
     "lng": -97.7741,
-    "address": "10211 West Parmer Lane, Austin, TX 78717",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2023-2023-bands-of-america-central-ohio-regional-championship-presented-by-yamaha",
@@ -47,13 +59,17 @@
     "name": "2023 Bands of America Central Ohio Regional Championship",
     "type": "Regional",
     "venue": "Fortress Obetz",
+    "address": "Speedway Lane, Obetz, OH 43027",
     "date": "2023-09-23",
     "city": "Obetz",
     "state": "OH",
     "lat": 39.885817,
     "lng": -82.9444641,
-    "address": "Speedway Lane, Obetz, OH 43027",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2023-2023-bands-of-america-chattanooga-regional-championship-presented-by-yamaha",
@@ -61,13 +77,17 @@
     "name": "2023 Bands of America Chattanooga Regional Championship",
     "type": "Regional",
     "venue": "Finley Stadium",
+    "address": "Chandler Avenue, Campbellsville, KY 42718",
     "date": "2023-09-23",
     "city": "Campbellsville",
     "state": "KY",
     "lat": 37.3426158,
     "lng": -85.3513669,
-    "address": "Chandler Avenue, Campbellsville, KY 42718",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2023-2023-bands-of-america-new-mexico-regional-championship-presented-by-yamaha",
@@ -75,13 +95,17 @@
     "name": "2023 Bands of America New Mexico Regional Championship",
     "type": "Regional",
     "venue": "Aggie Memorial Stadium - New Mexico State University",
+    "address": "1810 East University Avenue, Las Cruces, NM 88004",
     "date": "2023-09-23",
     "city": "Las Cruces",
     "state": "NM",
     "lat": 32.2796361,
     "lng": -106.7411114,
-    "address": "1810 East University Avenue, Las Cruces, NM 88004",
-    "timezone": "America/Denver"
+    "timezone": "America/Denver",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2023-2023-bands-of-america-iowa-regional-championship-presented-by-yamaha",
@@ -89,13 +113,17 @@
     "name": "2023 Bands of America Iowa Regional Championship",
     "type": "Regional",
     "venue": "Northwest High School Stadium",
+    "address": "North 10th Street, Waukee, IA 50263",
     "date": "2023-09-30",
     "city": "Waukee",
     "state": "IA",
     "lat": 41.6254148,
     "lng": -93.891364,
-    "address": "North 10th Street, Waukee, IA 50263",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2023-2023-bands-of-america-north-houston-regional-championship-presented-by-yamaha",
@@ -103,13 +131,17 @@
     "name": "2023 Bands of America North Houston Regional Championship",
     "type": "Regional",
     "venue": "Woodforest Bank Stadium",
+    "address": "Main, Shenandoah, TX 77385",
     "date": "2023-09-30",
     "city": "Shenandoah",
     "state": "TX",
     "lat": 30.1848671,
     "lng": -95.4489906,
-    "address": "Main, Shenandoah, TX 77385",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2023-2023-bands-of-america-south-texas-regional-championship-presented-by-yamaha",
@@ -117,13 +149,17 @@
     "name": "2023 Bands of America South Texas Regional Championship",
     "type": "Regional",
     "venue": "Veterans Memorial Stadium",
+    "address": "Harold C Giss Parkway, Yuma, AZ 85364",
     "date": "2023-09-30",
     "city": "Yuma",
     "state": "AZ",
     "lat": 32.7210307,
     "lng": -114.6203217,
-    "address": "Harold C Giss Parkway, Yuma, AZ 85364",
-    "timezone": "America/Phoenix"
+    "timezone": "America/Phoenix",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2023-2023-bands-of-america-west-texas-regional-championship-presented-by-yamaha",
@@ -131,13 +167,17 @@
     "name": "2023 Bands of America West Texas Regional Championship",
     "type": "Regional",
     "venue": "Astound Broadband Stadium",
+    "address": "Martin Luther King Jr. Circle, Midland, TX 77906",
     "date": "2023-09-30",
     "city": "Midland",
     "state": "TX",
     "lat": 31.9893368,
     "lng": -102.1539155,
-    "address": "Martin Luther King Jr. Circle, Midland, TX 77906",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2023-2023-bands-of-america-arizona-regional-championship-presented-by-yamaha",
@@ -145,13 +185,17 @@
     "name": "2023 Bands of America Arizona Regional Championship",
     "type": "Regional",
     "venue": "Northern Arizona University",
+    "address": "1 Runke Drive, Flagstaff, AZ 86001",
     "date": "2023-10-07",
     "city": "Flagstaff",
     "state": "AZ",
     "lat": 35.1830867,
     "lng": -111.654961,
-    "address": "1 Runke Drive, Flagstaff, AZ 86001",
-    "timezone": "America/Phoenix"
+    "timezone": "America/Phoenix",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2023-2023-bands-of-america-dallas-mid-cities-regional-championship-presented-by",
@@ -159,13 +203,17 @@
     "name": "2023 Bands of America Dallas Mid-Cities Regional Championship",
     "type": "Regional",
     "venue": "Pennington Field at HEB Stadium",
+    "address": "2381 Forest Ridge Drive, Bedford, TX 76021",
     "date": "2023-10-07",
     "city": "Bedford",
     "state": "TX",
     "lat": 32.844017,
     "lng": -97.1430671,
-    "address": "2381 Forest Ridge Drive, Bedford, TX 76021",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2023-2023-bands-of-america-memphis-regional-championship-presented-by-yamaha",
@@ -173,13 +221,17 @@
     "name": "2023 Bands of America Memphis Regional Championship",
     "type": "Regional",
     "venue": "Simmons Bank Liberty Stadium",
+    "address": "Home Run Lane, Memphis, TN 38114",
     "date": "2023-10-07",
     "city": "Memphis",
     "state": "TN",
     "lat": 35.1211305,
     "lng": -89.9774153,
-    "address": "Home Run Lane, Memphis, TN 38114",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2023-2023-bands-of-america-northwest-ohio-regional-championship-presented-by",
@@ -187,13 +239,17 @@
     "name": "2023 Bands of America Northwest Ohio Regional Championship",
     "type": "Regional",
     "venue": "Glass Bowl Stadium - University of Toledo",
+    "address": "Erie Street Bike Lane, Toledo, OH 43604",
     "date": "2023-10-07",
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6529143,
     "lng": -83.5378173,
-    "address": "Erie Street Bike Lane, Toledo, OH 43604",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2023-2023-bands-of-america-west-houston-regional-championship-presented-by",
@@ -201,13 +257,17 @@
     "name": "2023 Bands of America West Houston Regional Championship",
     "type": "Regional",
     "venue": "Legacy Stadium - Katy ISD",
+    "address": "Franz Road, Katy, TX 77449",
     "date": "2023-10-07",
     "city": "Katy",
     "state": "TX",
     "lat": 29.8000522,
     "lng": -95.8054778,
-    "address": "Franz Road, Katy, TX 77449",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2023-2023-bands-of-america-west-houston-regional-championship-presented-by-yamaha",
@@ -215,13 +275,17 @@
     "name": "2023 Bands of America West Houston Regional Championship",
     "type": "Regional",
     "venue": "Legacy Stadium - Katy ISD",
+    "address": "Franz Road, Katy, TX 77449",
     "date": "2023-10-07",
     "city": "Katy",
     "state": "TX",
     "lat": 29.8000522,
     "lng": -95.8054778,
-    "address": "Franz Road, Katy, TX 77449",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2023-2023-bands-of-america-carolina-regional-championship",
@@ -229,13 +293,17 @@
     "name": "2023 Bands of America Carolina Regional Championship",
     "type": "Regional",
     "venue": "Brooks Stadium - Coastal Carolina University",
+    "address": "1101 4th Avenue, Conway, SC 29526",
     "date": "2023-10-14",
     "city": "Conway",
     "state": "SC",
     "lat": 33.8360035,
     "lng": -79.0478143,
-    "address": "1101 4th Avenue, Conway, SC 29526",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2023-2023-bands-of-america-carolina-regional-championship-presented-by",
@@ -243,13 +311,17 @@
     "name": "2023 Bands of America Carolina Regional Championship",
     "type": "Regional",
     "venue": "Brooks Stadium - Coastal Carolina University",
+    "address": "1101 4th Avenue, Conway, SC 29526",
     "date": "2023-10-14",
     "city": "Conway",
     "state": "SC",
     "lat": 33.8360035,
     "lng": -79.0478143,
-    "address": "1101 4th Avenue, Conway, SC 29526",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2023-2023-bands-of-america-north-texas-regional-championship",
@@ -257,13 +329,17 @@
     "name": "2023 Bands of America North Texas Regional Championship",
     "type": "Regional",
     "venue": "Prosper ISD Children's Health Stadium",
+    "address": "Inner Loop Drive, Prosper, TX 75078",
     "date": "2023-10-14",
     "city": "Prosper",
     "state": "TX",
     "lat": 33.2607559,
     "lng": -96.8042646,
-    "address": "Inner Loop Drive, Prosper, TX 75078",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2023-2023-bands-of-america-north-texas-regional-championship-presented-by",
@@ -271,13 +347,17 @@
     "name": "2023 Bands of America North Texas Regional Championship",
     "type": "Regional",
     "venue": "Prosper ISD Children's Health Stadium",
+    "address": "Inner Loop Drive, Prosper, TX 75078",
     "date": "2023-10-14",
     "city": "Prosper",
     "state": "TX",
     "lat": 33.2607559,
     "lng": -96.8042646,
-    "address": "Inner Loop Drive, Prosper, TX 75078",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2023-2023-bands-of-america-indianapolis-super-regional-championship-presented-by",
@@ -285,13 +365,17 @@
     "name": "2023 Bands of America Indianapolis Super Regional Championship",
     "type": "Super Regional",
     "venue": "Lucas Oil Stadium",
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
     "date": "2023-10-20",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
     "lng": -86.1638376,
-    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2023-2023-bands-of-america-ballad-health-east-tennessee-regional-championship",
@@ -299,13 +383,17 @@
     "name": "2023 Bands of America Ballad Health East Tennessee Regional Championship",
     "type": "Regional",
     "venue": "East Tennessee State University Ballad Health Athletic Center",
+    "address": "J L Seehorn Jr Road, Johnson City, TN 37684",
     "date": "2023-10-21",
     "city": "Johnson City",
     "state": "TN",
     "lat": 36.2985597,
     "lng": -82.3750337,
-    "address": "J L Seehorn Jr Road, Johnson City, TN 37684",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2023-2023-bands-of-america-mid-atlantic-regional-championship-presented-by",
@@ -313,13 +401,17 @@
     "name": "2023 Bands of America Mid-Atlantic Regional Championship",
     "type": "Regional",
     "venue": "SECU Stadium - University of Maryland",
+    "address": "100 Holliday Street, Baltimore, MD 21202",
     "date": "2023-10-21",
     "city": "Baltimore",
     "state": "MD",
     "lat": 39.2908816,
     "lng": -76.610759,
-    "address": "100 Holliday Street, Baltimore, MD 21202",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2023-2023-bands-of-america-mid-atlantic-regional-championship-presented-by-yamaha",
@@ -327,13 +419,17 @@
     "name": "2023 Bands of America Mid-Atlantic Regional Championship",
     "type": "Regional",
     "venue": "SECU Stadium - University of Maryland",
+    "address": "100 Holliday Street, Baltimore, MD 21202",
     "date": "2023-10-21",
     "city": "Baltimore",
     "state": "MD",
     "lat": 39.2908816,
     "lng": -76.610759,
-    "address": "100 Holliday Street, Baltimore, MD 21202",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2023-2023-bands-of-america-orlando-regional-championship-presented-by-yamaha",
@@ -341,13 +437,17 @@
     "name": "2023 Bands of America Orlando Regional Championship",
     "type": "Regional",
     "venue": "Camping World Stadium",
+    "address": "West Church Street, Orlando, FL 32805",
     "date": "2023-10-21",
     "city": "Orlando",
     "state": "FL",
     "lat": 28.5390398,
     "lng": -81.4027504,
-    "address": "West Church Street, Orlando, FL 32805",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2023-2023-bands-of-america-st-louis-super-regional-presented-by-yamaha",
@@ -355,13 +455,17 @@
     "name": "2023 Bands of America St. Louis Super Regional Championship",
     "type": "Super Regional",
     "venue": "The Dome at America's Center",
+    "address": "701 Convention Plaza, St. Louis, MO 63101",
     "date": "2023-10-27",
     "city": "St. Louis",
     "state": "MO",
     "lat": 38.6327852,
     "lng": -90.188551,
-    "address": "701 Convention Plaza, St. Louis, MO 63101",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2023-2023-bands-of-america-new-jersey-regional-championship-presented-by",
@@ -369,13 +473,17 @@
     "name": "2023 Bands of America New Jersey Regional Championship",
     "type": "Regional",
     "venue": "SHI Stadium, Rutgers University",
+    "address": "Sutphen Road, Piscataway, NJ 08855",
     "date": "2023-10-28",
     "city": "Piscataway",
     "state": "NJ",
     "lat": 40.5135037,
     "lng": -74.4651433,
-    "address": "Sutphen Road, Piscataway, NJ 08855",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2023-2023-bands-of-america-southern-california-regional-championship",
@@ -383,13 +491,17 @@
     "name": "2023 Bands of America Southern California Regional Championship",
     "type": "Regional",
     "venue": "Ramona High School Stadium",
+    "address": "Main Street, Riverside, CA 92501",
     "date": "2023-10-28",
     "city": "Riverside",
     "state": "CA",
     "lat": 33.9824949,
     "lng": -117.374238,
-    "address": "Main Street, Riverside, CA 92501",
-    "timezone": "America/Los_Angeles"
+    "timezone": "America/Los_Angeles",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2023-2023-bands-of-america-san-antonio-super-regional-presented-by-yamaha",
@@ -397,13 +509,17 @@
     "name": "2023 Bands of America San Antonio Super Regional Championship",
     "type": "Super Regional",
     "venue": "Alamodome",
+    "address": "100 Montana Street, San Antonio, TX 78203",
     "date": "2023-11-03",
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
     "lng": -98.4788949,
-    "address": "100 Montana Street, San Antonio, TX 78203",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2023-2023-bands-of-america-southeastern-regional-championship-presented-by-yamaha",
@@ -411,13 +527,17 @@
     "name": "2023 Bands of America Southeastern Regional Championship",
     "type": "Regional",
     "venue": "Veterans Memorial Stadium - Troy University",
+    "address": "72 2nd Street, Troy, NY 12180",
     "date": "2023-11-04",
     "city": "Troy",
     "state": "NY",
     "lat": 42.7284117,
     "lng": -73.6917878,
-    "address": "72 2nd Street, Troy, NY 12180",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2023-2023-bands-of-america-utah-regional-championship-presented-by-yamaha",
@@ -425,13 +545,17 @@
     "name": "2023 Bands of America Utah Regional Championship",
     "type": "Regional",
     "venue": "Greater Zion Stadium, Utah Tech University",
+    "address": "800 East, St. George, UT 84771",
     "date": "2023-11-04",
     "city": "St. George",
     "state": "UT",
     "lat": 37.0995461,
     "lng": -113.5673889,
-    "address": "800 East, St. George, UT 84771",
-    "timezone": "America/Denver"
+    "timezone": "America/Denver",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2023-2023-bands-of-america-grand-national-championships-presented-by-yamaha",
@@ -439,12 +563,16 @@
     "name": "2023 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "Lucas Oil Stadium",
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
     "date": "2023-11-09",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
     "lng": -86.1638376,
-    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   }
 ]

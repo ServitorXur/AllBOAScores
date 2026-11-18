@@ -1314,6 +1314,12 @@
     "state": "TX"
   },
   {
+    "id": "john-hardin-h-s-ky",
+    "name": "John Hardin H.S.",
+    "city": null,
+    "state": "KY"
+  },
+  {
     "id": "chapin-h-s-sc",
     "name": "Chapin H.S.",
     "city": null,
@@ -1789,9 +1795,15 @@
   },
   {
     "id": "wakeland-h-s-tx",
-    "name": "Wakeland H.S., TX,",
+    "name": "Wakeland H.S.",
     "city": null,
-    "state": null
+    "state": "TX"
+  },
+  {
+    "id": "clovis-h-s-nm",
+    "name": "Clovis H.S.",
+    "city": null,
+    "state": "NM"
   },
   {
     "id": "monterey-h-s-tx",
@@ -2020,12 +2032,6 @@
     "name": "Urbana H.S.",
     "city": null,
     "state": "MD"
-  },
-  {
-    "id": "clovis-h-s-nm",
-    "name": "Clovis H.S.",
-    "city": null,
-    "state": "NM"
   },
   {
     "id": "oviedo-h-s-fl",
@@ -2526,6 +2532,12 @@
     "state": "TX"
   },
   {
+    "id": "walnut-hills-h-s-oh",
+    "name": "Walnut Hills H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
     "id": "obra-d-tompkins-h-s-tx",
     "name": "Obra D. Tompkins H.S.",
     "city": null,
@@ -2614,18 +2626,6 @@
     "name": "Ridgeline H.S.",
     "city": null,
     "state": "UT"
-  },
-  {
-    "id": "john-hardin-h-s-ky",
-    "name": "John Hardin H.S.",
-    "city": null,
-    "state": "KY"
-  },
-  {
-    "id": "walnut-hills-h-s-oh",
-    "name": "Walnut Hills H.S.",
-    "city": null,
-    "state": "OH"
   },
   {
     "id": "cedar-rapids-jefferson-h-s-ia",

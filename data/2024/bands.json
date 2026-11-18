@@ -1350,6 +1350,12 @@
     "state": "OH"
   },
   {
+    "id": "john-hardin-h-s-ky",
+    "name": "John Hardin H.S.",
+    "city": null,
+    "state": "KY"
+  },
+  {
     "id": "baldwinsville-h-s-ny",
     "name": "Baldwinsville H.S.",
     "city": null,
@@ -1813,9 +1819,15 @@
   },
   {
     "id": "wakeland-h-s-tx",
-    "name": "Wakeland H.S., TX,",
+    "name": "Wakeland H.S.",
     "city": null,
-    "state": null
+    "state": "TX"
+  },
+  {
+    "id": "lovejoy-h-s-tx",
+    "name": "Lovejoy H.S.",
+    "city": null,
+    "state": "TX"
   },
   {
     "id": "edison-h-s-nj",
@@ -2530,12 +2542,6 @@
     "name": "Ridgeline H.S.",
     "city": null,
     "state": "UT"
-  },
-  {
-    "id": "john-hardin-h-s-ky",
-    "name": "John Hardin H.S.",
-    "city": null,
-    "state": "KY"
   },
   {
     "id": "cedar-rapids-jefferson-h-s-ia",
@@ -3448,12 +3454,6 @@
     "name": "Downingtown East H.S.",
     "city": null,
     "state": "PA"
-  },
-  {
-    "id": "lovejoy-h-s-tx",
-    "name": "Lovejoy H.S.",
-    "city": null,
-    "state": "TX"
   },
   {
     "id": "argyle-h-s-tx",

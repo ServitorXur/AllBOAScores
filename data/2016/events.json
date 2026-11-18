@@ -5,13 +5,17 @@
     "name": "2016 Bands of America McAllen Regional Championship",
     "type": "Regional",
     "venue": "1 Lopez Early College HS",
+    "address": "1000 Ash Avenue, McAllen, TX 78501",
     "date": "2016-09-17",
     "city": "McAllen",
     "state": "TX",
     "lat": 26.204114,
     "lng": -98.2300605,
-    "address": "1000 Ash Avenue, McAllen, TX 78501",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2016-monroeville-regional-championship-at-monroeville-pa",
@@ -19,13 +23,17 @@
     "name": "2016 Bands of America Monroeville Regional Championship",
     "type": "Regional",
     "venue": "Gateway High School",
+    "address": "Gateway Campus Boulevard, Monroeville, PA 15146",
     "date": "2016-09-17",
     "city": "Monroeville",
     "state": "PA",
     "lat": 40.4315061,
     "lng": -79.7548388,
-    "address": "Gateway Campus Boulevard, Monroeville, PA 15146",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2016-powder-springs-regional-championship-at-powder-springs-ga",
@@ -33,13 +41,17 @@
     "name": "2016 Bands of America Powder Springs Regional Championship",
     "type": "Regional",
     "venue": "McEachern High School",
+    "address": "2400 New Macland Road, Powder Springs, GA 30127",
     "date": "2016-09-17",
     "city": "Powder Springs",
     "state": "GA",
     "lat": 33.8960695,
     "lng": -84.67998,
-    "address": "2400 New Macland Road, Powder Springs, GA 30127",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2016-powder-springs-regional-championship-at-powder-springs-georgia",
@@ -47,13 +59,17 @@
     "name": "2016 Bands of America Powder Springs Regional Championship",
     "type": "Regional",
     "venue": "McEachern High School",
+    "address": "2400 New Macland Road, Powder Springs, GA 30127",
     "date": "2016-09-17",
     "city": "Powder Springs",
     "state": "GA",
     "lat": 33.8960695,
     "lng": -84.67998,
-    "address": "2400 New Macland Road, Powder Springs, GA 30127",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2016-austin-regional-championship-at-austin-tx",
@@ -61,13 +77,17 @@
     "name": "2016 Bands of America Austin Regional Championship",
     "type": "Regional",
     "venue": "Kelly Reeves Athletic Complex -‐ September 24",
+    "address": "10211 West Parmer Lane, Austin, TX 78717",
     "date": "2016-09-24",
     "city": "Austin",
     "state": "TX",
     "lat": 30.492488,
     "lng": -97.7741,
-    "address": "10211 West Parmer Lane, Austin, TX 78717",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2016-clarksville-regional-championship-at-clarksville-tn",
@@ -75,13 +95,17 @@
     "name": "2016 Bands of America Clarksville Regional Championship",
     "type": "Regional",
     "venue": "Governors Stadium -‐ September 24",
+    "address": "139 Franklin Street, Clarksville, TN 37040",
     "date": "2016-09-24",
     "city": "Clarksville",
     "state": "TN",
     "lat": 36.5277607,
     "lng": -87.3588703,
-    "address": "139 Franklin Street, Clarksville, TN 37040",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2016-dayton-regional-championship-at-dayton-oh",
@@ -89,13 +113,17 @@
     "name": "2016 Bands of America Dayton Regional Championship",
     "type": "Regional",
     "venue": "Welcome Stadium -‐ September 24",
+    "address": "South Edwin C. Moses Boulevard, Dayton, OH 45409",
     "date": "2016-09-24",
     "city": "Dayton",
     "state": "OH",
     "lat": 39.7369274,
     "lng": -84.1981121,
-    "address": "South Edwin C. Moses Boulevard, Dayton, OH 45409",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2016-conroe-regional-championship-at-conroe-tx",
@@ -103,13 +131,17 @@
     "name": "2016 Bands of America Conroe Regional Championship",
     "type": "Regional",
     "venue": "Woodforest Bank Stadium -‐ October 1",
+    "address": "Main, Conroe, TX 77385",
     "date": "2016-10-01",
     "city": "Conroe",
     "state": "TX",
     "lat": 30.1848671,
     "lng": -95.4489906,
-    "address": "Main, Conroe, TX 77385",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2016-jacksonville-regional-championship-at-jacksonville-al",
@@ -117,13 +149,17 @@
     "name": "2016 Bands of America Jacksonville Regional Championship",
     "type": "Regional",
     "venue": "Jacksonville State University -‐ October 1",
+    "address": "700 Pelham Road North, Jacksonville, AL 36265",
     "date": "2016-10-01",
     "city": "Jacksonville",
     "state": "AL",
     "lat": 33.8249359,
     "lng": -85.7641095,
-    "address": "700 Pelham Road North, Jacksonville, AL 36265",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2016-toledo-regional-championship-at-toledo-oh",
@@ -131,13 +167,17 @@
     "name": "2016 Bands of America Toledo Regional Championship",
     "type": "Regional",
     "venue": "University of Toledo -‐ October 1",
+    "address": "2801 West Bancroft Street, Toledo, OH 43606",
     "date": "2016-10-01",
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6583953,
     "lng": -83.6147907,
-    "address": "2801 West Bancroft Street, Toledo, OH 43606",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2016-plano-regional-championship-at-plano-tx",
@@ -145,13 +185,17 @@
     "name": "2016 Bands of America Plano Regional Championship",
     "type": "Regional",
     "venue": "John Clark Stadium -‐ October 8",
+    "address": "Seabrook Drive, Plano, TX 75023",
     "date": "2016-10-08",
     "city": "Plano",
     "state": "TX",
     "lat": 33.0634116,
     "lng": -96.7022004,
-    "address": "Seabrook Drive, Plano, TX 75023",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2016-newark-regional-championship-at-newark-de",
@@ -159,13 +203,17 @@
     "name": "2016 Bands of America Newark Regional Championship",
     "type": "Regional",
     "venue": "University of Delaware -‐ October 15",
+    "address": "South College Avenue, Newark, DE 19713",
     "date": "2016-10-15",
     "city": "Newark",
     "state": "DE",
     "lat": 39.6802837,
     "lng": -75.7530984,
-    "address": "South College Avenue, Newark, DE 19713",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2016-winston-salem-regional-championship-at-winston-salem-nc",
@@ -173,13 +221,17 @@
     "name": "2016 Bands of America Winston-‐Salem Regional Championship",
     "type": "Regional",
     "venue": "Wake Forest University -‐ October 15",
+    "address": "1834 Wake Forest Road, Winston Salem, NC 27109",
     "date": "2016-10-15",
     "city": "Winston Salem",
     "state": "NC",
     "lat": 36.133893,
     "lng": -80.2755578,
-    "address": "1834 Wake Forest Road, Winston Salem, NC 27109",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2016-st-louis-super-regional-championship-at-st-louis-mo",
@@ -187,13 +239,17 @@
     "name": "2016 Bands of America St. Louis Super Regional Championship",
     "type": "Super Regional",
     "venue": "The Dome at America's Center -‐ October 21-‐22",
+    "address": "701 Convention Plaza, St. Louis, MO 63101",
     "date": "2016-10-21",
     "city": "St. Louis",
     "state": "MO",
     "lat": 38.6327852,
     "lng": -90.188551,
-    "address": "701 Convention Plaza, St. Louis, MO 63101",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2016-san-jose-regional-championship-at-san-jose-ca",
@@ -201,13 +257,17 @@
     "name": "2016 Bands of America San Jose Regional Championship",
     "type": "Regional",
     "venue": "CEFCU Stadium",
+    "address": "East Alma Avenue, San Jose, CA 95192",
     "date": "2016-10-22",
     "city": "San Jose",
     "state": "CA",
     "lat": 37.3196895,
     "lng": -121.8683139,
-    "address": "East Alma Avenue, San Jose, CA 95192",
-    "timezone": "America/Los_Angeles"
+    "timezone": "America/Los_Angeles",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2016-atlanta-super-regional-championship-at-atlanta-ga",
@@ -215,13 +275,17 @@
     "name": "2016 Bands of America Atlanta Super Regional Championship",
     "type": "Super Regional",
     "venue": "Georgia Dome -‐ October 29",
+    "address": "1 Backyard Way, Atlanta, GA 30313",
     "date": "2016-10-29",
     "city": "Atlanta",
     "state": "GA",
     "lat": 33.758056,
     "lng": -84.401111,
-    "address": "1 Backyard Way, Atlanta, GA 30313",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2016-long-beach-regional-championship-at-long-beach-ca",
@@ -229,13 +293,17 @@
     "name": "2016 Bands of America Long Beach Regional Championship",
     "type": "Regional",
     "venue": "Long Beach City College -‐ October 29",
+    "address": "East Broadway, Long Beach, CA 90803",
     "date": "2016-10-29",
     "city": "Long Beach",
     "state": "CA",
     "lat": 33.7690164,
     "lng": -118.191604,
-    "address": "East Broadway, Long Beach, CA 90803",
-    "timezone": "America/Los_Angeles"
+    "timezone": "America/Los_Angeles",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2016-st-george-regional-championship-at-st-george-ut",
@@ -243,13 +311,17 @@
     "name": "2016 Bands of America St. George Regional Championship",
     "type": "Regional",
     "venue": "Dixie State University -‐ October 29",
+    "address": "225 University Avenue, Saint George, UT 84771",
     "date": "2016-10-29",
     "city": "Saint George",
     "state": "UT",
     "lat": 37.1030099,
     "lng": -113.5653354,
-    "address": "225 University Avenue, Saint George, UT 84771",
-    "timezone": "America/Denver"
+    "timezone": "America/Denver",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2016-indianapolis-super-regional-championship-at-indianapolis-in",
@@ -257,13 +329,17 @@
     "name": "2016 Bands of America Indianapolis Super Regional Championship",
     "type": "Super Regional",
     "venue": "Lucas Oil Stadium -‐ November 4-‐5",
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
     "date": "2016-11-04",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
     "lng": -86.1638376,
-    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2016-san-antonio-super-regional-championship-at-san-antonio-tx",
@@ -271,13 +347,17 @@
     "name": "2016 Bands of America San Antonio Super Regional Championship",
     "type": "Super Regional",
     "venue": "Alamodome -‐ November 4-‐5",
+    "address": "100 Montana Street, San Antonio, TX 78203",
     "date": "2016-11-04",
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
     "lng": -98.4788949,
-    "address": "100 Montana Street, San Antonio, TX 78203",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2016-grand-national-championships-at-indianapolis-in",
@@ -285,12 +365,16 @@
     "name": "2016 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "Lucas Oil Stadium -‐ November 10",
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
     "date": "2016-11-10",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
     "lng": -86.1638376,
-    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   }
 ]

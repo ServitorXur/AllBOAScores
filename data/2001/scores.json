@@ -4354,7 +4354,7 @@
     "eventId": "2001-regional-championship-at-san-antonio-tx",
     "season": 2001,
     "round": "Finals",
-    "class": "Unknown",
+    "class": "AAA",
     "placement": 8,
     "placementOverall": 8,
     "total": 77.05,
@@ -4600,7 +4600,7 @@
     }
   },
   {
-    "bandId": "lewisville-h-s-tx-tx",
+    "bandId": "lewisville-h-s-tx",
     "eventId": "2001-regional-championship-at-san-antonio-tx",
     "season": 2001,
     "round": "Prelims",
@@ -4675,7 +4675,7 @@
     }
   },
   {
-    "bandId": "john-b-connally-h-s-tx-tx",
+    "bandId": "john-b-connally-h-s-tx",
     "eventId": "2001-regional-championship-at-san-antonio-tx",
     "season": 2001,
     "round": "Prelims",
@@ -4750,7 +4750,7 @@
     }
   },
   {
-    "bandId": "seguin-h-s-tx-tx",
+    "bandId": "seguin-h-s-tx",
     "eventId": "2001-regional-championship-at-san-antonio-tx",
     "season": 2001,
     "round": "Prelims",
@@ -4950,7 +4950,7 @@
     }
   },
   {
-    "bandId": "douglas-macarthur-h-s-tx-tx",
+    "bandId": "douglas-macarthur-h-s-tx",
     "eventId": "2001-regional-championship-at-san-antonio-tx",
     "season": 2001,
     "round": "Prelims",
@@ -4975,7 +4975,7 @@
     }
   },
   {
-    "bandId": "smithson-valley-h-s-tx-tx",
+    "bandId": "smithson-valley-h-s-tx",
     "eventId": "2001-regional-championship-at-san-antonio-tx",
     "season": 2001,
     "round": "Prelims",
@@ -5025,7 +5025,7 @@
     }
   },
   {
-    "bandId": "samuel-clemens-h-s-tx-tx",
+    "bandId": "samuel-clemens-h-s-tx",
     "eventId": "2001-regional-championship-at-san-antonio-tx",
     "season": 2001,
     "round": "Prelims",
@@ -5150,7 +5150,7 @@
     }
   },
   {
-    "bandId": "uvalde-h-s-tx-tx",
+    "bandId": "uvalde-h-s-tx",
     "eventId": "2001-regional-championship-at-san-antonio-tx",
     "season": 2001,
     "round": "Prelims",
@@ -5175,7 +5175,7 @@
     }
   },
   {
-    "bandId": "calallen-h-s-tx-tx",
+    "bandId": "calallen-h-s-tx",
     "eventId": "2001-regional-championship-at-san-antonio-tx",
     "season": 2001,
     "round": "Prelims",

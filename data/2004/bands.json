@@ -42,6 +42,12 @@
     "state": "OH"
   },
   {
+    "id": "brownsburg-h-s-in",
+    "name": "Brownsburg H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
     "id": "jefferson-city-h-s-mo",
     "name": "Jefferson City H.S.",
     "city": null,
@@ -1314,6 +1320,12 @@
     "state": "NV"
   },
   {
+    "id": "samuel-clemens-h-s-tx",
+    "name": "Samuel Clemens H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
     "id": "san-benito-h-s-tx",
     "name": "San Benito H.S.",
     "city": null,
@@ -1432,6 +1444,12 @@
     "name": "Campbell County H.S.",
     "city": null,
     "state": "KY"
+  },
+  {
+    "id": "edgewood-h-s-in",
+    "name": "Edgewood H.S.",
+    "city": null,
+    "state": "IN"
   },
   {
     "id": "central-h-s-tn",
@@ -1572,12 +1590,6 @@
     "state": "VA"
   },
   {
-    "id": "samuel-clemens-h-s-tx",
-    "name": "Samuel Clemens H.S.",
-    "city": null,
-    "state": "TX"
-  },
-  {
     "id": "raymond-tirza-martin-h-s-tx",
     "name": "Raymond & Tirza Martin H.S.",
     "city": null,
@@ -1624,6 +1636,12 @@
     "name": "Coronado H.S.",
     "city": null,
     "state": "NV"
+  },
+  {
+    "id": "gibson-southern-h-s-in",
+    "name": "Gibson Southern H.S.",
+    "city": null,
+    "state": "IN"
   },
   {
     "id": "central-crossing-h-s-oh",
@@ -1758,148 +1776,16 @@
     "state": "MI"
   },
   {
-    "id": "lawrence-central-h-s-in-in",
-    "name": "Lawrence Central H.S., IN",
-    "city": null,
-    "state": "IN"
-  },
-  {
-    "id": "avon-h-s-in-in",
-    "name": "Avon H.S., IN",
-    "city": null,
-    "state": "IN"
-  },
-  {
-    "id": "alan-c-pope-h-s-ga-ga",
-    "name": "Alan C. Pope H.S., GA",
-    "city": null,
-    "state": "GA"
-  },
-  {
-    "id": "castle-h-s-in-in",
-    "name": "Castle H.S., IN",
-    "city": null,
-    "state": "IN"
-  },
-  {
-    "id": "center-grove-h-s-in-in",
-    "name": "Center Grove H.S., IN",
-    "city": null,
-    "state": "IN"
-  },
-  {
-    "id": "lafayette-h-s-ky-ky",
-    "name": "Lafayette H.S., KY",
+    "id": "john-hardin-h-s-ky",
+    "name": "John Hardin H.S.",
     "city": null,
     "state": "KY"
   },
   {
-    "id": "north-hardin-h-s-ky-ky",
-    "name": "North Hardin H.S., KY",
-    "city": null,
-    "state": "KY"
-  },
-  {
-    "id": "eastern-h-s-ky-ky",
-    "name": "Eastern H.S., KY",
-    "city": null,
-    "state": "KY"
-  },
-  {
-    "id": "lawrence-north-h-s-in-in",
-    "name": "Lawrence North H.S., IN",
-    "city": null,
-    "state": "IN"
-  },
-  {
-    "id": "louisville-male-h-s-ky-ky",
-    "name": "Louisville Male H.S., KY",
-    "city": null,
-    "state": "KY"
-  },
-  {
-    "id": "gibson-southern-h-s-in-in",
-    "name": "Gibson Southern H.S., IN",
-    "city": null,
-    "state": "IN"
-  },
-  {
-    "id": "john-hardin-h-s-ky-ky",
-    "name": "John Hardin H.S., KY",
-    "city": null,
-    "state": "KY"
-  },
-  {
-    "id": "oakville-sr-h-s-mo-mo",
-    "name": "Oakville Sr. H.S., MO",
+    "id": "oakville-sr-h-s-mo",
+    "name": "Oakville Sr. H.S.",
     "city": null,
     "state": "MO"
-  },
-  {
-    "id": "warren-central-h-s-in-in",
-    "name": "Warren Central H.S., IN",
-    "city": null,
-    "state": "IN"
-  },
-  {
-    "id": "meade-county-h-s-ky-ky",
-    "name": "Meade County H.S., KY",
-    "city": null,
-    "state": "KY"
-  },
-  {
-    "id": "brownsburg-h-s-in-in",
-    "name": "Brownsburg H.S., IN",
-    "city": null,
-    "state": "IN"
-  },
-  {
-    "id": "hart-county-h-s-ky-ky",
-    "name": "Hart County H.S., KY",
-    "city": null,
-    "state": "KY"
-  },
-  {
-    "id": "mt-juliet-h-s-tn-tn",
-    "name": "Mt. Juliet H.S., TN",
-    "city": null,
-    "state": "TN"
-  },
-  {
-    "id": "f-j-reitz-h-s-in-in",
-    "name": "F.J. Reitz H.S., IN",
-    "city": null,
-    "state": "IN"
-  },
-  {
-    "id": "grayson-county-h-s-ky-ky",
-    "name": "Grayson County H.S., KY",
-    "city": null,
-    "state": "KY"
-  },
-  {
-    "id": "father-ryan-h-s-in-tn",
-    "name": "Father Ryan H.S., IN",
-    "city": null,
-    "state": "TN"
-  },
-  {
-    "id": "lebanon-h-s-oh-oh",
-    "name": "Lebanon H.S., OH",
-    "city": null,
-    "state": "OH"
-  },
-  {
-    "id": "wayne-county-h-s-ky-ky",
-    "name": "Wayne County H.S., KY",
-    "city": null,
-    "state": "KY"
-  },
-  {
-    "id": "edgewood-h-s-in-in",
-    "name": "Edgewood H.S., IN",
-    "city": null,
-    "state": "IN"
   },
   {
     "id": "carlton-j-kell-h-s-ga",
@@ -2112,8 +1998,8 @@
     "state": "TX"
   },
   {
-    "id": "edcouch-elso-h-s-tx-tx",
-    "name": "Edcouch-Elso H.S., TX",
+    "id": "edcouch-elso-h-s-tx",
+    "name": "Edcouch-Elso H.S.",
     "city": null,
     "state": "TX"
   },

@@ -1741,9 +1741,9 @@
   },
   {
     "id": "wakeland-h-s-tx",
-    "name": "Wakeland H.S., TX,",
+    "name": "Wakeland H.S.",
     "city": null,
-    "state": null
+    "state": "TX"
   },
   {
     "id": "lincoln-way-west-h-s-il",

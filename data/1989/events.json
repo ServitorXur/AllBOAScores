@@ -5,13 +5,17 @@
     "name": "1989 Bands of America Summer National Championship",
     "type": "National",
     "venue": "Warhawk Stadium",
+    "address": "West Schwager Drive, Whitewater, WI 53190",
     "date": "1989-06-24",
     "city": "Whitewater",
     "state": "WI",
     "lat": 42.8469937,
     "lng": -88.7449823,
-    "address": "West Schwager Drive, Whitewater, WI 53190",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1989-regional-championship-at-morgantown-wv",
@@ -19,13 +23,17 @@
     "name": "1989 Bands of America Morgantown Regional Championship",
     "type": "Regional",
     "venue": "West Virginia University",
+    "address": "1550 University Avenue, Morgantown, WV 26505",
     "date": "1989-10-14",
     "city": "Morgantown",
     "state": "WV",
     "lat": 39.6348398,
     "lng": -79.9542095,
-    "address": "1550 University Avenue, Morgantown, WV 26505",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1989-regional-championship-at-terre-haute-in",
@@ -33,13 +41,17 @@
     "name": "1989 Bands of America Terre Haute Regional Championship",
     "type": "Regional",
     "venue": "Indiana State University",
+    "address": "200 North 7th Street, Terre Haute, IN 47809",
     "date": "1989-10-21",
     "city": "Terre Haute",
     "state": "IN",
     "lat": 39.4709168,
     "lng": -87.4092073,
-    "address": "200 North 7th Street, Terre Haute, IN 47809",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1989-regional-championship-at-hattiesburg-ms",
@@ -47,13 +59,17 @@
     "name": "1989 Bands of America Hattiesburg Regional Championship",
     "type": "Regional",
     "venue": "University of Southern Mississippi",
+    "address": "118 College Drive, Hattiesburg, MS 39406",
     "date": "1989-10-28",
     "city": "Hattiesburg",
     "state": "MS",
     "lat": 31.3286452,
     "lng": -89.3367312,
-    "address": "118 College Drive, Hattiesburg, MS 39406",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1989-regional-championship-at-houston-tx",
@@ -61,13 +77,17 @@
     "name": "1989 Bands of America Houston Regional Championship",
     "type": "Regional",
     "venue": "University of Houston",
+    "address": "4800 Calhoun Road, Houston, TX 77004",
     "date": "1989-10-28",
     "city": "Houston",
     "state": "TX",
     "lat": 29.7207902,
     "lng": -95.3440627,
-    "address": "4800 Calhoun Road, Houston, TX 77004",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1989-regional-championship-at-cincinnati-oh",
@@ -75,13 +95,17 @@
     "name": "1989 Bands of America Cincinnati Regional Championship",
     "type": "Regional",
     "venue": "College Football Hall of Fame",
+    "address": "Vine Street, Cincinnati, OH 45210",
     "date": "1989-11-04",
     "city": "Cincinnati",
     "state": "OH",
     "lat": 39.1012809,
     "lng": -84.5127405,
-    "address": "Vine Street, Cincinnati, OH 45210",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1989-grand-national-championship-at-indianapolis-in",
@@ -89,12 +113,16 @@
     "name": "1989 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "Indianapolis Hoosier Dome",
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
     "date": "1989-11-17",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
     "lng": -86.1640108,
-    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   }
 ]

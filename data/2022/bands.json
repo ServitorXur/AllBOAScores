@@ -1272,6 +1272,12 @@
     "state": "OH"
   },
   {
+    "id": "john-hardin-h-s-ky",
+    "name": "John Hardin H.S.",
+    "city": null,
+    "state": "KY"
+  },
+  {
     "id": "baldwinsville-h-s-ny",
     "name": "Baldwinsville H.S.",
     "city": null,
@@ -1741,9 +1747,21 @@
   },
   {
     "id": "wakeland-h-s-tx",
-    "name": "Wakeland H.S., TX,",
+    "name": "Wakeland H.S.",
     "city": null,
-    "state": null
+    "state": "TX"
+  },
+  {
+    "id": "clovis-h-s-nm",
+    "name": "Clovis H.S.",
+    "city": null,
+    "state": "NM"
+  },
+  {
+    "id": "lovejoy-h-s-tx",
+    "name": "Lovejoy H.S.",
+    "city": null,
+    "state": "TX"
   },
   {
     "id": "southmoore-h-s-ok",
@@ -1912,12 +1930,6 @@
     "name": "Urbana H.S.",
     "city": null,
     "state": "MD"
-  },
-  {
-    "id": "clovis-h-s-nm",
-    "name": "Clovis H.S.",
-    "city": null,
-    "state": "NM"
   },
   {
     "id": "greenwood-community-h-s-in",
@@ -2404,12 +2416,6 @@
     "name": "Palisade H.S.",
     "city": null,
     "state": "CO"
-  },
-  {
-    "id": "john-hardin-h-s-ky",
-    "name": "John Hardin H.S.",
-    "city": null,
-    "state": "KY"
   },
   {
     "id": "station-camp-h-s-tn",
@@ -2929,7 +2935,7 @@
   },
   {
     "id": "thomas-jefferson-h-s-for-science-and-technology",
-    "name": "Thomas Jefferson H.S. for Science and Technology ,",
+    "name": "Thomas Jefferson H.S. for Science and Technology ",
     "city": null,
     "state": null
   },
@@ -3556,12 +3562,6 @@
     "name": "Robbinsville H.S.",
     "city": null,
     "state": "NJ"
-  },
-  {
-    "id": "lovejoy-h-s-tx",
-    "name": "Lovejoy H.S.",
-    "city": null,
-    "state": "TX"
   },
   {
     "id": "argyle-h-s-tx",

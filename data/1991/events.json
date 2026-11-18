@@ -5,13 +5,17 @@
     "name": "1991 Bands of America Indianapolis Regional Championship",
     "type": "Regional",
     "venue": "Indianapolis Hoosier Dome",
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
     "date": "1991-09-28",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
     "lng": -86.1640108,
-    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1991-regional-championship-at-toledo-oh",
@@ -19,13 +23,17 @@
     "name": "1991 Bands of America Toledo Regional Championship",
     "type": "Regional",
     "venue": "University of Toledo, Glass Bowl",
+    "address": "2801 West Bancroft Street, Toledo, OH 43606",
     "date": "1991-10-12",
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6583953,
     "lng": -83.6147907,
-    "address": "2801 West Bancroft Street, Toledo, OH 43606",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1991-regional-championship-at-fort-worth-tx",
@@ -33,13 +41,17 @@
     "name": "1991 Bands of America Fort Worth Regional Championship",
     "type": "Regional",
     "venue": "Texas Christian University",
+    "address": "South University Drive, Fort Worth, TX 76129",
     "date": "1991-10-19",
     "city": "Fort Worth",
     "state": "TX",
     "lat": 32.7080148,
     "lng": -97.3611939,
-    "address": "South University Drive, Fort Worth, TX 76129",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1991-regional-championship-at-johnson-city-tn",
@@ -47,13 +59,17 @@
     "name": "1991 Bands of America Johnson City Regional Championship",
     "type": "Regional",
     "venue": "East Tennessee State University",
+    "address": "1276 Gilbreath Drive, Johnson City, TN 37614",
     "date": "1991-11-02",
     "city": "Johnson City",
     "state": "TN",
     "lat": 36.3024236,
     "lng": -82.3692822,
-    "address": "1276 Gilbreath Drive, Johnson City, TN 37614",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1991-grand-national-championship-at-indianapolis-in",
@@ -61,12 +77,16 @@
     "name": "1991 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "Indianapolis Hoosier Dome",
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
     "date": "1991-11-15",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
     "lng": -86.1640108,
-    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   }
 ]

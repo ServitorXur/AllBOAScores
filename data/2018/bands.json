@@ -1362,6 +1362,12 @@
     "state": "OH"
   },
   {
+    "id": "john-hardin-h-s-ky",
+    "name": "John Hardin H.S.",
+    "city": null,
+    "state": "KY"
+  },
+  {
     "id": "godwin-heights-h-s-mi",
     "name": "Godwin Heights H.S.",
     "city": null,
@@ -1825,9 +1831,15 @@
   },
   {
     "id": "wakeland-h-s-tx",
-    "name": "Wakeland H.S., TX,",
+    "name": "Wakeland H.S.",
     "city": null,
-    "state": null
+    "state": "TX"
+  },
+  {
+    "id": "clovis-h-s-nm",
+    "name": "Clovis H.S.",
+    "city": null,
+    "state": "NM"
   },
   {
     "id": "monterey-h-s-tx",
@@ -2044,12 +2056,6 @@
     "name": "Urbana H.S.",
     "city": null,
     "state": "MD"
-  },
-  {
-    "id": "clovis-h-s-nm",
-    "name": "Clovis H.S.",
-    "city": null,
-    "state": "NM"
   },
   {
     "id": "highland-h-s-id",
@@ -2610,6 +2616,12 @@
     "state": "TX"
   },
   {
+    "id": "walnut-hills-h-s-oh",
+    "name": "Walnut Hills H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
     "id": "obra-d-tompkins-h-s-tx",
     "name": "Obra D. Tompkins H.S.",
     "city": null,
@@ -2686,18 +2698,6 @@
     "name": "Ridgeline H.S.",
     "city": null,
     "state": "UT"
-  },
-  {
-    "id": "john-hardin-h-s-ky",
-    "name": "John Hardin H.S.",
-    "city": null,
-    "state": "KY"
-  },
-  {
-    "id": "walnut-hills-h-s-oh",
-    "name": "Walnut Hills H.S.",
-    "city": null,
-    "state": "OH"
   },
   {
     "id": "cedar-rapids-jefferson-h-s-ia",
@@ -3175,7 +3175,7 @@
   },
   {
     "id": "thomas-jefferson-h-s-for-science-and-tech-n1o2l-o7g0y0",
-    "name": "Thomas Jefferson H.S. for Science and Tech n1o2l.o7g0y0,",
+    "name": "Thomas Jefferson H.S. for Science and Tech n1o2l.o7g0y0",
     "city": null,
     "state": null
   },
@@ -3289,7 +3289,7 @@
   },
   {
     "id": "the-ann-richards-school-for-young-women-l1e3a-d3e0r0s",
-    "name": "The Ann Richards School for Young Women L1e3a.d3e0r0s,",
+    "name": "The Ann Richards School for Young Women L1e3a.d3e0r0s",
     "city": null,
     "state": null
   },

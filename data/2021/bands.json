@@ -1068,6 +1068,12 @@
     "state": "OH"
   },
   {
+    "id": "john-hardin-h-s-ky",
+    "name": "John Hardin H.S.",
+    "city": null,
+    "state": "KY"
+  },
+  {
     "id": "clear-brook-h-s-tx",
     "name": "Clear Brook H.S.",
     "city": null,
@@ -1429,9 +1435,9 @@
   },
   {
     "id": "wakeland-h-s-tx",
-    "name": "Wakeland H.S., TX,",
+    "name": "Wakeland H.S.",
     "city": null,
-    "state": null
+    "state": "TX"
   },
   {
     "id": "edison-h-s-nj",
@@ -2022,12 +2028,6 @@
     "state": "UT"
   },
   {
-    "id": "john-hardin-h-s-ky",
-    "name": "John Hardin H.S.",
-    "city": null,
-    "state": "KY"
-  },
-  {
     "id": "station-camp-h-s-tn",
     "name": "Station Camp H.S.",
     "city": null,
@@ -2611,7 +2611,7 @@
   },
   {
     "id": "thomas-jefferson-h-s-for-science-and-technology",
-    "name": "Thomas Jefferson H.S. for Science and Technology ,",
+    "name": "Thomas Jefferson H.S. for Science and Technology ",
     "city": null,
     "state": null
   },

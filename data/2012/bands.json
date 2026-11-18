@@ -1506,6 +1506,12 @@
     "state": "IN"
   },
   {
+    "id": "clovis-h-s-nm",
+    "name": "Clovis H.S.",
+    "city": null,
+    "state": "NM"
+  },
+  {
     "id": "southmoore-h-s-ok",
     "name": "Southmoore H.S.",
     "city": null,
@@ -1906,12 +1912,6 @@
     "name": "Urbana H.S.",
     "city": null,
     "state": "MD"
-  },
-  {
-    "id": "clovis-h-s-nm",
-    "name": "Clovis H.S.",
-    "city": null,
-    "state": "NM"
   },
   {
     "id": "highland-h-s-id",
@@ -2383,7 +2383,7 @@
   },
   {
     "id": "thomas-jefferson-h-s-for-science-and-tech-n1o6lo-8g0y",
-    "name": "Thomas Jefferson H.S. for Science and Tech n1o6lo.8g0y,",
+    "name": "Thomas Jefferson H.S. for Science and Tech n1o6lo.8g0y",
     "city": null,
     "state": null
   },

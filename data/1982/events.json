@@ -5,13 +5,17 @@
     "name": "1982 Bands of America Northern Regional Championship",
     "type": "Regional",
     "venue": "University of Toledo",
+    "address": "2801 West Bancroft Street, Toledo, OH 43606",
     "date": "1982-10-02",
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6583953,
     "lng": -83.6147907,
-    "address": "2801 West Bancroft Street, Toledo, OH 43606",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1982-regional-championship-at-cullowhee-nc",
@@ -19,13 +23,17 @@
     "name": "1982 Bands of America Cullowhee Regional Championship",
     "type": "Regional",
     "venue": "Western Carolina University",
+    "address": "65 Circle Drive, Cullowhee, NC 28723",
     "date": "1982-10-09",
     "city": "Cullowhee",
     "state": "NC",
     "lat": 35.3100146,
     "lng": -83.1990402,
-    "address": "65 Circle Drive, Cullowhee, NC 28723",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1982-midwest-regional-championship-at-indianapolis-in",
@@ -33,13 +41,17 @@
     "name": "1982 Bands of America Midwest Regional Championship",
     "type": "Regional",
     "venue": "Lawrence Central",
+    "address": "Monument Circle, Indianapolis, IN 46282",
     "date": "1982-10-16",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7683331,
     "lng": -86.1583502,
-    "address": "Monument Circle, Indianapolis, IN 46282",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1982-regional-championship-at-houston-tx",
@@ -47,13 +59,17 @@
     "name": "1982 Bands of America Houston Regional Championship",
     "type": "Regional",
     "venue": "University of Houston",
+    "address": "4800 Calhoun Road, Houston, TX 77004",
     "date": "1982-10-30",
     "city": "Houston",
     "state": "TX",
     "lat": 29.7207902,
     "lng": -95.3440627,
-    "address": "4800 Calhoun Road, Houston, TX 77004",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1982-grand-national-championship-at-johnson-city-tn",
@@ -61,12 +77,16 @@
     "name": "1982 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "East Tennessee State University",
+    "address": "1276 Gilbreath Drive, Johnson City, TN 37614",
     "date": "1982-11-05",
     "city": "Johnson City",
     "state": "TN",
     "lat": 36.3024236,
     "lng": -82.3692822,
-    "address": "1276 Gilbreath Drive, Johnson City, TN 37614",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   }
 ]

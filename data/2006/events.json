@@ -5,13 +5,17 @@
     "name": "2006 Bands of America Murfreesboro Regional Championship",
     "type": "Regional",
     "venue": "Middle Tennessee State University",
+    "address": "1301 East Main Street, Murfreesboro, TN 37132",
     "date": "2006-09-30",
     "city": "Murfreesboro",
     "state": "TN",
     "lat": 35.8486008,
     "lng": -86.3609036,
-    "address": "1301 East Main Street, Murfreesboro, TN 37132",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2006-regional-championship-at-youngstown-oh",
@@ -19,13 +23,17 @@
     "name": "2006 Bands of America Youngstown Regional Championship",
     "type": "Regional",
     "venue": "Youngstown State University",
+    "address": "1 University Plaza, Youngstown, OH 44555",
     "date": "2006-09-30",
     "city": "Youngstown",
     "state": "OH",
     "lat": 41.1067218,
     "lng": -80.6477542,
-    "address": "1 University Plaza, Youngstown, OH 44555",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2006-regional-championship-at-arlington-tx",
@@ -33,13 +41,17 @@
     "name": "2006 Bands of America Arlington Regional Championship",
     "type": "Regional",
     "venue": "University of Texas",
+    "address": "1501 Commerce Street, Fort Worth, TX 76102",
     "date": "2006-10-07",
     "city": "Fort Worth",
     "state": "TX",
     "lat": 32.7485139,
     "lng": -97.3255424,
-    "address": "1501 Commerce Street, Fort Worth, TX 76102",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2006-regional-championship-at-ypsilanti-mi",
@@ -47,13 +59,17 @@
     "name": "2006 Bands of America Ypsilanti Regional Championship",
     "type": "Regional",
     "venue": "Rynearson Stadium - Oct. 7",
+    "address": "Westview Street, Ypsilanti, MI 48197",
     "date": "2006-10-07",
     "city": "Ypsilanti",
     "state": "MI",
     "lat": 42.2558724,
     "lng": -83.6473747,
-    "address": "Westview Street, Ypsilanti, MI 48197",
-    "timezone": "America/Detroit"
+    "timezone": "America/Detroit",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2006-regional-championship-at-flagstaff-az",
@@ -61,13 +77,17 @@
     "name": "2006 Bands of America Flagstaff Regional Championship",
     "type": "Regional",
     "venue": "Northern Arizona University",
+    "address": "1 Runke Drive, Flagstaff, AZ 86001",
     "date": "2006-10-14",
     "city": "Flagstaff",
     "state": "AZ",
     "lat": 35.1830867,
     "lng": -111.654961,
-    "address": "1 Runke Drive, Flagstaff, AZ 86001",
-    "timezone": "America/Phoenix"
+    "timezone": "America/Phoenix",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2006-regional-championship-at-houston-pearland-tx",
@@ -75,13 +95,17 @@
     "name": "2006 Bands of America Houston (Pearland) Regional Championship",
     "type": "Regional",
     "venue": "Pearland Stadium (The RIG)",
+    "address": "Pearland Parkway, Houston, TX 77581",
     "date": "2006-10-14",
     "city": "Houston",
     "state": "TX",
     "lat": 29.5380231,
     "lng": -95.2711558,
-    "address": "Pearland Parkway, Houston, TX 77581",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2006-regional-championship-at-houston-tx",
@@ -89,13 +113,17 @@
     "name": "2006 Bands of America Houston Regional Championship",
     "type": "Regional",
     "venue": "Pearland Stadium (The RIG)",
+    "address": "Pearland Parkway, Houston, TX 77581",
     "date": "2006-10-14",
     "city": "Houston",
     "state": "TX",
     "lat": 29.5380231,
     "lng": -95.2711558,
-    "address": "Pearland Parkway, Houston, TX 77581",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2006-regional-championship-at-st-petersburg-fl",
@@ -103,13 +131,17 @@
     "name": "2006 Bands of America St. Petersburg Regional Championship",
     "type": "Regional",
     "venue": "Tropicana Field",
+    "address": "Pinellas Trail, Saint Petersburg, FL 33701",
     "date": "2006-10-14",
     "city": "Saint Petersburg",
     "state": "FL",
     "lat": 27.7680559,
     "lng": -82.6532755,
-    "address": "Pinellas Trail, Saint Petersburg, FL 33701",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2006-regional-championship-at-st-louis-mo",
@@ -117,13 +149,17 @@
     "name": "2006 Bands of America St. Louis Regional Championship",
     "type": "Regional",
     "venue": "Edward Jones Dome",
+    "address": "701 Convention Plaza, Saint Louis, MO 63101",
     "date": "2006-10-21",
     "city": "Saint Louis",
     "state": "MO",
     "lat": 38.6327852,
     "lng": -90.188551,
-    "address": "701 Convention Plaza, Saint Louis, MO 63101",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2006-regional-championship-at-towson-md",
@@ -131,13 +167,17 @@
     "name": "2006 Bands of America Towson Regional Championship",
     "type": "Regional",
     "venue": "Johnny Unitas Stadium",
+    "address": "Auburn Drive, Towson, MD 21252",
     "date": "2006-10-21",
     "city": "Towson",
     "state": "MD",
     "lat": 39.3885483,
     "lng": -76.6158585,
-    "address": "Auburn Drive, Towson, MD 21252",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2006-super-regional-championship-at-st-louis-mo",
@@ -145,13 +185,17 @@
     "name": "2006 Bands of America St. Louis Super Regional Championship",
     "type": "Super Regional",
     "venue": "Edward Jones Dome",
+    "address": "701 Convention Plaza, Saint Louis, MO 63101",
     "date": "2006-10-21",
     "city": "Saint Louis",
     "state": "MO",
     "lat": 38.6327852,
     "lng": -90.188551,
-    "address": "701 Convention Plaza, Saint Louis, MO 63101",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2006-regional-championship-at-los-angeles-ca",
@@ -159,13 +203,17 @@
     "name": "2006 Bands of America Los Angeles Regional Championship",
     "type": "Regional",
     "venue": "Los Angeles Memorial Coliseum",
+    "address": "Olympic Gateway, Los Angeles, CA 90089",
     "date": "2006-10-28",
     "city": "Los Angeles",
     "state": "CA",
     "lat": 34.0139159,
     "lng": -118.2877996,
-    "address": "Olympic Gateway, Los Angeles, CA 90089",
-    "timezone": "America/Los_Angeles"
+    "timezone": "America/Los_Angeles",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2006-super-regional-championship-at-atlanta-georgia",
@@ -173,13 +221,17 @@
     "name": "2006 Bands of America Atlanta Super Regional Championship",
     "type": "Super Regional",
     "venue": "Georgia Dome",
+    "address": "1 Backyard Way, Atlanta, GA 30313",
     "date": "2006-10-28",
     "city": "Atlanta",
     "state": "GA",
     "lat": 33.758056,
     "lng": -84.401111,
-    "address": "1 Backyard Way, Atlanta, GA 30313",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2006-regional-championship-at-indianapolis-in",
@@ -187,13 +239,17 @@
     "name": "2006 Bands of America Indianapolis Regional Championship",
     "type": "Regional",
     "venue": "RCA Dome",
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
     "date": "2006-11-04",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
     "lng": -86.1640108,
-    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2006-regional-championship-at-san-antonio-tx",
@@ -201,13 +257,17 @@
     "name": "2006 Bands of America San Antonio Regional Championship",
     "type": "Regional",
     "venue": "Alamodome",
+    "address": "100 Montana Street, San Antonio, TX 78203",
     "date": "2006-11-04",
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
     "lng": -98.4788949,
-    "address": "100 Montana Street, San Antonio, TX 78203",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2006-grand-national-championships-at-indianapolis-indiana",
@@ -215,13 +275,17 @@
     "name": "2006 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "RCA Dome",
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
     "date": "2006-11-09",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
     "lng": -86.1640108,
-    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2006-grand-national-championship-at-indianapolis-indiana",
@@ -229,12 +293,16 @@
     "name": "2006 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "RCA Dome",
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
     "date": "2006-11-10",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
     "lng": -86.1640108,
-    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   }
 ]

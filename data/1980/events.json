@@ -5,13 +5,17 @@
     "name": "1980 Bands of America Summer National Championship",
     "type": "National",
     "venue": "Warhawk Stadium",
+    "address": "West Schwager Drive, Whitewater, WI 53190",
     "date": "1980-06-20",
     "city": "Whitewater",
     "state": "WI",
     "lat": 42.8469937,
     "lng": -88.7449823,
-    "address": "West Schwager Drive, Whitewater, WI 53190",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1980-northern-regional-championship-at-toledo-oh",
@@ -19,13 +23,17 @@
     "name": "1980 Bands of America Northern Regional Championship",
     "type": "Regional",
     "venue": "University of Toledo",
+    "address": "2801 West Bancroft Street, Toledo, OH 43606",
     "date": "1980-10-04",
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6583953,
     "lng": -83.6147907,
-    "address": "2801 West Bancroft Street, Toledo, OH 43606",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1980-northeastern-regional-championship-at-west-chester-pa",
@@ -33,13 +41,17 @@
     "name": "1980 Bands of America Northeastern Regional Championship",
     "type": "Regional",
     "venue": "West Chester State College",
+    "address": "1 East Market Street, West Chester, PA 19382",
     "date": "1980-10-11",
     "city": "West Chester",
     "state": "PA",
     "lat": 39.9597389,
     "lng": -75.6044609,
-    "address": "1 East Market Street, West Chester, PA 19382",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1980-eastern-regional-championship-at-harrisonburg-va",
@@ -47,13 +59,17 @@
     "name": "1980 Bands of America Eastern Regional Championship",
     "type": "Regional",
     "venue": "James Madison University",
+    "address": "800 South Main Street, Harrisonburg, VA 22807",
     "date": "1980-11-01",
     "city": "Harrisonburg",
     "state": "VA",
     "lat": 38.4362412,
     "lng": -78.8687576,
-    "address": "800 South Main Street, Harrisonburg, VA 22807",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1980-southern-regional-championship-at-gonzalez-fl",
@@ -61,13 +77,17 @@
     "name": "1980 Bands of America Southern Regional Championship",
     "type": "Regional",
     "venue": "Tate High School",
+    "address": "Staff Drive, Cantonment, FL 32533",
     "date": "1980-11-01",
     "city": "Cantonment",
     "state": "FL",
     "lat": 30.5744128,
     "lng": -87.3011046,
-    "address": "Staff Drive, Cantonment, FL 32533",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1980-mid-southern-regional-championship-at-jackson-tn",
@@ -75,13 +95,17 @@
     "name": "1980 Bands of America Mid-Southern Regional Championship",
     "type": "Regional",
     "venue": "Roth Rock Stadium",
+    "address": "207 East Main Street, Jackson, TN 38301",
     "date": "1980-11-08",
     "city": "Jackson",
     "state": "TN",
     "lat": 35.6144446,
     "lng": -88.8177418,
-    "address": "207 East Main Street, Jackson, TN 38301",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1980-southwestern-regional-championship-at-commerce-tx",
@@ -89,13 +113,17 @@
     "name": "1980 Bands of America Southwestern Regional Championship",
     "type": "Regional",
     "venue": "East Texas State University",
+    "address": "198 Avenue A, Palestine, TX 75801",
     "date": "1980-11-08",
     "city": "Palestine",
     "state": "TX",
     "lat": 31.7621153,
     "lng": -95.6307891,
-    "address": "198 Avenue A, Palestine, TX 75801",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1980-grand-national-championship-at-jacksonville-fl",
@@ -103,12 +131,16 @@
     "name": "1980 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "The Gator Bowl",
+    "address": "1408 Gator Bowl Boulevard, Jacksonville, FL 32202",
     "date": "1980-11-28",
     "city": "Jacksonville",
     "state": "FL",
     "lat": 30.3215709,
     "lng": -81.6398592,
-    "address": "1408 Gator Bowl Boulevard, Jacksonville, FL 32202",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   }
 ]

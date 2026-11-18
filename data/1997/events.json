@@ -5,13 +5,17 @@
     "name": "1997 Bands of America Cincinnati Regional Championship",
     "type": "Regional",
     "venue": "University of Cincinnati",
+    "address": "Clifton Avenue, Cincinnati, OH 45221",
     "date": "1997-09-27",
     "city": "Cincinnati",
     "state": "OH",
     "lat": 39.1315542,
     "lng": -84.5202952,
-    "address": "Clifton Avenue, Cincinnati, OH 45221",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1997-regional-championship-at-toledo-oh",
@@ -19,13 +23,17 @@
     "name": "1997 Bands of America Toledo Regional Championship",
     "type": "Regional",
     "venue": "University of Toledo",
+    "address": "2801 West Bancroft Street, Toledo, OH 43606",
     "date": "1997-10-04",
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6583953,
     "lng": -83.6147907,
-    "address": "2801 West Bancroft Street, Toledo, OH 43606",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1997-regional-championship-at-morgantown-wv",
@@ -33,13 +41,17 @@
     "name": "1997 Bands of America Morgantown Regional Championship",
     "type": "Regional",
     "venue": "West Virginia University",
+    "address": "1550 University Avenue, Morgantown, WV 26505",
     "date": "1997-10-11",
     "city": "Morgantown",
     "state": "WV",
     "lat": 39.6348398,
     "lng": -79.9542095,
-    "address": "1550 University Avenue, Morgantown, WV 26505",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1997-regional-championship-at-houston-tx",
@@ -47,13 +59,17 @@
     "name": "1997 Bands of America Houston Regional Championship",
     "type": "Regional",
     "venue": "Rice University",
+    "address": "6100 Main Street, Houston, TX 77005",
     "date": "1997-10-18",
     "city": "Houston",
     "state": "TX",
     "lat": 29.7167915,
     "lng": -95.4047811,
-    "address": "6100 Main Street, Houston, TX 77005",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1997-regional-championship-at-johnson-city-tn",
@@ -61,13 +77,17 @@
     "name": "1997 Bands of America Johnson City Regional Championship",
     "type": "Regional",
     "venue": "East Tennessee State University",
+    "address": "1276 Gilbreath Drive, Johnson City, TN 37614",
     "date": "1997-10-18",
     "city": "Johnson City",
     "state": "TN",
     "lat": 36.3024236,
     "lng": -82.3692822,
-    "address": "1276 Gilbreath Drive, Johnson City, TN 37614",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1997-regional-championship-at-piscataway-nj",
@@ -75,13 +95,17 @@
     "name": "1997 Bands of America Piscataway Regional Championship",
     "type": "Regional",
     "venue": "Rutgers University",
+    "address": "Scarlet Knight Way, Piscataway, NJ 08855",
     "date": "1997-10-18",
     "city": "Piscataway",
     "state": "NJ",
     "lat": 40.5204169,
     "lng": -74.4645303,
-    "address": "Scarlet Knight Way, Piscataway, NJ 08855",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1997-regional-championship-at-pitscataway-nj",
@@ -89,13 +113,17 @@
     "name": "1997 Bands of America Pitscataway Regional Championship",
     "type": "Regional",
     "venue": "Rutgers University",
+    "address": "Scarlet Knight Way, Piscataway, NJ 08855",
     "date": "1997-10-18",
     "city": "Piscataway",
     "state": "NJ",
     "lat": 40.5204169,
     "lng": -74.4645303,
-    "address": "Scarlet Knight Way, Piscataway, NJ 08855",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1997-regional-championship-at-st-louis-mo",
@@ -103,13 +131,17 @@
     "name": "1997 Bands of America St. Louis Regional Championship",
     "type": "Regional",
     "venue": "Trans World Dome",
+    "address": "701 Convention Plaza, Saint Louis, MO 63101",
     "date": "1997-10-25",
     "city": "Saint Louis",
     "state": "MO",
     "lat": 38.6327852,
     "lng": -90.188551,
-    "address": "701 Convention Plaza, Saint Louis, MO 63101",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1997-regional-championship-at-atlanta-ga",
@@ -117,13 +149,17 @@
     "name": "1997 Bands of America Atlanta Regional Championship",
     "type": "Regional",
     "venue": "Georgia Dome",
+    "address": "1 Backyard Way, Atlanta, GA 30313",
     "date": "1997-11-01",
     "city": "Atlanta",
     "state": "GA",
     "lat": 33.758056,
     "lng": -84.401111,
-    "address": "1 Backyard Way, Atlanta, GA 30313",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1997-regional-championship-at-indianapolis-in",
@@ -131,13 +167,17 @@
     "name": "1997 Bands of America Indianapolis Regional Championship",
     "type": "Regional",
     "venue": "RCA Dome",
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
     "date": "1997-11-01",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
     "lng": -86.1640108,
-    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1997-regional-championship-at-waco-tx",
@@ -145,13 +185,17 @@
     "name": "1997 Bands of America Waco Regional Championship",
     "type": "Regional",
     "venue": "Baylor University",
+    "address": "1301 South University Parks Drive, Waco, TX 76706",
     "date": "1997-11-08",
     "city": "Waco",
     "state": "TX",
     "lat": 31.5504341,
     "lng": -97.1102906,
-    "address": "1301 South University Parks Drive, Waco, TX 76706",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1997-grand-national-championship-at-indianapolis-in",
@@ -159,12 +203,16 @@
     "name": "1997 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "RCA Dome",
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
     "date": "1997-11-13",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
     "lng": -86.1640108,
-    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   }
 ]

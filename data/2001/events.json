@@ -5,13 +5,17 @@
     "name": "2001 Bands of America Louisville Regional Championship",
     "type": "Regional",
     "venue": "Cardinal Staduim",
+    "address": "South Floyd Street, Louisville, KY 40292",
     "date": "2001-09-22",
     "city": "Louisville",
     "state": "KY",
     "lat": 38.2060161,
     "lng": -85.7587734,
-    "address": "South Floyd Street, Louisville, KY 40292",
-    "timezone": "America/Kentucky/Louisville"
+    "timezone": "America/Kentucky/Louisville",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2001-regional-championship-at-toledo",
@@ -19,13 +23,17 @@
     "name": "2001 Bands of America Toledo Regional Championship",
     "type": "Regional",
     "venue": "University of Toledo Glass Bowl • 9/22/01",
+    "address": "Erie Street Bike Lane, Toledo, OH 43604",
     "date": "2001-09-22",
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6529143,
     "lng": -83.5378173,
-    "address": "Erie Street Bike Lane, Toledo, OH 43604",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2001-regional-championship-at-johnson-city",
@@ -33,13 +41,17 @@
     "name": "2001 Bands of America Johnson City Regional Championship",
     "type": "Regional",
     "venue": "East Tennessee State University • 9/29/2001",
+    "address": "1276 Gilbreath Drive, Johnson City, TN 37614",
     "date": "2001-09-29",
     "city": "Johnson City",
     "state": "TN",
     "lat": 36.3024236,
     "lng": -82.3692822,
-    "address": "1276 Gilbreath Drive, Johnson City, TN 37614",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2001-regional-championship-at-orlando",
@@ -47,13 +59,17 @@
     "name": "2001 Bands of America Orlando Regional Championship",
     "type": "Regional",
     "venue": "Citrus Bowl",
+    "address": "West Church Street, Orlando, FL 32805",
     "date": "2001-09-29",
     "city": "Orlando",
     "state": "FL",
     "lat": 28.5390398,
     "lng": -81.4027504,
-    "address": "West Church Street, Orlando, FL 32805",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2001-regional-championship-at-las-vegas",
@@ -61,13 +77,17 @@
     "name": "2001 Bands of America Las Vegas Regional Championship",
     "type": "Regional",
     "venue": "Sam Boyd Stadium - Las Vegas, NV",
+    "address": "East Russell Road, Las Vegas, NV 89112",
     "date": "2001-10-06",
     "city": "Las Vegas",
     "state": "NV",
     "lat": 36.0862687,
     "lng": -115.0167365,
-    "address": "East Russell Road, Las Vegas, NV 89112",
-    "timezone": "America/Los_Angeles"
+    "timezone": "America/Los_Angeles",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2001-regional-championship-at-san-antonio-tx",
@@ -75,13 +95,17 @@
     "name": "2001 Bands of America San Antonio Regional Championship",
     "type": "Regional",
     "venue": "Alamodome",
+    "address": "100 Montana Street, San Antonio, TX 78203",
     "date": "2001-10-06",
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
     "lng": -98.4788949,
-    "address": "100 Montana Street, San Antonio, TX 78203",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2001-regional-championship-at-hempstead",
@@ -89,13 +113,17 @@
     "name": "2001 Bands of America Hempstead Regional Championship",
     "type": "Regional",
     "venue": "Hofstra University",
+    "address": "Hofstra Boulevard, Hempstead, NY 11549",
     "date": "2001-10-13",
     "city": "Hempstead",
     "state": "NY",
     "lat": 40.7169083,
     "lng": -73.6000225,
-    "address": "Hofstra Boulevard, Hempstead, NY 11549",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2001-regional-championship-at-st-louis",
@@ -103,13 +131,17 @@
     "name": "2001 Bands of America St. Louis Regional Championship",
     "type": "Regional",
     "venue": "The Dome at America Center • October 13, 2001",
+    "address": "701 Convention Plaza, St. Louis, MO 63101",
     "date": "2001-10-13",
     "city": "St. Louis",
     "state": "MO",
     "lat": 38.6327852,
     "lng": -90.188551,
-    "address": "701 Convention Plaza, St. Louis, MO 63101",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2001-regional-championship-at-arlington-tx",
@@ -117,13 +149,17 @@
     "name": "2001 Bands of America Arlington Regional Championship",
     "type": "Regional",
     "venue": "University of Texas - Maverick Stadium",
+    "address": "101 South Center Street, Arlington, TX 76004",
     "date": "2001-10-20",
     "city": "Arlington",
     "state": "TX",
     "lat": 32.7355816,
     "lng": -97.1071186,
-    "address": "101 South Center Street, Arlington, TX 76004",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2001-regional-championship-at-massillon",
@@ -131,13 +167,17 @@
     "name": "2001 Bands of America Massillon Regional Championship",
     "type": "Regional",
     "venue": "Paul Brown Tiger Stadium • October 20, 2001",
+    "address": "Russell Boulevard Southeast, Massillon, OH 44646",
     "date": "2001-10-20",
     "city": "Massillon",
     "state": "OH",
     "lat": 40.793641,
     "lng": -81.4997215,
-    "address": "Russell Boulevard Southeast, Massillon, OH 44646",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2001-regional-championship-at-atlanta",
@@ -145,13 +185,17 @@
     "name": "2001 Bands of America Atlanta Regional Championship",
     "type": "Regional",
     "venue": "Georgia Dome • October 27, 2001",
+    "address": "1 Backyard Way, Atlanta, GA 30313",
     "date": "2001-10-27",
     "city": "Atlanta",
     "state": "GA",
     "lat": 33.758056,
     "lng": -84.401111,
-    "address": "1 Backyard Way, Atlanta, GA 30313",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2001-regional-championship-at-morgantown-wv",
@@ -159,13 +203,17 @@
     "name": "2001 Bands of America Morgantown Regional Championship",
     "type": "Regional",
     "venue": "Mountaineer Stadium",
+    "address": "Law School Drive, Morgantown, WV 26506",
     "date": "2001-10-27",
     "city": "Morgantown",
     "state": "WV",
     "lat": 39.6501842,
     "lng": -79.9549877,
-    "address": "Law School Drive, Morgantown, WV 26506",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2001-regional-championship-at-houston-tx",
@@ -173,13 +221,17 @@
     "name": "2001 Bands of America Houston Regional Championship",
     "type": "Regional",
     "venue": "Rice University",
+    "address": "6100 Main Street, Houston, TX 77005",
     "date": "2001-11-03",
     "city": "Houston",
     "state": "TX",
     "lat": 29.7167915,
     "lng": -95.4047811,
-    "address": "6100 Main Street, Houston, TX 77005",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2001-regional-championship-at-indianapolis",
@@ -187,13 +239,17 @@
     "name": "2001 Bands of America Indianapolis Regional Championship",
     "type": "Regional",
     "venue": "RCA Dome • November 3, 2001",
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
     "date": "2001-11-03",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
     "lng": -86.1640108,
-    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2001-grand-national-championships",
@@ -201,12 +257,16 @@
     "name": "2001 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "RCA Dome • Indianapolis, IN • November 8, 2001",
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
     "date": "2001-11-08",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
     "lng": -86.1640108,
-    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   }
 ]

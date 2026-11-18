@@ -678,6 +678,12 @@
     "state": "TX"
   },
   {
+    "id": "carmel-h-s",
+    "name": "Carmel H.S.",
+    "city": null,
+    "state": null
+  },
+  {
     "id": "john-glenn-h-s",
     "name": "John Glenn H.S.",
     "city": null,
@@ -1368,6 +1374,12 @@
     "state": "OH"
   },
   {
+    "id": "john-hardin-h-s-ky",
+    "name": "John Hardin H.S.",
+    "city": null,
+    "state": "KY"
+  },
+  {
     "id": "chapin-h-s-sc",
     "name": "Chapin H.S.",
     "city": null,
@@ -1855,9 +1867,15 @@
   },
   {
     "id": "wakeland-h-s-tx",
-    "name": "Wakeland H.S., TX,",
+    "name": "Wakeland H.S.",
     "city": null,
-    "state": null
+    "state": "TX"
+  },
+  {
+    "id": "clovis-h-s-nm",
+    "name": "Clovis H.S.",
+    "city": null,
+    "state": "NM"
   },
   {
     "id": "southmoore-h-s-ok",
@@ -2062,12 +2080,6 @@
     "name": "Cleveland H.S.",
     "city": null,
     "state": "NC"
-  },
-  {
-    "id": "clovis-h-s-nm",
-    "name": "Clovis H.S.",
-    "city": null,
-    "state": "NM"
   },
   {
     "id": "mountain-view-h-s-id",
@@ -2554,12 +2566,6 @@
     "name": "Ridgeline H.S.",
     "city": null,
     "state": "UT"
-  },
-  {
-    "id": "john-hardin-h-s-ky",
-    "name": "John Hardin H.S.",
-    "city": null,
-    "state": "KY"
   },
   {
     "id": "station-camp-h-s-tn",
@@ -3592,12 +3598,6 @@
     "name": "Damien H.S.",
     "city": null,
     "state": "CA"
-  },
-  {
-    "id": "wakeland-h-s",
-    "name": "Wakeland H.S.",
-    "city": null,
-    "state": null
   },
   {
     "id": "bob-jones-h-s-al",

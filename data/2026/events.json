@@ -1,18 +1,4762 @@
 [
   {
+    "id": "2026-grand-national-championships",
+    "season": 2026,
+    "name": "2026 Bands of America Grand National Championships",
+    "type": "Grand National",
+    "venue": "Lucas Oil Stadium",
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
+    "date": "2026-11-12",
+    "city": "Indianapolis",
+    "state": "IN",
+    "lat": 39.7590621,
+    "lng": -86.1638376,
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": "https://marching.musicforall.org/grand-national-championships/",
+    "schedule": [],
+    "awards": [
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Avon H.S.",
+            "bandState": "IN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Avon H.S.",
+            "bandState": "IN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Avon H.S.",
+            "bandState": "IN"
+          }
+        ]
+      },
+      {
+        "round": "Semifinals",
+        "class": "4A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Avon H.S.",
+            "bandState": "IN"
+          }
+        ]
+      },
+      {
+        "round": "Semifinals",
+        "class": "4A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Avon H.S.",
+            "bandState": "IN"
+          }
+        ]
+      },
+      {
+        "round": "Semifinals",
+        "class": "4A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Avon H.S.",
+            "bandState": "IN"
+          }
+        ]
+      },
+      {
+        "round": "Semifinals",
+        "class": "3A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Friendswood H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Semifinals",
+        "class": "3A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Castle H.S.",
+            "bandState": "IN"
+          }
+        ]
+      },
+      {
+        "round": "Semifinals",
+        "class": "3A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "O’Fallon Township H.S.",
+            "bandState": "IL"
+          }
+        ]
+      },
+      {
+        "round": "Semifinals",
+        "class": "2A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Tarpon Springs H.S.",
+            "bandState": "FL"
+          }
+        ]
+      },
+      {
+        "round": "Semifinals",
+        "class": "2A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Tarpon Springs H.S.",
+            "bandState": "FL"
+          }
+        ]
+      },
+      {
+        "round": "Semifinals",
+        "class": "2A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Tarpon Springs H.S.",
+            "bandState": "FL"
+          }
+        ]
+      },
+      {
+        "round": "Semifinals",
+        "class": "1A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Marian Catholic H.S.",
+            "bandState": "IL"
+          }
+        ]
+      },
+      {
+        "round": "Semifinals",
+        "class": "1A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Beechwood H.S., KY and Marian Catholic H.S.",
+            "bandState": "IL"
+          }
+        ]
+      },
+      {
+        "round": "Semifinals",
+        "class": "1A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Marian Catholic H.S.",
+            "bandState": "IL"
+          }
+        ]
+      }
+    ],
+    "judges": [
+      {
+        "round": "Prelims",
+        "headJudges": [
+          "Nola Jones"
+        ]
+      },
+      {
+        "round": "Semifinals",
+        "headJudges": [
+          "John Phillips",
+          "Nola Jones"
+        ]
+      },
+      {
+        "round": "Finals",
+        "headJudges": [
+          "John Phillips",
+          "Nola Jones"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-utah-regional",
+    "season": 2026,
+    "name": "2026 Bands of America Utah Regional Championship",
+    "type": "Regional",
+    "venue": "Utah Tech University, Greater Zion Stadium",
+    "address": "225 University Avenue, St. George, UT 84771",
+    "date": "2026-11-07",
+    "city": "St. George",
+    "state": "UT",
+    "lat": 37.1030099,
+    "lng": -113.5653354,
+    "timezone": "America/Denver",
+    "sourceUrl": "https://marching.musicforall.org/utah-regional/",
+    "schedule": [],
+    "awards": [
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "American Fork H.S.",
+            "bandState": "UT"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "American Fork H.S.",
+            "bandState": "UT"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "American Fork H.S.",
+            "bandState": "UT"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Green Canyon H.S.",
+            "bandState": "UT"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Green Canyon H.S.",
+            "bandState": "UT"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Green Canyon H.S.",
+            "bandState": "UT"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Organ Mountain H.S.",
+            "bandState": "NM"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Organ Mountain H.S.",
+            "bandState": "NM"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Organ Mountain H.S.",
+            "bandState": "NM"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "American Fork H.S.",
+            "bandState": "UT"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "American Fork H.S.",
+            "bandState": "UT"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "American Fork H.S.",
+            "bandState": "UT"
+          }
+        ]
+      }
+    ],
+    "judges": [
+      {
+        "round": "Prelims",
+        "headJudges": [
+          "Matt McCready"
+        ]
+      },
+      {
+        "round": "Finals",
+        "headJudges": [
+          "Matt McCready"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-san-antonio-super-regional",
+    "season": 2026,
+    "name": "2026 Bands of America San Antonio Super Regional Championship",
+    "type": "Super Regional",
+    "venue": "Alamodome",
+    "address": "100 Montana Street, San Antonio, TX 78203",
+    "date": "2026-11-06",
+    "city": "San Antonio",
+    "state": "TX",
+    "lat": 29.4168923,
+    "lng": -98.4788949,
+    "timezone": "America/Chicago",
+    "sourceUrl": "https://marching.musicforall.org/san-antonio-super-regional/",
+    "schedule": [],
+    "awards": [
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Hebron H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "The Woodlands H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Hebron H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Pecos H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Pecos H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Rivercrest H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Grapevine H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Grapevine H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Grapevine H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Vandegrift H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Vista Ridge H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Vandegrift H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Hebron H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "The Woodlands H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Hebron H.S.",
+            "bandState": "TX"
+          }
+        ]
+      }
+    ],
+    "judges": [
+      {
+        "round": "Prelims",
+        "headJudges": [
+          "Nola Jones"
+        ]
+      },
+      {
+        "round": "Finals",
+        "headJudges": [
+          "Nola Jones"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-central-florida-regional",
+    "season": 2026,
+    "name": "2026 Bands of America Central Florida Regional Championship",
+    "type": "Regional",
+    "venue": "Clearwater High School, Jack White Stadium",
+    "address": "1521 Gulf to Bay Boulevard, Clearwater, FL 33765",
+    "date": "2026-10-31",
+    "city": "Clearwater",
+    "state": "FL",
+    "lat": 27.9594275,
+    "lng": -82.7565545,
+    "timezone": "America/New_York",
+    "sourceUrl": "https://marching.musicforall.org/central-florida-regional/",
+    "schedule": [],
+    "awards": [
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Tarpon Springs H.S.",
+            "bandState": "FL"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Tarpon Springs H.S.",
+            "bandState": "FL"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Tarpon Springs H.S.",
+            "bandState": "FL"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Tarpon Springs H.S.",
+            "bandState": "FL"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Tarpon Springs H.S.",
+            "bandState": "FL"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Tarpon Springs H.S.",
+            "bandState": "FL"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Hialeah Gardens H.S.",
+            "bandState": "FL"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Hialeah Gardens H.S.",
+            "bandState": "FL"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Hialeah Gardens H.S.",
+            "bandState": "FL"
+          }
+        ]
+      }
+    ],
+    "judges": [
+      {
+        "round": "Prelims",
+        "headJudges": [
+          "Matt McCready"
+        ]
+      },
+      {
+        "round": "Finals",
+        "headJudges": [
+          "Matt McCready"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-idaho-regional",
+    "season": 2026,
+    "name": "2026 Bands of America Idaho Regional Championship",
+    "type": "Regional",
+    "venue": "P1FCU Kibbie Dome, University of Idaho",
+    "address": "1000 Stadium Drive, Moscow, ID 83843",
+    "date": "2026-10-31",
+    "city": "Moscow",
+    "state": "ID",
+    "lat": 46.7262411,
+    "lng": -117.0174374,
+    "timezone": "America/Los_Angeles",
+    "sourceUrl": "https://marching.musicforall.org/idaho-regional/",
+    "schedule": [],
+    "awards": [
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Cheney H.S.",
+            "bandState": "WA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Cheney H.S.",
+            "bandState": "WA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Cheney H.S.",
+            "bandState": "WA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Naches Valley H.S.",
+            "bandState": "WA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Naches Valley H.S.",
+            "bandState": "WA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Naches Valley H.S.",
+            "bandState": "WA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Ridgeline H.S.",
+            "bandState": "WA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Ridgeline H.S.",
+            "bandState": "WA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Cheney H.S.",
+            "bandState": "WA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "A.C. Davis H.S.",
+            "bandState": "WA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "A.C. Davis H.S.",
+            "bandState": "WA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Mead H.S.",
+            "bandState": "WA"
+          }
+        ]
+      }
+    ],
+    "judges": [
+      {
+        "round": "Prelims",
+        "headJudges": [
+          "Chris Ferrell"
+        ]
+      },
+      {
+        "round": "Finals",
+        "headJudges": [
+          "Chris Ferrell"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-middle-tennessee-regional",
+    "season": 2026,
+    "name": "2026 Bands of America Middle Tennessee Regional Championship",
+    "type": "Regional",
+    "venue": "Tucker Stadium, Tennessee Tech University",
+    "address": "West 12th Street, Cookeville, TN 38501",
+    "date": "2026-10-30",
+    "city": "Cookeville",
+    "state": "TN",
+    "lat": 36.1780904,
+    "lng": -85.5061882,
+    "timezone": "America/Chicago",
+    "sourceUrl": "https://marching.musicforall.org/middle-tennessee-regional/",
+    "schedule": [],
+    "awards": [
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Bartlett H.S.",
+            "bandState": "TN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Dobyns-Bennett H.S.",
+            "bandState": "TN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Bartlett H.S.",
+            "bandState": "TN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Archbishop Alter H.S.",
+            "bandState": "OH"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Archbishop Alter H.S.",
+            "bandState": "OH"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Cascade H.S.",
+            "bandState": "TN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Muscle Shoals H.S.",
+            "bandState": "AL"
+          },
+          {
+            "bandName": "Arlington H.S.",
+            "bandState": "TN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Franklin H.S.",
+            "bandState": "TN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Morton H.S.",
+            "bandState": "IL"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Nation Ford H.S.",
+            "bandState": "SC"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Dobyns-Bennett H.S.",
+            "bandState": "TN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Dobyns-Bennett H.S.",
+            "bandState": "TN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Bartlett H.S.",
+            "bandState": "TN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Bartlett H.S.",
+            "bandState": "TN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Bartlett H.S.",
+            "bandState": "TN"
+          }
+        ]
+      }
+    ],
+    "judges": [
+      {
+        "round": "Prelims",
+        "headJudges": [
+          "Nola Jones"
+        ]
+      },
+      {
+        "round": "Finals",
+        "headJudges": [
+          "Nola Jones"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-california-regional",
+    "season": 2026,
+    "name": "2026 Bands of America California Regional Championship",
+    "type": "Regional",
+    "venue": "Eagle Stadium, Etiwanda High School",
+    "address": "13500 Victoria Street, Rancho Cucamonga, CA 91739",
+    "date": "2026-10-24",
+    "city": "Rancho Cucamonga",
+    "state": "CA",
+    "lat": 34.1304707,
+    "lng": -117.5101687,
+    "timezone": "America/Los_Angeles",
+    "sourceUrl": "https://marching.musicforall.org/california-regional/",
+    "schedule": [],
+    "awards": [
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Pinecrest Academy of Nevada Cadence",
+            "bandState": "NV"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Pinecrest Academy of Nevada Cadence",
+            "bandState": "NV"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Pinecrest Academy of Nevada Cadence",
+            "bandState": "NV"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Gahr H.S.",
+            "bandState": "CA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Gahr H.S.",
+            "bandState": "CA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Gahr H.S.",
+            "bandState": "CA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Eastwood H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Foothill H.S.",
+            "bandState": "NV"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Eastwood H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Vista Murrieta H.S.",
+            "bandState": "CA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Vista Murrieta H.S.",
+            "bandState": "CA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Vista Murrieta H.S.",
+            "bandState": "CA"
+          }
+        ]
+      }
+    ],
+    "judges": [
+      {
+        "round": "Prelims",
+        "headJudges": [
+          "Michael John Rubino"
+        ]
+      },
+      {
+        "round": "Finals",
+        "headJudges": [
+          "Michael John Rubino"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-memphis-regional",
+    "season": 2026,
+    "name": "2026 Bands of America Memphis Regional Championship",
+    "type": "Regional",
+    "venue": "Simmons Bank Liberty Stadium",
+    "address": "Home Run Lane, Memphis, TN 38114",
+    "date": "2026-10-24",
+    "city": "Memphis",
+    "state": "TN",
+    "lat": 35.1211305,
+    "lng": -89.9774153,
+    "timezone": "America/Chicago",
+    "sourceUrl": "https://marching.musicforall.org/memphis-regional/",
+    "schedule": [],
+    "awards": [
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Southlake Carroll H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Southlake Carroll H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Southlake Carroll H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Hope H.S.",
+            "bandState": "AR"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Hope H.S.",
+            "bandState": "AR"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Hope H.S.",
+            "bandState": "AR"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Van Buren Senior H.S.",
+            "bandState": "AR"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Arlington H.S.",
+            "bandState": "TN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Van Buren Senior H.S.",
+            "bandState": "AR"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "DeSoto Central H.S.",
+            "bandState": "MS"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "DeSoto Central H.S.",
+            "bandState": "MS"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "DeSoto Central H.S.",
+            "bandState": "MS"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Southlake Carroll H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Bartlett H.S.",
+            "bandState": "TN"
+          },
+          {
+            "bandName": "Southlake Carroll H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Southlake Carroll H.S.",
+            "bandState": "TX"
+          }
+        ]
+      }
+    ],
+    "judges": [
+      {
+        "round": "Prelims",
+        "headJudges": [
+          "Deborah Torchia"
+        ]
+      },
+      {
+        "round": "Finals",
+        "headJudges": [
+          "Deborah Torchia"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-waco-regional",
+    "season": 2026,
+    "name": "2026 Bands of America Waco Regional Championship",
+    "type": "Regional",
+    "venue": "Baylor University, McLane Stadium",
+    "address": "1301 South University Parks Drive, Waco, TX 76706",
+    "date": "2026-10-24",
+    "city": "Waco",
+    "state": "TX",
+    "lat": 31.5504341,
+    "lng": -97.1102906,
+    "timezone": "America/Chicago",
+    "sourceUrl": "https://marching.musicforall.org/waco-regional/",
+    "schedule": [],
+    "awards": [
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Vandegrift H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Vandegrift H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Vandegrift H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Gatesville H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Gatesville H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Gatesville H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Vandegrift H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Vandegrift H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Vandegrift H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Cedar Ridge H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Cedar Ridge H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Cedar Ridge H.S.",
+            "bandState": "TX"
+          }
+        ]
+      }
+    ],
+    "judges": [
+      {
+        "round": "Prelims",
+        "headJudges": [
+          "Phil Madden"
+        ]
+      },
+      {
+        "round": "Finals",
+        "headJudges": [
+          "Phil Madden"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-st-louis-super-regional",
+    "season": 2026,
+    "name": "2026 Bands of America St. Louis Super Regional Championship",
+    "type": "Super Regional",
+    "venue": "The Dome at America’s Center",
+    "address": "701 Convention Plaza, St. Louis, MO 63101",
+    "date": "2026-10-23",
+    "city": "St. Louis",
+    "state": "MO",
+    "lat": 38.6327852,
+    "lng": -90.188551,
+    "timezone": "America/Chicago",
+    "sourceUrl": "https://marching.musicforall.org/st-louis-super-regional/",
+    "schedule": [],
+    "awards": [
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Broken Arrow H.S.",
+            "bandState": "OK"
+          },
+          {
+            "bandName": "Blue Springs H.S.",
+            "bandState": "MO"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Broken Arrow H.S.",
+            "bandState": "OK"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Broken Arrow H.S.",
+            "bandState": "OK"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Seneca H.S.",
+            "bandState": "MO"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Eureka H.S.",
+            "bandState": "IL"
+          },
+          {
+            "bandName": "Hollister H.S.",
+            "bandState": "MO"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Paris H.S.",
+            "bandState": "IL"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Siloam Springs H.S.",
+            "bandState": "AR"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Siloam Springs H.S.",
+            "bandState": "AR"
+          },
+          {
+            "bandName": "Morton H.S.",
+            "bandState": "IL"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Siloam Springs H.S.",
+            "bandState": "AR"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Blue Springs H.S.",
+            "bandState": "MO"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Blue Springs H.S.",
+            "bandState": "MO"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Blue Springs H.S.",
+            "bandState": "MO"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Broken Arrow H.S.",
+            "bandState": "OK"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Broken Arrow H.S.",
+            "bandState": "OK"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Broken Arrow H.S.",
+            "bandState": "OK"
+          }
+        ]
+      }
+    ],
+    "judges": [
+      {
+        "round": "Prelims",
+        "headJudges": [
+          "Richard L. Saucedo",
+          "Chris Ferrell"
+        ]
+      },
+      {
+        "round": "Finals",
+        "headJudges": [
+          "Richard L. Saucedo",
+          "Chris Ferrell"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-east-tennessee-regional",
+    "season": 2026,
+    "name": "2026 Bands of America East Tennessee Regional Championship",
+    "type": "Regional",
+    "venue": "Ballad Health Athletic Center, East Tennessee State University",
+    "address": "Buffalo Street, Johnson City, TN 37605",
+    "date": "2026-10-17",
+    "city": "Johnson City",
+    "state": "TN",
+    "lat": 36.3167671,
+    "lng": -82.352903,
+    "timezone": "America/New_York",
+    "sourceUrl": "https://marching.musicforall.org/ballad-health-east-tennessee-regional/",
+    "schedule": [],
+    "awards": [
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Dobyns-Bennett H.S.",
+            "bandState": "TN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Dobyns-Bennett H.S.",
+            "bandState": "TN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Dobyns-Bennett H.S.",
+            "bandState": "TN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "South Jones H.S.",
+            "bandState": "MS"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "South Jones H.S.",
+            "bandState": "MS"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "South Jones H.S.",
+            "bandState": "MS"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "West Genesee H.S.",
+            "bandState": "NY"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Elizabethton H.S.",
+            "bandState": "TN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "West Genesee H.S.",
+            "bandState": "NY"
+          },
+          {
+            "bandName": "Elizabethton H.S.",
+            "bandState": "TN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Dobyns-Bennett H.S.",
+            "bandState": "TN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Dobyns-Bennett H.S.",
+            "bandState": "TN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Dobyns-Bennett H.S.",
+            "bandState": "TN"
+          }
+        ]
+      }
+    ],
+    "judges": [
+      {
+        "round": "Prelims",
+        "headJudges": [
+          "Chris Ferrell"
+        ]
+      },
+      {
+        "round": "Finals",
+        "headJudges": [
+          "Chris Ferrell"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-mid-atlantic-regional",
+    "season": 2026,
+    "name": "2026 Bands of America Mid-Atlantic Regional Championship",
+    "type": "Regional",
+    "venue": "University of Delaware, Delaware Stadium",
+    "address": "South College Avenue, Newark, DE 19713",
+    "date": "2026-10-17",
+    "city": "Newark",
+    "state": "DE",
+    "lat": 39.6802837,
+    "lng": -75.7530984,
+    "timezone": "America/New_York",
+    "sourceUrl": "https://marching.musicforall.org/mid-atlantic-regional/",
+    "schedule": [],
+    "awards": [
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Norwin H.S.",
+            "bandState": "PA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Norwin H.S.",
+            "bandState": "PA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Norwin H.S.",
+            "bandState": "PA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Norwin H.S.",
+            "bandState": "PA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Kiski Area H.S.",
+            "bandState": "PA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Norwin H.S.",
+            "bandState": "PA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Independence H.S.",
+            "bandState": "VA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Downingtown West H.S.",
+            "bandState": "PA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Independence H.S.",
+            "bandState": "VA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Green Hope H.S.",
+            "bandState": "NC"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Lakota West H.S.",
+            "bandState": "OH"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Lakota West H.S.",
+            "bandState": "OH"
+          }
+        ]
+      }
+    ],
+    "judges": [
+      {
+        "round": "Prelims",
+        "headJudges": [
+          "Ken Turner"
+        ]
+      },
+      {
+        "round": "Finals",
+        "headJudges": [
+          "Ken Turner"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-indianapolis-super-regional",
+    "season": 2026,
+    "name": "2026 Bands of America Indianapolis Super Regional Championship",
+    "type": "Super Regional",
+    "venue": "Lucas Oil Stadium",
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
+    "date": "2026-10-16",
+    "city": "Indianapolis",
+    "state": "IN",
+    "lat": 39.7590621,
+    "lng": -86.1638376,
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": "https://marching.musicforall.org/indianapolis-super-regional/",
+    "schedule": [],
+    "awards": [
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Carmel H.S.",
+            "bandState": "IN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Avon H.S.",
+            "bandState": "IN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Carmel H.S.",
+            "bandState": "IN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Beechwood H.S.",
+            "bandState": "KY"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Beechwood H.S.",
+            "bandState": "KY"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Beechwood H.S.",
+            "bandState": "KY"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Evansville North H.S.",
+            "bandState": "IN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Brandon Valley H.S.",
+            "bandState": "SD"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Floyd Central H.S.",
+            "bandState": "IN"
+          },
+          {
+            "bandName": "Evansville North H.S.",
+            "bandState": "IN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Blue Springs H.S.",
+            "bandState": "MO"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Blue Springs H.S.",
+            "bandState": "MO"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Blue Springs H.S.",
+            "bandState": "MO"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Avon H.S.",
+            "bandState": "IN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Avon H.S.",
+            "bandState": "IN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Carmel H.S.",
+            "bandState": "IN"
+          }
+        ]
+      }
+    ],
+    "judges": [
+      {
+        "round": "Prelims",
+        "headJudges": [
+          "John Phillips",
+          "Mike Back"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-central-texas-regional",
+    "season": 2026,
+    "name": "2026 Bands of America Central Texas Regional Championship",
+    "type": "Regional",
+    "venue": "Texas State University, UFCU Stadium",
+    "address": "Peques Street, San Marcos, TX 78666",
+    "date": "2026-10-10",
+    "city": "San Marcos",
+    "state": "TX",
+    "lat": 29.8910885,
+    "lng": -97.9376214,
+    "timezone": "America/Chicago",
+    "sourceUrl": "https://marching.musicforall.org/central-texas-regional/",
+    "schedule": [],
+    "awards": [
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Cedar Ridge H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Cedar Ridge H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Cedar Ridge H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Taylor H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Taylor H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Taylor H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Long Creek H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Long Creek H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Legacy Ranch H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "William H. Taft H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Robert E. Hendrickson H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "William H. Taft H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Cedar Ridge H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Cedar Ridge H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Cedar Ridge H.S.",
+            "bandState": "TX"
+          }
+        ]
+      }
+    ],
+    "judges": [
+      {
+        "round": "Prelims",
+        "headJudges": [
+          "John Phillips"
+        ]
+      },
+      {
+        "round": "Finals",
+        "headJudges": [
+          "John Phillips"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-west-texas-regional",
+    "season": 2026,
+    "name": "2026 Bands of America West Texas Regional Championship",
+    "type": "Regional",
+    "venue": "Astound Broadband Stadium",
+    "address": "Martin Luther King Jr. Circle, Midland, TX 77906",
+    "date": "2026-10-10",
+    "city": "Midland",
+    "state": "TX",
+    "lat": 31.9893368,
+    "lng": -102.1539155,
+    "timezone": "America/Chicago",
+    "sourceUrl": "https://marching.musicforall.org/west-texas-regional/",
+    "schedule": [],
+    "awards": [
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Permian H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Eastwood H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Permian H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Pecos H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Pecos H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Pecos H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Lubbock-Cooper Liberty H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Lubbock-Cooper H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Lubbock-Cooper Liberty H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "W.E. Boswell H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Pieper H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Midlothian H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Permian H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Permian H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Louis D. Brandeis H.S.",
+            "bandState": "TX"
+          }
+        ]
+      }
+    ],
+    "judges": [
+      {
+        "round": "Prelims",
+        "headJudges": [
+          "Mike Back"
+        ]
+      },
+      {
+        "round": "Finals",
+        "headJudges": [
+          "Mike Back"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-north-texas-regional",
+    "season": 2026,
+    "name": "2026 Bands of America North Texas Regional Championship",
+    "type": "Regional",
+    "venue": "Prosper ISD Children’s Health Stadium",
+    "address": "198 North Church Street, Prosper, TX 75078",
+    "date": "2026-10-10",
+    "city": "Prosper",
+    "state": "TX",
+    "lat": 33.2371585,
+    "lng": -96.7977048,
+    "timezone": "America/Chicago",
+    "sourceUrl": "https://marching.musicforall.org/north-texas-regional/",
+    "schedule": [],
+    "awards": [
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Hebron H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Hebron H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Hebron H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Whitesboro H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Whitesboro H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Whitesboro H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Lake Dallas H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Muskogee H.S.",
+            "bandState": "OK"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Muskogee H.S.",
+            "bandState": "OK"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Argyle H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Reedy H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Argyle H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Hebron H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Hebron H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Flower Mound H.S.",
+            "bandState": "TX"
+          }
+        ]
+      }
+    ],
+    "judges": [
+      {
+        "round": "Prelims",
+        "headJudges": [
+          "Jon Gomez"
+        ]
+      },
+      {
+        "round": "Finals",
+        "headJudges": [
+          "Jon Gomez"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-kentucky-regional",
+    "season": 2026,
+    "name": "2026 Bands of America Kentucky Regional Championship",
+    "type": "Regional",
+    "venue": "University of Louisville, L&N Federal Credit Union Stadium",
+    "address": "2301 South 3rd Street, Louisville, KY 40292",
+    "date": "2026-10-03",
+    "city": "Louisville",
+    "state": "KY",
+    "lat": 38.2133224,
+    "lng": -85.7577075,
+    "timezone": "America/Kentucky/Louisville",
+    "sourceUrl": "https://marching.musicforall.org/kentucky-regional/",
+    "schedule": [],
+    "awards": [
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Carmel H.S.",
+            "bandState": "IN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Carmel H.S.",
+            "bandState": "IN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Carmel H.S.",
+            "bandState": "IN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Murray H.S.",
+            "bandState": "KY"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Murray H.S.",
+            "bandState": "KY"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Murray H.S.",
+            "bandState": "KY"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Franklin H.S.",
+            "bandState": "TN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Franklin H.S.",
+            "bandState": "TN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Campbell County H.S.",
+            "bandState": "KY"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Castle H.S.",
+            "bandState": "IN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Castle H.S.",
+            "bandState": "IN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Castle H.S.",
+            "bandState": "IN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Carmel H.S.",
+            "bandState": "IN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Carmel H.S.",
+            "bandState": "IN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Carmel H.S.",
+            "bandState": "IN"
+          }
+        ]
+      }
+    ],
+    "judges": [
+      {
+        "round": "Prelims",
+        "headJudges": [
+          "Mike Back"
+        ]
+      },
+      {
+        "round": "Finals",
+        "headJudges": [
+          "Mike Back"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-chattanooga-regional",
+    "season": 2026,
+    "name": "2026 Bands of America Chattanooga Regional Championship",
+    "type": "Regional",
+    "venue": "Finley Stadium",
+    "address": "Chestnut Street, Chattanooga, TN 37408",
+    "date": "2026-10-03",
+    "city": "Chattanooga",
+    "state": "TN",
+    "lat": 35.0363053,
+    "lng": -85.3157148,
+    "timezone": "America/New_York",
+    "sourceUrl": "https://marching.musicforall.org/chattanooga-regional/",
+    "schedule": [],
+    "awards": [
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Dobyns-Bennett H.S.",
+            "bandState": "TN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Dobyns-Bennett H.S.",
+            "bandState": "TN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Dobyns-Bennett H.S.",
+            "bandState": "TN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Signal Mountain H.S.",
+            "bandState": "TN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Signal Mountain H.S.",
+            "bandState": "TN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Signal Mountain H.S.",
+            "bandState": "TN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Evansville North H.S.",
+            "bandState": "IN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Cass H.S.",
+            "bandState": "GA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Evansville North H.S.",
+            "bandState": "IN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Harrison H.S.",
+            "bandState": "GA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Dobyns-Bennett H.S.",
+            "bandState": "TN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Dobyns-Bennett H.S.",
+            "bandState": "TN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Walton H.S.",
+            "bandState": "GA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Hoover H.S.",
+            "bandState": "AL"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Walton H.S.",
+            "bandState": "GA"
+          }
+        ]
+      }
+    ],
+    "judges": [
+      {
+        "round": "Prelims",
+        "headJudges": [
+          "John Turner"
+        ]
+      },
+      {
+        "round": "Finals",
+        "headJudges": [
+          "John Turner"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-northwest-ohio-regional",
+    "season": 2026,
+    "name": "2026 Bands of America Northwest Ohio Regional Championship",
+    "type": "Regional",
+    "venue": "University of Toledo, Glass Bowl Stadium",
+    "address": "2801 West Bancroft Street, Toledo, OH 43606",
+    "date": "2026-10-03",
+    "city": "Toledo",
+    "state": "OH",
+    "lat": 41.6583953,
+    "lng": -83.6147907,
+    "timezone": "America/New_York",
+    "sourceUrl": "https://marching.musicforall.org/northwest-ohio-regional/",
+    "schedule": [],
+    "awards": [
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Jenison H.S.",
+            "bandState": "MI"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Jenison H.S.",
+            "bandState": "MI"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Jenison H.S.",
+            "bandState": "MI"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Ferndale H.S.",
+            "bandState": "MI"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Ferndale H.S.",
+            "bandState": "MI"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Ferndale H.S.",
+            "bandState": "MI"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Jenison H.S.",
+            "bandState": "MI"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Jenison H.S.",
+            "bandState": "MI"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Jenison H.S.",
+            "bandState": "MI"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Goshen H.S.",
+            "bandState": "IN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Goshen H.S.",
+            "bandState": "IN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Goshen H.S.",
+            "bandState": "IN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Plymouth-Canton Educational Park",
+            "bandState": "MI"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Warren Central H.S.",
+            "bandState": "IN"
+          },
+          {
+            "bandName": "Plymouth-Canton Educational Park",
+            "bandState": "MI"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Warren Central H.S.",
+            "bandState": "IN"
+          }
+        ]
+      }
+    ],
+    "judges": [
+      {
+        "round": "Prelims",
+        "headJudges": [
+          "Warren Rickart"
+        ]
+      },
+      {
+        "round": "Finals",
+        "headJudges": [
+          "Warren Rickart"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-iowa-regional",
+    "season": 2026,
+    "name": "2026 Bands of America Iowa Regional Championship",
+    "type": "Regional",
+    "venue": "University of Northern Iowa, UNI Dome",
+    "address": "1227 West 27th Street, Cedar Falls, IA 50614",
+    "date": "2026-10-03",
+    "city": "Cedar Falls",
+    "state": "IA",
+    "lat": 42.5102697,
+    "lng": -92.4630553,
+    "timezone": "America/Chicago",
+    "sourceUrl": "https://marching.musicforall.org/iowa-regional/",
+    "schedule": [],
+    "awards": [
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Rosemount H.S.",
+            "bandState": "MN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Rosemount H.S.",
+            "bandState": "MN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Rosemount H.S.",
+            "bandState": "MN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Pella H.S.",
+            "bandState": "IA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Pella H.S.",
+            "bandState": "IA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Pella H.S.",
+            "bandState": "IA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Brandon Valley H.S.",
+            "bandState": "SD"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Brandon Valley H.S.",
+            "bandState": "SD"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Bellevue West H.S.",
+            "bandState": "NE"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Rosemount H.S.",
+            "bandState": "MN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Rosemount H.S.",
+            "bandState": "MN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Rosemount H.S.",
+            "bandState": "MN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Mankato 77 Lancers",
+            "bandState": "MN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Mankato 77 Lancers",
+            "bandState": "MN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Mankato 77 Lancers",
+            "bandState": "MN"
+          }
+        ]
+      }
+    ],
+    "judges": [
+      {
+        "round": "Prelims",
+        "headJudges": [
+          "Richard L. Saucedo"
+        ]
+      },
+      {
+        "round": "Finals",
+        "headJudges": [
+          "Richard L. Saucedo"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-south-houston-regional",
+    "season": 2026,
+    "name": "2026 Bands of America South Houston Regional Championship",
+    "type": "Regional",
+    "venue": "Alvin ISD Freedom Field",
+    "address": "4505 CR 78, Iowa Colony, TX 77583",
+    "date": "2026-10-03",
+    "city": "Iowa Colony",
+    "state": "TX",
+    "lat": 29.4616047,
+    "lng": -95.4054488,
+    "timezone": "America/Chicago",
+    "sourceUrl": "https://marching.musicforall.org/south-houston-regional/",
+    "schedule": [],
+    "awards": [
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Westlake H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Westlake H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Pearland H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Lamar Consolidated H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Lamar Consolidated H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Lamar Consolidated H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Foster H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Friendswood H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Foster H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Westlake H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Pearland H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Pearland H.S.",
+            "bandState": "TX"
+          }
+        ]
+      }
+    ],
+    "judges": [
+      {
+        "round": "Prelims",
+        "headJudges": [
+          "Nola Jones"
+        ]
+      },
+      {
+        "round": "Finals",
+        "headJudges": [
+          "Nola Jones"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-central-ohio-regional",
+    "season": 2026,
+    "name": "2026 Bands of America Central Ohio Regional Championship",
+    "type": "Regional",
+    "venue": "Historic Crew Stadium",
+    "address": "Silver Drive, Columbus, OH 43211",
+    "date": "2026-09-26",
+    "city": "Columbus",
+    "state": "OH",
+    "lat": 40.009468,
+    "lng": -82.9911382,
+    "timezone": "America/New_York",
+    "sourceUrl": "https://marching.musicforall.org/central-ohio-regional/",
+    "schedule": [],
+    "awards": [
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Homestead H.S.",
+            "bandState": "IN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Homestead H.S.",
+            "bandState": "IN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Kiski Area H.S.",
+            "bandState": "PA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "South Point H.S.",
+            "bandState": "OH"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "LaRue County H.S.",
+            "bandState": "KY"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "LaRue County H.S.",
+            "bandState": "KY"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Kiski Area H.S.",
+            "bandState": "PA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Kiski Area H.S.",
+            "bandState": "PA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Kiski Area H.S.",
+            "bandState": "PA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Homestead H.S.",
+            "bandState": "IN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Homestead H.S.",
+            "bandState": "IN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Homestead H.S.",
+            "bandState": "IN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Centerville H.S.",
+            "bandState": "OH"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Center Grove H.S.",
+            "bandState": "IN"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Center Grove H.S.",
+            "bandState": "IN"
+          }
+        ]
+      }
+    ],
+    "judges": [
+      {
+        "round": "Prelims",
+        "headJudges": [
+          "Dean Westman"
+        ]
+      },
+      {
+        "round": "Finals",
+        "headJudges": [
+          "Dean Westman"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-dallas-mid-cities-regional",
+    "season": 2026,
+    "name": "2026 Bands of America Dallas Mid-Cities Regional Championship",
+    "type": "Regional",
+    "venue": "Pennington Field",
+    "address": "H E B Drive, Bedford, TX 76022",
+    "date": "2026-09-26",
+    "city": "Bedford",
+    "state": "TX",
+    "lat": 32.8327183,
+    "lng": -97.1363983,
+    "timezone": "America/Chicago",
+    "sourceUrl": "https://marching.musicforall.org/dallas-mid-cities-regional/",
+    "schedule": [],
+    "awards": [
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Flower Mound H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Flower Mound H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Flower Mound H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Krum H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Krum H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Krum H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Grapevine H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Grapevine H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Grapevine H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Argyle H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Argyle H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Argyle H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Flower Mound H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Flower Mound H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Flower Mound H.S.",
+            "bandState": "TX"
+          }
+        ]
+      }
+    ],
+    "judges": [
+      {
+        "round": "Prelims",
+        "headJudges": [
+          "John Phillips"
+        ]
+      },
+      {
+        "round": "Finals",
+        "headJudges": [
+          "John Phillips"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-north-houston-regional",
+    "season": 2026,
+    "name": "2026 Bands of America North Houston Regional Championship",
+    "type": "Regional",
+    "venue": "Woodforest Bank Stadium",
+    "address": "Main, Shenandoah, TX 77385",
+    "date": "2026-09-26",
+    "city": "Shenandoah",
+    "state": "TX",
+    "lat": 30.1848671,
+    "lng": -95.4489906,
+    "timezone": "America/Chicago",
+    "sourceUrl": "https://marching.musicforall.org/north-houston-regional/",
+    "schedule": [],
+    "awards": [
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Bridgeland H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Bridgeland H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Bridgeland H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Lamar Consolidated H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Lamar Consolidated H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Lamar Consolidated H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Friendswood H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "A&M Consolidated H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Clear Brook H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "The Woodlands H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "The Woodlands H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "The Woodlands H.S.",
+            "bandState": "TX"
+          }
+        ]
+      }
+    ],
+    "judges": [
+      {
+        "round": "Prelims",
+        "headJudges": [
+          "Nola Jones"
+        ]
+      },
+      {
+        "round": "Finals",
+        "headJudges": [
+          "Nola Jones"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2026-arizona-regional",
+    "season": 2026,
+    "name": "2026 Bands of America Arizona Regional Championship",
+    "type": "Regional",
+    "venue": "J. Lawrence Walkup Skydome, Northern Arizona University",
+    "address": "1701 South San Francisco Street, Flagstaff, AZ 86011",
+    "date": "2026-09-26",
+    "city": "Flagstaff",
+    "state": "AZ",
+    "lat": 35.1805983,
+    "lng": -111.652899,
+    "timezone": "America/Phoenix",
+    "sourceUrl": "https://marching.musicforall.org/arizona-regional/",
+    "schedule": [
+      {
+        "bandId": "sandra-day-o-connor-h-s-az",
+        "bandName": "Sandra Day O'Connor H.S.",
+        "bandState": "AZ",
+        "round": "Prelims",
+        "startsAt": "2026-09-26T19:15:00.000Z",
+        "venueTime": "12:15",
+        "venueTimeZoneAbbr": "MST",
+        "exhibition": false
+      },
+      {
+        "bandId": "volcano-vista-h-s-nm",
+        "bandName": "Volcano Vista H.S.",
+        "bandState": "NM",
+        "round": "Prelims",
+        "startsAt": "2026-09-26T19:30:00.000Z",
+        "venueTime": "12:30",
+        "venueTimeZoneAbbr": "MST",
+        "exhibition": false
+      },
+      {
+        "bandId": "edmond-memorial-h-s-ok",
+        "bandName": "Edmond Memorial H.S.",
+        "bandState": "OK",
+        "round": "Prelims",
+        "startsAt": "2026-09-26T19:45:00.000Z",
+        "venueTime": "12:45",
+        "venueTimeZoneAbbr": "MST",
+        "exhibition": false
+      },
+      {
+        "bandId": "arbor-view-h-s-nv",
+        "bandName": "Arbor View H.S.",
+        "bandState": "NV",
+        "round": "Prelims",
+        "startsAt": "2026-09-26T20:00:00.000Z",
+        "venueTime": "13:00",
+        "venueTimeZoneAbbr": "MST",
+        "exhibition": false
+      },
+      {
+        "bandId": "ironwood-h-s-az",
+        "bandName": "Ironwood H.S.",
+        "bandState": "AZ",
+        "round": "Prelims",
+        "startsAt": "2026-09-26T20:15:00.000Z",
+        "venueTime": "13:15",
+        "venueTimeZoneAbbr": "MST",
+        "exhibition": false
+      },
+      {
+        "bandId": "covina-h-s-ca",
+        "bandName": "Covina H.S.",
+        "bandState": "CA",
+        "round": "Prelims",
+        "startsAt": "2026-09-26T20:30:00.000Z",
+        "venueTime": "13:30",
+        "venueTimeZoneAbbr": "MST",
+        "exhibition": false
+      },
+      {
+        "bandId": "desert-vista-h-s-az",
+        "bandName": "Desert Vista H.S.",
+        "bandState": "AZ",
+        "round": "Prelims",
+        "startsAt": "2026-09-26T21:15:00.000Z",
+        "venueTime": "14:15",
+        "venueTimeZoneAbbr": "MST",
+        "exhibition": false
+      },
+      {
+        "bandId": "mountain-ridge-h-s-az",
+        "bandName": "Mountain Ridge H.S.",
+        "bandState": "AZ",
+        "round": "Prelims",
+        "startsAt": "2026-09-26T21:30:00.000Z",
+        "venueTime": "14:30",
+        "venueTimeZoneAbbr": "MST",
+        "exhibition": false
+      },
+      {
+        "bandId": "cienega-h-s-az",
+        "bandName": "Cienega H.S.",
+        "bandState": "AZ",
+        "round": "Prelims",
+        "startsAt": "2026-09-26T21:45:00.000Z",
+        "venueTime": "14:45",
+        "venueTimeZoneAbbr": "MST",
+        "exhibition": false
+      },
+      {
+        "bandId": "corona-del-sol-h-s-az",
+        "bandName": "Corona del Sol H.S.",
+        "bandState": "AZ",
+        "round": "Prelims",
+        "startsAt": "2026-09-26T22:00:00.000Z",
+        "venueTime": "15:00",
+        "venueTimeZoneAbbr": "MST",
+        "exhibition": false
+      },
+      {
+        "bandId": "foothill-h-s-nv",
+        "bandName": "Foothill H.S.",
+        "bandState": "NV",
+        "round": "Prelims",
+        "startsAt": "2026-09-26T22:15:00.000Z",
+        "venueTime": "15:15",
+        "venueTimeZoneAbbr": "MST",
+        "exhibition": false
+      },
+      {
+        "bandId": "buchanan-h-s-ca",
+        "bandName": "Buchanan H.S.",
+        "bandState": "CA",
+        "round": "Prelims",
+        "startsAt": "2026-09-26T22:30:00.000Z",
+        "venueTime": "15:30",
+        "venueTimeZoneAbbr": "MST",
+        "exhibition": false
+      },
+      {
+        "bandId": "catalina-foothills-h-s-az",
+        "bandName": "Catalina Foothills H.S.",
+        "bandState": "AZ",
+        "round": "Prelims",
+        "startsAt": "2026-09-26T22:45:00.000Z",
+        "venueTime": "15:45",
+        "venueTimeZoneAbbr": "MST",
+        "exhibition": false
+      },
+      {
+        "bandId": "northern-arizona-university",
+        "bandName": "Northern Arizona University",
+        "bandState": null,
+        "round": "Prelims",
+        "startsAt": "2026-09-26T23:00:00.000Z",
+        "venueTime": "16:00",
+        "venueTimeZoneAbbr": "MST",
+        "exhibition": true
+      }
+    ],
+    "awards": [
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Mountain Ridge H.S.",
+            "bandState": "AZ"
+          },
+          {
+            "bandName": "Buchanan H.S.",
+            "bandState": "CA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Edmond Memorial H.S.",
+            "bandState": "OK"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Mountain Ridge H.S.",
+            "bandState": "AZ"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Covina H.S.",
+            "bandState": "CA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Covina H.S.",
+            "bandState": "CA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Covina H.S.",
+            "bandState": "CA"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Catalina Foothills H.S.",
+            "bandState": "AZ"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Catalina Foothills H.S.",
+            "bandState": "AZ"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Foothill H.S.",
+            "bandState": "NV"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Mountain Ridge H.S.",
+            "bandState": "AZ"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Corona del Sol H.S.",
+            "bandState": "AZ"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Mountain Ridge H.S.",
+            "bandState": "AZ"
+          }
+        ]
+      }
+    ],
+    "judges": [
+      {
+        "round": "Prelims",
+        "headJudges": [
+          "Richard L. Saucedo"
+        ]
+      },
+      {
+        "round": "Finals",
+        "headJudges": [
+          "Richard L. Saucedo"
+        ]
+      }
+    ]
+  },
+  {
     "id": "2026-new-mexico-regional",
     "season": 2026,
     "name": "2026 Bands of America New Mexico Regional Championship",
     "type": "Regional",
     "venue": "New Mexico State University, Aggie Memorial Stadium",
+    "address": "1780 East University Avenue, Las Cruces, NM 88003",
     "date": "2026-09-19",
     "city": "Las Cruces",
     "state": "NM",
     "lat": 32.2729032,
     "lng": -106.7434927,
-    "address": "1780 East University Avenue, Las Cruces, NM 88003",
-    "sourceUrl": "https://marching.musicforall.org/new-mexico-regional/",
     "timezone": "America/Denver",
+    "sourceUrl": "https://marching.musicforall.org/new-mexico-regional/",
     "schedule": [
       {
         "bandId": "valencia-h-s-nm",
@@ -174,6 +4918,191 @@
         "venueTimeZoneAbbr": "MDT",
         "exhibition": true
       }
+    ],
+    "awards": [
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Pebble Hills H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Eastwood H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": null,
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Eastwood H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Pecos H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Pecos H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "1A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Pecos H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Del Valle H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Centennial H.S.",
+            "bandState": "NM"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "2A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Centennial H.S.",
+            "bandState": "NM"
+          },
+          {
+            "bandName": "Del Valle H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Organ Mountain H.S.",
+            "bandState": "NM"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Eastwood H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "3A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Eastwood H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Pebble Hills H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Pebble Hills H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Pebble Hills H.S.",
+            "bandState": "TX"
+          }
+        ]
+      }
+    ],
+    "judges": [
+      {
+        "round": "Prelims",
+        "headJudges": [
+          "Randy Greenwell"
+        ]
+      },
+      {
+        "round": "Finals",
+        "headJudges": [
+          "Randy Greenwell"
+        ]
+      }
     ]
   },
   {
@@ -182,14 +5111,14 @@
     "name": "2026 Bands of America South Texas Regional Championship",
     "type": "Regional",
     "venue": "Veterans Memorial Stadium",
+    "address": "Bulldog Drive, McAllen, TX 78501",
     "date": "2026-09-19",
     "city": "McAllen",
     "state": "TX",
     "lat": 26.2238881,
     "lng": -98.2373019,
-    "address": "Bulldog Drive, McAllen, TX 78501",
-    "sourceUrl": "https://marching.musicforall.org/south-texas-regional/",
     "timezone": "America/Chicago",
+    "sourceUrl": "https://marching.musicforall.org/south-texas-regional/",
     "schedule": [
       {
         "bandId": "grulla-h-s-tx",
@@ -431,284 +5360,188 @@
         "venueTimeZoneAbbr": "CDT",
         "exhibition": false
       }
-    ]
-  },
-  {
-    "id": "2026-arizona-regional",
-    "season": 2026,
-    "name": "2026 Bands of America Arizona Regional Championship",
-    "type": "Regional",
-    "venue": "J. Lawrence Walkup Skydome, Northern Arizona University",
-    "date": "2026-09-26",
-    "city": "Flagstaff",
-    "state": "AZ",
-    "lat": 35.1805983,
-    "lng": -111.652899,
-    "address": "1701 South San Francisco Street, Flagstaff, AZ 86011",
-    "sourceUrl": "https://marching.musicforall.org/arizona-regional/",
-    "timezone": "America/Phoenix",
-    "schedule": [
+    ],
+    "awards": [
       {
-        "bandId": "sandra-day-o-connor-h-s-az",
-        "bandName": "Sandra Day O'Connor H.S.",
-        "bandState": "AZ",
-        "round": "Prelims",
-        "startsAt": "2026-09-26T19:15:00.000Z",
-        "venueTime": "12:15",
-        "venueTimeZoneAbbr": "MST",
-        "exhibition": false
+        "round": "Finals",
+        "class": null,
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "John B. Alexander H.S.",
+            "bandState": "TX"
+          }
+        ]
       },
       {
-        "bandId": "volcano-vista-h-s-nm",
-        "bandName": "Volcano Vista H.S.",
-        "bandState": "NM",
-        "round": "Prelims",
-        "startsAt": "2026-09-26T19:30:00.000Z",
-        "venueTime": "12:30",
-        "venueTimeZoneAbbr": "MST",
-        "exhibition": false
+        "round": "Finals",
+        "class": null,
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Harlingen South H.S.",
+            "bandState": "TX"
+          }
+        ]
       },
       {
-        "bandId": "edmond-memorial-h-s-ok",
-        "bandName": "Edmond Memorial H.S.",
-        "bandState": "OK",
-        "round": "Prelims",
-        "startsAt": "2026-09-26T19:45:00.000Z",
-        "venueTime": "12:45",
-        "venueTimeZoneAbbr": "MST",
-        "exhibition": false
+        "round": "Finals",
+        "class": null,
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "John B. Alexander H.S.",
+            "bandState": "TX"
+          }
+        ]
       },
       {
-        "bandId": "arbor-view-h-s-nv",
-        "bandName": "Arbor View H.S.",
-        "bandState": "NV",
-        "round": "Prelims",
-        "startsAt": "2026-09-26T20:00:00.000Z",
-        "venueTime": "13:00",
-        "venueTimeZoneAbbr": "MST",
-        "exhibition": false
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Grulla H.S.",
+            "bandState": "TX"
+          }
+        ]
       },
       {
-        "bandId": "ironwood-h-s-az",
-        "bandName": "Ironwood H.S.",
-        "bandState": "AZ",
-        "round": "Prelims",
-        "startsAt": "2026-09-26T20:15:00.000Z",
-        "venueTime": "13:15",
-        "venueTimeZoneAbbr": "MST",
-        "exhibition": false
+        "round": "Finals",
+        "class": "1A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Grulla H.S.",
+            "bandState": "TX"
+          }
+        ]
       },
       {
-        "bandId": "covina-h-s-ca",
-        "bandName": "Covina H.S.",
-        "bandState": "CA",
-        "round": "Prelims",
-        "startsAt": "2026-09-26T20:30:00.000Z",
-        "venueTime": "13:30",
-        "venueTimeZoneAbbr": "MST",
-        "exhibition": false
+        "round": "Finals",
+        "class": "1A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Grulla H.S.",
+            "bandState": "TX"
+          }
+        ]
       },
       {
-        "bandId": "desert-vista-h-s-az",
-        "bandName": "Desert Vista H.S.",
-        "bandState": "AZ",
-        "round": "Prelims",
-        "startsAt": "2026-09-26T21:15:00.000Z",
-        "venueTime": "14:15",
-        "venueTimeZoneAbbr": "MST",
-        "exhibition": false
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Pioneer H.S.",
+            "bandState": "TX"
+          }
+        ]
       },
       {
-        "bandId": "mountain-ridge-h-s-az",
-        "bandName": "Mountain Ridge H.S.",
-        "bandState": "AZ",
-        "round": "Prelims",
-        "startsAt": "2026-09-26T21:30:00.000Z",
-        "venueTime": "14:30",
-        "venueTimeZoneAbbr": "MST",
-        "exhibition": false
+        "round": "Finals",
+        "class": "2A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Pioneer H.S.",
+            "bandState": "TX"
+          }
+        ]
       },
       {
-        "bandId": "cienega-h-s-az",
-        "bandName": "Cienega H.S.",
-        "bandState": "AZ",
-        "round": "Prelims",
-        "startsAt": "2026-09-26T21:45:00.000Z",
-        "venueTime": "14:45",
-        "venueTimeZoneAbbr": "MST",
-        "exhibition": false
+        "round": "Finals",
+        "class": "2A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Sharyland H.S.",
+            "bandState": "TX"
+          }
+        ]
       },
       {
-        "bandId": "corona-del-sol-h-s-az",
-        "bandName": "Corona del Sol H.S.",
-        "bandState": "AZ",
-        "round": "Prelims",
-        "startsAt": "2026-09-26T22:00:00.000Z",
-        "venueTime": "15:00",
-        "venueTimeZoneAbbr": "MST",
-        "exhibition": false
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "Roma H.S.",
+            "bandState": "TX"
+          }
+        ]
       },
       {
-        "bandId": "foothill-h-s-nv",
-        "bandName": "Foothill H.S.",
-        "bandState": "NV",
-        "round": "Prelims",
-        "startsAt": "2026-09-26T22:15:00.000Z",
-        "venueTime": "15:15",
-        "venueTimeZoneAbbr": "MST",
-        "exhibition": false
+        "round": "Finals",
+        "class": "3A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "Harlingen South H.S.",
+            "bandState": "TX"
+          }
+        ]
       },
       {
-        "bandId": "buchanan-h-s-ca",
-        "bandName": "Buchanan H.S.",
-        "bandState": "CA",
-        "round": "Prelims",
-        "startsAt": "2026-09-26T22:30:00.000Z",
-        "venueTime": "15:30",
-        "venueTimeZoneAbbr": "MST",
-        "exhibition": false
+        "round": "Finals",
+        "class": "3A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "Harlingen South H.S.",
+            "bandState": "TX"
+          }
+        ]
       },
       {
-        "bandId": "catalina-foothills-h-s-az",
-        "bandName": "Catalina Foothills H.S.",
-        "bandState": "AZ",
-        "round": "Prelims",
-        "startsAt": "2026-09-26T22:45:00.000Z",
-        "venueTime": "15:45",
-        "venueTimeZoneAbbr": "MST",
-        "exhibition": false
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Music",
+        "winners": [
+          {
+            "bandName": "John B. Alexander H.S.",
+            "bandState": "TX"
+          }
+        ]
       },
       {
-        "bandId": "northern-arizona-university",
-        "bandName": "Northern Arizona University",
-        "bandState": null,
+        "round": "Finals",
+        "class": "4A",
+        "caption": "Visual",
+        "winners": [
+          {
+            "bandName": "John B. Alexander H.S.",
+            "bandState": "TX"
+          }
+        ]
+      },
+      {
+        "round": "Finals",
+        "class": "4A",
+        "caption": "General Effect",
+        "winners": [
+          {
+            "bandName": "John B. Alexander H.S.",
+            "bandState": "TX"
+          }
+        ]
+      }
+    ],
+    "judges": [
+      {
         "round": "Prelims",
-        "startsAt": "2026-09-26T23:00:00.000Z",
-        "venueTime": "16:00",
-        "venueTimeZoneAbbr": "MST",
-        "exhibition": true
+        "headJudges": [
+          "Richard L. Saucedo"
+        ]
+      },
+      {
+        "round": "Finals",
+        "headJudges": [
+          "Richard L. Saucedo"
+        ]
       }
     ]
-  },
-  {
-    "id": "2026-central-ohio-regional",
-    "season": 2026,
-    "name": "2026 Bands of America Central Ohio Regional Championship",
-    "type": "Regional",
-    "venue": "Historic Crew Stadium",
-    "date": "2026-09-26",
-    "city": "Columbus",
-    "state": "OH",
-    "lat": 40.009468,
-    "lng": -82.9911382,
-    "address": "Silver Drive, Columbus, OH 43211",
-    "sourceUrl": "https://marching.musicforall.org/central-ohio-regional/",
-    "timezone": "America/New_York"
-  },
-  {
-    "id": "2026-dallas-mid-cities-regional",
-    "season": 2026,
-    "name": "2026 Bands of America Dallas Mid-Cities Regional Championship",
-    "type": "Regional",
-    "venue": "Pennington Field",
-    "date": "2026-09-26",
-    "city": "Bedford",
-    "state": "TX",
-    "lat": 32.8327183,
-    "lng": -97.1363983,
-    "address": "H E B Drive, Bedford, TX 76022",
-    "sourceUrl": "https://marching.musicforall.org/dallas-mid-cities-regional/",
-    "timezone": "America/Chicago"
-  },
-  {
-    "id": "2026-north-houston-regional",
-    "season": 2026,
-    "name": "2026 Bands of America North Houston Regional Championship",
-    "type": "Regional",
-    "venue": "Woodforest Bank Stadium",
-    "date": "2026-09-26",
-    "city": "Shenandoah",
-    "state": "TX",
-    "lat": 30.1848671,
-    "lng": -95.4489906,
-    "address": "Main, Shenandoah, TX 77385",
-    "sourceUrl": "https://marching.musicforall.org/north-houston-regional/",
-    "timezone": "America/Chicago"
-  },
-  {
-    "id": "2026-chattanooga-regional",
-    "season": 2026,
-    "name": "2026 Bands of America Chattanooga Regional Championship",
-    "type": "Regional",
-    "venue": "Finley Stadium",
-    "date": "2026-10-03",
-    "city": "Chattanooga",
-    "state": "TN",
-    "lat": 35.0363053,
-    "lng": -85.3157148,
-    "address": "Chestnut Street, Chattanooga, TN 37408",
-    "sourceUrl": "https://marching.musicforall.org/chattanooga-regional/",
-    "timezone": "America/New_York"
-  },
-  {
-    "id": "2026-iowa-regional",
-    "season": 2026,
-    "name": "2026 Bands of America Iowa Regional Championship",
-    "type": "Regional",
-    "venue": "University of Northern Iowa, UNI Dome",
-    "date": "2026-10-03",
-    "city": "Cedar Falls",
-    "state": "IA",
-    "lat": 42.5102697,
-    "lng": -92.4630553,
-    "address": "1227 West 27th Street, Cedar Falls, IA 50614",
-    "sourceUrl": "https://marching.musicforall.org/iowa-regional/",
-    "timezone": "America/Chicago"
-  },
-  {
-    "id": "2026-kentucky-regional",
-    "season": 2026,
-    "name": "2026 Bands of America Kentucky Regional Championship",
-    "type": "Regional",
-    "venue": "University of Louisville, L&N Federal Credit Union Stadium",
-    "date": "2026-10-03",
-    "city": "Louisville",
-    "state": "KY",
-    "lat": 38.2133224,
-    "lng": -85.7577075,
-    "address": "2301 South 3rd Street, Louisville, KY 40292",
-    "sourceUrl": "https://marching.musicforall.org/kentucky-regional/",
-    "timezone": "America/Kentucky/Louisville"
-  },
-  {
-    "id": "2026-northwest-ohio-regional",
-    "season": 2026,
-    "name": "2026 Bands of America Northwest Ohio Regional Championship",
-    "type": "Regional",
-    "venue": "University of Toledo, Glass Bowl Stadium",
-    "date": "2026-10-03",
-    "city": "Toledo",
-    "state": "OH",
-    "lat": 41.6583953,
-    "lng": -83.6147907,
-    "address": "2801 West Bancroft Street, Toledo, OH 43606",
-    "sourceUrl": "https://marching.musicforall.org/northwest-ohio-regional/",
-    "timezone": "America/New_York"
-  },
-  {
-    "id": "2026-south-houston-regional",
-    "season": 2026,
-    "name": "2026 Bands of America South Houston Regional Championship",
-    "type": "Regional",
-    "venue": "Alvin ISD Freedom Field",
-    "date": "2026-10-03",
-    "city": "Iowa Colony",
-    "state": "TX",
-    "lat": 29.4616047,
-    "lng": -95.4054488,
-    "address": "4505 CR 78, Iowa Colony, TX 77583",
-    "sourceUrl": "https://marching.musicforall.org/south-houston-regional/",
-    "timezone": "America/Chicago"
   },
   {
     "id": "2026-carolina-regional",
@@ -724,245 +5557,5 @@
     "address": "100 Chanticleer Drive West, Conway, SC 29528",
     "sourceUrl": "https://marching.musicforall.org/carolina-regional/",
     "timezone": "America/New_York"
-  },
-  {
-    "id": "2026-central-texas-regional",
-    "season": 2026,
-    "name": "2026 Bands of America Central Texas Regional Championship",
-    "type": "Regional",
-    "venue": "Texas State University, UFCU Stadium",
-    "date": "2026-10-10",
-    "city": "San Marcos",
-    "state": "TX",
-    "lat": 29.8910885,
-    "lng": -97.9376214,
-    "address": "Peques Street, San Marcos, TX 78666",
-    "sourceUrl": "https://marching.musicforall.org/central-texas-regional/",
-    "timezone": "America/Chicago"
-  },
-  {
-    "id": "2026-north-texas-regional",
-    "season": 2026,
-    "name": "2026 Bands of America North Texas Regional Championship",
-    "type": "Regional",
-    "venue": "Prosper ISD Children’s Health Stadium",
-    "date": "2026-10-10",
-    "city": "Prosper",
-    "state": "TX",
-    "lat": 33.2371585,
-    "lng": -96.7977048,
-    "address": "198 North Church Street, Prosper, TX 75078",
-    "sourceUrl": "https://marching.musicforall.org/north-texas-regional/",
-    "timezone": "America/Chicago"
-  },
-  {
-    "id": "2026-west-texas-regional",
-    "season": 2026,
-    "name": "2026 Bands of America West Texas Regional Championship",
-    "type": "Regional",
-    "venue": "Astound Broadband Stadium",
-    "date": "2026-10-10",
-    "city": "Midland",
-    "state": "TX",
-    "lat": 31.9893368,
-    "lng": -102.1539155,
-    "address": "Martin Luther King Jr. Circle, Midland, TX 77906",
-    "sourceUrl": "https://marching.musicforall.org/west-texas-regional/",
-    "timezone": "America/Chicago"
-  },
-  {
-    "id": "2026-indianapolis-super-regional",
-    "season": 2026,
-    "name": "2026 Bands of America Indianapolis Super Regional Championship",
-    "type": "Super Regional",
-    "venue": "Lucas Oil Stadium",
-    "date": "2026-10-16",
-    "city": "Indianapolis",
-    "state": "IN",
-    "lat": 39.7590621,
-    "lng": -86.1638376,
-    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
-    "sourceUrl": "https://marching.musicforall.org/indianapolis-super-regional/",
-    "timezone": "America/Indiana/Indianapolis"
-  },
-  {
-    "id": "2026-east-tennessee-regional",
-    "season": 2026,
-    "name": "2026 Bands of America East Tennessee Regional Championship",
-    "type": "Regional",
-    "venue": "Ballad Health Athletic Center, East Tennessee State University",
-    "date": "2026-10-17",
-    "city": "Johnson City",
-    "state": "TN",
-    "lat": 36.3167671,
-    "lng": -82.352903,
-    "address": "Buffalo Street, Johnson City, TN 37605",
-    "sourceUrl": "https://marching.musicforall.org/ballad-health-east-tennessee-regional/",
-    "timezone": "America/New_York"
-  },
-  {
-    "id": "2026-mid-atlantic-regional",
-    "season": 2026,
-    "name": "2026 Bands of America Mid-Atlantic Regional Championship",
-    "type": "Regional",
-    "venue": "University of Delaware, Delaware Stadium",
-    "date": "2026-10-17",
-    "city": "Newark",
-    "state": "DE",
-    "lat": 39.6802837,
-    "lng": -75.7530984,
-    "address": "South College Avenue, Newark, DE 19713",
-    "sourceUrl": "https://marching.musicforall.org/mid-atlantic-regional/",
-    "timezone": "America/New_York"
-  },
-  {
-    "id": "2026-st-louis-super-regional",
-    "season": 2026,
-    "name": "2026 Bands of America St. Louis Super Regional Championship",
-    "type": "Super Regional",
-    "venue": "The Dome at America’s Center",
-    "date": "2026-10-23",
-    "city": "St. Louis",
-    "state": "MO",
-    "lat": 38.6327852,
-    "lng": -90.188551,
-    "address": "701 Convention Plaza, St. Louis, MO 63101",
-    "sourceUrl": "https://marching.musicforall.org/st-louis-super-regional/",
-    "timezone": "America/Chicago"
-  },
-  {
-    "id": "2026-california-regional",
-    "season": 2026,
-    "name": "2026 Bands of America California Regional Championship",
-    "type": "Regional",
-    "venue": "Eagle Stadium, Etiwanda High School",
-    "date": "2026-10-24",
-    "city": "Rancho Cucamonga",
-    "state": "CA",
-    "lat": 34.1304707,
-    "lng": -117.5101687,
-    "address": "13500 Victoria Street, Rancho Cucamonga, CA 91739",
-    "sourceUrl": "https://marching.musicforall.org/california-regional/",
-    "timezone": "America/Los_Angeles"
-  },
-  {
-    "id": "2026-memphis-regional",
-    "season": 2026,
-    "name": "2026 Bands of America Memphis Regional Championship",
-    "type": "Regional",
-    "venue": "Simmons Bank Liberty Stadium",
-    "date": "2026-10-24",
-    "city": "Memphis",
-    "state": "TN",
-    "lat": 35.1211305,
-    "lng": -89.9774153,
-    "address": "Home Run Lane, Memphis, TN 38114",
-    "sourceUrl": "https://marching.musicforall.org/memphis-regional/",
-    "timezone": "America/Chicago"
-  },
-  {
-    "id": "2026-waco-regional",
-    "season": 2026,
-    "name": "2026 Bands of America Waco Regional Championship",
-    "type": "Regional",
-    "venue": "Baylor University, McLane Stadium",
-    "date": "2026-10-24",
-    "city": "Waco",
-    "state": "TX",
-    "lat": 31.5504341,
-    "lng": -97.1102906,
-    "address": "1301 South University Parks Drive, Waco, TX 76706",
-    "sourceUrl": "https://marching.musicforall.org/waco-regional/",
-    "timezone": "America/Chicago"
-  },
-  {
-    "id": "2026-middle-tennessee-regional",
-    "season": 2026,
-    "name": "2026 Bands of America Middle Tennessee Regional Championship",
-    "type": "Regional",
-    "venue": "Tucker Stadium, Tennessee Tech University",
-    "date": "2026-10-30",
-    "city": "Cookeville",
-    "state": "TN",
-    "lat": 36.1780904,
-    "lng": -85.5061882,
-    "address": "West 12th Street, Cookeville, TN 38501",
-    "sourceUrl": "https://marching.musicforall.org/middle-tennessee-regional/",
-    "timezone": "America/Chicago"
-  },
-  {
-    "id": "2026-idaho-regional",
-    "season": 2026,
-    "name": "2026 Bands of America Idaho Regional Championship",
-    "type": "Regional",
-    "venue": "P1FCU Kibbie Dome, University of Idaho",
-    "date": "2026-10-31",
-    "city": "Moscow",
-    "state": "ID",
-    "lat": 46.7262411,
-    "lng": -117.0174374,
-    "address": "1000 Stadium Drive, Moscow, ID 83843",
-    "sourceUrl": "https://marching.musicforall.org/idaho-regional/",
-    "timezone": "America/Los_Angeles"
-  },
-  {
-    "id": "2026-central-florida-regional",
-    "season": 2026,
-    "name": "2026 Bands of America Central Florida Regional Championship",
-    "type": "Regional",
-    "venue": "Clearwater High School, Jack White Stadium",
-    "date": "2026-10-31",
-    "city": "Clearwater",
-    "state": "FL",
-    "lat": 27.9594275,
-    "lng": -82.7565545,
-    "address": "1521 Gulf to Bay Boulevard, Clearwater, FL 33765",
-    "sourceUrl": "https://marching.musicforall.org/central-florida-regional/",
-    "timezone": "America/New_York"
-  },
-  {
-    "id": "2026-san-antonio-super-regional",
-    "season": 2026,
-    "name": "2026 Bands of America San Antonio Super Regional Championship",
-    "type": "Super Regional",
-    "venue": "Alamodome",
-    "date": "2026-11-06",
-    "city": "San Antonio",
-    "state": "TX",
-    "lat": 29.4168923,
-    "lng": -98.4788949,
-    "address": "100 Montana Street, San Antonio, TX 78203",
-    "sourceUrl": "https://marching.musicforall.org/san-antonio-super-regional/",
-    "timezone": "America/Chicago"
-  },
-  {
-    "id": "2026-utah-regional",
-    "season": 2026,
-    "name": "2026 Bands of America Utah Regional Championship",
-    "type": "Regional",
-    "venue": "Utah Tech University, Greater Zion Stadium",
-    "date": "2026-11-07",
-    "city": "St. George",
-    "state": "UT",
-    "lat": 37.1030099,
-    "lng": -113.5653354,
-    "address": "225 University Avenue, St. George, UT 84771",
-    "sourceUrl": "https://marching.musicforall.org/utah-regional/",
-    "timezone": "America/Denver"
-  },
-  {
-    "id": "2026-grand-national-championships",
-    "season": 2026,
-    "name": "2026 Bands of America Grand National Championships",
-    "type": "Grand National",
-    "venue": "Lucas Oil Stadium",
-    "date": "2026-11-12",
-    "city": "Indianapolis",
-    "state": "IN",
-    "lat": 39.7590621,
-    "lng": -86.1638376,
-    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
-    "sourceUrl": "https://marching.musicforall.org/grand-national-championships/",
-    "timezone": "America/Indiana/Indianapolis"
   }
 ]

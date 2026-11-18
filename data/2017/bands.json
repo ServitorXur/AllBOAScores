@@ -1308,6 +1308,12 @@
     "state": "OH"
   },
   {
+    "id": "john-hardin-h-s-ky",
+    "name": "John Hardin H.S.",
+    "city": null,
+    "state": "KY"
+  },
+  {
     "id": "clear-brook-h-s-tx",
     "name": "Clear Brook H.S.",
     "city": null,
@@ -1765,9 +1771,15 @@
   },
   {
     "id": "wakeland-h-s-tx",
-    "name": "Wakeland H.S., TX,",
+    "name": "Wakeland H.S.",
     "city": null,
-    "state": null
+    "state": "TX"
+  },
+  {
+    "id": "clovis-h-s-nm",
+    "name": "Clovis H.S.",
+    "city": null,
+    "state": "NM"
   },
   {
     "id": "turpin-h-s-oh",
@@ -2002,12 +2014,6 @@
     "name": "Urbana H.S.",
     "city": null,
     "state": "MD"
-  },
-  {
-    "id": "clovis-h-s-nm",
-    "name": "Clovis H.S.",
-    "city": null,
-    "state": "NM"
   },
   {
     "id": "stansbury-h-s-ut",
@@ -2550,6 +2556,12 @@
     "state": "TN"
   },
   {
+    "id": "walnut-hills-h-s-oh",
+    "name": "Walnut Hills H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
     "id": "obra-d-tompkins-h-s-tx",
     "name": "Obra D. Tompkins H.S.",
     "city": null,
@@ -2680,18 +2692,6 @@
     "name": "Ridgeline H.S.",
     "city": null,
     "state": "UT"
-  },
-  {
-    "id": "john-hardin-h-s-ky",
-    "name": "John Hardin H.S.",
-    "city": null,
-    "state": "KY"
-  },
-  {
-    "id": "walnut-hills-h-s-oh",
-    "name": "Walnut Hills H.S.",
-    "city": null,
-    "state": "OH"
   },
   {
     "id": "jack-c-hays-h-s-tx",

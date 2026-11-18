@@ -5,13 +5,17 @@
     "name": "1985 Bands of America Jonesboro Regional Championship",
     "type": "Regional",
     "venue": "Arkansas State University",
+    "address": "2105 Aggie Road, Jonesboro, AR 72401",
     "date": "1985-10-05",
     "city": "Jonesboro",
     "state": "AR",
     "lat": 35.8441163,
     "lng": -90.6726325,
-    "address": "2105 Aggie Road, Jonesboro, AR 72401",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1985-regional-championship-at-whitewater-wi",
@@ -19,13 +23,17 @@
     "name": "1985 Bands of America Whitewater Regional Championship",
     "type": "Regional",
     "venue": "University of Wisconsin-Whitewater",
+    "address": "800 West Main Street, Whitewater, WI 53190",
     "date": "1985-10-05",
     "city": "Whitewater",
     "state": "WI",
     "lat": 42.8443596,
     "lng": -88.7436664,
-    "address": "800 West Main Street, Whitewater, WI 53190",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1985-regional-championship-at-morgantown-wv",
@@ -33,13 +41,17 @@
     "name": "1985 Bands of America Morgantown Regional Championship",
     "type": "Regional",
     "venue": "West Virginia University",
+    "address": "1550 University Avenue, Morgantown, WV 26505",
     "date": "1985-10-12",
     "city": "Morgantown",
     "state": "WV",
     "lat": 39.6348398,
     "lng": -79.9542095,
-    "address": "1550 University Avenue, Morgantown, WV 26505",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1985-regional-championship-at-moscow-id",
@@ -47,13 +59,17 @@
     "name": "1985 Bands of America Moscow Regional Championship",
     "type": "Regional",
     "venue": "University of Idaho",
+    "address": "Perimeter Drive, Moscow, ID 83844",
     "date": "1985-10-12",
     "city": "Moscow",
     "state": "ID",
     "lat": 46.7237978,
     "lng": -117.0206648,
-    "address": "Perimeter Drive, Moscow, ID 83844",
-    "timezone": "America/Los_Angeles"
+    "timezone": "America/Los_Angeles",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1985-regional-championship-at-houston-tx",
@@ -61,13 +77,17 @@
     "name": "1985 Bands of America Houston Regional Championship",
     "type": "Regional",
     "venue": "Rice University Stadium",
+    "address": "University Boulevard, Houston, TX 77005",
     "date": "1985-10-19",
     "city": "Houston",
     "state": "TX",
     "lat": 29.7130529,
     "lng": -95.4020704,
-    "address": "University Boulevard, Houston, TX 77005",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1985-regional-championship-at-akron-oh",
@@ -75,13 +95,17 @@
     "name": "1985 Bands of America Akron Regional Championship",
     "type": "Regional",
     "venue": "Rubber Bowl",
+    "address": "Derby Downs Drive, Akron, OH 44312",
     "date": "1985-10-26",
     "city": "Akron",
     "state": "OH",
     "lat": 41.0394205,
     "lng": -81.4561285,
-    "address": "Derby Downs Drive, Akron, OH 44312",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1985-regional-championship-at-indianapolis-in",
@@ -89,13 +113,17 @@
     "name": "1985 Bands of America Indianapolis Regional Championship",
     "type": "Regional",
     "venue": "Lawrence Central High School",
+    "address": "Monument Circle, Indianapolis, IN 46282",
     "date": "1985-11-02",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7683331,
     "lng": -86.1583502,
-    "address": "Monument Circle, Indianapolis, IN 46282",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1985-grand-national-championship-at-indianapolis-in",
@@ -103,12 +131,16 @@
     "name": "1985 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "Indianapolis Hoosier Dome",
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
     "date": "1985-11-15",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
     "lng": -86.1640108,
-    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   }
 ]

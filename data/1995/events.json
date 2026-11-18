@@ -5,13 +5,17 @@
     "name": "1995 Bands of America Cincinnati Regional Championship",
     "type": "Regional",
     "venue": "Nippert Stadium, University of Cincinnati",
+    "address": "Bearcat Way, Cincinnati, OH 45221",
     "date": "1995-09-23",
     "city": "Cincinnati",
     "state": "OH",
     "lat": 39.1311213,
     "lng": -84.5162298,
-    "address": "Bearcat Way, Cincinnati, OH 45221",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1995-regional-championship-at-toledo-oh",
@@ -19,13 +23,17 @@
     "name": "1995 Bands of America Toledo Regional Championship",
     "type": "Regional",
     "venue": "Glass Bowl Stadium, University of Toledo",
+    "address": "North Glass Bowl Drive, Toledo, OH 43607",
     "date": "1995-09-30",
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6571852,
     "lng": -83.6135953,
-    "address": "North Glass Bowl Drive, Toledo, OH 43607",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1995-regional-championship-at-morgantown-wv",
@@ -33,13 +41,17 @@
     "name": "1995 Bands of America Morgantown Regional Championship",
     "type": "Regional",
     "venue": "West Virginia University",
+    "address": "1550 University Avenue, Morgantown, WV 26505",
     "date": "1995-10-07",
     "city": "Morgantown",
     "state": "WV",
     "lat": 39.6348398,
     "lng": -79.9542095,
-    "address": "1550 University Avenue, Morgantown, WV 26505",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1995-regional-championship-at-johnson-city-tn",
@@ -47,13 +59,17 @@
     "name": "1995 Bands of America Johnson City Regional Championship",
     "type": "Regional",
     "venue": "East Tennessee State University",
+    "address": "1276 Gilbreath Drive, Johnson City, TN 37614",
     "date": "1995-10-14",
     "city": "Johnson City",
     "state": "TN",
     "lat": 36.3024236,
     "lng": -82.3692822,
-    "address": "1276 Gilbreath Drive, Johnson City, TN 37614",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1995-regional-championship-at-atlanta-ga",
@@ -61,13 +77,17 @@
     "name": "1995 Bands of America Atlanta Regional Championship",
     "type": "Regional",
     "venue": "Georgia Dome",
+    "address": "1 Backyard Way, Atlanta, GA 30313",
     "date": "1995-10-21",
     "city": "Atlanta",
     "state": "GA",
     "lat": 33.758056,
     "lng": -84.401111,
-    "address": "1 Backyard Way, Atlanta, GA 30313",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1995-regional-championship-at-fullerton-ca",
@@ -75,13 +95,17 @@
     "name": "1995 Bands of America Fullerton Regional Championship",
     "type": "Regional",
     "venue": "Cal State Fullerton",
+    "address": "800 North State College Boulevard, Fullerton, CA 92831",
     "date": "1995-10-28",
     "city": "Fullerton",
     "state": "CA",
     "lat": 33.8830939,
     "lng": -117.8852152,
-    "address": "800 North State College Boulevard, Fullerton, CA 92831",
-    "timezone": "America/Los_Angeles"
+    "timezone": "America/Los_Angeles",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1995-regional-championship-at-san-antonio-tx",
@@ -89,13 +113,17 @@
     "name": "1995 Bands of America San Antonio Regional Championship",
     "type": "Regional",
     "venue": "Alamodome",
+    "address": "100 Montana Street, San Antonio, TX 78203",
     "date": "1995-10-28",
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
     "lng": -98.4788949,
-    "address": "100 Montana Street, San Antonio, TX 78203",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1995-regional-championship-at-houston-tx",
@@ -103,13 +131,17 @@
     "name": "1995 Bands of America Houston Regional Championship",
     "type": "Regional",
     "venue": "University of Houston",
+    "address": "4800 Calhoun Road, Houston, TX 77004",
     "date": "1995-11-04",
     "city": "Houston",
     "state": "TX",
     "lat": 29.7207902,
     "lng": -95.3440627,
-    "address": "4800 Calhoun Road, Houston, TX 77004",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1995-regional-championship-at-indianapolis-in",
@@ -117,13 +149,17 @@
     "name": "1995 Bands of America Indianapolis Regional Championship",
     "type": "Regional",
     "venue": "RCA Dome",
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
     "date": "1995-11-04",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
     "lng": -86.1640108,
-    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1995-grand-national-championship-at-indianapolis-in",
@@ -131,12 +167,16 @@
     "name": "1995 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "RCA Dome",
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
     "date": "1995-11-10",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
     "lng": -86.1640108,
-    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   }
 ]

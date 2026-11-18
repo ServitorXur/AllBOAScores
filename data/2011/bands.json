@@ -1501,9 +1501,15 @@
   },
   {
     "id": "wakeland-h-s-tx",
-    "name": "Wakeland H.S., TX,",
+    "name": "Wakeland H.S.",
     "city": null,
-    "state": null
+    "state": "TX"
+  },
+  {
+    "id": "clovis-h-s-nm",
+    "name": "Clovis H.S.",
+    "city": null,
+    "state": "NM"
   },
   {
     "id": "palestine-h-s-tx",
@@ -1819,19 +1825,7 @@
   },
   {
     "id": "legacy-h-s",
-    "name": "Legacy H.S.,",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "l-v-berkner-h-s",
-    "name": "L.V. Berkner H.S.,",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "james-martin-h-s",
-    "name": "James Martin H.S.,",
+    "name": "Legacy H.S.",
     "city": null,
     "state": null
   },
@@ -2032,12 +2026,6 @@
     "name": "Annapolis Area Christian Schl.",
     "city": null,
     "state": "MD"
-  },
-  {
-    "id": "clovis-h-s-nm",
-    "name": "Clovis H.S.",
-    "city": null,
-    "state": "NM"
   },
   {
     "id": "monarch-h-s-co",

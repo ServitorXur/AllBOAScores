@@ -1873,13 +1873,7 @@
   },
   {
     "id": "wakeland-h-s-tx",
-    "name": "Wakeland H.S., TX,",
-    "city": null,
-    "state": null
-  },
-  {
-    "id": "l-d-bell-h-s-tx-tx",
-    "name": "L.D. Bell H.S., TX",
+    "name": "Wakeland H.S.",
     "city": null,
     "state": "TX"
   },
@@ -2710,60 +2704,6 @@
     "name": "Powdersville H.S.",
     "city": null,
     "state": "SC"
-  },
-  {
-    "id": "flower-mound-h-s-tx-tx",
-    "name": "Flower Mound H.S., TX",
-    "city": null,
-    "state": "TX"
-  },
-  {
-    "id": "hebron-h-s-tx-tx",
-    "name": "Hebron H.S., TX",
-    "city": null,
-    "state": "TX"
-  },
-  {
-    "id": "marcus-h-s-tx-tx",
-    "name": "Marcus H.S., TX",
-    "city": null,
-    "state": "TX"
-  },
-  {
-    "id": "round-rock-h-s-tx-tx",
-    "name": "Round Rock H.S., TX",
-    "city": null,
-    "state": "TX"
-  },
-  {
-    "id": "wakeland-h-s-tx-tx",
-    "name": "Wakeland H.S., TX",
-    "city": null,
-    "state": "TX"
-  },
-  {
-    "id": "keller-h-s-tx-tx",
-    "name": "Keller H.S., TX",
-    "city": null,
-    "state": "TX"
-  },
-  {
-    "id": "coppell-h-s-tx-tx",
-    "name": "Coppell H.S., TX",
-    "city": null,
-    "state": "TX"
-  },
-  {
-    "id": "jenks-h-s-ok-ok",
-    "name": "Jenks H.S., OK",
-    "city": null,
-    "state": "OK"
-  },
-  {
-    "id": "keller-central-h-s-tx-tx",
-    "name": "Keller Central H.S., TX",
-    "city": null,
-    "state": "TX"
   },
   {
     "id": "prosper-h-s-tx",

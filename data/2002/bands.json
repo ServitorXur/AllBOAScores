@@ -1524,6 +1524,12 @@
     "state": "CA"
   },
   {
+    "id": "samuel-clemens-h-s-tx",
+    "name": "Samuel Clemens H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
     "id": "chantilly-h-s-va",
     "name": "Chantilly H.S.",
     "city": null,
@@ -2180,12 +2186,6 @@
   {
     "id": "lake-travis-h-s-tx",
     "name": "Lake Travis H.S.",
-    "city": null,
-    "state": "TX"
-  },
-  {
-    "id": "samuel-clemens-h-s-tx",
-    "name": "Samuel Clemens H.S.",
     "city": null,
     "state": "TX"
   },

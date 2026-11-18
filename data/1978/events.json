@@ -5,13 +5,17 @@
     "name": "1978 Bands of America Summer National Championship",
     "type": "National",
     "venue": "Warhawk Stadium",
+    "address": "West Schwager Drive, Whitewater, WI 53190",
     "date": "1978-06-16",
     "city": "Whitewater",
     "state": "WI",
     "lat": 42.8469937,
     "lng": -88.7449823,
-    "address": "West Schwager Drive, Whitewater, WI 53190",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1978-southern-regional-championship-at-jackson-ms",
@@ -19,12 +23,16 @@
     "name": "1978 Bands of America Southern Regional Championship",
     "type": "Regional",
     "venue": "Newell Field",
+    "address": "Riverside Drive, Jackson, MS 39202",
     "date": "1978-11-04",
     "city": "Jackson",
     "state": "MS",
     "lat": 32.3244419,
     "lng": -90.1734757,
-    "address": "Riverside Drive, Jackson, MS 39202",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   }
 ]

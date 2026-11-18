@@ -5,13 +5,17 @@
     "name": "2022 Bands of America Central Ohio Regional Championship",
     "type": "Regional",
     "venue": "Fortress Obetz",
+    "address": "Speedway Lane, Obetz, OH 43027",
     "date": "2022-09-17",
     "city": "Obetz",
     "state": "OH",
     "lat": 39.885817,
     "lng": -82.9444641,
-    "address": "Speedway Lane, Obetz, OH 43027",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2022-clarksville-regional-championship-at-clarksville-tn",
@@ -19,13 +23,17 @@
     "name": "2022 Bands of America Clarksville Regional Championship",
     "type": "Regional",
     "venue": "Fortera Stadium, Austin Peay State University",
+    "address": "Governors Plaza, Clarksville, TN 37044",
     "date": "2022-09-17",
     "city": "Clarksville",
     "state": "TN",
     "lat": 36.5364403,
     "lng": -87.3526275,
-    "address": "Governors Plaza, Clarksville, TN 37044",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2022-new-mexico-regional-championship-at-las-cruces-nm",
@@ -33,13 +41,17 @@
     "name": "2022 Bands of America New Mexico Regional Championship",
     "type": "Regional",
     "venue": "Aggie Memorial Stadium, New Mexico State University",
+    "address": "1810 East University Avenue, Las Cruces, NM 88004",
     "date": "2022-09-17",
     "city": "Las Cruces",
     "state": "NM",
     "lat": 32.2796361,
     "lng": -106.7411114,
-    "address": "1810 East University Avenue, Las Cruces, NM 88004",
-    "timezone": "America/Denver"
+    "timezone": "America/Denver",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2022-south-texas-regional-championship-at-mcallen-tx",
@@ -47,13 +59,17 @@
     "name": "2022 Bands of America South Texas Regional Championship",
     "type": "Regional",
     "venue": "McAllen Veterans Memorial Stadium",
+    "address": "Bulldog Drive, McAllen, TX 78501",
     "date": "2022-09-17",
     "city": "McAllen",
     "state": "TX",
     "lat": 26.2238881,
     "lng": -98.2373019,
-    "address": "Bulldog Drive, McAllen, TX 78501",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2022-austin-regional-championship-at-austin-tx",
@@ -61,13 +77,17 @@
     "name": "2022 Bands of America Austin Regional Championship",
     "type": "Regional",
     "venue": "Kelly Reeves Athletic Complex",
+    "address": "10211 West Parmer Lane, Austin, TX 78717",
     "date": "2022-09-24",
     "city": "Austin",
     "state": "TX",
     "lat": 30.492488,
     "lng": -97.7741,
-    "address": "10211 West Parmer Lane, Austin, TX 78717",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2022-iowa-regional-championship-at-des-moines-ia",
@@ -75,13 +95,17 @@
     "name": "2022 Bands of America Iowa Regional Championship",
     "type": "Regional",
     "venue": "Northwest Stadium",
+    "address": "North 10th Street, Des Moines, IA 50263",
     "date": "2022-09-24",
     "city": "Des Moines",
     "state": "IA",
     "lat": 41.6254148,
     "lng": -93.891364,
-    "address": "North 10th Street, Des Moines, IA 50263",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2022-north-houston-regional-championship-at-shenandoah-tx",
@@ -89,13 +113,17 @@
     "name": "2022 Bands of America North Houston Regional Championship",
     "type": "Regional",
     "venue": "Woodforest Bank Stadium",
+    "address": "Main, Spring, TX 77385",
     "date": "2022-09-24",
     "city": "Spring",
     "state": "TX",
     "lat": 30.1848671,
     "lng": -95.4489906,
-    "address": "Main, Spring, TX 77385",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2022-northwest-ohio-regional-championship-at-toledo-oh",
@@ -103,13 +131,17 @@
     "name": "2022 Bands of America Northwest Ohio Regional Championship",
     "type": "Regional",
     "venue": "Glass Bowl Stadium, University of Toledo",
+    "address": "North Glass Bowl Drive, Toledo, OH 43607",
     "date": "2022-09-24",
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6571852,
     "lng": -83.6135953,
-    "address": "North Glass Bowl Drive, Toledo, OH 43607",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2022-arizona-regional-championship-at-flagstaff-az",
@@ -117,13 +149,17 @@
     "name": "2022 Bands of America Arizona Regional Championship",
     "type": "Regional",
     "venue": "J. Lawrence Walkup Skydome, Northern Arizona University",
+    "address": "1701 South San Francisco Street, Flagstaff, AZ 86011",
     "date": "2022-10-01",
     "city": "Flagstaff",
     "state": "AZ",
     "lat": 35.1805983,
     "lng": -111.652899,
-    "address": "1701 South San Francisco Street, Flagstaff, AZ 86011",
-    "timezone": "America/Phoenix"
+    "timezone": "America/Phoenix",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2022-louisville-regional-championship-at-louisville-ky",
@@ -131,13 +167,17 @@
     "name": "2022 Bands of America Louisville Regional Championship",
     "type": "Regional",
     "venue": "Cardinal Stadium, University of Louisville",
+    "address": "South Floyd Street, Louisville, KY 40292",
     "date": "2022-10-01",
     "city": "Louisville",
     "state": "KY",
     "lat": 38.2060161,
     "lng": -85.7587734,
-    "address": "South Floyd Street, Louisville, KY 40292",
-    "timezone": "America/Kentucky/Louisville"
+    "timezone": "America/Kentucky/Louisville",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2022-west-houston-regional-championship-at-katy-tx",
@@ -145,13 +185,17 @@
     "name": "2022 Bands of America West Houston Regional Championship",
     "type": "Regional",
     "venue": "Legacy Stadium",
+    "address": "Franz Road, Katy, TX 77449",
     "date": "2022-10-01",
     "city": "Katy",
     "state": "TX",
     "lat": 29.8000522,
     "lng": -95.8054778,
-    "address": "Franz Road, Katy, TX 77449",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2022-dallas-ft-worth-regional-championship-at-bedford-tx",
@@ -159,13 +203,17 @@
     "name": "2022 Bands of America Dallas/Ft. Worth Regional Championship",
     "type": "Regional",
     "venue": "Pennington Field",
+    "address": "H E B Drive, Bedford, TX 76022",
     "date": "2022-10-08",
     "city": "Bedford",
     "state": "TX",
     "lat": 32.8327183,
     "lng": -97.1363983,
-    "address": "H E B Drive, Bedford, TX 76022",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2022-mid-atlantic-regional-championship-at-newark-de",
@@ -173,13 +221,17 @@
     "name": "2022 Bands of America Mid-Atlantic Regional Championship",
     "type": "Regional",
     "venue": "Delaware Stadium, University of Delaware",
+    "address": "Richardson Lane, Newark, DE 19713",
     "date": "2022-10-08",
     "city": "Newark",
     "state": "DE",
     "lat": 39.6616707,
     "lng": -75.7488991,
-    "address": "Richardson Lane, Newark, DE 19713",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2022-west-texas-regional-championship-at-midland-tx",
@@ -187,13 +239,17 @@
     "name": "2022 Bands of America West Texas Regional Championship",
     "type": "Regional",
     "venue": "Astound Broadband Stadium",
+    "address": "Martin Luther King Jr. Circle, Midland, TX 77906",
     "date": "2022-10-08",
     "city": "Midland",
     "state": "TX",
     "lat": 31.9893368,
     "lng": -102.1539155,
-    "address": "Martin Luther King Jr. Circle, Midland, TX 77906",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2022-st-louis-super-regional-championship-at-st-louis-mo",
@@ -201,13 +257,17 @@
     "name": "2022 Bands of America St. Louis Super Regional Championship",
     "type": "Super Regional",
     "venue": "The Dome at America's Center",
+    "address": "701 Convention Plaza, St. Louis, MO 63101",
     "date": "2022-10-14",
     "city": "St. Louis",
     "state": "MO",
     "lat": 38.6327852,
     "lng": -90.188551,
-    "address": "701 Convention Plaza, St. Louis, MO 63101",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2022-carolina-regional-championship-at-winston-salem-nc",
@@ -215,13 +275,17 @@
     "name": "2022 Bands of America Carolina Regional Championship",
     "type": "Regional",
     "venue": "Truist Field, Wake Forest University",
+    "address": "Piccolo Lane, Winston Salem, NC 27109",
     "date": "2022-10-15",
     "city": "Winston Salem",
     "state": "NC",
     "lat": 36.1305718,
     "lng": -80.2545585,
-    "address": "Piccolo Lane, Winston Salem, NC 27109",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2022-east-tennessee-regional-championship-at-johnson-city-tn",
@@ -229,13 +293,17 @@
     "name": "2022 Bands of America East Tennessee Regional Championship",
     "type": "Regional",
     "venue": "Mountain States Health Alliance Athletic Center, East Tennessee State University",
+    "address": "J L Seehorn Jr Road, Johnson City, TN 37684",
     "date": "2022-10-15",
     "city": "Johnson City",
     "state": "TN",
     "lat": 36.2985597,
     "lng": -82.3750337,
-    "address": "J L Seehorn Jr Road, Johnson City, TN 37684",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2022-north-texas-regional-championship-at-prosper-tx",
@@ -243,13 +311,17 @@
     "name": "2022 Bands of America North Texas Regional Championship",
     "type": "Regional",
     "venue": "Prosper ISD Children's Health Stadium",
+    "address": "Inner Loop Drive, Prosper, TX 75078",
     "date": "2022-10-15",
     "city": "Prosper",
     "state": "TX",
     "lat": 33.2607559,
     "lng": -96.8042646,
-    "address": "Inner Loop Drive, Prosper, TX 75078",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2022-indianapolis-super-regional-championship-at-indianapolis-in",
@@ -257,13 +329,17 @@
     "name": "2022 Bands of America Indianapolis Super Regional Championship",
     "type": "Super Regional",
     "venue": "Lucas Oil Stadium",
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
     "date": "2022-10-21",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
     "lng": -86.1638376,
-    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2022-orlando-regional-championship-at-orlando-fl",
@@ -271,13 +347,17 @@
     "name": "2022 Bands of America Orlando Regional Championship",
     "type": "Regional",
     "venue": "Camping World Stadium",
+    "address": "West Church Street, Orlando, FL 32805",
     "date": "2022-10-22",
     "city": "Orlando",
     "state": "FL",
     "lat": 28.5390398,
     "lng": -81.4027504,
-    "address": "West Church Street, Orlando, FL 32805",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2022-alabama-regional-championship-at-jacksonville-al",
@@ -285,13 +365,17 @@
     "name": "2022 Bands of America Alabama Regional Championship",
     "type": "Regional",
     "venue": "Burgess-Snow Field at Jacksonville State University Stadium",
+    "address": "41 Public Square West, Jacksonville, AL 36265",
     "date": "2022-10-29",
     "city": "Jacksonville",
     "state": "AL",
     "lat": 33.8137919,
     "lng": -85.7612872,
-    "address": "41 Public Square West, Jacksonville, AL 36265",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2022-new-jersey-regional-championship-at-piscataway-nj",
@@ -299,13 +383,17 @@
     "name": "2022 Bands of America New Jersey Regional Championship",
     "type": "Regional",
     "venue": "SHI Stadium, Rutgers University",
+    "address": "Sutphen Road, Piscataway, NJ 08855",
     "date": "2022-10-29",
     "city": "Piscataway",
     "state": "NJ",
     "lat": 40.5135037,
     "lng": -74.4651433,
-    "address": "Sutphen Road, Piscataway, NJ 08855",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2022-waco-regional-championship-at-waco-tx",
@@ -313,13 +401,17 @@
     "name": "2022 Bands of America Waco Regional Championship",
     "type": "Regional",
     "venue": "McLane Stadium, Baylor University",
+    "address": "Sheila and Walter Umphrey Bridge, Waco, TX 76798",
     "date": "2022-10-29",
     "city": "Waco",
     "state": "TX",
     "lat": 31.5582247,
     "lng": -97.1156821,
-    "address": "Sheila and Walter Umphrey Bridge, Waco, TX 76798",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2022-san-antonio-super-regional-championship-at-san-antonio-tx",
@@ -327,13 +419,17 @@
     "name": "2022 Bands of America San Antonio Super Regional Championship",
     "type": "Super Regional",
     "venue": "Alamodome",
+    "address": "100 Montana Street, San Antonio, TX 78203",
     "date": "2022-11-04",
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
     "lng": -98.4788949,
-    "address": "100 Montana Street, San Antonio, TX 78203",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2022-utah-regional-championship-at-washington-ut",
@@ -341,13 +437,17 @@
     "name": "2022 Bands of America Utah Regional Championship",
     "type": "Regional",
     "venue": "Crimson Cliffs High School",
+    "address": "Titan Lane, Washington, UT 84790",
     "date": "2022-11-05",
     "city": "Washington",
     "state": "UT",
     "lat": 37.0708631,
     "lng": -113.5085935,
-    "address": "Titan Lane, Washington, UT 84790",
-    "timezone": "America/Denver"
+    "timezone": "America/Denver",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2022-grand-naonal-championships",
@@ -355,12 +455,16 @@
     "name": "2022 Bands of America Grand National Championships",
     "type": "Championship",
     "venue": "Lucas Oil Stadium",
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
     "date": "2022-11-10",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
     "lng": -86.1638376,
-    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   }
 ]

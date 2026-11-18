@@ -5,13 +5,17 @@
     "name": "2008 Bands of America Centerville Regional Championship",
     "type": "Regional",
     "venue": "Centerville High School",
+    "address": "Glencroft Place, Centerville, OH 45459",
     "date": "2008-09-20",
     "city": "Centerville",
     "state": "OH",
     "lat": 39.6254626,
     "lng": -84.1482195,
-    "address": "Glencroft Place, Centerville, OH 45459",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2008-regional-championship-at-massillon-oh",
@@ -19,13 +23,17 @@
     "name": "2008 Bands of America Massillon Regional Championship",
     "type": "Regional",
     "venue": "Paul Brown Tiger Stadium",
+    "address": "Russell Boulevard Southeast, Massillon, OH 44646",
     "date": "2008-09-27",
     "city": "Massillon",
     "state": "OH",
     "lat": 40.793641,
     "lng": -81.4997215,
-    "address": "Russell Boulevard Southeast, Massillon, OH 44646",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2008-sound-check-at-lucas-oil-stadium",
@@ -33,13 +41,17 @@
     "name": "Sound Check at Lucas Oil Stadium",
     "type": null,
     "venue": "Indianapolis, IN",
+    "address": "Gate 3, Indianapolis, IN 46222",
     "date": "2008-09-27",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7962479,
     "lng": -86.234816,
-    "address": "Gate 3, Indianapolis, IN 46222",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2008-regional-championship-at-arlington-texas",
@@ -47,13 +59,17 @@
     "name": "2008 Bands of America Arlington Regional Championship",
     "type": "Regional",
     "venue": "Maverick Stadium",
+    "address": "Freeman Court, Arlington, TX 76013",
     "date": "2008-10-04",
     "city": "Arlington",
     "state": "TX",
     "lat": 32.7292271,
     "lng": -97.1265803,
-    "address": "Freeman Court, Arlington, TX 76013",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2008-regional-championship-at-murray-ky",
@@ -61,13 +77,17 @@
     "name": "2008 Bands of America Murray Regional Championship",
     "type": "Regional",
     "venue": "Roy Stewart Stadium",
+    "address": "Ic-8101A, Murray, KY 42071",
     "date": "2008-10-04",
     "city": "Murray",
     "state": "KY",
     "lat": 36.6212848,
     "lng": -88.3174792,
-    "address": "Ic-8101A, Murray, KY 42071",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2008-regional-championship-at-houston-tx",
@@ -75,13 +95,17 @@
     "name": "2008 Bands of America Houston Regional Championship",
     "type": "Regional",
     "venue": "Pearland Stadium (The RIG)",
+    "address": "Pearland Parkway, Houston, TX 77581",
     "date": "2008-10-11",
     "city": "Houston",
     "state": "TX",
     "lat": 29.5380231,
     "lng": -95.2711558,
-    "address": "Pearland Parkway, Houston, TX 77581",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2008-regional-championship-at-orlando-fl",
@@ -89,13 +113,17 @@
     "name": "2008 Bands of America Orlando Regional Championship",
     "type": "Regional",
     "venue": "Citrus Bowl",
+    "address": "West Church Street, Orlando, FL 32805",
     "date": "2008-10-11",
     "city": "Orlando",
     "state": "FL",
     "lat": 28.5390398,
     "lng": -81.4027504,
-    "address": "West Church Street, Orlando, FL 32805",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2008-regional-championship-at-ypsilanti-mi",
@@ -103,13 +131,17 @@
     "name": "2008 Bands of America Ypsilanti Regional Championship",
     "type": "Regional",
     "venue": "Rynearson Stadium",
+    "address": "Westview Street, Ypsilanti, MI 48197",
     "date": "2008-10-11",
     "city": "Ypsilanti",
     "state": "MI",
     "lat": 42.2558724,
     "lng": -83.6473747,
-    "address": "Westview Street, Ypsilanti, MI 48197",
-    "timezone": "America/Detroit"
+    "timezone": "America/Detroit",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2008-regional-championship-at-st-louis-mo",
@@ -117,13 +149,17 @@
     "name": "2008 Bands of America St. Louis Regional Championship",
     "type": "Regional",
     "venue": "Edward Jones Dome",
+    "address": "701 Convention Plaza, Saint Louis, MO 63101",
     "date": "2008-10-17",
     "city": "Saint Louis",
     "state": "MO",
     "lat": 38.6327852,
     "lng": -90.188551,
-    "address": "701 Convention Plaza, Saint Louis, MO 63101",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2008-regional-championship-at-towson-md",
@@ -131,13 +167,17 @@
     "name": "2008 Bands of America Towson Regional Championship",
     "type": "Regional",
     "venue": "Unitas Stadium",
+    "address": "Auburn Drive, Towson, MD 21252",
     "date": "2008-10-18",
     "city": "Towson",
     "state": "MD",
     "lat": 39.3885483,
     "lng": -76.6158585,
-    "address": "Auburn Drive, Towson, MD 21252",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2008-regional-championship-at-las-vegas-nv",
@@ -145,13 +185,17 @@
     "name": "2008 Bands of America Las Vegas Regional Championship",
     "type": "Regional",
     "venue": "Sam Boyd Stadium",
+    "address": "East Russell Road, Las Vegas, NV 89112",
     "date": "2008-10-25",
     "city": "Las Vegas",
     "state": "NV",
     "lat": 36.0862687,
     "lng": -115.0167365,
-    "address": "East Russell Road, Las Vegas, NV 89112",
-    "timezone": "America/Los_Angeles"
+    "timezone": "America/Los_Angeles",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2008-super-regional-championship-at-atlanta-ga",
@@ -159,13 +203,17 @@
     "name": "2008 Bands of America Atlanta Super Regional Championship",
     "type": "Super Regional",
     "venue": "Georgia Dome",
+    "address": "1 Backyard Way, Atlanta, GA 30313",
     "date": "2008-10-31",
     "city": "Atlanta",
     "state": "GA",
     "lat": 33.758056,
     "lng": -84.401111,
-    "address": "1 Backyard Way, Atlanta, GA 30313",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2008-super-regional-championship-at-san-antonio-tx",
@@ -173,13 +221,17 @@
     "name": "2008 Bands of America San Antonio Super Regional Championship",
     "type": "Super Regional",
     "venue": "Alamodome",
+    "address": "100 Montana Street, San Antonio, TX 78203",
     "date": "2008-10-31",
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
     "lng": -98.4788949,
-    "address": "100 Montana Street, San Antonio, TX 78203",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2008-regional-championship-at-indianapolis-in",
@@ -187,13 +239,17 @@
     "name": "2008 Bands of America Indianapolis Regional Championship",
     "type": "Regional",
     "venue": "Lucas Oil Stadium",
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
     "date": "2008-11-08",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
     "lng": -86.1638376,
-    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2008-regional-championship-at-los-angeles-ca",
@@ -201,13 +257,17 @@
     "name": "2008 Bands of America Los Angeles Regional Championship",
     "type": "Regional",
     "venue": "Weingart Stadium",
+    "address": "West Floral Drive, Monterey Park, CA 91754",
     "date": "2008-11-08",
     "city": "Monterey Park",
     "state": "CA",
     "lat": 34.042866,
     "lng": -118.1517174,
-    "address": "West Floral Drive, Monterey Park, CA 91754",
-    "timezone": "America/Los_Angeles"
+    "timezone": "America/Los_Angeles",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2008-regional-championship-at-monterey-park-ca",
@@ -215,13 +275,17 @@
     "name": "2008 Bands of America Monterey Park Regional Championship",
     "type": "Regional",
     "venue": "Weingart Stadium",
+    "address": "West Floral Drive, Monterey Park, CA 91754",
     "date": "2008-11-08",
     "city": "Monterey Park",
     "state": "CA",
     "lat": 34.042866,
     "lng": -118.1517174,
-    "address": "West Floral Drive, Monterey Park, CA 91754",
-    "timezone": "America/Los_Angeles"
+    "timezone": "America/Los_Angeles",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2008-grand-national-championships-at-indianapolis-indiana",
@@ -229,12 +293,16 @@
     "name": "2008 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "Lucas Oil Stadium",
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
     "date": "2008-11-13",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
     "lng": -86.1638376,
-    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   }
 ]

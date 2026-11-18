@@ -5925,11 +5925,11 @@
     }
   },
   {
-    "bandId": "flower-mound-h-s-tx-tx",
+    "bandId": "flower-mound-h-s-tx",
     "eventId": "2015-arlington-regional-championship-at-arlington-tx",
     "season": 2015,
     "round": "Finals",
-    "class": "Unknown",
+    "class": "AAAA",
     "placement": 1,
     "placementOverall": 1,
     "total": 85.6,
@@ -5950,11 +5950,11 @@
     }
   },
   {
-    "bandId": "hebron-h-s-tx-tx",
+    "bandId": "hebron-h-s-tx",
     "eventId": "2015-arlington-regional-championship-at-arlington-tx",
     "season": 2015,
     "round": "Finals",
-    "class": "Unknown",
+    "class": "AAAA",
     "placement": 2,
     "placementOverall": 2,
     "total": 85.5,
@@ -5975,11 +5975,11 @@
     }
   },
   {
-    "bandId": "marcus-h-s-tx-tx",
+    "bandId": "marcus-h-s-tx",
     "eventId": "2015-arlington-regional-championship-at-arlington-tx",
     "season": 2015,
     "round": "Finals",
-    "class": "Unknown",
+    "class": "AAAA",
     "placement": 3,
     "placementOverall": 3,
     "total": 84.35,
@@ -6000,11 +6000,11 @@
     }
   },
   {
-    "bandId": "round-rock-h-s-tx-tx",
+    "bandId": "round-rock-h-s-tx",
     "eventId": "2015-arlington-regional-championship-at-arlington-tx",
     "season": 2015,
     "round": "Finals",
-    "class": "Unknown",
+    "class": "AAAA",
     "placement": 4,
     "placementOverall": 4,
     "total": 82.6,
@@ -6025,11 +6025,11 @@
     }
   },
   {
-    "bandId": "l-d-bell-h-s-tx-tx",
+    "bandId": "l-d-bell-h-s-tx",
     "eventId": "2015-arlington-regional-championship-at-arlington-tx",
     "season": 2015,
     "round": "Finals",
-    "class": "Unknown",
+    "class": "AAAA",
     "placement": 5,
     "placementOverall": 5,
     "total": 81.2,
@@ -6050,11 +6050,11 @@
     }
   },
   {
-    "bandId": "wakeland-h-s-tx-tx",
+    "bandId": "wakeland-h-s-tx",
     "eventId": "2015-arlington-regional-championship-at-arlington-tx",
     "season": 2015,
     "round": "Finals",
-    "class": "Unknown",
+    "class": "AAA",
     "placement": 6,
     "placementOverall": 6,
     "total": 79.45,
@@ -6075,11 +6075,11 @@
     }
   },
   {
-    "bandId": "keller-h-s-tx-tx",
+    "bandId": "keller-h-s-tx",
     "eventId": "2015-arlington-regional-championship-at-arlington-tx",
     "season": 2015,
     "round": "Finals",
-    "class": "Unknown",
+    "class": "AAAA",
     "placement": 7,
     "placementOverall": 7,
     "total": 78.35,
@@ -6100,11 +6100,11 @@
     }
   },
   {
-    "bandId": "coppell-h-s-tx-tx",
+    "bandId": "coppell-h-s-tx",
     "eventId": "2015-arlington-regional-championship-at-arlington-tx",
     "season": 2015,
     "round": "Finals",
-    "class": "Unknown",
+    "class": "AAAA",
     "placement": 8,
     "placementOverall": 8,
     "total": 77.5,
@@ -6125,11 +6125,11 @@
     }
   },
   {
-    "bandId": "jenks-h-s-ok-ok",
+    "bandId": "jenks-h-s-ok",
     "eventId": "2015-arlington-regional-championship-at-arlington-tx",
     "season": 2015,
     "round": "Finals",
-    "class": "Unknown",
+    "class": "AAAA",
     "placement": 9,
     "placementOverall": 9,
     "total": 76.4,
@@ -6150,11 +6150,11 @@
     }
   },
   {
-    "bandId": "keller-central-h-s-tx-tx",
+    "bandId": "keller-central-h-s-tx",
     "eventId": "2015-arlington-regional-championship-at-arlington-tx",
     "season": 2015,
     "round": "Finals",
-    "class": "Unknown",
+    "class": "AAAA",
     "placement": 10,
     "placementOverall": 10,
     "total": 73.65,

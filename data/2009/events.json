@@ -5,13 +5,17 @@
     "name": "2009 Bands of America Louisville Regional Championship",
     "type": "Regional",
     "venue": "Papa John's Cardinal Stadium",
+    "address": "South Floyd Street, Louisville, KY 40292",
     "date": "2009-09-26",
     "city": "Louisville",
     "state": "KY",
     "lat": 38.2060161,
     "lng": -85.7587734,
-    "address": "South Floyd Street, Louisville, KY 40292",
-    "timezone": "America/Kentucky/Louisville"
+    "timezone": "America/Kentucky/Louisville",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2009-regional-championship-at-centerville-ohio",
@@ -19,13 +23,17 @@
     "name": "2009 Bands of America Centerville Regional Championship",
     "type": "Regional",
     "venue": "Centerville Stadium",
+    "address": "173 Maple Street, Oak Hill, OH 45656",
     "date": "2009-10-03",
     "city": "Oak Hill",
     "state": "OH",
     "lat": 38.8939646,
     "lng": -82.573495,
-    "address": "173 Maple Street, Oak Hill, OH 45656",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2009-regional-championship-at-pearland-tx",
@@ -33,13 +41,17 @@
     "name": "2009 Bands of America Pearland Regional Championship",
     "type": "Regional",
     "venue": "The Rig",
+    "address": "Oiler Drive, Pearland, TX 77581",
     "date": "2009-10-03",
     "city": "Pearland",
     "state": "TX",
     "lat": 29.5387279,
     "lng": -95.2673146,
-    "address": "Oiler Drive, Pearland, TX 77581",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2009-regional-championship-at-arlington-tx",
@@ -47,13 +59,17 @@
     "name": "2009 Bands of America Arlington Regional Championship",
     "type": "Regional",
     "venue": "Maverick Stadium - Oct. 10",
+    "address": "Freeman Court, Arlington, TX 76013",
     "date": "2009-10-10",
     "city": "Arlington",
     "state": "TX",
     "lat": 32.7292271,
     "lng": -97.1265803,
-    "address": "Freeman Court, Arlington, TX 76013",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2009-regional-championship-at-towson-md",
@@ -61,13 +77,17 @@
     "name": "2009 Bands of America Towson Regional Championship",
     "type": "Regional",
     "venue": "Johnny Unitas Stadium",
+    "address": "Auburn Drive, Towson, MD 21252",
     "date": "2009-10-10",
     "city": "Towson",
     "state": "MD",
     "lat": 39.3885483,
     "lng": -76.6158585,
-    "address": "Auburn Drive, Towson, MD 21252",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2009-regional-championship-at-ypsilanti-michigan",
@@ -75,13 +95,17 @@
     "name": "2009 Bands of America Ypsilanti Regional Championship",
     "type": "Regional",
     "venue": "Rynearson Stadium",
+    "address": "Westview Street, Ypsilanti, MI 48197",
     "date": "2009-10-10",
     "city": "Ypsilanti",
     "state": "MI",
     "lat": 42.2558724,
     "lng": -83.6473747,
-    "address": "Westview Street, Ypsilanti, MI 48197",
-    "timezone": "America/Detroit"
+    "timezone": "America/Detroit",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2009-super-regional-championship-at-edward-jones-dome-st-louis",
@@ -89,13 +113,17 @@
     "name": "2009 Bands of America Saint Louis Super Regional Championship",
     "type": "Super Regional",
     "venue": "MO",
+    "address": "2625 Doctor Martin Luther King Drive, Saint Louis, MO 63106",
     "date": "2009-10-16",
     "city": "Saint Louis",
     "state": "MO",
     "lat": 38.6379299,
     "lng": -90.2131357,
-    "address": "2625 Doctor Martin Luther King Drive, Saint Louis, MO 63106",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2009-super-regional-championship-at-st-louis-mo",
@@ -103,13 +131,17 @@
     "name": "2009 Bands of America St. Louis Super Regional Championship",
     "type": "Super Regional",
     "venue": "Edward Jones Dome",
+    "address": "701 Convention Plaza, Saint Louis, MO 63101",
     "date": "2009-10-16",
     "city": "Saint Louis",
     "state": "MO",
     "lat": 38.6327852,
     "lng": -90.188551,
-    "address": "701 Convention Plaza, Saint Louis, MO 63101",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2009-regional-championship-at-massillon-ohio",
@@ -117,13 +149,17 @@
     "name": "2009 Bands of America Massillon Regional Championship",
     "type": "Regional",
     "venue": "Paul Brown Tiger Stadium",
+    "address": "Russell Boulevard Southeast, Massillon, OH 44646",
     "date": "2009-10-17",
     "city": "Massillon",
     "state": "OH",
     "lat": 40.793641,
     "lng": -81.4997215,
-    "address": "Russell Boulevard Southeast, Massillon, OH 44646",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2009-super-regional-championship-at-san-antonio-texas",
@@ -131,13 +167,17 @@
     "name": "2009 Bands of America San Antonio Super Regional Championship",
     "type": "Super Regional",
     "venue": "Alamodome",
+    "address": "100 Montana Street, San Antonio, TX 78203",
     "date": "2009-10-23",
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
     "lng": -98.4788949,
-    "address": "100 Montana Street, San Antonio, TX 78203",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2009-regional-championship-at-west-chester-pa",
@@ -145,13 +185,17 @@
     "name": "2009 Bands of America West Chester Regional Championship",
     "type": "Regional",
     "venue": "Farrell Stadium - West Chester Univ.",
+    "address": "1 East Market Street, West Chester, PA 19382",
     "date": "2009-10-24",
     "city": "West Chester",
     "state": "PA",
     "lat": 39.9597389,
     "lng": -75.6044609,
-    "address": "1 East Market Street, West Chester, PA 19382",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2009-super-regional-championship-at-atlanta-georgia",
@@ -159,13 +203,17 @@
     "name": "2009 Bands of America Atlanta Super Regional Championship",
     "type": "Super Regional",
     "venue": "Georgia Dome",
+    "address": "1 Backyard Way, Atlanta, GA 30313",
     "date": "2009-10-30",
     "city": "Atlanta",
     "state": "GA",
     "lat": 33.758056,
     "lng": -84.401111,
-    "address": "1 Backyard Way, Atlanta, GA 30313",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2009-regional-championship-at-santa-clarita-ca",
@@ -173,13 +221,17 @@
     "name": "2009 Bands of America Santa Clarita Regional Championship",
     "type": "Regional",
     "venue": "College of the Canyons - 31",
+    "address": "Valencia Boulevard, Valencia, CA 91381",
     "date": "2009-10-31",
     "city": "Valencia",
     "state": "CA",
     "lat": 34.4036974,
     "lng": -118.5702319,
-    "address": "Valencia Boulevard, Valencia, CA 91381",
-    "timezone": "America/Los_Angeles"
+    "timezone": "America/Los_Angeles",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2009-regional-championship-at-indianapolis-in",
@@ -187,13 +239,17 @@
     "name": "2009 Bands of America Indianapolis Regional Championship",
     "type": "Regional",
     "venue": "Lucas Oil Stadium",
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
     "date": "2009-11-07",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
     "lng": -86.1638376,
-    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2009-regional-championship-at-st-george-ut",
@@ -201,13 +257,17 @@
     "name": "2009 Bands of America St. George Regional Championship",
     "type": "Regional",
     "venue": "Dixie State College - 7 November",
+    "address": "225 University Avenue, St. George, UT 84771",
     "date": "2009-11-07",
     "city": "St. George",
     "state": "UT",
     "lat": 37.1030099,
     "lng": -113.5653354,
-    "address": "225 University Avenue, St. George, UT 84771",
-    "timezone": "America/Denver"
+    "timezone": "America/Denver",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2009-grand-national-championships-at-indianapolis-indiana",
@@ -215,12 +275,16 @@
     "name": "2009 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "Lucas Oil Stadium",
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
     "date": "2009-11-12",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
     "lng": -86.1638376,
-    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   }
 ]

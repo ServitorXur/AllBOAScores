@@ -5,13 +5,17 @@
     "name": "2007 Bands of America Oxford Regional Championship",
     "type": "Regional",
     "venue": "Yager Stadium, Miami University",
+    "address": "Cradle of Coaches Plaza, Oxford, OH 45056",
     "date": "2007-09-15",
     "city": "Oxford",
     "state": "OH",
     "lat": 39.5194147,
     "lng": -84.7330855,
-    "address": "Cradle of Coaches Plaza, Oxford, OH 45056",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2007-regional-championship-at-ypsilanti-michigan",
@@ -19,13 +23,17 @@
     "name": "2007 Bands of America Ypsilanti Regional Championship",
     "type": "Regional",
     "venue": "Rynearson",
+    "address": "Westview Street, Ypsilanti, MI 48197",
     "date": "2007-09-15",
     "city": "Ypsilanti",
     "state": "MI",
     "lat": 42.2558724,
     "lng": -83.6473747,
-    "address": "Westview Street, Ypsilanti, MI 48197",
-    "timezone": "America/Detroit"
+    "timezone": "America/Detroit",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2007-regional-championship-at-clarksville-tn",
@@ -33,13 +41,17 @@
     "name": "2007 Bands of America Clarksville Regional Championship",
     "type": "Regional",
     "venue": "Austin Peay State University",
+    "address": "601 College Street, Clarksville, TN 37044",
     "date": "2007-10-06",
     "city": "Clarksville",
     "state": "TN",
     "lat": 36.5342965,
     "lng": -87.3543085,
-    "address": "601 College Street, Clarksville, TN 37044",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2007-regional-championship-at-houston-tx",
@@ -47,13 +59,17 @@
     "name": "2007 Bands of America Houston Regional Championship",
     "type": "Regional",
     "venue": "Pearland Stadium",
+    "address": "Pearland Parkway, Houston, TX 77581",
     "date": "2007-10-06",
     "city": "Houston",
     "state": "TX",
     "lat": 29.5380231,
     "lng": -95.2711558,
-    "address": "Pearland Parkway, Houston, TX 77581",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2007-regional-championship-at-youngstown-oh",
@@ -61,13 +77,17 @@
     "name": "2007 Bands of America Youngstown Regional Championship",
     "type": "Regional",
     "venue": "Stambaugh Stadium",
+    "address": "Eastbound Service Road, Youngstown, OH 44555",
     "date": "2007-10-06",
     "city": "Youngstown",
     "state": "OH",
     "lat": 41.1094863,
     "lng": -80.6495505,
-    "address": "Eastbound Service Road, Youngstown, OH 44555",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2007-regional-championship-at-arlington-tx",
@@ -75,13 +95,17 @@
     "name": "2007 Bands of America Arlington Regional Championship",
     "type": "Regional",
     "venue": "Univ. of Texas, Maverick Stadium",
+    "address": "701 South Nedderman Drive, Arlington, TX 76013",
     "date": "2007-10-13",
     "city": "Arlington",
     "state": "TX",
     "lat": 32.7284713,
     "lng": -97.1120213,
-    "address": "701 South Nedderman Drive, Arlington, TX 76013",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2007-regional-championship-at-el-paso-tx",
@@ -89,13 +113,17 @@
     "name": "2007 Bands of America El Paso Regional Championship",
     "type": "Regional",
     "venue": "Eagle Stadium",
+    "address": "219 East Mills Avenue, El Paso, TX 79901",
     "date": "2007-10-13",
     "city": "El Paso",
     "state": "TX",
     "lat": 31.7601001,
     "lng": -106.4870476,
-    "address": "219 East Mills Avenue, El Paso, TX 79901",
-    "timezone": "America/Denver"
+    "timezone": "America/Denver",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2007-regional-championship-at-st-petersburg-fl",
@@ -103,13 +131,17 @@
     "name": "2007 Bands of America St. Petersburg Regional Championship",
     "type": "Regional",
     "venue": "Tropicana Field",
+    "address": "Pinellas Trail, Saint Petersburg, FL 33701",
     "date": "2007-10-13",
     "city": "Saint Petersburg",
     "state": "FL",
     "lat": 27.7680559,
     "lng": -82.6532755,
-    "address": "Pinellas Trail, Saint Petersburg, FL 33701",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2007-super-regional-championship-at-st-louis-missouri",
@@ -117,13 +149,17 @@
     "name": "2007 Bands of America St. Louis Super Regional Championship",
     "type": "Super Regional",
     "venue": "Edward Jones Dome",
+    "address": "701 Convention Plaza, Saint Louis, MO 63101",
     "date": "2007-10-19",
     "city": "Saint Louis",
     "state": "MO",
     "lat": 38.6327852,
     "lng": -90.188551,
-    "address": "701 Convention Plaza, Saint Louis, MO 63101",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2007-regional-championship-at-towson-md",
@@ -131,13 +167,17 @@
     "name": "2007 Bands of America Towson Regional Championship",
     "type": "Regional",
     "venue": "Unitas Stadium",
+    "address": "Auburn Drive, Towson, MD 21252",
     "date": "2007-10-20",
     "city": "Towson",
     "state": "MD",
     "lat": 39.3885483,
     "lng": -76.6158585,
-    "address": "Auburn Drive, Towson, MD 21252",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2007-regional-championship-at-atlanta-ga",
@@ -145,13 +185,17 @@
     "name": "2007 Bands of America Atlanta Regional Championship",
     "type": "Regional",
     "venue": "Georgia Dome",
+    "address": "1 Backyard Way, Atlanta, GA 30313",
     "date": "2007-10-27",
     "city": "Atlanta",
     "state": "GA",
     "lat": 33.758056,
     "lng": -84.401111,
-    "address": "1 Backyard Way, Atlanta, GA 30313",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2007-regional-championship-at-hempstead-ny",
@@ -159,13 +203,17 @@
     "name": "2007 Bands of America Hempstead Regional Championship",
     "type": "Regional",
     "venue": "James M. Shuart",
+    "address": "Baldwin Court, Hempstead, NY 11553",
     "date": "2007-10-27",
     "city": "Hempstead",
     "state": "NY",
     "lat": 40.715562,
     "lng": -73.5962921,
-    "address": "Baldwin Court, Hempstead, NY 11553",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2007-regional-championship-at-flagstaff-az",
@@ -173,13 +221,17 @@
     "name": "2007 Bands of America Flagstaff Regional Championship",
     "type": "Regional",
     "venue": "J. Lawrence Walkup Skydome",
+    "address": "West Aspen Avenue, Flagstaff, AZ 86001",
     "date": "2007-11-03",
     "city": "Flagstaff",
     "state": "AZ",
     "lat": 35.1987522,
     "lng": -111.651822,
-    "address": "West Aspen Avenue, Flagstaff, AZ 86001",
-    "timezone": "America/Phoenix"
+    "timezone": "America/Phoenix",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2007-regional-championship-at-indianapolis-in",
@@ -187,13 +239,17 @@
     "name": "2007 Bands of America Indianapolis Regional Championship",
     "type": "Regional",
     "venue": "RCA Dome",
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
     "date": "2007-11-03",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
     "lng": -86.1640108,
-    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2007-regional-championship-at-san-antonio-tx",
@@ -201,13 +257,17 @@
     "name": "2007 Bands of America San Antonio Regional Championship",
     "type": "Regional",
     "venue": "Alamodome",
+    "address": "100 Montana Street, San Antonio, TX 78203",
     "date": "2007-11-03",
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
     "lng": -98.4788949,
-    "address": "100 Montana Street, San Antonio, TX 78203",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2007-regional-championship-at-los-angeles-ca",
@@ -215,13 +275,17 @@
     "name": "2007 Bands of America Los Angeles Regional Championship",
     "type": "Regional",
     "venue": "Weingart Stadium",
+    "address": "West Floral Drive, Monterey Park, CA 91754",
     "date": "2007-11-10",
     "city": "Monterey Park",
     "state": "CA",
     "lat": 34.042866,
     "lng": -118.1517174,
-    "address": "West Floral Drive, Monterey Park, CA 91754",
-    "timezone": "America/Los_Angeles"
+    "timezone": "America/Los_Angeles",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2007-regional-championship-at-monterey-park-ca",
@@ -229,13 +293,17 @@
     "name": "2007 Bands of America Monterey Park Regional Championship",
     "type": "Regional",
     "venue": "Weingart Stadium",
+    "address": "West Floral Drive, Monterey Park, CA 91754",
     "date": "2007-11-10",
     "city": "Monterey Park",
     "state": "CA",
     "lat": 34.042866,
     "lng": -118.1517174,
-    "address": "West Floral Drive, Monterey Park, CA 91754",
-    "timezone": "America/Los_Angeles"
+    "timezone": "America/Los_Angeles",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2007-grand-national-championships-at-indianapolis-indiana",
@@ -243,12 +311,16 @@
     "name": "2007 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "RCA Dome",
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
     "date": "2007-11-15",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
     "lng": -86.1640108,
-    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   }
 ]

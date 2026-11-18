@@ -5,13 +5,17 @@
     "name": "1993 Bands of America Indianapolis Regional Championship",
     "type": "Regional",
     "venue": "Indianapolis Hoosier Dome",
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
     "date": "1993-09-25",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
     "lng": -86.1640108,
-    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1993-regional-championship-at-toledo-oh",
@@ -19,13 +23,17 @@
     "name": "1993 Bands of America Toledo Regional Championship",
     "type": "Regional",
     "venue": "University of Toledo",
+    "address": "2801 West Bancroft Street, Toledo, OH 43606",
     "date": "1993-10-02",
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6583953,
     "lng": -83.6147907,
-    "address": "2801 West Bancroft Street, Toledo, OH 43606",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1993-regional-championship-at-atlanta-ga",
@@ -33,13 +41,17 @@
     "name": "1993 Bands of America Atlanta Regional Championship",
     "type": "Regional",
     "venue": "Georgia Dome",
+    "address": "1 Backyard Way, Atlanta, GA 30313",
     "date": "1993-10-09",
     "city": "Atlanta",
     "state": "GA",
     "lat": 33.758056,
     "lng": -84.401111,
-    "address": "1 Backyard Way, Atlanta, GA 30313",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1993-regional-championship-at-morgantown-wv",
@@ -47,13 +59,17 @@
     "name": "1993 Bands of America Morgantown Regional Championship",
     "type": "Regional",
     "venue": "West Virginia University",
+    "address": "1550 University Avenue, Morgantown, WV 26505",
     "date": "1993-10-16",
     "city": "Morgantown",
     "state": "WV",
     "lat": 39.6348398,
     "lng": -79.9542095,
-    "address": "1550 University Avenue, Morgantown, WV 26505",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1993-regional-championship-at-fullerton-ca",
@@ -61,13 +77,17 @@
     "name": "1993 Bands of America Fullerton Regional Championship",
     "type": "Regional",
     "venue": "California State University-Fullerton",
+    "address": "800 North State College Boulevard, Fullerton, CA 92831",
     "date": "1993-10-30",
     "city": "Fullerton",
     "state": "CA",
     "lat": 33.8830939,
     "lng": -117.8852152,
-    "address": "800 North State College Boulevard, Fullerton, CA 92831",
-    "timezone": "America/Los_Angeles"
+    "timezone": "America/Los_Angeles",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1993-regional-championship-at-houston-tx",
@@ -75,13 +95,17 @@
     "name": "1993 Bands of America Houston Regional Championship",
     "type": "Regional",
     "venue": "Rice University",
+    "address": "6100 Main Street, Houston, TX 77005",
     "date": "1993-11-06",
     "city": "Houston",
     "state": "TX",
     "lat": 29.7167915,
     "lng": -95.4047811,
-    "address": "6100 Main Street, Houston, TX 77005",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1993-grand-national-championship-at-indianapolis-in",
@@ -89,12 +113,16 @@
     "name": "1993 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "Indianapolis Hoosier Dome",
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
     "date": "1993-11-12",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
     "lng": -86.1640108,
-    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   }
 ]

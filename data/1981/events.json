@@ -5,13 +5,17 @@
     "name": "1981 Bands of America Summer National Championship",
     "type": "National",
     "venue": "Warhawk Stadium",
+    "address": "West Schwager Drive, Whitewater, WI 53190",
     "date": "1981-06-19",
     "city": "Whitewater",
     "state": "WI",
     "lat": 42.8469937,
     "lng": -88.7449823,
-    "address": "West Schwager Drive, Whitewater, WI 53190",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1981-eastern-regional-championship-at-harrisonburg-va",
@@ -19,13 +23,17 @@
     "name": "1981 Bands of America Eastern Regional Championship",
     "type": "Regional",
     "venue": "James Madison University",
+    "address": "800 South Main Street, Harrisonburg, VA 22807",
     "date": "1981-10-03",
     "city": "Harrisonburg",
     "state": "VA",
     "lat": 38.4362412,
     "lng": -78.8687576,
-    "address": "800 South Main Street, Harrisonburg, VA 22807",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1981-northern-regional-championship-at-toledo-oh",
@@ -33,13 +41,17 @@
     "name": "1981 Bands of America Northern Regional Championship",
     "type": "Regional",
     "venue": "University of Toledo",
+    "address": "2801 West Bancroft Street, Toledo, OH 43606",
     "date": "1981-10-10",
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6583953,
     "lng": -83.6147907,
-    "address": "2801 West Bancroft Street, Toledo, OH 43606",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1981-midwest-regional-championship-at-ft-wayne-in",
@@ -47,13 +59,17 @@
     "name": "1981 Bands of America Midwest Regional Championship",
     "type": "Regional",
     "venue": "Northrop High School",
+    "address": "Coldwater Road, Fort Wayne, IN 46825",
     "date": "1981-10-24",
     "city": "Fort Wayne",
     "state": "IN",
     "lat": 41.1452895,
     "lng": -85.140416,
-    "address": "Coldwater Road, Fort Wayne, IN 46825",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1981-southwestern-regional-championship-at-houston-tx",
@@ -61,13 +77,17 @@
     "name": "1981 Bands of America Southwestern Regional Championship",
     "type": "Regional",
     "venue": "Rice University",
+    "address": "6100 Main Street, Houston, TX 77005",
     "date": "1981-10-31",
     "city": "Houston",
     "state": "TX",
     "lat": 29.7167915,
     "lng": -95.4047811,
-    "address": "6100 Main Street, Houston, TX 77005",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1981-grand-national-championship-at-johnson-city-tn",
@@ -75,12 +95,16 @@
     "name": "1981 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "Tennessee State University",
+    "address": "1276 Gilbreath Drive, Johnson City, TN 37614",
     "date": "1981-11-07",
     "city": "Johnson City",
     "state": "TN",
     "lat": 36.3024236,
     "lng": -82.3692822,
-    "address": "1276 Gilbreath Drive, Johnson City, TN 37614",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   }
 ]

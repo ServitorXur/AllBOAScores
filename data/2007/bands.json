@@ -1194,6 +1194,12 @@
     "state": "CA"
   },
   {
+    "id": "samuel-clemens-h-s-tx",
+    "name": "Samuel Clemens H.S.",
+    "city": null,
+    "state": "TX"
+  },
+  {
     "id": "chantilly-h-s-va",
     "name": "Chantilly H.S.",
     "city": null,
@@ -1378,12 +1384,6 @@
     "name": "George Washington H.S.",
     "city": null,
     "state": "VA"
-  },
-  {
-    "id": "samuel-clemens-h-s-tx",
-    "name": "Samuel Clemens H.S.",
-    "city": null,
-    "state": "TX"
   },
   {
     "id": "lemont-h-s-il",

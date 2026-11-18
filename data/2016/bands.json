@@ -156,6 +156,12 @@
     "state": "IN"
   },
   {
+    "id": "greenfield-central-h-s-in",
+    "name": "Greenfield Central H.S.",
+    "city": null,
+    "state": "IN"
+  },
+  {
     "id": "klein-forest-h-s-tx",
     "name": "Klein Forest H.S.",
     "city": null,
@@ -696,8 +702,20 @@
     "state": "IL"
   },
   {
+    "id": "loveland-h-s-oh",
+    "name": "Loveland H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
     "id": "colerain-h-s-oh",
     "name": "Colerain H.S.",
+    "city": null,
+    "state": "OH"
+  },
+  {
+    "id": "troy-h-s-oh",
+    "name": "Troy H.S.",
     "city": null,
     "state": "OH"
   },
@@ -1074,6 +1092,12 @@
     "state": "IA"
   },
   {
+    "id": "east-jessamine-h-s-ky",
+    "name": "East Jessamine H.S.",
+    "city": null,
+    "state": "KY"
+  },
+  {
     "id": "campbell-county-h-s-ky",
     "name": "Campbell County H.S.",
     "city": null,
@@ -1212,6 +1236,12 @@
     "state": "TX"
   },
   {
+    "id": "john-hardin-h-s-ky",
+    "name": "John Hardin H.S.",
+    "city": null,
+    "state": "KY"
+  },
+  {
     "id": "chapin-h-s-sc",
     "name": "Chapin H.S.",
     "city": null,
@@ -1270,6 +1300,12 @@
     "name": "Bridgewater-Raritan H.S.",
     "city": null,
     "state": "NJ"
+  },
+  {
+    "id": "york-h-s-va",
+    "name": "York H.S.",
+    "city": null,
+    "state": "VA"
   },
   {
     "id": "dripping-springs-h-s-tx",
@@ -1651,9 +1687,9 @@
   },
   {
     "id": "wakeland-h-s-tx",
-    "name": "Wakeland H.S., TX,",
+    "name": "Wakeland H.S.",
     "city": null,
-    "state": null
+    "state": "TX"
   },
   {
     "id": "turpin-h-s-oh",
@@ -2502,124 +2538,10 @@
     "state": "TN"
   },
   {
-    "id": "carmel-h-s-in-in",
-    "name": "Carmel H.S., IN",
-    "city": null,
-    "state": "IN"
-  },
-  {
-    "id": "prospect-h-s-il-il",
-    "name": "Prospect H.S., IL",
-    "city": null,
-    "state": "IL"
-  },
-  {
-    "id": "centerville-h-s-oh-oh",
-    "name": "Centerville H.S., OH",
+    "id": "walnut-hills-h-s-oh",
+    "name": "Walnut Hills H.S.",
     "city": null,
     "state": "OH"
-  },
-  {
-    "id": "victor-h-s-ny-ny",
-    "name": "Victor H.S., NY",
-    "city": null,
-    "state": "NY"
-  },
-  {
-    "id": "fishers-h-s-in-in",
-    "name": "Fishers H.S., IN",
-    "city": null,
-    "state": "IN"
-  },
-  {
-    "id": "archbishop-alter-h-s-oh-oh",
-    "name": "Archbishop Alter H.S., OH",
-    "city": null,
-    "state": "OH"
-  },
-  {
-    "id": "miamisburg-h-s-oh-oh",
-    "name": "Miamisburg H.S., OH",
-    "city": null,
-    "state": "OH"
-  },
-  {
-    "id": "lakota-east-h-s-oh-oh",
-    "name": "Lakota East H.S., OH",
-    "city": null,
-    "state": "OH"
-  },
-  {
-    "id": "bellbrook-h-s-oh-oh",
-    "name": "Bellbrook H.S., OH",
-    "city": null,
-    "state": "OH"
-  },
-  {
-    "id": "decatur-central-h-s-in-in",
-    "name": "Decatur Central H.S., IN",
-    "city": null,
-    "state": "IN"
-  },
-  {
-    "id": "campbell-county-h-s-ky-ky",
-    "name": "Campbell County H.S., KY",
-    "city": null,
-    "state": "KY"
-  },
-  {
-    "id": "williamstown-h-s-ky-ky",
-    "name": "Williamstown H.S., KY",
-    "city": null,
-    "state": "KY"
-  },
-  {
-    "id": "greenfield-central-h-s-in-in",
-    "name": "Greenfield-‐Central H.S., IN",
-    "city": null,
-    "state": "IN"
-  },
-  {
-    "id": "loveland-h-s-oh-oh",
-    "name": "Loveland H.S., OH",
-    "city": null,
-    "state": "OH"
-  },
-  {
-    "id": "northmont-h-s-oh-oh",
-    "name": "Northmont H.S., OH",
-    "city": null,
-    "state": "OH"
-  },
-  {
-    "id": "walnut-hills-h-s-oh-oh",
-    "name": "Walnut Hills H.S., OH",
-    "city": null,
-    "state": "OH"
-  },
-  {
-    "id": "troy-h-s-oh-oh",
-    "name": "Troy H.S., OH",
-    "city": null,
-    "state": "OH"
-  },
-  {
-    "id": "fairborn-h-s-oh-oh",
-    "name": "Fairborn H.S., OH",
-    "city": null,
-    "state": "OH"
-  },
-  {
-    "id": "east-clinton-h-s-oh-oh",
-    "name": "East Clinton H.S., OH",
-    "city": null,
-    "state": "OH"
-  },
-  {
-    "id": "east-jessamine-h-s-ky-ky",
-    "name": "East Jessamine H.S., KY",
-    "city": null,
-    "state": "KY"
   },
   {
     "id": "obra-d-tompkins-h-s-tx",
@@ -2742,12 +2664,6 @@
     "state": "SC"
   },
   {
-    "id": "bassett-h-s-va-va",
-    "name": "Bassett H.S., VA",
-    "city": null,
-    "state": "VA"
-  },
-  {
     "id": "jack-britt-h-s-nc",
     "name": "Jack Britt H.S.",
     "city": null,
@@ -2808,12 +2724,6 @@
     "state": "FL"
   },
   {
-    "id": "york-h-s-va-va",
-    "name": "York H.S., VA",
-    "city": null,
-    "state": "VA"
-  },
-  {
     "id": "chino-hills-h-s-ca",
     "name": "Chino Hills H.S.",
     "city": null,
@@ -2872,18 +2782,6 @@
     "name": "Ridgeline H.S.",
     "city": null,
     "state": "UT"
-  },
-  {
-    "id": "john-hardin-h-s-ky",
-    "name": "John Hardin H.S.",
-    "city": null,
-    "state": "KY"
-  },
-  {
-    "id": "walnut-hills-h-s-oh",
-    "name": "Walnut Hills H.S.",
-    "city": null,
-    "state": "OH"
   },
   {
     "id": "station-camp-h-s-tn",

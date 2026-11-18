@@ -22899,7 +22899,7 @@
     }
   },
   {
-    "bandId": "wakeland-h-s",
+    "bandId": "wakeland-h-s-tx",
     "eventId": "2023-2023-bands-of-america-san-antonio-super-regional-presented-by-yamaha",
     "season": 2023,
     "round": "Prelims",
@@ -24503,7 +24503,7 @@
     "eventId": "2023-2023-bands-of-america-san-antonio-super-regional-presented-by-yamaha",
     "season": 2023,
     "round": "Finals",
-    "class": "Unknown",
+    "class": "3A",
     "placement": 13,
     "placementOverall": 13,
     "total": 88.67,

@@ -5,13 +5,17 @@
     "name": "2017 Bands of America Canton Regional Championship",
     "type": "Regional",
     "venue": "Tom Benson Hall of Fame Stadium",
+    "address": "George Halas Drive Northwest, Canton, OH 44711",
     "date": "2017-09-16",
     "city": "Canton",
     "state": "OH",
     "lat": 40.8198753,
     "lng": -81.3980661,
-    "address": "George Halas Drive Northwest, Canton, OH 44711",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2017-powder-springs-regional-championship-at-powder-springs-ga",
@@ -19,13 +23,17 @@
     "name": "2017 Bands of America Powder Springs Regional Championship",
     "type": "Regional",
     "venue": "McEachern H.S.",
+    "address": "2400 New Macland Road, Powder Springs, GA 30127",
     "date": "2017-09-16",
     "city": "Powder Springs",
     "state": "GA",
     "lat": 33.8960695,
     "lng": -84.67998,
-    "address": "2400 New Macland Road, Powder Springs, GA 30127",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2017-austin-regional-championship-at-austin-tx",
@@ -33,13 +41,17 @@
     "name": "2017 Bands of America Austin Regional Championship",
     "type": "Regional",
     "venue": "Kelly Reeves Athletic Complex",
+    "address": "10211 West Parmer Lane, Austin, TX 78717",
     "date": "2017-09-23",
     "city": "Austin",
     "state": "TX",
     "lat": 30.492488,
     "lng": -97.7741,
-    "address": "10211 West Parmer Lane, Austin, TX 78717",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2017-clarksville-regional-championship-at-clarksville-tn",
@@ -47,13 +59,17 @@
     "name": "2017 Bands of America Clarksville Regional Championship",
     "type": "Regional",
     "venue": "Austin Peay State University",
+    "address": "601 College Street, Clarksville, TN 37044",
     "date": "2017-09-23",
     "city": "Clarksville",
     "state": "TN",
     "lat": 36.5342965,
     "lng": -87.3543085,
-    "address": "601 College Street, Clarksville, TN 37044",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2017-toledo-regional-championship-at-toledo-oh",
@@ -61,13 +77,17 @@
     "name": "2017 Bands of America Toledo Regional Championship",
     "type": "Regional",
     "venue": "University of Toledo",
+    "address": "2801 West Bancroft Street, Toledo, OH 43606",
     "date": "2017-09-23",
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6583953,
     "lng": -83.6147907,
-    "address": "2801 West Bancroft Street, Toledo, OH 43606",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2017-dallas-ft-worth-regional-championship-at-dallas-ft-worth-tx",
@@ -75,13 +95,17 @@
     "name": "2017 Bands of America Dallas/Ft. Worth Regional Championship",
     "type": "Regional",
     "venue": "Dragon Stadium -‐ September 30",
+    "address": "West Trade Street, Dallas, NC 28034",
     "date": "2017-09-30",
     "city": "Dallas",
     "state": "NC",
     "lat": 35.3160119,
     "lng": -81.1765654,
-    "address": "West Trade Street, Dallas, NC 28034",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2017-mcallen-regional-championship-at-mcallen-tx",
@@ -89,13 +113,17 @@
     "name": "2017 Bands of America McAllen Regional Championship",
     "type": "Regional",
     "venue": "Veterans Memorial Stadium -‐ September 30",
+    "address": "Bulldog Drive, McAllen, TX 78501",
     "date": "2017-09-30",
     "city": "McAllen",
     "state": "TX",
     "lat": 26.2238881,
     "lng": -98.2373019,
-    "address": "Bulldog Drive, McAllen, TX 78501",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2017-conroe-regional-championship-at-conroe-tx",
@@ -103,13 +131,17 @@
     "name": "2017 Bands of America Conroe Regional Championship",
     "type": "Regional",
     "venue": "Woodforest Bank Stadium",
+    "address": "Main, Conroe, TX 77385",
     "date": "2017-10-07",
     "city": "Conroe",
     "state": "TX",
     "lat": 30.1848671,
     "lng": -95.4489906,
-    "address": "Main, Conroe, TX 77385",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2017-dayton-regional-championship-at-dayton-oh",
@@ -117,13 +149,17 @@
     "name": "2017 Bands of America Dayton Regional Championship",
     "type": "Regional",
     "venue": "Welcome Stadium",
+    "address": "South Edwin C. Moses Boulevard, Dayton, OH 45409",
     "date": "2017-10-07",
     "city": "Dayton",
     "state": "OH",
     "lat": 39.7369274,
     "lng": -84.1981121,
-    "address": "South Edwin C. Moses Boulevard, Dayton, OH 45409",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2017-jacksonville-regional-championship-at-jacksonville-al",
@@ -131,13 +167,17 @@
     "name": "2017 Bands of America Jacksonville Regional Championship",
     "type": "Regional",
     "venue": "Jacksonville State University",
+    "address": "700 Pelham Road North, Jacksonville, AL 36265",
     "date": "2017-10-07",
     "city": "Jacksonville",
     "state": "AL",
     "lat": 33.8249359,
     "lng": -85.7641095,
-    "address": "700 Pelham Road North, Jacksonville, AL 36265",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2017-newark-regional-championship-at-newark-de",
@@ -145,13 +185,17 @@
     "name": "2017 Bands of America Newark Regional Championship",
     "type": "Regional",
     "venue": "University of Delaware",
+    "address": "South College Avenue, Newark, DE 19713",
     "date": "2017-10-07",
     "city": "Newark",
     "state": "DE",
     "lat": 39.6802837,
     "lng": -75.7530984,
-    "address": "South College Avenue, Newark, DE 19713",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2017-midland-regional-championship-at-midland-tx",
@@ -159,13 +203,17 @@
     "name": "2017 Bands of America Midland Regional Championship",
     "type": "Regional",
     "venue": "Grande Communications Stadium",
+    "address": "Martin Luther King Jr. Circle, Midland, TX 77906",
     "date": "2017-10-14",
     "city": "Midland",
     "state": "TX",
     "lat": 31.9893368,
     "lng": -102.1539155,
-    "address": "Martin Luther King Jr. Circle, Midland, TX 77906",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2017-winston-salem-regional-championship-at-winston-salem-nc",
@@ -173,13 +221,17 @@
     "name": "2017 Bands of America Winston-‐Salem Regional Championship",
     "type": "Regional",
     "venue": "BB&T Stadium -‐ October 14",
+    "address": "4068 Old Salem Road, Salem, TN 37153",
     "date": "2017-10-14",
     "city": "Salem",
     "state": "TN",
     "lat": 35.8092325,
     "lng": -86.4772144,
-    "address": "4068 Old Salem Road, Salem, TN 37153",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2017-st-louis-super-regional-championship-at-st-louis-mo",
@@ -187,13 +239,17 @@
     "name": "2017 Bands of America St. Louis Super Regional Championship",
     "type": "Super Regional",
     "venue": "The Dome at America's Center -‐ October 20-‐21",
+    "address": "701 Convention Plaza, St. Louis, MO 63101",
     "date": "2017-10-20",
     "city": "St. Louis",
     "state": "MO",
     "lat": 38.6327852,
     "lng": -90.188551,
-    "address": "701 Convention Plaza, St. Louis, MO 63101",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2017-indianapolis-super-regional-championship-at-indianapolis-in",
@@ -201,13 +257,17 @@
     "name": "2017 Bands of America Indianapolis Super Regional Championship",
     "type": "Super Regional",
     "venue": "Lucas Oil Stadium -‐ October 21-‐22",
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
     "date": "2017-10-21",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
     "lng": -86.1638376,
-    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2017-atlanta-super-regional-championship-at-atlanta-ga",
@@ -215,13 +275,17 @@
     "name": "2017 Bands of America Atlanta Super Regional Championship",
     "type": "Super Regional",
     "venue": "Mercedes-Benz Stadium",
+    "address": "1414 Andrew Young International Boulevard, Atlanta, GA 30313",
     "date": "2017-10-28",
     "city": "Atlanta",
     "state": "GA",
     "lat": 33.7554123,
     "lng": -84.4008493,
-    "address": "1414 Andrew Young International Boulevard, Atlanta, GA 30313",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2017-downey-regional-championship-at-downey-ca",
@@ -229,13 +293,17 @@
     "name": "2017 Bands of America Downey Regional Championship",
     "type": "Regional",
     "venue": "Warren H.S.",
+    "address": "3rd Street, Downey, CA 90241",
     "date": "2017-10-28",
     "city": "Downey",
     "state": "CA",
     "lat": 33.9404441,
     "lng": -118.1292846,
-    "address": "3rd Street, Downey, CA 90241",
-    "timezone": "America/Los_Angeles"
+    "timezone": "America/Los_Angeles",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2017-san-jose-regional-championship-at-san-jose-ca",
@@ -243,13 +311,17 @@
     "name": "2017 Bands of America San Jose Regional Championship",
     "type": "Regional",
     "venue": "CEFCU Stadium -‐ October 28",
+    "address": "East Alma Avenue, San Jose, CA 95192",
     "date": "2017-10-28",
     "city": "San Jose",
     "state": "CA",
     "lat": 37.3196895,
     "lng": -121.8683139,
-    "address": "East Alma Avenue, San Jose, CA 95192",
-    "timezone": "America/Los_Angeles"
+    "timezone": "America/Los_Angeles",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2017-san-antonio-super-regional-championship-at-san-antonio-tx",
@@ -257,13 +329,17 @@
     "name": "2017 Bands of America San Antonio Super Regional Championship",
     "type": "Super Regional",
     "venue": "Alamodome",
+    "address": "100 Montana Street, San Antonio, TX 78203",
     "date": "2017-11-03",
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
     "lng": -98.4788949,
-    "address": "100 Montana Street, San Antonio, TX 78203",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2017-st-george-regional-championship-at-st-george-ut",
@@ -271,13 +347,17 @@
     "name": "2017 Bands of America St. George Regional Championship",
     "type": "Regional",
     "venue": "Desert Hills High School",
+    "address": "South 840 East, St. George, UT 84790",
     "date": "2017-11-04",
     "city": "St. George",
     "state": "UT",
     "lat": 37.0504121,
     "lng": -113.5660552,
-    "address": "South 840 East, St. George, UT 84790",
-    "timezone": "America/Denver"
+    "timezone": "America/Denver",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2017-grand-national-championships-indianapolis-in",
@@ -285,13 +365,17 @@
     "name": "2017 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "Lucas Oil Stadium",
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
     "date": "2017-11-09",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
     "lng": -86.1638376,
-    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2017-grand-national-championships-indiananapolis-in",
@@ -299,12 +383,16 @@
     "name": "2017 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "Lucas Oil Stadium",
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
     "date": "2017-11-11",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
     "lng": -86.1638376,
-    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   }
 ]

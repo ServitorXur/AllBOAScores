@@ -5,13 +5,17 @@
     "name": "2010 Bands of America Louisville Regional Championship",
     "type": "Regional",
     "venue": "Papa John's Cardinal Stadium",
+    "address": "South Floyd Street, Louisville, KY 40292",
     "date": "2010-09-25",
     "city": "Louisville",
     "state": "KY",
     "lat": 38.2060161,
     "lng": -85.7587734,
-    "address": "South Floyd Street, Louisville, KY 40292",
-    "timezone": "America/Kentucky/Louisville"
+    "timezone": "America/Kentucky/Louisville",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2010-regional-championship-at-norwin-pa",
@@ -19,13 +23,17 @@
     "name": "2010 Bands of America Norwin Regional Championship",
     "type": "Regional",
     "venue": "Norwin High School",
+    "address": "North Huntingdon, PA 15642",
     "date": "2010-09-25",
     "city": "North Huntingdon",
     "state": "PA",
     "lat": 40.3246461,
     "lng": -79.7228912,
-    "address": "North Huntingdon, PA 15642",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2010-regional-championship-at-arlington-tx",
@@ -33,13 +41,17 @@
     "name": "2010 Bands of America Arlington Regional Championship",
     "type": "Regional",
     "venue": "Maverick Stadium",
+    "address": "Freeman Court, Arlington, TX 76013",
     "date": "2010-10-02",
     "city": "Arlington",
     "state": "TX",
     "lat": 32.7292271,
     "lng": -97.1265803,
-    "address": "Freeman Court, Arlington, TX 76013",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2010-regional-championship-at-kettering-ohio",
@@ -47,13 +59,17 @@
     "name": "2010 Bands of America Kettering Regional Championship",
     "type": "Regional",
     "venue": "Roush Stadium",
+    "address": "20 South Main Street, Dayton, OH 45423",
     "date": "2010-10-02",
     "city": "Dayton",
     "state": "OH",
     "lat": 39.7589478,
     "lng": -84.1916069,
-    "address": "20 South Main Street, Dayton, OH 45423",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2010-regional-championship-at-jacksonville-al",
@@ -61,13 +77,17 @@
     "name": "2010 Bands of America Jacksonville Regional Championship",
     "type": "Regional",
     "venue": "Burgess - Snow Field",
+    "address": "Street Avenue, Jacksonville, AL 36265",
     "date": "2010-10-09",
     "city": "Jacksonville",
     "state": "AL",
     "lat": 33.8203642,
     "lng": -85.7662921,
-    "address": "Street Avenue, Jacksonville, AL 36265",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2010-regional-championship-at-jacksonville-alabama",
@@ -75,13 +95,17 @@
     "name": "2010 Bands of America Jacksonville Regional Championship",
     "type": "Regional",
     "venue": "Burgess-Snow Field",
+    "address": "Street Avenue, Jacksonville, AL 36265",
     "date": "2010-10-09",
     "city": "Jacksonville",
     "state": "AL",
     "lat": 33.8203642,
     "lng": -85.7662921,
-    "address": "Street Avenue, Jacksonville, AL 36265",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2010-regional-championship-at-pontiac-mi",
@@ -89,13 +113,17 @@
     "name": "2010 Bands of America Pontiac Regional Championship",
     "type": "Regional",
     "venue": "Silverdome",
+    "address": "1 West Silverdome Industrial Park, Pontiac, MI 48342",
     "date": "2010-10-09",
     "city": "Pontiac",
     "state": "MI",
     "lat": 42.6379672,
     "lng": -83.257684,
-    "address": "1 West Silverdome Industrial Park, Pontiac, MI 48342",
-    "timezone": "America/Detroit"
+    "timezone": "America/Detroit",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2010-regional-championship-at-the-woodlands-tx",
@@ -103,13 +131,17 @@
     "name": "2010 Bands of America The Woodlands Regional Championship",
     "type": "Regional",
     "venue": "Woodforest Bank Stadium",
+    "address": "Main, Spring, TX 77385",
     "date": "2010-10-09",
     "city": "Spring",
     "state": "TX",
     "lat": 30.1848671,
     "lng": -95.4489906,
-    "address": "Main, Spring, TX 77385",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2010-regional-championship-at-akron-oh",
@@ -117,13 +149,17 @@
     "name": "2010 Bands of America Akron Regional Championship",
     "type": "Regional",
     "venue": "InfoCision Stadium, University of Akron",
+    "address": "Vine Street, Akron, OH 44304",
     "date": "2010-10-16",
     "city": "Akron",
     "state": "OH",
     "lat": 41.07251,
     "lng": -81.5084807,
-    "address": "Vine Street, Akron, OH 44304",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2010-regional-championship-at-akron-ohio",
@@ -131,13 +167,17 @@
     "name": "2010 Bands of America Akron Regional Championship",
     "type": "Regional",
     "venue": "InfoCision Stadium, University of Akron",
+    "address": "Vine Street, Akron, OH 44304",
     "date": "2010-10-16",
     "city": "Akron",
     "state": "OH",
     "lat": 41.07251,
     "lng": -81.5084807,
-    "address": "Vine Street, Akron, OH 44304",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2010-regional-championship-at-st-louis-missouri",
@@ -145,13 +185,17 @@
     "name": "2010 Bands of America St. Louis Regional Championship",
     "type": "Regional",
     "venue": "Edward Jones Dome",
+    "address": "701 Convention Plaza, Saint Louis, MO 63101",
     "date": "2010-10-16",
     "city": "Saint Louis",
     "state": "MO",
     "lat": 38.6327852,
     "lng": -90.188551,
-    "address": "701 Convention Plaza, Saint Louis, MO 63101",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2010-regional-championship-at-hemet-ca",
@@ -159,13 +203,17 @@
     "name": "2010 Bands of America Hemet Regional Championship",
     "type": "Regional",
     "venue": "West Valley High School",
+    "address": "3401 Mustang Way, Hemet, CA 92545",
     "date": "2010-10-23",
     "city": "Hemet",
     "state": "CA",
     "lat": 33.7178667,
     "lng": -117.0102668,
-    "address": "3401 Mustang Way, Hemet, CA 92545",
-    "timezone": "America/Los_Angeles"
+    "timezone": "America/Los_Angeles",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2010-regional-championship-at-towson-maryland",
@@ -173,13 +221,17 @@
     "name": "2010 Bands of America Towson Regional Championship",
     "type": "Regional",
     "venue": "Johnny Unitas Stadium",
+    "address": "Auburn Drive, Towson, MD 21252",
     "date": "2010-10-23",
     "city": "Towson",
     "state": "MD",
     "lat": 39.3885483,
     "lng": -76.6158585,
-    "address": "Auburn Drive, Towson, MD 21252",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2010-regional-championship-at-atlanta-georgia",
@@ -187,13 +239,17 @@
     "name": "2010 Bands of America Atlanta Regional Championship",
     "type": "Regional",
     "venue": "Georgia Dome",
+    "address": "1 Backyard Way, Atlanta, GA 30313",
     "date": "2010-10-30",
     "city": "Atlanta",
     "state": "GA",
     "lat": 33.758056,
     "lng": -84.401111,
-    "address": "1 Backyard Way, Atlanta, GA 30313",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2010-super-regional-championship-at-atlanta-georgia",
@@ -201,13 +257,17 @@
     "name": "2010 Bands of America Atlanta Super Regional Championship",
     "type": "Super Regional",
     "venue": "Georgia Dome",
+    "address": "1 Backyard Way, Atlanta, GA 30313",
     "date": "2010-10-30",
     "city": "Atlanta",
     "state": "GA",
     "lat": 33.758056,
     "lng": -84.401111,
-    "address": "1 Backyard Way, Atlanta, GA 30313",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2010-super-regional-championship-at-san-antonio-texas",
@@ -215,13 +275,17 @@
     "name": "2010 Bands of America San Antonio Super Regional Championship",
     "type": "Super Regional",
     "venue": "Alamodome",
+    "address": "100 Montana Street, San Antonio, TX 78203",
     "date": "2010-10-30",
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
     "lng": -98.4788949,
-    "address": "100 Montana Street, San Antonio, TX 78203",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2010-regional-championship-at-indianapolis-in",
@@ -229,13 +293,17 @@
     "name": "2010 Bands of America Indianapolis Regional Championship",
     "type": "Regional",
     "venue": "Lucas Oil Stadium",
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
     "date": "2010-11-06",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
     "lng": -86.1638376,
-    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2010-regional-championship-at-st-george-ut",
@@ -243,13 +311,17 @@
     "name": "2010 Bands of America St. George Regional Championship",
     "type": "Regional",
     "venue": "Dixie State College - Nevember 6",
+    "address": "225 University Avenue, St. George, UT 84771",
     "date": "2010-11-06",
     "city": "St. George",
     "state": "UT",
     "lat": 37.1030099,
     "lng": -113.5653354,
-    "address": "225 University Avenue, St. George, UT 84771",
-    "timezone": "America/Denver"
+    "timezone": "America/Denver",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2010-grand-national-championships-at-indianapolis-indiana",
@@ -257,12 +329,16 @@
     "name": "2010 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "Lucas Oil Stadium - Thursday, November 11",
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
     "date": "2010-11-11",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
     "lng": -86.1638376,
-    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   }
 ]

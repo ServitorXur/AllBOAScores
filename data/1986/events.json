@@ -5,13 +5,17 @@
     "name": "1986 Bands of America Summer National Championship",
     "type": "National",
     "venue": "Warhawk Stadium",
+    "address": "West Schwager Drive, Whitewater, WI 53190",
     "date": "1986-06-20",
     "city": "Whitewater",
     "state": "WI",
     "lat": 42.8469937,
     "lng": -88.7449823,
-    "address": "West Schwager Drive, Whitewater, WI 53190",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1986-regional-championship-at-jonesboro-ar",
@@ -19,13 +23,17 @@
     "name": "1986 Bands of America Jonesboro Regional Championship",
     "type": "Regional",
     "venue": "Arkansas State University",
+    "address": "2105 Aggie Road, Jonesboro, AR 72401",
     "date": "1986-10-04",
     "city": "Jonesboro",
     "state": "AR",
     "lat": 35.8441163,
     "lng": -90.6726325,
-    "address": "2105 Aggie Road, Jonesboro, AR 72401",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1986-regional-championship-at-conroe-tx",
@@ -33,13 +41,17 @@
     "name": "1986 Bands of America Conroe Regional Championship",
     "type": "Regional",
     "venue": "Conroe I.S.D. Stadium",
+    "address": "299 North Pacific Street, Conroe, TX 77301",
     "date": "1986-10-11",
     "city": "Conroe",
     "state": "TX",
     "lat": 30.3118769,
     "lng": -95.4560512,
-    "address": "299 North Pacific Street, Conroe, TX 77301",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1986-regional-championship-at-corvallis-or",
@@ -47,13 +59,17 @@
     "name": "1986 Bands of America Corvallis Regional Championship",
     "type": "Regional",
     "venue": "Oregon State University",
+    "address": "1500 Southwest Jefferson Way, Corvallis, OR 97331",
     "date": "1986-10-18",
     "city": "Corvallis",
     "state": "OR",
     "lat": 44.563056,
     "lng": -123.2839234,
-    "address": "1500 Southwest Jefferson Way, Corvallis, OR 97331",
-    "timezone": "America/Los_Angeles"
+    "timezone": "America/Los_Angeles",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1986-regional-championship-at-morgantown-wv",
@@ -61,13 +77,17 @@
     "name": "1986 Bands of America Morgantown Regional Championship",
     "type": "Regional",
     "venue": "West Virginia University",
+    "address": "1550 University Avenue, Morgantown, WV 26505",
     "date": "1986-10-18",
     "city": "Morgantown",
     "state": "WV",
     "lat": 39.6348398,
     "lng": -79.9542095,
-    "address": "1550 University Avenue, Morgantown, WV 26505",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1986-regional-championship-at-akron-oh",
@@ -75,13 +95,17 @@
     "name": "1986 Bands of America Akron Regional Championship",
     "type": "Regional",
     "venue": "Rubber Bowl",
+    "address": "Derby Downs Drive, Akron, OH 44312",
     "date": "1986-11-01",
     "city": "Akron",
     "state": "OH",
     "lat": 41.0394205,
     "lng": -81.4561285,
-    "address": "Derby Downs Drive, Akron, OH 44312",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1986-grand-national-championship-at-indianapolis-in",
@@ -89,12 +113,16 @@
     "name": "1986 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "Indianapolis Hoosier Dome",
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
     "date": "1986-11-07",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
     "lng": -86.1640108,
-    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   }
 ]

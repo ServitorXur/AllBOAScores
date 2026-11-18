@@ -4054,7 +4054,7 @@
     "eventId": "2016-dayton-regional-championship-at-dayton-oh",
     "season": 2016,
     "round": "Finals",
-    "class": "Unknown",
+    "class": "AAAA",
     "placement": 1,
     "placementOverall": 1,
     "total": 80.85,
@@ -4079,7 +4079,7 @@
     "eventId": "2016-dayton-regional-championship-at-dayton-oh",
     "season": 2016,
     "round": "Finals",
-    "class": "Unknown",
+    "class": "AAA",
     "placement": 2,
     "placementOverall": 2,
     "total": 78.1,
@@ -4104,7 +4104,7 @@
     "eventId": "2016-dayton-regional-championship-at-dayton-oh",
     "season": 2016,
     "round": "Finals",
-    "class": "Unknown",
+    "class": "AAAA",
     "placement": 3,
     "placementOverall": 3,
     "total": 76.35,
@@ -4129,7 +4129,7 @@
     "eventId": "2016-dayton-regional-championship-at-dayton-oh",
     "season": 2016,
     "round": "Finals",
-    "class": "Unknown",
+    "class": "AAAA",
     "placement": 4,
     "placementOverall": 4,
     "total": 75.85,
@@ -4154,7 +4154,7 @@
     "eventId": "2016-dayton-regional-championship-at-dayton-oh",
     "season": 2016,
     "round": "Finals",
-    "class": "Unknown",
+    "class": "AA",
     "placement": 5,
     "placementOverall": 5,
     "total": 74.95,
@@ -4179,7 +4179,7 @@
     "eventId": "2016-dayton-regional-championship-at-dayton-oh",
     "season": 2016,
     "round": "Finals",
-    "class": "Unknown",
+    "class": "AAAA",
     "placement": 6,
     "placementOverall": 6,
     "total": 70.25,
@@ -4204,7 +4204,7 @@
     "eventId": "2016-dayton-regional-championship-at-dayton-oh",
     "season": 2016,
     "round": "Finals",
-    "class": "Unknown",
+    "class": "AAA",
     "placement": 7,
     "placementOverall": 7,
     "total": 70.1,
@@ -4229,7 +4229,7 @@
     "eventId": "2016-dayton-regional-championship-at-dayton-oh",
     "season": 2016,
     "round": "Finals",
-    "class": "Unknown",
+    "class": "A",
     "placement": 8,
     "placementOverall": 8,
     "total": 69.95,
@@ -4254,7 +4254,7 @@
     "eventId": "2016-dayton-regional-championship-at-dayton-oh",
     "season": 2016,
     "round": "Finals",
-    "class": "Unknown",
+    "class": "AA",
     "placement": 9,
     "placementOverall": 9,
     "total": 68.8,
@@ -4279,7 +4279,7 @@
     "eventId": "2016-dayton-regional-championship-at-dayton-oh",
     "season": 2016,
     "round": "Finals",
-    "class": "Unknown",
+    "class": "AAA",
     "placement": 10,
     "placementOverall": 10,
     "total": 67.8,
@@ -4300,7 +4300,7 @@
     }
   },
   {
-    "bandId": "carmel-h-s-in-in",
+    "bandId": "carmel-h-s-in",
     "eventId": "2016-dayton-regional-championship-at-dayton-oh",
     "season": 2016,
     "round": "Prelims",
@@ -4325,7 +4325,7 @@
     }
   },
   {
-    "bandId": "prospect-h-s-il-il",
+    "bandId": "prospect-h-s-il",
     "eventId": "2016-dayton-regional-championship-at-dayton-oh",
     "season": 2016,
     "round": "Prelims",
@@ -4350,7 +4350,7 @@
     }
   },
   {
-    "bandId": "centerville-h-s-oh-oh",
+    "bandId": "centerville-h-s-oh",
     "eventId": "2016-dayton-regional-championship-at-dayton-oh",
     "season": 2016,
     "round": "Prelims",
@@ -4375,7 +4375,7 @@
     }
   },
   {
-    "bandId": "victor-h-s-ny-ny",
+    "bandId": "victor-h-s-ny",
     "eventId": "2016-dayton-regional-championship-at-dayton-oh",
     "season": 2016,
     "round": "Prelims",
@@ -4400,7 +4400,7 @@
     }
   },
   {
-    "bandId": "fishers-h-s-in-in",
+    "bandId": "fishers-h-s-in",
     "eventId": "2016-dayton-regional-championship-at-dayton-oh",
     "season": 2016,
     "round": "Prelims",
@@ -4425,7 +4425,7 @@
     }
   },
   {
-    "bandId": "archbishop-alter-h-s-oh-oh",
+    "bandId": "archbishop-alter-h-s-oh",
     "eventId": "2016-dayton-regional-championship-at-dayton-oh",
     "season": 2016,
     "round": "Prelims",
@@ -4450,7 +4450,7 @@
     }
   },
   {
-    "bandId": "miamisburg-h-s-oh-oh",
+    "bandId": "miamisburg-h-s-oh",
     "eventId": "2016-dayton-regional-championship-at-dayton-oh",
     "season": 2016,
     "round": "Prelims",
@@ -4475,7 +4475,7 @@
     }
   },
   {
-    "bandId": "lakota-east-h-s-oh-oh",
+    "bandId": "lakota-east-h-s-oh",
     "eventId": "2016-dayton-regional-championship-at-dayton-oh",
     "season": 2016,
     "round": "Prelims",
@@ -4500,7 +4500,7 @@
     }
   },
   {
-    "bandId": "bellbrook-h-s-oh-oh",
+    "bandId": "bellbrook-h-s-oh",
     "eventId": "2016-dayton-regional-championship-at-dayton-oh",
     "season": 2016,
     "round": "Prelims",
@@ -4525,7 +4525,7 @@
     }
   },
   {
-    "bandId": "decatur-central-h-s-in-in",
+    "bandId": "decatur-central-h-s-in",
     "eventId": "2016-dayton-regional-championship-at-dayton-oh",
     "season": 2016,
     "round": "Prelims",
@@ -4550,7 +4550,7 @@
     }
   },
   {
-    "bandId": "campbell-county-h-s-ky-ky",
+    "bandId": "campbell-county-h-s-ky",
     "eventId": "2016-dayton-regional-championship-at-dayton-oh",
     "season": 2016,
     "round": "Prelims",
@@ -4575,7 +4575,7 @@
     }
   },
   {
-    "bandId": "williamstown-h-s-ky-ky",
+    "bandId": "williamstown-h-s-ky",
     "eventId": "2016-dayton-regional-championship-at-dayton-oh",
     "season": 2016,
     "round": "Prelims",
@@ -4600,7 +4600,7 @@
     }
   },
   {
-    "bandId": "greenfield-central-h-s-in-in",
+    "bandId": "greenfield-central-h-s-in",
     "eventId": "2016-dayton-regional-championship-at-dayton-oh",
     "season": 2016,
     "round": "Prelims",
@@ -4625,7 +4625,7 @@
     }
   },
   {
-    "bandId": "loveland-h-s-oh-oh",
+    "bandId": "loveland-h-s-oh",
     "eventId": "2016-dayton-regional-championship-at-dayton-oh",
     "season": 2016,
     "round": "Prelims",
@@ -4650,7 +4650,7 @@
     }
   },
   {
-    "bandId": "northmont-h-s-oh-oh",
+    "bandId": "northmont-h-s-oh",
     "eventId": "2016-dayton-regional-championship-at-dayton-oh",
     "season": 2016,
     "round": "Prelims",
@@ -4675,7 +4675,7 @@
     }
   },
   {
-    "bandId": "walnut-hills-h-s-oh-oh",
+    "bandId": "walnut-hills-h-s-oh",
     "eventId": "2016-dayton-regional-championship-at-dayton-oh",
     "season": 2016,
     "round": "Prelims",
@@ -4700,7 +4700,7 @@
     }
   },
   {
-    "bandId": "troy-h-s-oh-oh",
+    "bandId": "troy-h-s-oh",
     "eventId": "2016-dayton-regional-championship-at-dayton-oh",
     "season": 2016,
     "round": "Prelims",
@@ -4725,7 +4725,7 @@
     }
   },
   {
-    "bandId": "fairborn-h-s-oh-oh",
+    "bandId": "fairborn-h-s-oh",
     "eventId": "2016-dayton-regional-championship-at-dayton-oh",
     "season": 2016,
     "round": "Prelims",
@@ -4750,7 +4750,7 @@
     }
   },
   {
-    "bandId": "east-clinton-h-s-oh-oh",
+    "bandId": "east-clinton-h-s-oh",
     "eventId": "2016-dayton-regional-championship-at-dayton-oh",
     "season": 2016,
     "round": "Prelims",
@@ -4775,7 +4775,7 @@
     }
   },
   {
-    "bandId": "east-jessamine-h-s-ky-ky",
+    "bandId": "east-jessamine-h-s-ky",
     "eventId": "2016-dayton-regional-championship-at-dayton-oh",
     "season": 2016,
     "round": "Prelims",
@@ -9204,7 +9204,7 @@
     "eventId": "2016-winston-salem-regional-championship-at-winston-salem-nc",
     "season": 2016,
     "round": "Finals",
-    "class": "Unknown",
+    "class": "AA",
     "placement": 6,
     "placementOverall": 6,
     "total": 76.4,
@@ -9525,7 +9525,7 @@
     }
   },
   {
-    "bandId": "bassett-h-s-va-va",
+    "bandId": "bassett-h-s-va",
     "eventId": "2016-winston-salem-regional-championship-at-winston-salem-nc",
     "season": 2016,
     "round": "Prelims",
@@ -13800,7 +13800,7 @@
     }
   },
   {
-    "bandId": "york-h-s-va-va",
+    "bandId": "york-h-s-va",
     "eventId": "2016-atlanta-super-regional-championship-at-atlanta-ga",
     "season": 2016,
     "round": "Prelims",

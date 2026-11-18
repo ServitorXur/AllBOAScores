@@ -19275,7 +19275,7 @@
     }
   },
   {
-    "bandId": "carmel-h-s-in",
+    "bandId": "carmel-h-s",
     "eventId": "2025-2025-bands-of-america-indianapolis-super-regional-championship-presented-by",
     "season": 2025,
     "round": "Prelims",
@@ -21504,7 +21504,7 @@
     "eventId": "2025-2025-bands-of-america-indianapolis-super-regional-championship-presented-by",
     "season": 2025,
     "round": "Finals",
-    "class": "4A",
+    "class": "Unknown",
     "placement": 2,
     "placementOverall": 2,
     "total": 92.05,
@@ -25749,7 +25749,7 @@
     }
   },
   {
-    "bandId": "wakeland-h-s",
+    "bandId": "wakeland-h-s-tx",
     "eventId": "2025-2025-bands-of-america-san-antonio-super-regional-championship-presented-by",
     "season": 2025,
     "round": "Prelims",

@@ -5,13 +5,17 @@
     "name": "2019 Bands of America Louisville Regional Championship",
     "type": "Regional",
     "venue": "Cardinal Stadium at the University of Louisville",
+    "address": "South Floyd Street, Louisville, KY 40292",
     "date": "2019-09-21",
     "city": "Louisville",
     "state": "KY",
     "lat": 38.2060161,
     "lng": -85.7587734,
-    "address": "South Floyd Street, Louisville, KY 40292",
-    "timezone": "America/Kentucky/Louisville"
+    "timezone": "America/Kentucky/Louisville",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2019-south-texas-regional-championship-at-mcallen-tx",
@@ -19,13 +23,17 @@
     "name": "2019 Bands of America South Texas Regional Championship",
     "type": "Regional",
     "venue": "DQ Fan Field, McAllen Veterans Memorial Stadium",
+    "address": "Bulldog Drive, McAllen, TX 78501",
     "date": "2019-09-21",
     "city": "McAllen",
     "state": "TX",
     "lat": 26.2238881,
     "lng": -98.2373019,
-    "address": "Bulldog Drive, McAllen, TX 78501",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2019-toledo-regional-championship-at-toledo-oh",
@@ -33,13 +41,17 @@
     "name": "2019 Bands of America Toledo Regional Championship",
     "type": "Regional",
     "venue": "The Glass Bowl, University of Toledo",
+    "address": "1745 Stadium Drive, Toledo, OH 43606",
     "date": "2019-09-21",
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6566438,
     "lng": -83.6136126,
-    "address": "1745 Stadium Drive, Toledo, OH 43606",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2019-austin-regional-championship-at-austin-tx",
@@ -47,13 +59,17 @@
     "name": "2019 Bands of America Austin Regional Championship",
     "type": "Regional",
     "venue": "Kelly Reeves Athletic Complex",
+    "address": "10211 West Parmer Lane, Austin, TX 78717",
     "date": "2019-09-28",
     "city": "Austin",
     "state": "TX",
     "lat": 30.492488,
     "lng": -97.7741,
-    "address": "10211 West Parmer Lane, Austin, TX 78717",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2019-cedar-falls-regional-championship-at-cedar-falls-ia",
@@ -61,13 +77,17 @@
     "name": "2019 Bands of America Cedar Falls Regional Championship",
     "type": "Regional",
     "venue": "UNI Dome at University of Northern Iowa",
+    "address": "2401 Hudson Road Trail, Cedar Falls, IA 50614",
     "date": "2019-09-28",
     "city": "Cedar Falls",
     "state": "IA",
     "lat": 42.5156866,
     "lng": -92.4672611,
-    "address": "2401 Hudson Road Trail, Cedar Falls, IA 50614",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2019-flagstaff-regional-championship-at-flagstaff-az",
@@ -75,13 +95,17 @@
     "name": "2019 Bands of America Flagstaff Regional Championship",
     "type": "Regional",
     "venue": "Walkup Skydome at Northern Arizona University",
+    "address": "1701 South San Francisco Street, Flagstaff, AZ 86011",
     "date": "2019-09-28",
     "city": "Flagstaff",
     "state": "AZ",
     "lat": 35.1805983,
     "lng": -111.652899,
-    "address": "1701 South San Francisco Street, Flagstaff, AZ 86011",
-    "timezone": "America/Phoenix"
+    "timezone": "America/Phoenix",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2019-obetz-regional-championship-at-obetz-oh",
@@ -89,13 +113,17 @@
     "name": "2019 Bands of America Obetz Regional Championship",
     "type": "Regional",
     "venue": "Fortress Obetz",
+    "address": "Speedway Lane, Obetz, OH 43027",
     "date": "2019-09-28",
     "city": "Obetz",
     "state": "OH",
     "lat": 39.885817,
     "lng": -82.9444641,
-    "address": "Speedway Lane, Obetz, OH 43027",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2019-bedford-regional-championship-at-bedford-tx",
@@ -103,13 +131,17 @@
     "name": "2019 Bands of America Bedford Regional Championship",
     "type": "Regional",
     "venue": "Pennington Field",
+    "address": "H E B Drive, Bedford, TX 76022",
     "date": "2019-10-05",
     "city": "Bedford",
     "state": "TX",
     "lat": 32.8327183,
     "lng": -97.1363983,
-    "address": "H E B Drive, Bedford, TX 76022",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2019-college-park-regional-championship-at-college-park-md",
@@ -117,13 +149,17 @@
     "name": "2019 Bands of America College Park Regional Championship",
     "type": "Regional",
     "venue": "University of Maryland",
+    "address": "4931 Calvert Road, College Park, MD 20740",
     "date": "2019-10-05",
     "city": "College Park",
     "state": "MD",
     "lat": 38.9784587,
     "lng": -76.9282678,
-    "address": "4931 Calvert Road, College Park, MD 20740",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2019-houston-regional-championship-at-houston-tx",
@@ -131,13 +167,17 @@
     "name": "2019 Bands of America Houston Regional Championship",
     "type": "Regional",
     "venue": "Legacy Stadium",
+    "address": "Franz Road, Houston, TX 77449",
     "date": "2019-10-05",
     "city": "Houston",
     "state": "TX",
     "lat": 29.8000522,
     "lng": -95.8054778,
-    "address": "Franz Road, Houston, TX 77449",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2019-katy-regional-championship-at-katy-tx",
@@ -145,13 +185,17 @@
     "name": "2019 Bands of America Katy Regional Championship",
     "type": "Regional",
     "venue": "Legacy Stadium",
+    "address": "Franz Road, Katy, TX 77449",
     "date": "2019-10-05",
     "city": "Katy",
     "state": "TX",
     "lat": 29.8000522,
     "lng": -95.8054778,
-    "address": "Franz Road, Katy, TX 77449",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2019-muncie-regional-championship-at-muncie-in",
@@ -159,13 +203,17 @@
     "name": "2019 Bands of America Muncie Regional Championship",
     "type": "Regional",
     "venue": "Scheumann Stadium at Ball State University",
+    "address": "North Richmond Drive, Muncie, IN 47304",
     "date": "2019-10-05",
     "city": "Muncie",
     "state": "IN",
     "lat": 40.2160071,
     "lng": -85.4168254,
-    "address": "North Richmond Drive, Muncie, IN 47304",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2019-johnson-city-regional-championship-at-johnson-city-tn",
@@ -173,13 +221,17 @@
     "name": "2019 Bands of America Johnson City Regional Championship",
     "type": "Regional",
     "venue": "Mini Dome at East Tennessee State University",
+    "address": "J L Seehorn Jr Road, Johnson City, TN 37684",
     "date": "2019-10-12",
     "city": "Johnson City",
     "state": "TN",
     "lat": 36.2985597,
     "lng": -82.3750337,
-    "address": "J L Seehorn Jr Road, Johnson City, TN 37684",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2019-midland-regional-championship-at-midland-tx",
@@ -187,13 +239,17 @@
     "name": "2019 Bands of America Midland Regional Championship",
     "type": "Regional",
     "venue": "Grande Communications Stadium",
+    "address": "Martin Luther King Jr. Circle, Midland, TX 77906",
     "date": "2019-10-12",
     "city": "Midland",
     "state": "TX",
     "lat": 31.9893368,
     "lng": -102.1539155,
-    "address": "Martin Luther King Jr. Circle, Midland, TX 77906",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2019-orlando-regional-championship-at-orlando-fl",
@@ -201,13 +257,17 @@
     "name": "2019 Bands of America Orlando Regional Championship",
     "type": "Regional",
     "venue": "Camping World Stadium",
+    "address": "West Church Street, Orlando, FL 32805",
     "date": "2019-10-12",
     "city": "Orlando",
     "state": "FL",
     "lat": 28.5390398,
     "lng": -81.4027504,
-    "address": "West Church Street, Orlando, FL 32805",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2019-st-louis-super-regional-championship-at-st-louis-mo",
@@ -215,13 +275,17 @@
     "name": "2019 Bands of America St. Louis Super Regional Championship",
     "type": "Super Regional",
     "venue": "The Dome at America's Center",
+    "address": "701 Convention Plaza, St. Louis, MO 63101",
     "date": "2019-10-18",
     "city": "St. Louis",
     "state": "MO",
     "lat": 38.6327852,
     "lng": -90.188551,
-    "address": "701 Convention Plaza, St. Louis, MO 63101",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2019-waco-regional-championship-at-waco-tx",
@@ -229,13 +293,17 @@
     "name": "2019 Bands of America Waco Regional Championship",
     "type": "Regional",
     "venue": "McLane Stadium at Baylor University",
+    "address": "Sheila and Walter Umphrey Bridge, Waco, TX 76798",
     "date": "2019-10-19",
     "city": "Waco",
     "state": "TX",
     "lat": 31.5582247,
     "lng": -97.1156821,
-    "address": "Sheila and Walter Umphrey Bridge, Waco, TX 76798",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2019-indianapolis-super-regional-championship-at-indianapolis-in",
@@ -243,13 +311,17 @@
     "name": "2019 Bands of America Indianapolis Super Regional Championship",
     "type": "Super Regional",
     "venue": "Lucas Oil Stadium",
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
     "date": "2019-10-25",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
     "lng": -86.1638376,
-    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2019-lynchburg-regional-championship-at-lynchburg-va",
@@ -257,13 +329,17 @@
     "name": "2019 Bands of America Lynchburg Regional Championship",
     "type": "Regional",
     "venue": "Williams Stadium at Liberty University",
+    "address": "University Boulevard, Lynchburg, VA 24515",
     "date": "2019-10-26",
     "city": "Lynchburg",
     "state": "VA",
     "lat": 37.3543075,
     "lng": -79.1749196,
-    "address": "University Boulevard, Lynchburg, VA 24515",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2019-powder-springs-regional-championship-at-powder-springs-ga",
@@ -271,13 +347,17 @@
     "name": "2019 Bands of America Powder Springs Regional Championship",
     "type": "Regional",
     "venue": "McEachern H.S.",
+    "address": "2400 New Macland Road, Powder Springs, GA 30127",
     "date": "2019-10-26",
     "city": "Powder Springs",
     "state": "GA",
     "lat": 33.8960695,
     "lng": -84.67998,
-    "address": "2400 New Macland Road, Powder Springs, GA 30127",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2019-san-antonio-super-regional-championship-at-san-antonio-tx",
@@ -285,13 +365,17 @@
     "name": "2019 Bands of America San Antonio Super Regional Championship",
     "type": "Super Regional",
     "venue": "The Alamodome",
+    "address": "100 Montana Street, San Antonio, TX 78203",
     "date": "2019-11-01",
     "city": "San Antonio",
     "state": "TX",
     "lat": 29.4168923,
     "lng": -98.4788949,
-    "address": "100 Montana Street, San Antonio, TX 78203",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2019-bakersfield-regional-championship-at-bakersfield-ca",
@@ -299,13 +383,17 @@
     "name": "2019 Bands of America Bakersfield Regional Championship",
     "type": "Regional",
     "venue": "Memorial Stadium, Bakersfield College",
+    "address": "Mount Vernon Avenue, Bakersfield, CA 93305",
     "date": "2019-11-02",
     "city": "Bakersfield",
     "state": "CA",
     "lat": 35.4071699,
     "lng": -118.9693712,
-    "address": "Mount Vernon Avenue, Bakersfield, CA 93305",
-    "timezone": "America/Los_Angeles"
+    "timezone": "America/Los_Angeles",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2019-st-george-regional-championship-at-st-george-ut",
@@ -313,13 +401,17 @@
     "name": "2019 Bands of America St. George Regional Championship",
     "type": "Regional",
     "venue": "Dixie University Stadium",
+    "address": "225 University Avenue, Saint George, UT 84771",
     "date": "2019-11-09",
     "city": "Saint George",
     "state": "UT",
     "lat": 37.1030099,
     "lng": -113.5653354,
-    "address": "225 University Avenue, Saint George, UT 84771",
-    "timezone": "America/Denver"
+    "timezone": "America/Denver",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "2019-grand-national-championships-at-indianapolis-in",
@@ -327,12 +419,16 @@
     "name": "2019 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "Lucas Oil Stadium",
+    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
     "date": "2019-11-14",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7590621,
     "lng": -86.1638376,
-    "address": "500 South Capitol Avenue, Indianapolis, IN 46206",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   }
 ]

@@ -5,13 +5,17 @@
     "name": "1996 Bands of America Cincinnati Regional Championship",
     "type": "Regional",
     "venue": "University of Cincinnati",
+    "address": "Clifton Avenue, Cincinnati, OH 45221",
     "date": "1996-09-21",
     "city": "Cincinnati",
     "state": "OH",
     "lat": 39.1315542,
     "lng": -84.5202952,
-    "address": "Clifton Avenue, Cincinnati, OH 45221",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1996-regional-championship-at-charleston-wv",
@@ -19,13 +23,17 @@
     "name": "1996 Bands of America Charleston Regional Championship",
     "type": "Regional",
     "venue": "Laidley Field",
+    "address": "Franks Court, Charleston, WV 25311",
     "date": "1996-09-28",
     "city": "Charleston",
     "state": "WV",
     "lat": 38.344247,
     "lng": -81.6151641,
-    "address": "Franks Court, Charleston, WV 25311",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1996-regional-championship-at-bensalem-pa",
@@ -33,13 +41,17 @@
     "name": "1996 Bands of America Bensalem Regional Championship",
     "type": "Regional",
     "venue": "Bensalem H.S.",
+    "address": "2980 Knights Road, Bensalem, PA 19020",
     "date": "1996-10-05",
     "city": "Bensalem",
     "state": "PA",
     "lat": 40.1045549,
     "lng": -74.951279,
-    "address": "2980 Knights Road, Bensalem, PA 19020",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1996-regional-championship-at-houston-tx",
@@ -47,13 +59,17 @@
     "name": "1996 Bands of America Houston Regional Championship",
     "type": "Regional",
     "venue": "Rice University",
+    "address": "6100 Main Street, Houston, TX 77005",
     "date": "1996-10-12",
     "city": "Houston",
     "state": "TX",
     "lat": 29.7167915,
     "lng": -95.4047811,
-    "address": "6100 Main Street, Houston, TX 77005",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1996-regional-championship-at-johnson-city-tn",
@@ -61,13 +77,17 @@
     "name": "1996 Bands of America Johnson City Regional Championship",
     "type": "Regional",
     "venue": "East Tennessee State University",
+    "address": "1276 Gilbreath Drive, Johnson City, TN 37614",
     "date": "1996-10-12",
     "city": "Johnson City",
     "state": "TN",
     "lat": 36.3024236,
     "lng": -82.3692822,
-    "address": "1276 Gilbreath Drive, Johnson City, TN 37614",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1996-regional-championship-at-toledo-oh",
@@ -75,13 +95,17 @@
     "name": "1996 Bands of America Toledo Regional Championship",
     "type": "Regional",
     "venue": "University of Toledo",
+    "address": "2801 West Bancroft Street, Toledo, OH 43606",
     "date": "1996-10-19",
     "city": "Toledo",
     "state": "OH",
     "lat": 41.6583953,
     "lng": -83.6147907,
-    "address": "2801 West Bancroft Street, Toledo, OH 43606",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1996-regional-championship-at-atlanta-ga",
@@ -89,13 +113,17 @@
     "name": "1996 Bands of America Atlanta Regional Championship",
     "type": "Regional",
     "venue": "Georgia Dome",
+    "address": "1 Backyard Way, Atlanta, GA 30313",
     "date": "1996-10-26",
     "city": "Atlanta",
     "state": "GA",
     "lat": 33.758056,
     "lng": -84.401111,
-    "address": "1 Backyard Way, Atlanta, GA 30313",
-    "timezone": "America/New_York"
+    "timezone": "America/New_York",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1996-regional-championship-at-torrance-ca",
@@ -103,13 +131,17 @@
     "name": "1996 Bands of America Torrance Regional Championship",
     "type": "Regional",
     "venue": "El Camino College",
+    "address": "16007 Crenshaw Boulevard, Torrance, CA 90506",
     "date": "1996-10-26",
     "city": "Torrance",
     "state": "CA",
     "lat": 33.8838447,
     "lng": -118.330278,
-    "address": "16007 Crenshaw Boulevard, Torrance, CA 90506",
-    "timezone": "America/Los_Angeles"
+    "timezone": "America/Los_Angeles",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1996-regional-championship-at-denton-tx",
@@ -117,13 +149,17 @@
     "name": "1996 Bands of America Denton Regional Championship",
     "type": "Regional",
     "venue": "University of North Texas",
+    "address": "1155 Union Circle, Denton, TX 76203",
     "date": "1996-11-02",
     "city": "Denton",
     "state": "TX",
     "lat": 33.2098922,
     "lng": -97.1514763,
-    "address": "1155 Union Circle, Denton, TX 76203",
-    "timezone": "America/Chicago"
+    "timezone": "America/Chicago",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1996-regional-championship-at-indianapolis-in",
@@ -131,13 +167,17 @@
     "name": "1996 Bands of America Indianapolis Regional Championship",
     "type": "Regional",
     "venue": "RCA Dome",
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
     "date": "1996-11-02",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
     "lng": -86.1640108,
-    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   },
   {
     "id": "1996-grand-national-championship-at-indianapolis-in",
@@ -145,12 +185,16 @@
     "name": "1996 Bands of America Grand National Championships",
     "type": "Grand National",
     "venue": "RCA Dome",
+    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
     "date": "1996-11-07",
     "city": "Indianapolis",
     "state": "IN",
     "lat": 39.7636517,
     "lng": -86.1640108,
-    "address": "100 South Capitol Avenue, Indianapolis, IN 46225",
-    "timezone": "America/Indiana/Indianapolis"
+    "timezone": "America/Indiana/Indianapolis",
+    "sourceUrl": null,
+    "schedule": [],
+    "awards": [],
+    "judges": []
   }
 ]
